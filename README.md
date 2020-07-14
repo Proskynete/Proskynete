@@ -32,4 +32,6 @@ I have worked in Globant as Web UI Developer and I'm currently looking for new j
 
 - 📖 I'm currently learning about flutter, English and Japanese.
 - 🍺 It's never a bad time to to stop in the week and partake of a beer with friends
-- ⭐ I have a library created with React ([npm](https://www.npmjs.com/package/vertical-timeline-component-react) - [repository](https://github.com/Proskynete/vertical-timeline-component-react))
+- ⭐ I have a library 2 created with React:
+  - vertical-timeline-component-react ([npm](https://www.npmjs.com/package/vertical-timeline-component-react) - [repository](https://github.com/Proskynete/vertical-timeline-component-react))
+  - pretty-rating-react ([npm](https://www.npmjs.com/package/pretty-rating-react) - [repository](https://github.com/Proskynete/pretty-rating-react))
