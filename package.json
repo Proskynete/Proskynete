@@ -1,0 +1,19 @@
+{
+	"name": "proskynete",
+	"version": "1.0.0",
+	"description": "Proskynete README github profile",
+	"main": "index.js",
+	"scripts": {
+		"generate-readme": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Proskynete/Proskynete.git"
+	},
+	"author": "Eduardo Álvarez",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Proskynete/Proskynete/issues"
+	},
+	"homepage": "https://github.com/Proskynete/Proskynete#readme"
+}
