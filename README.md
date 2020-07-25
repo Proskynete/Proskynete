@@ -17,9 +17,9 @@
 <h2 align="left">My social networks</h2>
 <ul>
   <li> 📷 My Instagram <a href="https://www.instagram.com/proskynete/" target="_blank"><small>@Proskynete</small></a></li>
-  <li> 🖥️ My website <a href="https://eduardoalvarez.cl/" tagrte="_blank"><small>eduardoalvarez.cl</small></a></li>
-  <li> 📄 My <a href="https://curriculum.eduardoalvarez.cl" tagrte="_blank"><small>Resume</small></a></li>
-  <li> My Twitter <a href="https://twitter.com/proskynete" tagrte="_blank"><small>@Proskynete</small></a> <small><i>(There're no twitter emoji Y.Y)</i></small></li>
+  <li> 🖥️ My website <a href="https://eduardoalvarez.cl/" target="_blank"><small>eduardoalvarez.cl</small></a></li>
+  <li> 📄 My <a href="https://curriculum.eduardoalvarez.cl" target="_blank"><small>Resume</small></a></li>
+  <li> My Twitter <a href="https://twitter.com/proskynete" target="_blank"><small>@Proskynete</small></a> <small><i>(There're no twitter emoji Y.Y)</i></small></li>
 </ul>
 
 <h2 align="left">Hobbies</h2>
