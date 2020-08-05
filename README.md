@@ -3,8 +3,10 @@
 
 ---
 
+<img width="400" align="right" src="https://github.com/Proskynete/Proskynete/blob/master/images/proskynete.gif?raw=true" />
+
 <h2 align="left">Life philosophy</h2>
-<p><strong><i>If you're not willing to give it all up for something, you have no right to try</i></strong></p>
+<p><strong><i>"If you're not willing to give it all up for something, you have no right to try"</i></strong></p>
 
 <h2 align="left">About me</h2>
 <ul>
@@ -37,5 +39,14 @@
       <li> vertical-timeline-component-react (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repository</a>)</li>
       <li> pretty-rating-react (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repository</a>)</li>
     </ul>
+  </li>
+</ul>
+
+--- 
+
+<h4 align="left">Credits</h4>
+<ul>
+  <li>
+    Animation developed by <a href="https://pibe.cl/">pibe.cl</a>
   </li>
 </ul>
