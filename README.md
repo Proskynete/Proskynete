@@ -34,7 +34,7 @@
 <ul>
   <li>📖 I'm currently learning about flutter, English and Japanese.</li>
   <li>🍺 It's never a bad time to stop in the week and partake of a beer with friends</li>
-  <li>⭐ I have a library 2 created with React:
+  <li>⭐ I have 2 libraries created with React:
     <ul>
       <li> vertical-timeline-component-react (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repository</a>)</li>
       <li> pretty-rating-react (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repository</a>)</li>
