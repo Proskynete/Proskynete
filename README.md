@@ -18,10 +18,10 @@
 
 <p align="left"><strong>My social networks</strong></p>
 <ul>
-  <li> 📷 My Personal Instagram <a href="https://www.instagram.com/proskynete/" target="_blank"><small>@Proskynete</small></a></li>
-  <li> 🖥️ My website <a href="https://eduardoalvarez.cl/" target="_blank"><small>eduardoalvarez.cl</small></a></li>
-  <li> 📄 My <a href="https://curriculum.eduardoalvarez.cl" target="_blank"><small>Resume</small></a></li>
-  <li> My Twitter <a href="https://twitter.com/proskynete" target="_blank"><small>@Proskynete</small></a> <small><i>(There're no twitter emoji Y.Y)</i></small></li>
+  <li> 📷 My Personal Instagram <a href="https://www.instagram.com/proskynete/" target="_blank">@Proskynete</a></li>
+  <li> 🖥️ My website <a href="https://eduardoalvarez.cl/" target="_blank">eduardoalvarez.cl</a></li>
+  <li> 📄 My <a href="https://curriculum.eduardoalvarez.cl" target="_blank">Resume</a></li>
+  <li> My Twitter <a href="https://twitter.com/proskynete" target="_blank">@Proskynete</a> <small><i>(There're no twitter emoji Y.Y)</i></small></li>
 </ul>
 
 <p align="left"><strong>Hobbies</strong></p>
@@ -36,8 +36,8 @@
   <li>🍺 It's never a bad time to stop in the week and partake of a beer with friends</li>
   <li>⭐ I have 2 libraries created with React:
     <ul>
-      <li> vertical-timeline-component-react (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repository</a>)</li>
-      <li> pretty-rating-react (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repository</a>)</li>
+      <li> vertical-timeline-component-react <small>v2.0.0</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repository</a>)</li>
+      <li> pretty-rating-react <small>v1.1.0</small> (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repository</a>)</li>
     </ul>
   </li>
 </ul>
