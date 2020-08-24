@@ -15,5 +15,8 @@
 	"bugs": {
 		"url": "https://github.com/Proskynete/Proskynete/issues"
 	},
-	"homepage": "https://github.com/Proskynete/Proskynete#readme"
+	"homepage": "https://github.com/Proskynete/Proskynete#readme",
+	"dependencies": {
+		"axios": "^0.20.0"
+	}
 }
