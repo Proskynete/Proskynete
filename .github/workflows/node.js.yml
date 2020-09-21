@@ -12,13 +12,14 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - name: Using NodeJS v14.x
       - uses: actions/setup-node@v1
         with:
           node-version: "14"
+      - name: Install dependencies
       - run: npm install
       - run: npm run generate-readme
-      - run: |
-          git config user.name "Eduardo Alvarez"
-          git config user.email "eduardo.a1993@gmail.com"
-          git commit -am "[Cron-Job] Update README with latest info"
-          git push origin master
+      - run: git config user.name "Eduardo Alvarez"
+      - run: git config user.email "eduardo.a1993@gmail.com"
+      - run: git commit -am "[Cron-Job] Update README with latest info"
+      - run: git push origin master
