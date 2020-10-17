@@ -42,7 +42,7 @@
   </li>
 </ul>
 
---- 
+---
 
 <p align="left"><strong>Credits</strong></p>
 <ul>
