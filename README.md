@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Eduardo, nice to meet you! 👋👨🏼‍💻</h1>
-<p align="center">I'm Software Engineer who is passionate about web technologies.</p>
+<p align="center">I'm Software Developer who is passionate about web technologies.</p>
 
 ---
 
