@@ -32,7 +32,7 @@
 
 <p align="left"><strong>Others</strong></p>
 <ul>
-  <li>📖 I'm currently learning about Dart and Flutter, English and Japanese.</li>
+  <li>📖 I'm currently learning English, Mobile Development (Flutter with Dart and React Native) and AWS.</li>
   <li>🍺 It's never a bad time to stop in the week and partake of a beer with friends</li>
   <li>⭐ I have 2 libraries created with React:
     <ul>

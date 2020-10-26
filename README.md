@@ -32,17 +32,17 @@
 
 <p align="left"><strong>Others</strong></p>
 <ul>
-  <li>📖 I'm currently learning about Dart and Flutter, English and Japanese.</li>
+  <li>📖 I'm currently learning English, Mobile Development (Flutter with Dart and React Native) and AWS.</li>
   <li>🍺 It's never a bad time to stop in the week and partake of a beer with friends</li>
   <li>⭐ I have 2 libraries created with React:
     <ul>
-      <li> vertical-timeline-component-react <small>v2.0.1</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repository</a>)</li>
+      <li> vertical-timeline-component-react <small>v2.0.2</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repository</a>)</li>
       <li> pretty-rating-react <small>v1.1.0</small> (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repository</a>)</li>
     </ul>
   </li>
 </ul>
 
----
+--- 
 
 <p align="left"><strong>Credits</strong></p>
 <ul>
