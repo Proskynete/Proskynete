@@ -1,5 +1,20 @@
 <h1 align="center">Hi there, I'm Eduardo, nice to meet you! 👋👨🏼‍💻</h1>
-<p align="center">I'm Software Developer who is passionate about web technologies.</p>
+<p align="center">I'm software developer who is passionate about web technologies.</p>
+
+<p align="center">
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/ts.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/js.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/html5.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/css3.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/sass.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/react.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/redux.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/node.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/mongodb.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/flutter.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/aws.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/git.png?raw=true" width="25" height="25" />
+</p>
 
 ---
 

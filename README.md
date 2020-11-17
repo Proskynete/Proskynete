@@ -1,5 +1,20 @@
 <h1 align="center">Hi there, I'm Eduardo, nice to meet you! 👋👨🏼‍💻</h1>
-<p align="center">I'm Software Developer who is passionate about web technologies.</p>
+<p align="center">I'm software developer who is passionate about web technologies.</p>
+
+<p align="center">
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/ts.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/js.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/html5.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/css3.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/sass.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/react.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/redux.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/node.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/mongodb.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/flutter.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/aws.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/git.png?raw=true" width="25" height="25" />
+</p>
 
 ---
 
@@ -36,7 +51,7 @@
   <li>🍺 It's never a bad time to stop in the week and partake of a beer with friends</li>
   <li>⭐ I have 2 libraries created with React:
     <ul>
-      <li> vertical-timeline-component-react <small>v2.0.2</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repository</a>)</li>
+      <li> vertical-timeline-component-react <small>v2.0.3</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repository</a>)</li>
       <li> pretty-rating-react <small>v1.1.0</small> (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repository</a>)</li>
     </ul>
   </li>
