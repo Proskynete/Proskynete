@@ -2,18 +2,18 @@
 <p align="center">I'm software developer who is passionate about web technologies.</p>
 
 <p align="center">
-  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/ts.png?raw=true" width="25" height="25" />
-  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/js.png?raw=true" width="25" height="25" />
-  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/html5.png?raw=true" width="25" height="25" />
-  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/css3.png?raw=true" width="25" height="25" />
-  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/sass.png?raw=true" width="25" height="25" />
-  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/react.png?raw=true" width="25" height="25" />
-  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/redux.png?raw=true" width="25" height="25" />
-  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/node.png?raw=true" width="25" height="25" />
-  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/mongodb.png?raw=true" width="25" height="25" />
-  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/flutter.png?raw=true" width="25" height="25" />
-  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/aws.png?raw=true" width="25" height="25" />
-  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/git.png?raw=true" width="25" height="25" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/ts.png?raw=true" width="25" height="25" title="Typescript" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/js.png?raw=true" width="25" height="25" title="Javascript" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/html5.png?raw=true" width="25" height="25" title="HTML5" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/css3.png?raw=true" width="25" height="25" title="CSS3" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/sass.png?raw=true" width="25" height="25" title="Sass" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/react.png?raw=true" width="25" height="25" title="React" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/redux.png?raw=true" width="25" height="25" title="Redux" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/node.png?raw=true" width="25" height="25" title="Nodejs" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/mongodb.png?raw=true" width="25" height="25" title="MongoDB" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/flutter.png?raw=true" width="25" height="25" title="Flutter" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/aws.png?raw=true" width="25" height="25" title="Amazon Web Services" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/git.png?raw=true" width="25" height="25" title="Git" />
 </p>
 
 ---
