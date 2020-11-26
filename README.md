@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Eduardo, nice to meet you! 👋👨🏼‍💻</h1>
+<h1 align="center">Hi there 👋 My name is Eduardo Álvarez</h1>
 <p align="center">I'm software developer who is passionate about web technologies.</p>
 
 <p align="center">
@@ -6,6 +6,7 @@
   <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/js.png?raw=true" width="25" height="25" title="Javascript" />
   <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/html5.png?raw=true" width="25" height="25" title="HTML5" />
   <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/css3.png?raw=true" width="25" height="25" title="CSS3" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/bootstrap.png?raw=true" width="25" height="25" title="Bootstrap" />
   <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/sass.png?raw=true" width="25" height="25" title="Sass" />
   <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/react.png?raw=true" width="25" height="25" title="React" />
   <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/redux.png?raw=true" width="25" height="25" title="Redux" />
@@ -26,7 +27,7 @@
 <p align="left"><strong>About me</strong></p>
 <ul>
   <li> 📍 I currently live in Lampa, RM. Santiago of Chile.</li>
-  <li> 🧔 I'm 26 years old.</li>
+  <li> 👨🏼‍💻 I'm 26 years old.</li>
   <li> 🛫 I love traveling around the world</li>
   <li> 💻 Web technologies that I really, really like: React and Node </li>
 </ul>
