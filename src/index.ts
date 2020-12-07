@@ -1,19 +1,8 @@
 import axios from "axios";
-import cheerio from "cheerio";
 import { promises as fs } from 'fs';
 
 import { PLACEHOLDERS, URLS } from './constants';
-
-interface GetVersionIntrface {
-  data: string;
-}
-
-const getVersion = (page: GetVersionIntrface): Promise<string> => {
-  return new Promise((resolve) => {
-    const $ = cheerio.load(page.data);
-    resolve($(URLS.TAG_ELEMENT).eq(0).text());
-  });
-};
+import { getVersion } from "./functions";
 
 (async () => {
   try {
@@ -27,12 +16,12 @@ const getVersion = (page: GetVersionIntrface): Promise<string> => {
     const npmPrettyRating = await axios(URLS.PRETTY_RATING);
     const prettyRatingVersion = await getVersion(npmPrettyRating);
 
-    let newMarkdown = markdownTemplate
+    const newMarkdown = markdownTemplate
       .replace(PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, verticalTimelineVersion)
       .replace(PLACEHOLDERS.LIBRARIES.PRETTY_RATING, prettyRatingVersion);
 
     await fs.writeFile("./README.md", newMarkdown);
-  } catch (e) {
-    console.log(e);
+  } catch (error) {
+    console.error(error);
   }
 })();
