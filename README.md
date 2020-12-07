@@ -58,7 +58,7 @@
   </strong>
 </p>
 
-- [Introducción a JAMStack](https://eduardoalvarez.dev/articulos/introduccion-a-jamstack)
+[Introducción a JAMStack](https://eduardoalvarez.dev/articulos/introduccion-a-jamstack) - <small>Publicado el 26 de abril de 2020</small>
 
 --- 
 

@@ -39,11 +39,13 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.getLatestArticles = exports.getVersion = void 0;
+exports.prettyDate = exports.getLatestArticles = exports.getVersion = void 0;
 var cheerio_1 = __importDefault(require("cheerio"));
 var rss_parser_1 = __importDefault(require("rss-parser"));
+var moment_1 = __importDefault(require("moment"));
 var constants_1 = require("./constants");
 var parser = new rss_parser_1.default();
+moment_1.default.locale('es');
 var getVersion = function (page) {
     return new Promise(function (resolve) {
         var $ = cheerio_1.default.load(page.data);
@@ -55,4 +57,6 @@ var getLatestArticles = function () { return __awaiter(void 0, void 0, void 0, f
     return [2 /*return*/, parser.parseURL(constants_1.URLS.RSS).then(function (data) { return data.items; })];
 }); }); };
 exports.getLatestArticles = getLatestArticles;
+var prettyDate = function (date) { return moment_1.default(new Date(date)).format('LL'); };
+exports.prettyDate = prettyDate;
 //# sourceMappingURL=functions.js.map

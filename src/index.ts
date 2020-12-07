@@ -2,7 +2,7 @@ import axios from "axios";
 import { promises as fs } from 'fs';
 
 import { PLACEHOLDERS, URLS } from './constants';
-import { getVersion, getLatestArticles } from "./functions";
+import { getVersion, getLatestArticles, prettyDate } from "./functions";
 
 
 (async () => {
@@ -18,8 +18,10 @@ import { getVersion, getLatestArticles } from "./functions";
     const npmPrettyRating = await axios(URLS.PRETTY_RATING);
     const prettyRatingVersion = await getVersion(npmPrettyRating);
 
-    const articlesMarkdown = articles?.slice(0, 5).map(({ title, link }) =>
-      `- [${title}](${link})`).join('\n');
+    const articlesMarkdown = articles?.slice(0, 5).map(({ title, link, pubDate }) => {
+      if(pubDate) return `[${title}](${link}) - <small>Publicado el ${prettyDate(pubDate)}</small>`;
+      return `[${title}](${link})`;
+    }).join('\n');
 
     const newMarkdown = template
       .replace(PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, verticalTimelineVersion)

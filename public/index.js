@@ -68,8 +68,10 @@ var functions_1 = require("./functions");
             case 5:
                 prettyRatingVersion = _b.sent();
                 articlesMarkdown = articles === null || articles === void 0 ? void 0 : articles.slice(0, 5).map(function (_a) {
-                    var title = _a.title, link = _a.link;
-                    return "- [" + title + "](" + link + ")";
+                    var title = _a.title, link = _a.link, pubDate = _a.pubDate;
+                    if (pubDate)
+                        return "[" + title + "](" + link + ") - <small>Publicado el " + functions_1.prettyDate(pubDate) + "</small>";
+                    return "[" + title + "](" + link + ")";
                 }).join('\n');
                 newMarkdown = template
                     .replace(constants_1.PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, verticalTimelineVersion)
