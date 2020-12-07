@@ -39,52 +39,20 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-var axios_1 = __importDefault(require("axios"));
-var fs_1 = require("fs");
+exports.getLatestArticles = exports.getVersion = void 0;
+var cheerio_1 = __importDefault(require("cheerio"));
+var rss_parser_1 = __importDefault(require("rss-parser"));
 var constants_1 = require("./constants");
-var functions_1 = require("./functions");
-(function () { return __awaiter(void 0, void 0, void 0, function () {
-    var _a, template, articles, npmVerticalTimeline, verticalTimelineVersion, npmPrettyRating, prettyRatingVersion, articlesMarkdown, newMarkdown, error_1;
-    return __generator(this, function (_b) {
-        switch (_b.label) {
-            case 0:
-                _b.trys.push([0, 7, , 8]);
-                return [4 /*yield*/, Promise.all([
-                        fs_1.promises.readFile("./README.md.tpl", { encoding: "utf-8" }),
-                        functions_1.getLatestArticles()
-                    ])];
-            case 1:
-                _a = _b.sent(), template = _a[0], articles = _a[1];
-                return [4 /*yield*/, axios_1.default(constants_1.URLS.VERTICAL_TIMELINE)];
-            case 2:
-                npmVerticalTimeline = _b.sent();
-                return [4 /*yield*/, functions_1.getVersion(npmVerticalTimeline)];
-            case 3:
-                verticalTimelineVersion = _b.sent();
-                return [4 /*yield*/, axios_1.default(constants_1.URLS.PRETTY_RATING)];
-            case 4:
-                npmPrettyRating = _b.sent();
-                return [4 /*yield*/, functions_1.getVersion(npmPrettyRating)];
-            case 5:
-                prettyRatingVersion = _b.sent();
-                articlesMarkdown = articles === null || articles === void 0 ? void 0 : articles.slice(0, 5).map(function (_a) {
-                    var title = _a.title, link = _a.link;
-                    return "- [" + title + "](" + link + ")";
-                }).join('\n');
-                newMarkdown = template
-                    .replace(constants_1.PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, verticalTimelineVersion)
-                    .replace(constants_1.PLACEHOLDERS.LIBRARIES.PRETTY_RATING, prettyRatingVersion)
-                    .replace(constants_1.PLACEHOLDERS.WEBSITE.RSS, articlesMarkdown || '');
-                return [4 /*yield*/, fs_1.promises.writeFile("./README.md", newMarkdown)];
-            case 6:
-                _b.sent();
-                return [3 /*break*/, 8];
-            case 7:
-                error_1 = _b.sent();
-                console.error(error_1);
-                return [3 /*break*/, 8];
-            case 8: return [2 /*return*/];
-        }
+var parser = new rss_parser_1.default();
+var getVersion = function (page) {
+    return new Promise(function (resolve) {
+        var $ = cheerio_1.default.load(page.data);
+        resolve($(constants_1.URLS.TAG_ELEMENT).eq(0).text());
     });
-}); })();
-//# sourceMappingURL=index.js.map
+};
+exports.getVersion = getVersion;
+var getLatestArticles = function () { return __awaiter(void 0, void 0, void 0, function () { return __generator(this, function (_a) {
+    return [2 /*return*/, parser.parseURL(constants_1.URLS.RSS).then(function (data) { return data.items; })];
+}); }); };
+exports.getLatestArticles = getLatestArticles;
+//# sourceMappingURL=functions.js.map

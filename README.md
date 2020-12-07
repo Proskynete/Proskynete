@@ -58,7 +58,7 @@
   </strong>
 </p>
 
-%{{articles}}
+- [Introducción a JAMStack](https://eduardoalvarez.dev/articulos/introduccion-a-jamstack)
 
 --- 
 
