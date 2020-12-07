@@ -32,14 +32,6 @@
   <li> 💻 Web technologies that I really, really like: React and Node </li>
 </ul>
 
-<p align="left"><strong>My social networks</strong></p>
-<ul>
-  <li> 📷 My Personal Instagram <a href="https://www.instagram.com/proskynete/" target="_blank">@Proskynete</a></li>
-  <li> 🖥️ My website <a href="https://eduardoalvarez.cl/" target="_blank">eduardoalvarez.cl</a></li>
-  <li> 📄 My <a href="https://curriculum.eduardoalvarez.cl" target="_blank">Resume</a></li>
-  <li> My Twitter <a href="https://twitter.com/proskynete" target="_blank">@Proskynete</a> <small><i>(There're no twitter emoji Y.Y)</i></small></li>
-</ul>
-
 <p align="left"><strong>Hobbies</strong></p>
 <ul>
   <li> 🎼 Playing musical instruments (electric guitar, acoustic guitar, keyboard and ukulele)</li>
@@ -57,6 +49,15 @@
     </ul>
   </li>
 </ul>
+
+---
+
+<p align="left">
+  <strong>
+    Latest articles I wrote on: <a href="https://eduardoalvarez.dev">eduardoalvarez.dev</a>
+  </strong>
+</p>
+%{{articles}}
 
 --- 
 
