@@ -4,7 +4,7 @@
 	"description": "Proskynete README github profile",
 	"main": "index.js",
 	"scripts": {
-		"generate-readme": "node index.js"
+		"generate-readme": "node src/index.js"
 	},
 	"repository": {
 		"type": "git",
