@@ -1,13 +1,17 @@
-const axios = require("axios");
-const cheerio = require("cheerio");
-const fs = require("fs").promises;
+import axios from "axios";
+import cheerio from "cheerio";
+import { promises as fs } from 'fs';
 
 import { PLACEHOLDERS, URLS } from './constants';
 
-const getVersion = (page) => {
-  return new Promise((resolve, _) => {
+interface GetVersionIntrface {
+  data: string;
+}
+
+const getVersion = (page: GetVersionIntrface): Promise<string> => {
+  return new Promise((resolve) => {
     const $ = cheerio.load(page.data);
-    return resolve($(URLS.TAG_ELEMENT).eq(0).text());
+    resolve($(URLS.TAG_ELEMENT).eq(0).text());
   });
 };
 
