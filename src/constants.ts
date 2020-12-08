@@ -7,7 +7,7 @@ export const PLACEHOLDERS = {
     PRETTY_RATING: "%{{pr-version}}%"
   },
   WEBSITE: {
-    RSS: "%{{articles}}"
+    RSS: "%{{articles}}%"
   }
 }
 

@@ -58,7 +58,7 @@
   </strong>
 </p>
 
-%{{articles}}
+%{{articles}}%
 
 --- 
 

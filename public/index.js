@@ -40,7 +40,7 @@ var fs_1 = require("fs");
 var constants_1 = require("./constants");
 var functions_1 = require("./functions");
 (function () { return __awaiter(void 0, void 0, void 0, function () {
-    var _a, template, articles, verticalTimelineVersion, prettyRatingVersion, articlesMarkdown, newMarkdown, error_1;
+    var _a, template, articles, _verticalTimeline, _prettyRating, _articles, newMarkdown, error_1;
     return __generator(this, function (_b) {
         switch (_b.label) {
             case 0:
@@ -53,15 +53,15 @@ var functions_1 = require("./functions");
                 _a = _b.sent(), template = _a[0], articles = _a[1];
                 return [4 /*yield*/, functions_1.getVersion(constants_1.URLS.VERTICAL_TIMELINE)];
             case 2:
-                verticalTimelineVersion = _b.sent();
+                _verticalTimeline = _b.sent();
                 return [4 /*yield*/, functions_1.getVersion(constants_1.URLS.PRETTY_RATING)];
             case 3:
-                prettyRatingVersion = _b.sent();
-                articlesMarkdown = articles ? functions_1.sliceArticles(articles) : '';
+                _prettyRating = _b.sent();
+                _articles = articles ? functions_1.sliceArticles(articles) : '';
                 newMarkdown = template
-                    .replace(constants_1.PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, verticalTimelineVersion)
-                    .replace(constants_1.PLACEHOLDERS.LIBRARIES.PRETTY_RATING, prettyRatingVersion)
-                    .replace(constants_1.PLACEHOLDERS.WEBSITE.RSS, articlesMarkdown);
+                    .replace(constants_1.PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)
+                    .replace(constants_1.PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
+                    .replace(constants_1.PLACEHOLDERS.WEBSITE.RSS, _articles);
                 return [4 /*yield*/, fs_1.promises.writeFile("./README.md", newMarkdown)];
             case 4:
                 _b.sent();
