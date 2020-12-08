@@ -39,13 +39,13 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.prettyDate = exports.getLatestArticles = exports.getVersion = void 0;
+exports.sliceArticles = exports.prettyDate = exports.getLatestArticles = exports.getVersion = void 0;
 var cheerio_1 = __importDefault(require("cheerio"));
 var rss_parser_1 = __importDefault(require("rss-parser"));
 var moment_1 = __importDefault(require("moment"));
 var constants_1 = require("./constants");
 var parser = new rss_parser_1.default();
-moment_1.default.locale('es');
+moment_1.default.locale('en');
 var getVersion = function (page) {
     return new Promise(function (resolve) {
         var $ = cheerio_1.default.load(page.data);
@@ -59,4 +59,13 @@ var getLatestArticles = function () { return __awaiter(void 0, void 0, void 0, f
 exports.getLatestArticles = getLatestArticles;
 var prettyDate = function (date) { return moment_1.default(new Date(date)).format('LL'); };
 exports.prettyDate = prettyDate;
+var sliceArticles = function (articles) {
+    return articles.slice(0, constants_1.NUMBERS.ARTICLES).map(function (_a) {
+        var title = _a.title, link = _a.link, pubDate = _a.pubDate;
+        return pubDate
+            ? "[" + title + "](" + link + ") - <small>Posted on " + exports.prettyDate(pubDate) + "</small>"
+            : "[" + title + "](" + link + ")";
+    }).join('\n');
+};
+exports.sliceArticles = sliceArticles;
 //# sourceMappingURL=functions.js.map

@@ -67,16 +67,11 @@ var functions_1 = require("./functions");
                 return [4 /*yield*/, functions_1.getVersion(npmPrettyRating)];
             case 5:
                 prettyRatingVersion = _b.sent();
-                articlesMarkdown = articles === null || articles === void 0 ? void 0 : articles.slice(0, 5).map(function (_a) {
-                    var title = _a.title, link = _a.link, pubDate = _a.pubDate;
-                    if (pubDate)
-                        return "[" + title + "](" + link + ") - <small>Publicado el " + functions_1.prettyDate(pubDate) + "</small>";
-                    return "[" + title + "](" + link + ")";
-                }).join('\n');
+                articlesMarkdown = articles ? functions_1.sliceArticles(articles) : '';
                 newMarkdown = template
                     .replace(constants_1.PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, verticalTimelineVersion)
                     .replace(constants_1.PLACEHOLDERS.LIBRARIES.PRETTY_RATING, prettyRatingVersion)
-                    .replace(constants_1.PLACEHOLDERS.WEBSITE.RSS, articlesMarkdown || '');
+                    .replace(constants_1.PLACEHOLDERS.WEBSITE.RSS, articlesMarkdown);
                 return [4 /*yield*/, fs_1.promises.writeFile("./README.md", newMarkdown)];
             case 6:
                 _b.sent();

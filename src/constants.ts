@@ -17,3 +17,7 @@ export const URLS = {
   TAG_ELEMENT: "p.f2874b88.fw6.mb3.mt2.truncate.black-80.f4",
   RSS: `${BASE_WEBSITE}/rss.xml`
 }
+
+export const NUMBERS = {
+  ARTICLES: 5
+}
