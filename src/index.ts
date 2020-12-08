@@ -1,4 +1,3 @@
-import axios from "axios";
 import { promises as fs } from 'fs';
 
 import { PLACEHOLDERS, URLS } from './constants';
@@ -12,18 +11,14 @@ import { getVersion, getLatestArticles, sliceArticles } from "./functions";
       getLatestArticles()
     ]);
  
-    const npmVerticalTimeline = await axios(URLS.VERTICAL_TIMELINE);
-    const verticalTimelineVersion = await getVersion(npmVerticalTimeline);
-
-    const npmPrettyRating = await axios(URLS.PRETTY_RATING);
-    const prettyRatingVersion = await getVersion(npmPrettyRating);
-
-    const articlesMarkdown = articles ? sliceArticles(articles) : '';
+    const _verticalTimeline = await getVersion(URLS.VERTICAL_TIMELINE);
+    const _prettyRating = await getVersion(URLS.PRETTY_RATING);
+    const _articles = articles ? sliceArticles(articles) : '';
 
     const newMarkdown = template
-      .replace(PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, verticalTimelineVersion)
-      .replace(PLACEHOLDERS.LIBRARIES.PRETTY_RATING, prettyRatingVersion)
-      .replace(PLACEHOLDERS.WEBSITE.RSS, articlesMarkdown)
+      .replace(PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)
+      .replace(PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
+      .replace(PLACEHOLDERS.WEBSITE.RSS, _articles)
 
     await fs.writeFile("./README.md", newMarkdown);
   } catch (error) {
