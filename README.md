@@ -19,7 +19,7 @@
 
 ---
 
-<img width="400" align="right" src="https://github.com/Proskynete/Proskynete/blob/master/images/proskynete.gif?raw=true" />
+<img width="400" align="right" src="https://github.com/Proskynete/Proskynete/blob/master/images/proskynete_without_bg.gif?raw=true" />
 
 <p align="left"><strong>Life philosophy</strong></p>
 <p><i>"If you're not willing to give it all up for something, you have no right to try"</i></p>
