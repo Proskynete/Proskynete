@@ -44,8 +44,8 @@
   <li>🍺 It's never a bad time to stop in the week and partake of a beer with friends</li>
   <li>⭐ I have 2 libraries created with React:
     <ul>
-      <li>vertical-timeline-component-react <small>v%{{vt-version}}%</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repository</a>)</li>
-      <li>pretty-rating-react <small>v%{{pr-version}}%</small> (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repository</a>)</li>
+      <li>vertical-timeline-component-react <small>v%{{vt-version}}%</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a>-<a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repository</a>)</li>
+      <li>pretty-rating-react <small>v%{{pr-version}}%</small> (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a>-<a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repository</a>)</li>
     </ul>
   </li>
 </ul>
@@ -54,7 +54,7 @@
 
 <p align="left">
   <strong>
-    Latest images on:<a href="https://instagram.com/proskynete"> My Instagram</a>
+    Latest %{{number_images}} images on:<a href="https://instagram.com/proskynete"> My Instagram</a>
   </strong>
 </p>
 

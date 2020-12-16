@@ -120,12 +120,18 @@ var getInstagramImages = function () { return __awaiter(void 0, void 0, void 0, 
     });
 }); };
 exports.getInstagramImages = getInstagramImages;
+/**
+ *
+ * Trasnform the string of images to mdx format and slice the result
+ * @param {InstagramImagesResponse[]} images - Array of { permalink, media_url } attributes
+ * @returns An array of links wirth images obtained from instagram
+ */
 var latestInstagramImages = function (images) {
     return images
         .slice(0, constants_1.NUMBERS.IMAGES)
         .map(function (_a) {
         var media_url = _a.media_url, permalink = _a.permalink;
-        return ("<a href='" + permalink + "' target='_blank'>\n      <img width='170px' height='170px' src='" + media_url + "' alt='Instagram photo' />\n    </a>");
+        return ("<a href='" + permalink + "' target='_blank'>\n      <img src='" + media_url + "' alt='Instagram photo' width='170px' height='170px'  />\n    </a>");
     })
         .join('');
 };

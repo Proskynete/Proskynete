@@ -1,7 +1,7 @@
 import { promises as fs } from 'fs';
 import prettier from 'prettier';
 
-import { PLACEHOLDERS, URLS } from './constants';
+import { NUMBERS, PLACEHOLDERS, URLS } from './constants';
 import {
   getVersion,
   getLatestArticles,
@@ -29,8 +29,9 @@ import {
     const newMarkdown = template
       .replace(PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)
       .replace(PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
+      .replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.NUMBER_IMAGES, NUMBERS.IMAGES.toString())
       .replace(PLACEHOLDERS.WEBSITE.RSS, _articles)
-      .replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM, _images);
+      .replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.SECTION_IMAGES, _images)
     
     const markdownFormated = prettier.format(newMarkdown, {
       ...prettierConfig,

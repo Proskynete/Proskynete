@@ -145,8 +145,8 @@
           target="_blank"
         >
           npm
-        </a>{" "}
-        -{" "}
+        </a>
+        -
         <a
           href="https://github.com/Proskynete/vertical-timeline-component-react"
           target="_blank"
@@ -162,8 +162,8 @@
           target="_blank"
         >
           npm
-        </a>{" "}
-        -{" "}
+        </a>
+        -
         <a
           href="https://github.com/Proskynete/pretty-rating-react"
           target="_blank"
@@ -180,49 +180,41 @@
 
 <p align="left">
   <strong>
-    Latest images on:
+    Latest 4 images on:
     <a href="https://instagram.com/proskynete"> My Instagram</a>
   </strong>
 </p>
 
 <a href="https://www.instagram.com/p/CH08EtHAmUO/" target="_blank">
   <img
-    width="170px"
-    height="170px"
     src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Ogs2hD6sG28AX8Plb5Y&tp=1&oh=38b236f0aaf31254d255f89d1ef06754&oe=6003209E"
     alt="Instagram photo"
+    width="170px"
+    height="170px"
   />
 </a>
 <a href="https://www.instagram.com/p/CHtuu6HgQzu/" target="_blank">
   <img
-    width="170px"
-    height="170px"
     src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c127.0.770.770a/s640x640/125768598_369307330825693_2973253652096890101_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=rORUFWx76icAX9FMW4J&tp=1&oh=b0ef7210e67111d5888c69cfd0021273&oe=60028CF8"
     alt="Instagram photo"
+    width="170px"
+    height="170px"
   />
 </a>
 <a href="https://www.instagram.com/p/CDXNQv3FUce/" target="_blank">
   <img
-    width="170px"
-    height="170px"
     src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/116427085_133051865130809_3417738198082545657_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=mCByVW3BKHEAX-Rnenr&tp=1&oh=811040aeeaa13b31ddc9876fb322198b&oe=60031042"
     alt="Instagram photo"
+    width="170px"
+    height="170px"
   />
 </a>
 <a href="https://www.instagram.com/p/CB7Fp2eF5T1/" target="_blank">
   <img
-    width="170px"
-    height="170px"
     src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/105956568_268033227593112_6817218917043678426_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=q2pNUAyvgUEAX9nauCD&tp=1&oh=ef10526bc2af0b7c6bd4937f1b7e82b3&oe=60042EE9"
     alt="Instagram photo"
-  />
-</a>
-<a href="https://www.instagram.com/p/CBONNWblRaf/" target="_blank">
-  <img
     width="170px"
     height="170px"
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/103328429_697773797433182_217662242746128254_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=37l-92obPKAAX9lm_hI&tp=1&oh=ae01fd6d5476bff3f00d7bd9b96e0a35&oe=60025FE5"
-    alt="Instagram photo"
   />
 </a>
 

@@ -55,7 +55,7 @@ var prettier_1 = __importDefault(require("prettier"));
 var constants_1 = require("./constants");
 var functions_1 = require("./functions");
 (function () { return __awaiter(void 0, void 0, void 0, function () {
-    var prettierConfig, _a, template, articles, images, _verticalTimeline, _prettyRating, _articles, _images, newMarkdown, mardkdownFormated, error_1;
+    var prettierConfig, _a, template, articles, images, _verticalTimeline, _prettyRating, _articles, _images, newMarkdown, markdownFormated, error_1;
     return __generator(this, function (_b) {
         switch (_b.label) {
             case 0:
@@ -81,10 +81,11 @@ var functions_1 = require("./functions");
                 newMarkdown = template
                     .replace(constants_1.PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)
                     .replace(constants_1.PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
+                    .replace(constants_1.PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.NUMBER_IMAGES, constants_1.NUMBERS.IMAGES.toString())
                     .replace(constants_1.PLACEHOLDERS.WEBSITE.RSS, _articles)
-                    .replace(constants_1.PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM, _images);
-                mardkdownFormated = prettier_1.default.format(newMarkdown, __assign(__assign({}, prettierConfig), { parser: 'mdx' }));
-                return [4 /*yield*/, fs_1.promises.writeFile("./README.md", mardkdownFormated)];
+                    .replace(constants_1.PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.SECTION_IMAGES, _images);
+                markdownFormated = prettier_1.default.format(newMarkdown, __assign(__assign({}, prettierConfig), { parser: 'mdx' }));
+                return [4 /*yield*/, fs_1.promises.writeFile("./README.md", markdownFormated)];
             case 5:
                 _b.sent();
                 return [3 /*break*/, 7];

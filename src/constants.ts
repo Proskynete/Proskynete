@@ -10,7 +10,10 @@ export const PLACEHOLDERS = {
     RSS: "%{{articles}}%"
   },
   SOCIAL_MEDIA: {
-    INSTAGRAM: "%{{instagram_images}}%"
+    INSTAGRAM: {
+      NUMBER_IMAGES: "%{{number_images}}",
+      SECTION_IMAGES: "%{{instagram_images}}%"
+    }
   }
 }
 
@@ -28,5 +31,5 @@ export const REGEXPS = {
 
 export const NUMBERS = {
   ARTICLES: 5,
-  IMAGES: 5
+  IMAGES: 4
 }
