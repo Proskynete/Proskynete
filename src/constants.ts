@@ -7,11 +7,12 @@ export const PLACEHOLDERS = {
     PRETTY_RATING: "%{{pr-version}}%"
   },
   WEBSITE: {
+    NUMBER_ARTICLES: "%{{number_articles}}%",
     RSS: "%{{articles}}%"
   },
   SOCIAL_MEDIA: {
     INSTAGRAM: {
-      NUMBER_IMAGES: "%{{number_images}}",
+      NUMBER_IMAGES: "%{{number_images}}%",
       SECTION_IMAGES: "%{{instagram_images}}%"
     }
   }

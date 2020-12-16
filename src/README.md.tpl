@@ -71,7 +71,7 @@
 
 <p align="left">
   <strong>
-    Latest %{{number_images}} images on:<a href="https://instagram.com/proskynete" target='_blank'> My Instagram</a>
+    Latest %{{number_images}}% images on:<a href="https://instagram.com/proskynete" target='_blank'> My Instagram</a>
   </strong>
 </p>
 
@@ -81,7 +81,7 @@
 
 <p align="left">
   <strong>
-    Latest articles I wrote on:<a href="https://eduardoalvarez.dev" target='_blank'> eduardoalvarez.dev</a>
+    Latest %{{number_articles}}% articles I wrote on:<a href="https://eduardoalvarez.dev" target='_blank'> eduardoalvarez.dev</a>
   </strong>
 </p>
 

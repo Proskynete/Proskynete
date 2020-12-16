@@ -29,6 +29,7 @@ import {
     const newMarkdown = template
       .replace(PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)
       .replace(PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
+      .replace(PLACEHOLDERS.WEBSITE.NUMBER_ARTICLES, NUMBERS.ARTICLES.toString())
       .replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.NUMBER_IMAGES, NUMBERS.IMAGES.toString())
       .replace(PLACEHOLDERS.WEBSITE.RSS, _articles)
       .replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.SECTION_IMAGES, _images)
