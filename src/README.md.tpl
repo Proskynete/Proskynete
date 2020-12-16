@@ -35,7 +35,24 @@
 <p align="left"><strong>Hobbies</strong></p>
 <ul>
   <li>🎼 Playing musical instruments (electric guitar, acoustic guitar, keyboard and ukulele)</li>
-  <li>👾 Playing video games (currently League of legends - LAS)</li>
+  <li>👾 Playing video games
+    <ul>
+      <li>League of legends (lol):
+        <ul>
+          <li>Server: LAS</li>
+          <li>Summoner Name:<a href="https://www.leagueofgraphs.com/es/summoner/las/proskynete">Proskynete</a></li>
+        </ul>
+      </li>
+      <li>World of Warcraft (wow):
+        <ul>
+          <li>Kingdom: Ragnaros</li>
+          <li>Race:<a href="https://worldofwarcraft.com/en-us/game/races/blood-elf">Blood Elf</a></li>
+          <li>Class:<a href="https://worldofwarcraft.com/en-us/game/talent-calculator#mage/fire">Fire Wizard</a></li>
+          <li>Level: 60</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
 </ul>
 
 <p align="left"><strong>Others</strong></p>
@@ -72,9 +89,9 @@
 
 --- 
 
-<p align="left"><strong>Credits</strong></p>
+<p align="left"><strong>Credits & Thanks</strong></p>
 <ul>
-  <li>
-    Animation developed by <a href="https://pibe.cl/">pibe.cl</a>
-  </li>
+  <li>Animation developed by<a href="https://pibe.cl/"> pibe.cl</a></li>
+  <li>Inspiration and teaching:<a href="https://carlosazaustre.es/"> Carlos Azaustre</a></li>
+  <li>Inspiration and teaching:<a href="https://midu.dev/"> Midudev</a></li>
 </ul>
