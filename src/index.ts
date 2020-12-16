@@ -32,12 +32,12 @@ import {
       .replace(PLACEHOLDERS.WEBSITE.RSS, _articles)
       .replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM, _images);
     
-    const mardkdownFormated = prettier.format(newMarkdown, {
-		  ...prettierConfig,
-		  parser: 'mdx',
-  	});
+    const markdownFormated = prettier.format(newMarkdown, {
+      ...prettierConfig,
+      parser: 'mdx',
+    });
 
-    await fs.writeFile("./README.md", mardkdownFormated);
+    await fs.writeFile("./README.md", markdownFormated);
   } catch (error) {
     console.error(error);
   }

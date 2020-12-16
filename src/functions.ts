@@ -67,11 +67,17 @@ export const getInstagramImages =  async (): Promise<InstagramImagesResponse[]> 
   }));
 }
 
+/**
+ * 
+ * Trasnform the string of images to mdx format and slice the result 
+ * @param {InstagramImagesResponse[]} images - Array of { permalink, media_url } attributes
+ * @returns An array of links wirth images obtained from instagram
+ */
 export const latestInstagramImages = (images: InstagramImagesResponse[]) =>
   images
     .slice(0, NUMBERS.IMAGES)
     .map(({ media_url, permalink }) => (
     `<a href='${permalink}' target='_blank'>
-      <img width='170px' height='170px' src='${media_url}' alt='Instagram photo' />
+      <img src='${media_url}' alt='Instagram photo' width='170px' height='170px'  />
     </a>`))
     .join('');

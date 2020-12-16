@@ -3,7 +3,6 @@ export interface InstagramInterface {
   thumbnail_src: string;
 }
 
-
 export interface InstagramNodeInterface {
   node: InstagramInterface;
 }
