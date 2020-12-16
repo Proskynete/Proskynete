@@ -1,4 +1,5 @@
 import { promises as fs } from 'fs';
+import prettier from 'prettier';
 
 import { PLACEHOLDERS, URLS } from './constants';
 import {
@@ -12,6 +13,8 @@ import {
 
 (async () => {
   try {
+    const prettierConfig = await prettier.resolveConfig('../.pretierrc');
+
     const [template, articles, images] = await Promise.all([
       fs.readFile("./src/README.md.tpl", { encoding: "utf-8" }),
       getLatestArticles(),
@@ -27,9 +30,14 @@ import {
       .replace(PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)
       .replace(PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
       .replace(PLACEHOLDERS.WEBSITE.RSS, _articles)
-      .replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM, _images)
+      .replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM, _images);
+    
+    const mardkdownFormated = prettier.format(newMarkdown, {
+		  ...prettierConfig,
+		  parser: 'mdx',
+  	});
 
-    await fs.writeFile("./README.md", newMarkdown);
+    await fs.writeFile("./README.md", mardkdownFormated);
   } catch (error) {
     console.error(error);
   }

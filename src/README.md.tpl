@@ -26,16 +26,16 @@
 
 <p align="left"><strong>About me</strong></p>
 <ul>
-  <li> 📍 I currently live in Lampa, RM. Santiago of Chile.</li>
-  <li> 👨🏼‍💻 I'm 26 years old.</li>
-  <li> 🛫 I love traveling around the world</li>
-  <li> 💻 Web technologies that I really, really like: React and Node </li>
+  <li>📍 I currently live in Lampa, RM. Santiago of Chile.</li>
+  <li>👨🏼‍💻 I'm 26 years old.</li>
+  <li>🛫 I love traveling around the world</li>
+  <li>💻 Web technologies that I really, really like: React and Node </li>
 </ul>
 
 <p align="left"><strong>Hobbies</strong></p>
 <ul>
-  <li> 🎼 Playing musical instruments (electric guitar, acoustic guitar, keyboard and ukulele)</li>
-  <li> 👾 Playing video games (currently League of legends - LAS)</li>
+  <li>🎼 Playing musical instruments (electric guitar, acoustic guitar, keyboard and ukulele)</li>
+  <li>👾 Playing video games (currently League of legends - LAS)</li>
 </ul>
 
 <p align="left"><strong>Others</strong></p>
@@ -44,8 +44,8 @@
   <li>🍺 It's never a bad time to stop in the week and partake of a beer with friends</li>
   <li>⭐ I have 2 libraries created with React:
     <ul>
-      <li> vertical-timeline-component-react <small>v%{{vt-version}}%</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repository</a>)</li>
-      <li> pretty-rating-react <small>v%{{pr-version}}%</small> (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repository</a>)</li>
+      <li>vertical-timeline-component-react <small>v%{{vt-version}}%</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repository</a>)</li>
+      <li>pretty-rating-react <small>v%{{pr-version}}%</small> (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repository</a>)</li>
     </ul>
   </li>
 </ul>
@@ -54,7 +54,7 @@
 
 <p align="left">
   <strong>
-    Latest images on: <a href="https://instagram.com/proskynete">My Instagram</a>
+    Latest images on:<a href="https://instagram.com/proskynete"> My Instagram</a>
   </strong>
 </p>
 
@@ -64,7 +64,7 @@
 
 <p align="left">
   <strong>
-    Latest articles I wrote on: <a href="https://eduardoalvarez.dev">eduardoalvarez.dev</a>
+    Latest articles I wrote on:<a href="https://eduardoalvarez.dev"> eduardoalvarez.dev</a>
   </strong>
 </p>
 

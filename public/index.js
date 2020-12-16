@@ -1,4 +1,15 @@
 "use strict";
+var __assign = (this && this.__assign) || function () {
+    __assign = Object.assign || function(t) {
+        for (var s, i = 1, n = arguments.length; i < n; i++) {
+            s = arguments[i];
+            for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p))
+                t[p] = s[p];
+        }
+        return t;
+    };
+    return __assign.apply(this, arguments);
+};
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
     function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
@@ -35,28 +46,35 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
         if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
     }
 };
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
 Object.defineProperty(exports, "__esModule", { value: true });
 var fs_1 = require("fs");
+var prettier_1 = __importDefault(require("prettier"));
 var constants_1 = require("./constants");
 var functions_1 = require("./functions");
 (function () { return __awaiter(void 0, void 0, void 0, function () {
-    var _a, template, articles, images, _verticalTimeline, _prettyRating, _articles, _images, newMarkdown, error_1;
+    var prettierConfig, _a, template, articles, images, _verticalTimeline, _prettyRating, _articles, _images, newMarkdown, mardkdownFormated, error_1;
     return __generator(this, function (_b) {
         switch (_b.label) {
             case 0:
-                _b.trys.push([0, 5, , 6]);
+                _b.trys.push([0, 6, , 7]);
+                return [4 /*yield*/, prettier_1.default.resolveConfig('../.pretierrc')];
+            case 1:
+                prettierConfig = _b.sent();
                 return [4 /*yield*/, Promise.all([
                         fs_1.promises.readFile("./src/README.md.tpl", { encoding: "utf-8" }),
                         functions_1.getLatestArticles(),
                         functions_1.getInstagramImages()
                     ])];
-            case 1:
+            case 2:
                 _a = _b.sent(), template = _a[0], articles = _a[1], images = _a[2];
                 return [4 /*yield*/, functions_1.getVersion(constants_1.URLS.VERTICAL_TIMELINE)];
-            case 2:
+            case 3:
                 _verticalTimeline = _b.sent();
                 return [4 /*yield*/, functions_1.getVersion(constants_1.URLS.PRETTY_RATING)];
-            case 3:
+            case 4:
                 _prettyRating = _b.sent();
                 _articles = articles ? functions_1.sliceArticles(articles) : '';
                 _images = images ? functions_1.latestInstagramImages(images) : '';
@@ -65,15 +83,16 @@ var functions_1 = require("./functions");
                     .replace(constants_1.PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
                     .replace(constants_1.PLACEHOLDERS.WEBSITE.RSS, _articles)
                     .replace(constants_1.PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM, _images);
-                return [4 /*yield*/, fs_1.promises.writeFile("./README.md", newMarkdown)];
-            case 4:
-                _b.sent();
-                return [3 /*break*/, 6];
+                mardkdownFormated = prettier_1.default.format(newMarkdown, __assign(__assign({}, prettierConfig), { parser: 'mdx' }));
+                return [4 /*yield*/, fs_1.promises.writeFile("./README.md", mardkdownFormated)];
             case 5:
+                _b.sent();
+                return [3 /*break*/, 7];
+            case 6:
                 error_1 = _b.sent();
                 console.error(error_1);
-                return [3 /*break*/, 6];
-            case 6: return [2 /*return*/];
+                return [3 /*break*/, 7];
+            case 7: return [2 /*return*/];
         }
     });
 }); })();
