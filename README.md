@@ -278,6 +278,7 @@
     <a href="https://carlosazaustre.es/"> Carlos Azaustre</a>
   </li>
   <li>
-    Inspiration and teaching:<a href="https://midu.dev/"> Midudev</a>
+    Inspiration and teaching:
+    <a href="https://midu.dev/"> Midudev</a>
   </li>
 </ul>
