@@ -45,8 +45,8 @@ export const prettyDate = (date: string): string => moment(new Date(date)).forma
 export const sliceArticles = (articles: Parser.Item[]): string =>
   articles.slice(0, NUMBERS.ARTICLES).map(({ title, link, pubDate }) =>
     pubDate
-      ? `[${title}](${link}) - <small>Posted on ${prettyDate(pubDate)}</small>`
-      : `[${title}](${link})`
+      ? `<a href='${link}' target='_blank'>${title}</a> - <small>Posted on ${prettyDate(pubDate)}</small>`
+      : `<a href='${link}' target='_blank'>${title}</a>`
   ).join('\n');
 
   /**
