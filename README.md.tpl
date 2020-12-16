@@ -54,6 +54,16 @@
 
 <p align="left">
   <strong>
+    Latest images on: <a href="https://instagram.com/proskynete">My Instagram</a>
+  </strong>
+</p>
+
+%{{instagram_images}}%
+
+---
+
+<p align="left">
+  <strong>
     Latest articles I wrote on: <a href="https://eduardoalvarez.dev">eduardoalvarez.dev</a>
   </strong>
 </p>

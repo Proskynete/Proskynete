@@ -1,24 +1,33 @@
 import { promises as fs } from 'fs';
 
 import { PLACEHOLDERS, URLS } from './constants';
-import { getVersion, getLatestArticles, sliceArticles } from "./functions";
+import {
+  getVersion,
+  getLatestArticles,
+  sliceArticles,
+  getInstagramImages,
+  latestInstagramImages
+} from "./functions";
 
 
 (async () => {
   try {
-    const [template, articles] = await Promise.all([
+    const [template, articles, images] = await Promise.all([
       fs.readFile("./README.md.tpl", { encoding: "utf-8" }),
-      getLatestArticles()
+      getLatestArticles(),
+      getInstagramImages()
     ]);
  
     const _verticalTimeline = await getVersion(URLS.VERTICAL_TIMELINE);
     const _prettyRating = await getVersion(URLS.PRETTY_RATING);
     const _articles = articles ? sliceArticles(articles) : '';
+    const _images = images ? latestInstagramImages(images) : '';
 
     const newMarkdown = template
       .replace(PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)
       .replace(PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
       .replace(PLACEHOLDERS.WEBSITE.RSS, _articles)
+      .replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM, _images)
 
     await fs.writeFile("./README.md", newMarkdown);
   } catch (error) {

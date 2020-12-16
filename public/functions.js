@@ -39,7 +39,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.sliceArticles = exports.prettyDate = exports.getLatestArticles = exports.getVersion = void 0;
+exports.latestInstagramImages = exports.getInstagramImages = exports.sliceArticles = exports.prettyDate = exports.getLatestArticles = exports.getVersion = void 0;
 var axios_1 = __importDefault(require("axios"));
 var cheerio_1 = __importDefault(require("cheerio"));
 var rss_parser_1 = __importDefault(require("rss-parser"));
@@ -50,7 +50,7 @@ moment_1.default.locale('en');
 /**
  * Get the version of a library published in npm.com
  * @param {GetVersionInterface} url - Url to check.
- * @returns {Promise<string>} All results according to search.
+ * @returns All results according to search.
  */
 var getVersion = function (url) { return __awaiter(void 0, void 0, void 0, function () {
     var file;
@@ -61,7 +61,7 @@ var getVersion = function (url) { return __awaiter(void 0, void 0, void 0, funct
                 file = _a.sent();
                 return [2 /*return*/, new Promise(function (resolve) {
                         var $ = cheerio_1.default.load(file.data);
-                        resolve($(constants_1.URLS.TAG_ELEMENT).eq(0).text());
+                        resolve($(constants_1.REGEXPS.TAG_ELEMENT).eq(0).text());
                     })];
         }
     });
@@ -69,7 +69,7 @@ var getVersion = function (url) { return __awaiter(void 0, void 0, void 0, funct
 exports.getVersion = getVersion;
 /**
  * Get all articles from some RSS page.
- * @returns {Parser.Item[]} All items found.
+ * @returns All items found.
  */
 var getLatestArticles = function () { return __awaiter(void 0, void 0, void 0, function () { return __generator(this, function (_a) {
     return [2 /*return*/, parser.parseURL(constants_1.URLS.RSS).then(function (data) { return data.items; })];
@@ -78,14 +78,14 @@ exports.getLatestArticles = getLatestArticles;
 /**
  * Transform the date that we pass to a LL format (moment reference).
  * @param {string} date - Any format of date.
- * @returns {string} format example: MM DD, YYYY
+ * @returns format example: MM DD, YYYY
  */
 var prettyDate = function (date) { return moment_1.default(new Date(date)).format('LL'); };
 exports.prettyDate = prettyDate;
 /**
  * Get an array of articles and transform them with a markdown format.
  * @param {array} articles - Articles obtained from an RSS.
- * @returns {string} Link with the title, and the date of the post, with markdown syntax.
+ * @returns Link with the title, and the date of the post, with markdown syntax.
  */
 var sliceArticles = function (articles) {
     return articles.slice(0, constants_1.NUMBERS.ARTICLES).map(function (_a) {
@@ -96,4 +96,38 @@ var sliceArticles = function (articles) {
     }).join('\n');
 };
 exports.sliceArticles = sliceArticles;
+/**
+ * Get images from any instagram profile
+ * @returns A object with permalink and media_url attributes
+ */
+var getInstagramImages = function () { return __awaiter(void 0, void 0, void 0, function () {
+    var data, json, edges;
+    return __generator(this, function (_a) {
+        switch (_a.label) {
+            case 0: return [4 /*yield*/, axios_1.default(constants_1.URLS.INSTAGRAM)];
+            case 1:
+                data = (_a.sent()).data;
+                json = JSON.parse(data.match(constants_1.REGEXPS.INSTAGRAM)[1]);
+                edges = json.entry_data.ProfilePage[0].graphql.user.edge_owner_to_timeline_media.edges.splice(0, 8);
+                return [2 /*return*/, edges.map(function (_a) {
+                        var node = _a.node;
+                        return ({
+                            permalink: "https://www.instagram.com/p/" + node.shortcode + "/",
+                            media_url: node.thumbnail_src,
+                        });
+                    })];
+        }
+    });
+}); };
+exports.getInstagramImages = getInstagramImages;
+var latestInstagramImages = function (images) {
+    return images
+        .slice(0, constants_1.NUMBERS.IMAGES)
+        .map(function (_a) {
+        var media_url = _a.media_url, permalink = _a.permalink;
+        return ("<a href='" + permalink + "' target='_blank'>\n      <img width='170px' height='170px' src='" + media_url + "' alt='Instagram photo' />\n    </a>");
+    })
+        .join('');
+};
+exports.latestInstagramImages = latestInstagramImages;
 //# sourceMappingURL=functions.js.map

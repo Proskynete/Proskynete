@@ -40,17 +40,18 @@ var fs_1 = require("fs");
 var constants_1 = require("./constants");
 var functions_1 = require("./functions");
 (function () { return __awaiter(void 0, void 0, void 0, function () {
-    var _a, template, articles, _verticalTimeline, _prettyRating, _articles, newMarkdown, error_1;
+    var _a, template, articles, images, _verticalTimeline, _prettyRating, _articles, _images, newMarkdown, error_1;
     return __generator(this, function (_b) {
         switch (_b.label) {
             case 0:
                 _b.trys.push([0, 5, , 6]);
                 return [4 /*yield*/, Promise.all([
                         fs_1.promises.readFile("./README.md.tpl", { encoding: "utf-8" }),
-                        functions_1.getLatestArticles()
+                        functions_1.getLatestArticles(),
+                        functions_1.getInstagramImages()
                     ])];
             case 1:
-                _a = _b.sent(), template = _a[0], articles = _a[1];
+                _a = _b.sent(), template = _a[0], articles = _a[1], images = _a[2];
                 return [4 /*yield*/, functions_1.getVersion(constants_1.URLS.VERTICAL_TIMELINE)];
             case 2:
                 _verticalTimeline = _b.sent();
@@ -58,10 +59,12 @@ var functions_1 = require("./functions");
             case 3:
                 _prettyRating = _b.sent();
                 _articles = articles ? functions_1.sliceArticles(articles) : '';
+                _images = images ? functions_1.latestInstagramImages(images) : '';
                 newMarkdown = template
                     .replace(constants_1.PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)
                     .replace(constants_1.PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
-                    .replace(constants_1.PLACEHOLDERS.WEBSITE.RSS, _articles);
+                    .replace(constants_1.PLACEHOLDERS.WEBSITE.RSS, _articles)
+                    .replace(constants_1.PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM, _images);
                 return [4 /*yield*/, fs_1.promises.writeFile("./README.md", newMarkdown)];
             case 4:
                 _b.sent();
