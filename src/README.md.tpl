@@ -40,14 +40,14 @@
       <li>League of legends (lol):
         <ul>
           <li>Server: LAS</li>
-          <li>Summoner Name:<a href="https://www.leagueofgraphs.com/es/summoner/las/proskynete">Proskynete</a></li>
+          <li>Summoner Name:<a href="https://www.leagueofgraphs.com/es/summoner/las/proskynete" target='_blank'>Proskynete</a></li>
         </ul>
       </li>
       <li>World of Warcraft (wow):
         <ul>
           <li>Kingdom: Ragnaros</li>
-          <li>Race:<a href="https://worldofwarcraft.com/en-us/game/races/blood-elf">Blood Elf</a></li>
-          <li>Class:<a href="https://worldofwarcraft.com/en-us/game/talent-calculator#mage/fire">Fire Wizard</a></li>
+          <li>Race:<a href="https://worldofwarcraft.com/en-us/game/races/blood-elf" target='_blank'>Blood Elf</a></li>
+          <li>Class:<a href="https://worldofwarcraft.com/en-us/game/talent-calculator#mage/fire" target='_blank'>Fire Wizard</a></li>
           <li>Level: 60</li>
         </ul>
       </li>
@@ -71,7 +71,7 @@
 
 <p align="left">
   <strong>
-    Latest %{{number_images}} images on:<a href="https://instagram.com/proskynete"> My Instagram</a>
+    Latest %{{number_images}} images on:<a href="https://instagram.com/proskynete" target='_blank'> My Instagram</a>
   </strong>
 </p>
 
@@ -81,7 +81,7 @@
 
 <p align="left">
   <strong>
-    Latest articles I wrote on:<a href="https://eduardoalvarez.dev"> eduardoalvarez.dev</a>
+    Latest articles I wrote on:<a href="https://eduardoalvarez.dev" target='_blank'> eduardoalvarez.dev</a>
   </strong>
 </p>
 
@@ -91,7 +91,7 @@
 
 <p align="left"><strong>Credits & Thanks</strong></p>
 <ul>
-  <li>Animation developed by<a href="https://pibe.cl/"> pibe.cl</a></li>
-  <li>Inspiration and teaching:<a href="https://carlosazaustre.es/"> Carlos Azaustre</a></li>
-  <li>Inspiration and teaching:<a href="https://midu.dev/"> Midudev</a></li>
+  <li>Animation developed: <a href="https://pibe.cl/" target='_blank'>pibe.cl</a></li>
+  <li>Inspiration and teaching:<a href="https://carlosazaustre.es/" target='_blank'> Carlos Azaustre</a></li>
+  <li>Inspiration and teaching:<a href="https://midu.dev/" target='_blank'> Midudev</a></li>
 </ul>
