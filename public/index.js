@@ -46,7 +46,7 @@ var functions_1 = require("./functions");
             case 0:
                 _b.trys.push([0, 5, , 6]);
                 return [4 /*yield*/, Promise.all([
-                        fs_1.promises.readFile("./README.md.tpl", { encoding: "utf-8" }),
+                        fs_1.promises.readFile("./src/README.md.tpl", { encoding: "utf-8" }),
                         functions_1.getLatestArticles(),
                         functions_1.getInstagramImages()
                     ])];

@@ -13,7 +13,7 @@ import {
 (async () => {
   try {
     const [template, articles, images] = await Promise.all([
-      fs.readFile("./README.md.tpl", { encoding: "utf-8" }),
+      fs.readFile("./src/README.md.tpl", { encoding: "utf-8" }),
       getLatestArticles(),
       getInstagramImages()
     ]);
