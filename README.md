@@ -129,7 +129,10 @@
           <li>Server: LAS</li>
           <li>
             Summoner Name:
-            <a href="https://www.leagueofgraphs.com/es/summoner/las/proskynete">
+            <a
+              href="https://www.leagueofgraphs.com/es/summoner/las/proskynete"
+              target="_blank"
+            >
               Proskynete
             </a>
           </li>
@@ -141,13 +144,19 @@
           <li>Kingdom: Ragnaros</li>
           <li>
             Race:
-            <a href="https://worldofwarcraft.com/en-us/game/races/blood-elf">
+            <a
+              href="https://worldofwarcraft.com/en-us/game/races/blood-elf"
+              target="_blank"
+            >
               Blood Elf
             </a>
           </li>
           <li>
             Class:
-            <a href="https://worldofwarcraft.com/en-us/game/talent-calculator#mage/fire">
+            <a
+              href="https://worldofwarcraft.com/en-us/game/talent-calculator#mage/fire"
+              target="_blank"
+            >
               Fire Wizard
             </a>
           </li>
@@ -216,7 +225,9 @@
 <p align="left">
   <strong>
     Latest 4 images on:
-    <a href="https://instagram.com/proskynete"> My Instagram</a>
+    <a href="https://instagram.com/proskynete" target="_blank">
+      My Instagram
+    </a>
   </strong>
 </p>
 
@@ -246,7 +257,7 @@
 </a>
 <a href="https://www.instagram.com/p/CB7Fp2eF5T1/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/105956568_268033227593112_6817218917043678426_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=q2pNUAyvgUEAX9nauCD&tp=1&oh=ef10526bc2af0b7c6bd4937f1b7e82b3&oe=60042EE9"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/105956568_268033227593112_6817218917043678426_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=Bs4PkxdMSgQAX85P8rx&tp=1&oh=a1f4fcc46dc390703a8acbc9f15a5bd4&oe=60042EE9"
     alt="Instagram photo"
     width="170px"
     height="170px"
@@ -257,8 +268,10 @@
 
 <p align="left">
   <strong>
-    Latest articles I wrote on:
-    <a href="https://eduardoalvarez.dev"> eduardoalvarez.dev</a>
+    Latest 5 articles I wrote on:
+    <a href="https://eduardoalvarez.dev" target="_blank">
+      eduardoalvarez.dev
+    </a>
   </strong>
 </p>
 
@@ -271,14 +284,21 @@
 </p>
 <ul>
   <li>
-    Animation developed by<a href="https://pibe.cl/"> pibe.cl</a>
+    Animation developed:
+    <a href="https://pibe.cl/" target="_blank">
+      pibe.cl
+    </a>
   </li>
   <li>
     Inspiration and teaching:
-    <a href="https://carlosazaustre.es/"> Carlos Azaustre</a>
+    <a href="https://carlosazaustre.es/" target="_blank">
+      Carlos Azaustre
+    </a>
   </li>
   <li>
     Inspiration and teaching:
-    <a href="https://midu.dev/"> Midudev</a>
+    <a href="https://midu.dev/" target="_blank">
+      Midudev
+    </a>
   </li>
 </ul>

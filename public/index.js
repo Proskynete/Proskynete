@@ -81,6 +81,7 @@ var functions_1 = require("./functions");
                 newMarkdown = template
                     .replace(constants_1.PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)
                     .replace(constants_1.PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
+                    .replace(constants_1.PLACEHOLDERS.WEBSITE.NUMBER_ARTICLES, constants_1.NUMBERS.ARTICLES.toString())
                     .replace(constants_1.PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.NUMBER_IMAGES, constants_1.NUMBERS.IMAGES.toString())
                     .replace(constants_1.PLACEHOLDERS.WEBSITE.RSS, _articles)
                     .replace(constants_1.PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.SECTION_IMAGES, _images);

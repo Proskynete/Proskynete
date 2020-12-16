@@ -43,11 +43,12 @@ export const prettyDate = (date: string): string => moment(new Date(date)).forma
  * @returns Link with the title, and the date of the post, with markdown syntax.
  */
 export const sliceArticles = (articles: Parser.Item[]): string =>
-  articles.slice(0, NUMBERS.ARTICLES).map(({ title, link, pubDate }) =>
+  articles.slice(0, NUMBERS.ARTICLES).map(({ title, link, pubDate }) => (
     pubDate
-      ? `<a href='${link}' target='_blank'>${title}</a> - <small>Posted on ${prettyDate(pubDate)}</small>`
-      : `<a href='${link}' target='_blank'>${title}</a>`
-  ).join('\n');
+      ? `[${title}](${link}) - <small>Posted on ${prettyDate(pubDate)}</small>`
+      : `[${title}](${link})`
+      
+  )).join('\n');
 
   /**
    * Get images from any instagram profile

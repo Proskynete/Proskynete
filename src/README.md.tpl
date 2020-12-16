@@ -71,7 +71,7 @@
 
 <p align="left">
   <strong>
-    Latest %{{number_images}}% images on:<a href="https://instagram.com/proskynete" target='_blank'> My Instagram</a>
+    Latest %{{number_images}}% images on:<a href="https://instagram.com/proskynete" target='_blank'>My Instagram</a>
   </strong>
 </p>
 
@@ -81,7 +81,7 @@
 
 <p align="left">
   <strong>
-    Latest %{{number_articles}}% articles I wrote on:<a href="https://eduardoalvarez.dev" target='_blank'> eduardoalvarez.dev</a>
+    Latest %{{number_articles}}% articles I wrote on:<a href="https://eduardoalvarez.dev" target='_blank'>eduardoalvarez.dev</a>
   </strong>
 </p>
 
@@ -91,7 +91,7 @@
 
 <p align="left"><strong>Credits & Thanks</strong></p>
 <ul>
-  <li>Animation developed: <a href="https://pibe.cl/" target='_blank'>pibe.cl</a></li>
-  <li>Inspiration and teaching:<a href="https://carlosazaustre.es/" target='_blank'> Carlos Azaustre</a></li>
-  <li>Inspiration and teaching:<a href="https://midu.dev/" target='_blank'> Midudev</a></li>
+  <li>Animation developed:<a href="https://pibe.cl/" target='_blank'>pibe.cl</a></li>
+  <li>Inspiration and teaching:<a href="https://carlosazaustre.es/" target='_blank'>Carlos Azaustre</a></li>
+  <li>Inspiration and teaching:<a href="https://midu.dev/" target='_blank'>Midudev</a></li>
 </ul>

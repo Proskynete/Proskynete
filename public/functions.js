@@ -90,9 +90,9 @@ exports.prettyDate = prettyDate;
 var sliceArticles = function (articles) {
     return articles.slice(0, constants_1.NUMBERS.ARTICLES).map(function (_a) {
         var title = _a.title, link = _a.link, pubDate = _a.pubDate;
-        return pubDate
+        return (pubDate
             ? "[" + title + "](" + link + ") - <small>Posted on " + exports.prettyDate(pubDate) + "</small>"
-            : "[" + title + "](" + link + ")";
+            : "[" + title + "](" + link + ")");
     }).join('\n');
 };
 exports.sliceArticles = sliceArticles;
