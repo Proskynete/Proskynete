@@ -64,9 +64,9 @@ var functions_1 = require("./functions");
             case 1:
                 prettierConfig = _b.sent();
                 return [4 /*yield*/, Promise.all([
-                        fs_1.promises.readFile("./src/README.md.tpl", { encoding: "utf-8" }),
+                        fs_1.promises.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
                         functions_1.getLatestArticles(),
-                        functions_1.getInstagramImages()
+                        functions_1.getInstagramImages(),
                     ])];
             case 2:
                 _a = _b.sent(), template = _a[0], articles = _a[1], images = _a[2];
@@ -88,7 +88,7 @@ var functions_1 = require("./functions");
                     .replace(constants_1.PLACEHOLDERS.WEBSITE.RSS, _articles)
                     .replace(constants_1.PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.SECTION_IMAGES, _images);
                 markdownFormated = prettier_1.default.format(newMarkdown, __assign(__assign({}, prettierConfig), { parser: 'mdx' }));
-                return [4 /*yield*/, fs_1.promises.writeFile("./README.md", markdownFormated)];
+                return [4 /*yield*/, fs_1.promises.writeFile('./README.md', markdownFormated)];
             case 5:
                 _b.sent();
                 return [3 /*break*/, 7];

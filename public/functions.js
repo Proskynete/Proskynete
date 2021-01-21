@@ -80,7 +80,9 @@ exports.getLatestArticles = getLatestArticles;
  * @param {string} date - Any format of date.
  * @returns format example: MM DD, YYYY
  */
-var prettyDate = function (date) { return moment_1.default(new Date(date)).format('LL'); };
+var prettyDate = function (date) {
+    return moment_1.default(new Date(date)).format('LL');
+};
 exports.prettyDate = prettyDate;
 /**
  * Get an array of articles and transform them with a markdown format.
@@ -88,12 +90,15 @@ exports.prettyDate = prettyDate;
  * @returns Link with the title, and the date of the post, with markdown syntax.
  */
 var sliceArticles = function (articles) {
-    return articles.slice(0, constants_1.NUMBERS.ARTICLES).map(function (_a) {
+    return articles
+        .slice(0, constants_1.NUMBERS.ARTICLES)
+        .map(function (_a) {
         var title = _a.title, link = _a.link, pubDate = _a.pubDate;
-        return (pubDate
+        return pubDate
             ? "[" + title + "](" + link + ") - <small>Posted on " + exports.prettyDate(pubDate) + "</small>"
-            : "[" + title + "](" + link + ")");
-    }).join('\n');
+            : "[" + title + "](" + link + ")";
+    })
+        .join('\n');
 };
 exports.sliceArticles = sliceArticles;
 /**
@@ -101,19 +106,18 @@ exports.sliceArticles = sliceArticles;
  * @returns A object with permalink and media_url attributes
  */
 var getInstagramImages = function () { return __awaiter(void 0, void 0, void 0, function () {
-    var data, json, edges;
+    var data, edges;
     return __generator(this, function (_a) {
         switch (_a.label) {
-            case 0: return [4 /*yield*/, axios_1.default(constants_1.URLS.INSTAGRAM)];
+            case 0: return [4 /*yield*/, axios_1.default.get("https://www.instagram.com/graphql/query?query_id=17888483320059182&variables={\"id\":" + constants_1.PROSKYNETE + ",\"first\":" + constants_1.NUMBERS.IMAGES + ",\"after\":null}")];
             case 1:
                 data = (_a.sent()).data;
-                json = JSON.parse(data.match(constants_1.REGEXPS.INSTAGRAM)[1]);
-                edges = json.entry_data.ProfilePage[0].graphql.user.edge_owner_to_timeline_media.edges.splice(0, 8);
+                edges = data.data.user.edge_owner_to_timeline_media.edges;
                 return [2 /*return*/, edges.map(function (_a) {
                         var node = _a.node;
                         return ({
                             permalink: "https://www.instagram.com/p/" + node.shortcode + "/",
-                            media_url: node.thumbnail_src,
+                            media_url: [node.thumbnail_src, node.thumbnail_resources[0]],
                         });
                     })];
         }
@@ -131,11 +135,15 @@ var latestInstagramImages = function (images) {
         .slice(0, constants_1.NUMBERS.IMAGES)
         .map(function (_a) {
         var media_url = _a.media_url, permalink = _a.permalink;
-        return ("<a href='" + permalink + "' target='_blank'>\n      <img src='" + media_url + "' alt='Instagram photo' width='170px' height='170px'  />\n    </a>");
+        return "<a href='" + permalink + "' target='_blank'>\n      <img src='" + media_url[0] + "' alt='Instagram photo' width='" + media_url[1].config_width + "' height='" + media_url[1].config_height + "' />\n    </a>";
     })
         .join('');
 };
 exports.latestInstagramImages = latestInstagramImages;
-var getYearsOld = function () { return moment_1.default().diff("1993-12-24", "years"); };
+/**
+ * Get the number of years from the year of birth to now
+ * @returns Number of years
+ */
+var getYearsOld = function () { return moment_1.default().diff(constants_1.YEAR_OF_BIRTH, 'years'); };
 exports.getYearsOld = getYearsOld;
 //# sourceMappingURL=functions.js.map

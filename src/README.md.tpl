@@ -28,8 +28,8 @@
 <ul>
   <li>📍 I currently live in Lampa, RM. Santiago of Chile.</li>
   <li>👨🏼‍💻 I'm %{{years_old}}% years old.</li>
-  <li>🛫 I love traveling around the world</li>
-  <li>💻 Web technologies that I really, really like: React and Node </li>
+  <li>🛫 I love traveling around the world.</li>
+  <li>💻 Web technologies that I really, really like: React and Node.</li>
 </ul>
 
 <p align="left"><strong>Hobbies</strong></p>
@@ -46,7 +46,8 @@
       <li>World of Warcraft (wow):
         <ul>
           <li>Kingdom: Ragnaros</li>
-          <li>Race:<a href="https://worldofwarcraft.com/en-us/game/races/blood-elf" target='_blank'>Blood Elf</a></li>
+          <li>Raider.io:<a href="https://raider.io/characters/us/ragnaros/Proskynete" target="_blank">Proskynete</a></li>
+          <li>Race:<a href="https://worldofwarcraft.com/en-us/game/races/troll" target='_blank'>Troll</a></li>
           <li>Class:<a href="https://worldofwarcraft.com/en-us/game/talent-calculator#mage/fire" target='_blank'>Fire Wizard</a></li>
           <li>Level: 60</li>
         </ul>

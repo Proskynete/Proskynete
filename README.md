@@ -108,8 +108,8 @@
 <ul>
   <li>📍 I currently live in Lampa, RM. Santiago of Chile.</li>
   <li>👨🏼‍💻 I'm 27 years old.</li>
-  <li>🛫 I love traveling around the world</li>
-  <li>💻 Web technologies that I really, really like: React and Node </li>
+  <li>🛫 I love traveling around the world.</li>
+  <li>💻 Web technologies that I really, really like: React and Node.</li>
 </ul>
 
 <p align="left">
@@ -143,12 +143,21 @@
         <ul>
           <li>Kingdom: Ragnaros</li>
           <li>
-            Race:
+            Raider.io:
             <a
-              href="https://worldofwarcraft.com/en-us/game/races/blood-elf"
+              href="https://raider.io/characters/us/ragnaros/Proskynete"
               target="_blank"
             >
-              Blood Elf
+              Proskynete
+            </a>
+          </li>
+          <li>
+            Race:
+            <a
+              href="https://worldofwarcraft.com/en-us/game/races/troll"
+              target="_blank"
+            >
+              Troll
             </a>
           </li>
           <li>
@@ -224,7 +233,7 @@
 
 <p align="left">
   <strong>
-    Latest 4 images on:
+    Latest 6 images on:
     <a href="https://instagram.com/proskynete" target="_blank">
       My Instagram
     </a>
@@ -235,32 +244,48 @@
   <img
     src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=A3zYT_UaaEsAX8_VeYS&tp=1&oh=64a8ca64258b442e043e48377c15496a&oe=6032969E"
     alt="Instagram photo"
-    width="170px"
-    height="170px"
+    width="150"
+    height="150"
   />
 </a>
 <a href="https://www.instagram.com/p/CHtuu6HgQzu/" target="_blank">
   <img
     src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c127.0.770.770a/s640x640/125768598_369307330825693_2973253652096890101_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=6E42GCojb9IAX83xCL1&tp=1&oh=953e4ec8a319662abe3dc8c406cccb42&oe=603202F8"
     alt="Instagram photo"
-    width="170px"
-    height="170px"
+    width="150"
+    height="150"
   />
 </a>
 <a href="https://www.instagram.com/p/CDXNQv3FUce/" target="_blank">
   <img
     src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/116427085_133051865130809_3417738198082545657_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=am9NZlZpehMAX-OljKt&tp=1&oh=4312b1cdee0798ba9c10c382136a06c2&oe=60328642"
     alt="Instagram photo"
-    width="170px"
-    height="170px"
+    width="150"
+    height="150"
   />
 </a>
 <a href="https://www.instagram.com/p/CB7Fp2eF5T1/" target="_blank">
   <img
     src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/105956568_268033227593112_6817218917043678426_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=-sGNwl3P2KIAX_gdLES&tp=1&oh=3c270b939d6db54de1e22ee88effdc07&oe=6033A4E9"
     alt="Instagram photo"
-    width="170px"
-    height="170px"
+    width="150"
+    height="150"
+  />
+</a>
+<a href="https://www.instagram.com/p/CBONNWblRaf/" target="_blank">
+  <img
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/103328429_697773797433182_217662242746128254_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=CrCfIU6tLxYAX-1ziAg&tp=1&oh=d868e012897b2f8a3d25dc81c539eba4&oe=6031D5E5"
+    alt="Instagram photo"
+    width="150"
+    height="150"
+  />
+</a>
+<a href="https://www.instagram.com/p/CBJ3FqIly-H/" target="_blank">
+  <img
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/101950709_540336909970979_3824037438812820667_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=FnP5yXmyIkoAX_ItoY3&tp=1&oh=14bb7360b33d3fcd9078f127b20849fd&oe=603411A8"
+    alt="Instagram photo"
+    width="150"
+    height="150"
   />
 </a>
 
