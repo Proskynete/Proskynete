@@ -55,7 +55,7 @@ var prettier_1 = __importDefault(require("prettier"));
 var constants_1 = require("./constants");
 var functions_1 = require("./functions");
 (function () { return __awaiter(void 0, void 0, void 0, function () {
-    var prettierConfig, _a, template, articles, images, _verticalTimeline, _prettyRating, _articles, _images, newMarkdown, markdownFormated, error_1;
+    var prettierConfig, _a, template, articles, images, _verticalTimeline, _prettyRating, _articles, _images, _yearsOld, newMarkdown, markdownFormated, error_1;
     return __generator(this, function (_b) {
         switch (_b.label) {
             case 0:
@@ -78,7 +78,9 @@ var functions_1 = require("./functions");
                 _prettyRating = _b.sent();
                 _articles = articles ? functions_1.sliceArticles(articles) : '';
                 _images = images ? functions_1.latestInstagramImages(images) : '';
+                _yearsOld = functions_1.getYearsOld();
                 newMarkdown = template
+                    .replace(constants_1.PLACEHOLDERS.PERSONAL.YEARS_OLD, _yearsOld.toString())
                     .replace(constants_1.PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)
                     .replace(constants_1.PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
                     .replace(constants_1.PLACEHOLDERS.WEBSITE.NUMBER_ARTICLES, constants_1.NUMBERS.ARTICLES.toString())

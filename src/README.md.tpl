@@ -27,7 +27,7 @@
 <p align="left"><strong>About me</strong></p>
 <ul>
   <li>📍 I currently live in Lampa, RM. Santiago of Chile.</li>
-  <li>👨🏼‍💻 I'm 26 years old.</li>
+  <li>👨🏼‍💻 I'm %{{years_old}}% years old.</li>
   <li>🛫 I love traveling around the world</li>
   <li>💻 Web technologies that I really, really like: React and Node </li>
 </ul>
@@ -61,8 +61,8 @@
   <li>🍺 It's never a bad time to stop in the week and partake of a beer with friends</li>
   <li>⭐ I have 2 libraries created with React:
     <ul>
-      <li>vertical-timeline-component-react <small>v%{{vt-version}}%</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a>-<a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repository</a>)</li>
-      <li>pretty-rating-react <small>v%{{pr-version}}%</small> (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a>-<a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repository</a>)</li>
+      <li>vertical-timeline-component-react <small>v%{{vt_version}}%</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a>-<a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repository</a>)</li>
+      <li>pretty-rating-react <small>v%{{pr_version}}%</small> (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a>-<a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repository</a>)</li>
     </ul>
   </li>
 </ul>

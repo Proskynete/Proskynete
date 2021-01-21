@@ -82,3 +82,6 @@ export const latestInstagramImages = (images: InstagramImagesResponse[]) =>
       <img src='${media_url}' alt='Instagram photo' width='170px' height='170px'  />
     </a>`))
     .join('');
+  
+
+export const getYearsOld = () => moment().diff("1993-12-24", "years");

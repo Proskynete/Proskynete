@@ -4,9 +4,12 @@ exports.NUMBERS = exports.REGEXPS = exports.URLS = exports.PLACEHOLDERS = void 0
 var BASE_NPM_URL = "https://www.npmjs.com/package";
 var BASE_WEBSITE = "https://eduardoalvarez.dev";
 exports.PLACEHOLDERS = {
+    PERSONAL: {
+        YEARS_OLD: "%{{years_old}}%"
+    },
     LIBRARIES: {
-        VERTICAL_TIMELINE: "%{{vt-version}}%",
-        PRETTY_RATING: "%{{pr-version}}%"
+        VERTICAL_TIMELINE: "%{{vt_version}}%",
+        PRETTY_RATING: "%{{pr_version}}%"
     },
     WEBSITE: {
         NUMBER_ARTICLES: "%{{number_articles}}%",

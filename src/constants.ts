@@ -2,9 +2,12 @@ const BASE_NPM_URL = "https://www.npmjs.com/package";
 const BASE_WEBSITE = "https://eduardoalvarez.dev";
 
 export const PLACEHOLDERS = {
+  PERSONAL: {
+    YEARS_OLD: "%{{years_old}}%"
+  },
   LIBRARIES: {
-    VERTICAL_TIMELINE: "%{{vt-version}}%",
-    PRETTY_RATING: "%{{pr-version}}%"
+    VERTICAL_TIMELINE: "%{{vt_version}}%",
+    PRETTY_RATING: "%{{pr_version}}%"
   },
   WEBSITE: {
     NUMBER_ARTICLES: "%{{number_articles}}%",

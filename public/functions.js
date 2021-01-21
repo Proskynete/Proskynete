@@ -39,7 +39,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.latestInstagramImages = exports.getInstagramImages = exports.sliceArticles = exports.prettyDate = exports.getLatestArticles = exports.getVersion = void 0;
+exports.getYearsOld = exports.latestInstagramImages = exports.getInstagramImages = exports.sliceArticles = exports.prettyDate = exports.getLatestArticles = exports.getVersion = void 0;
 var axios_1 = __importDefault(require("axios"));
 var cheerio_1 = __importDefault(require("cheerio"));
 var rss_parser_1 = __importDefault(require("rss-parser"));
@@ -136,4 +136,6 @@ var latestInstagramImages = function (images) {
         .join('');
 };
 exports.latestInstagramImages = latestInstagramImages;
+var getYearsOld = function () { return moment_1.default().diff("1993-12-24", "years"); };
+exports.getYearsOld = getYearsOld;
 //# sourceMappingURL=functions.js.map

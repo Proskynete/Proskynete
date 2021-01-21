@@ -7,7 +7,8 @@ import {
   getLatestArticles,
   sliceArticles,
   getInstagramImages,
-  latestInstagramImages
+  latestInstagramImages,
+  getYearsOld
 } from "./functions";
 
 
@@ -25,8 +26,10 @@ import {
     const _prettyRating = await getVersion(URLS.PRETTY_RATING);
     const _articles = articles ? sliceArticles(articles) : '';
     const _images = images ? latestInstagramImages(images) : '';
+    const _yearsOld = getYearsOld();
 
     const newMarkdown = template
+      .replace(PLACEHOLDERS.PERSONAL.YEARS_OLD, _yearsOld.toString())
       .replace(PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)
       .replace(PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
       .replace(PLACEHOLDERS.WEBSITE.NUMBER_ARTICLES, NUMBERS.ARTICLES.toString())

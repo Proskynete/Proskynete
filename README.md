@@ -107,7 +107,7 @@
 </p>
 <ul>
   <li>📍 I currently live in Lampa, RM. Santiago of Chile.</li>
-  <li>👨🏼‍💻 I'm 26 years old.</li>
+  <li>👨🏼‍💻 I'm 27 years old.</li>
   <li>🛫 I love traveling around the world</li>
   <li>💻 Web technologies that I really, really like: React and Node </li>
 </ul>
@@ -233,7 +233,7 @@
 
 <a href="https://www.instagram.com/p/CH08EtHAmUO/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Ogs2hD6sG28AX8Plb5Y&tp=1&oh=38b236f0aaf31254d255f89d1ef06754&oe=6003209E"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=A3zYT_UaaEsAX8_VeYS&tp=1&oh=64a8ca64258b442e043e48377c15496a&oe=6032969E"
     alt="Instagram photo"
     width="170px"
     height="170px"
@@ -241,7 +241,7 @@
 </a>
 <a href="https://www.instagram.com/p/CHtuu6HgQzu/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c127.0.770.770a/s640x640/125768598_369307330825693_2973253652096890101_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=rORUFWx76icAX9FMW4J&tp=1&oh=b0ef7210e67111d5888c69cfd0021273&oe=60028CF8"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c127.0.770.770a/s640x640/125768598_369307330825693_2973253652096890101_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=6E42GCojb9IAX83xCL1&tp=1&oh=953e4ec8a319662abe3dc8c406cccb42&oe=603202F8"
     alt="Instagram photo"
     width="170px"
     height="170px"
@@ -249,7 +249,7 @@
 </a>
 <a href="https://www.instagram.com/p/CDXNQv3FUce/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/116427085_133051865130809_3417738198082545657_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=mCByVW3BKHEAX-Rnenr&tp=1&oh=811040aeeaa13b31ddc9876fb322198b&oe=60031042"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/116427085_133051865130809_3417738198082545657_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=am9NZlZpehMAX-OljKt&tp=1&oh=4312b1cdee0798ba9c10c382136a06c2&oe=60328642"
     alt="Instagram photo"
     width="170px"
     height="170px"
@@ -257,7 +257,7 @@
 </a>
 <a href="https://www.instagram.com/p/CB7Fp2eF5T1/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/105956568_268033227593112_6817218917043678426_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=Bs4PkxdMSgQAX85P8rx&tp=1&oh=a1f4fcc46dc390703a8acbc9f15a5bd4&oe=60042EE9"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/105956568_268033227593112_6817218917043678426_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=-sGNwl3P2KIAX_gdLES&tp=1&oh=3c270b939d6db54de1e22ee88effdc07&oe=6033A4E9"
     alt="Instagram photo"
     width="170px"
     height="170px"
