@@ -233,7 +233,7 @@
 
 <p align="left">
   <strong>
-    Latest 6 images on:
+    Latest 5 images on:
     <a href="https://instagram.com/proskynete" target="_blank">
       My Instagram
     </a>
@@ -275,14 +275,6 @@
 <a href="https://www.instagram.com/p/CBONNWblRaf/" target="_blank">
   <img
     src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/103328429_697773797433182_217662242746128254_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=CrCfIU6tLxYAX-1ziAg&tp=1&oh=d868e012897b2f8a3d25dc81c539eba4&oe=6031D5E5"
-    alt="Instagram photo"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://www.instagram.com/p/CBJ3FqIly-H/" target="_blank">
-  <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/101950709_540336909970979_3824037438812820667_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=FnP5yXmyIkoAX_ItoY3&tp=1&oh=14bb7360b33d3fcd9078f127b20849fd&oe=603411A8"
     alt="Instagram photo"
     width="150"
     height="150"
