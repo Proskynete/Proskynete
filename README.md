@@ -65,6 +65,12 @@
     title="MongoDB"
   />
   <img
+    src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/dart.png?raw=true"
+    width="25"
+    height="25"
+    title="Dart"
+  />
+  <img
     src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/flutter.png?raw=true"
     width="25"
     height="25"

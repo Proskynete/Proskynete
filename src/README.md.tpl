@@ -12,6 +12,7 @@
   <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/redux.png?raw=true" width="25" height="25" title="Redux" />
   <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/node.png?raw=true" width="25" height="25" title="Nodejs" />
   <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/mongodb.png?raw=true" width="25" height="25" title="MongoDB" />
+  <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/dart.png?raw=true" width="25" height="25" title="Dart" />
   <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/flutter.png?raw=true" width="25" height="25" title="Flutter" />
   <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/aws.png?raw=true" width="25" height="25" title="Amazon Web Services" />
   <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/git.png?raw=true" width="25" height="25" title="Git" />
