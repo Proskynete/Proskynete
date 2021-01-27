@@ -118,6 +118,7 @@ var getInstagramImages = function () { return __awaiter(void 0, void 0, void 0, 
                         return ({
                             permalink: "https://www.instagram.com/p/" + node.shortcode + "/",
                             media_url: [node.thumbnail_src, node.thumbnail_resources[0]],
+                            description: node.edge_media_to_caption.edges[0].node.text,
                         });
                     })];
         }
@@ -125,7 +126,6 @@ var getInstagramImages = function () { return __awaiter(void 0, void 0, void 0, 
 }); };
 exports.getInstagramImages = getInstagramImages;
 /**
- *
  * Trasnform the string of images to mdx format and slice the result
  * @param {InstagramImagesResponse[]} images - Array of { permalink, media_url } attributes
  * @returns An array of links wirth images obtained from instagram
@@ -134,8 +134,8 @@ var latestInstagramImages = function (images) {
     return images
         .slice(0, constants_1.NUMBERS.IMAGES)
         .map(function (_a) {
-        var media_url = _a.media_url, permalink = _a.permalink;
-        return "<a href='" + permalink + "' target='_blank'>\n      <img src='" + media_url[0] + "' alt='Instagram photo' width='" + media_url[1].config_width + "' height='" + media_url[1].config_height + "' />\n    </a>";
+        var media_url = _a.media_url, permalink = _a.permalink, description = _a.description;
+        return "<a href='" + permalink + "' target='_blank'>\n\t\t\t\t<img\n\t\t\t\t\tsrc='" + media_url[0] + "'\n\t\t\t\t\talt='" + description + "'\n\t\t\t\t\twidth='" + media_url[1].config_width + "'\n\t\t\t\t\theight='" + media_url[1].config_height + "'\n\t\t\t\t/>\n    </a>";
     })
         .join('');
 };

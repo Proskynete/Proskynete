@@ -59,7 +59,9 @@ export const sliceArticles = (articles: Parser.Item[]): string =>
  * Get images from any instagram profile
  * @returns A object with permalink and media_url attributes
  */
-export const getInstagramImages = async () => {
+export const getInstagramImages = async (): Promise<
+	InstagramImagesResponse[]
+> => {
 	const { data } = await axios.get(
 		`https://www.instagram.com/graphql/query?query_id=17888483320059182&variables={"id":${PROSKYNETE},"first":${NUMBERS.IMAGES},"after":null}`,
 	);
@@ -68,11 +70,11 @@ export const getInstagramImages = async () => {
 	return edges.map(({ node }: InstagramNodeInterface) => ({
 		permalink: `https://www.instagram.com/p/${node.shortcode}/`,
 		media_url: [node.thumbnail_src, node.thumbnail_resources[0]],
+		description: node.edge_media_to_caption.edges[0].node.text,
 	}));
 };
 
 /**
- *
  * Trasnform the string of images to mdx format and slice the result
  * @param {InstagramImagesResponse[]} images - Array of { permalink, media_url } attributes
  * @returns An array of links wirth images obtained from instagram
@@ -81,9 +83,17 @@ export const latestInstagramImages = (images: InstagramImagesResponse[]) =>
 	images
 		.slice(0, NUMBERS.IMAGES)
 		.map(
-			({ media_url, permalink }) =>
-				`<a href='${permalink}' target='_blank'>
-      <img src='${media_url[0]}' alt='Instagram photo' width='${media_url[1].config_width}' height='${media_url[1].config_height}' />
+			({
+				media_url,
+				permalink,
+				description,
+			}) => `<a href='${permalink}' target='_blank'>
+				<img
+					src='${media_url[0]}'
+					alt='${description}'
+					width='${media_url[1].config_width}'
+					height='${media_url[1].config_height}'
+				/>
     </a>`,
 		)
 		.join('');

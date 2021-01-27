@@ -4,10 +4,19 @@ export interface ThumbnailInterface {
 	config_height: number;
 }
 
+export interface EdgesInterface {
+	node: {
+		text: string;
+	};
+}
+
 export interface InstagramInterface {
 	shortcode: string;
 	thumbnail_resources: ThumbnailInterface[];
 	thumbnail_src: string;
+	edge_media_to_caption: {
+		edges: EdgesInterface[];
+	};
 }
 
 export interface InstagramNodeInterface {
@@ -17,6 +26,7 @@ export interface InstagramNodeInterface {
 export interface InstagramImagesResponse {
 	permalink: string;
 	media_url: [string, ThumbnailInterface];
+	description: string;
 }
 
 export interface PlaceholdersInteface {
