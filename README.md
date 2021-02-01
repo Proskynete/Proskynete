@@ -160,10 +160,10 @@
           <li>
             Race:
             <a
-              href="https://worldofwarcraft.com/en-us/game/races/troll"
+              href="https://worldofwarcraft.com/en-us/game/races/undead"
               target="_blank"
             >
-              Troll
+              Undead
             </a>
           </li>
           <li>
@@ -248,7 +248,7 @@
 
 <a href="https://www.instagram.com/p/CKZu82LASN_/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/141493947_137949514810442_7362213050375061519_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=eo6US7wkJKkAX8HWQVp&tp=1&oh=27a3db2253fff6f11361236a17bc15d7&oe=603A8C9C"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/141493947_137949514810442_7362213050375061519_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=6lb_qTMPiPMAX9lPs-R&tp=1&oh=13e0fa4f3254a5b9d39a41f7f0288b66&oe=6042759C"
     alt="Disfrutando del día ❤️"
     width="150"
     height="150"
@@ -256,7 +256,7 @@
 </a>
 <a href="https://www.instagram.com/p/CKXhn2qAtNm/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.177.1440.1440a/s640x640/141217911_1152450091873137_4031924116361872425_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=OXHZNh6VEWoAX8IBDdL&tp=1&oh=7ae0957e701f6d23b353a5a3fb52f219&oe=603B919D"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.177.1440.1440a/s640x640/141217911_1152450091873137_4031924116361872425_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=ooBrQmqtQkUAX9Q1Bup&tp=1&oh=f39bd1dff03c6d8e5b49c1f73b04d599&oe=60437A9D"
     alt="Y así comienza el finde ☺️"
     width="150"
     height="150"
@@ -264,7 +264,7 @@
 </a>
 <a href="https://www.instagram.com/p/CH08EtHAmUO/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=22mYIYOz1qcAX_cXRJ_&tp=1&oh=f3b2f6dcbdf49788cb9cfe6a0f0ac3a4&oe=603A7F9E"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=SGfQfVxaZ-0AX9ogb5P&tp=1&oh=e473eccbb19c9989b25ae8554b5f0265&oe=6042689E"
     alt="Hace casi 30 meses comencé una inversión que ha sido duro mantener hasta el día de hoy, pero hoy, pude vislumbrar lo que se viene... no puedo estar más orgulloso de mi mismo por todo este tiempo que a significado un sacrificio pero que de poco a poco va tomando forma... y se ve filete! ❤️"
     width="150"
     height="150"
@@ -272,7 +272,7 @@
 </a>
 <a href="https://www.instagram.com/p/CHtuu6HgQzu/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c127.0.770.770a/s640x640/125768598_369307330825693_2973253652096890101_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=7PkphDBOnRwAX9zEllp&tp=1&oh=8ecafb6ab09b5262270f22a5ad223f51&oe=6039EBF8"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c127.0.770.770a/s640x640/125768598_369307330825693_2973253652096890101_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=-bxZYup-60AAX_LDZyr&tp=1&oh=ae16f8849b6e0d004fe1ab1426900b9e&oe=6041D4F8"
     alt="Por fin pudimos celebrar el lanzamiento de la aplicación con el tremendo equipo!! 💪🏻 puros vikingos ahí"
     width="150"
     height="150"

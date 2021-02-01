@@ -48,7 +48,7 @@
         <ul>
           <li>Kingdom: Ragnaros</li>
           <li>Raider.io:<a href="https://raider.io/characters/us/ragnaros/Proskynete" target="_blank">Proskynete</a></li>
-          <li>Race:<a href="https://worldofwarcraft.com/en-us/game/races/troll" target='_blank'>Troll</a></li>
+          <li>Race:<a href="https://worldofwarcraft.com/en-us/game/races/undead" target='_blank'>Undead</a></li>
           <li>Class:<a href="https://worldofwarcraft.com/en-us/game/talent-calculator#mage/fire" target='_blank'>Fire Wizard</a></li>
           <li>Level: 60</li>
         </ul>
