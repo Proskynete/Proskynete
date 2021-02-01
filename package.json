@@ -2,7 +2,7 @@
 	"name": "proskynete",
 	"version": "1.1.0",
 	"description": "Proskynete README github profile",
-	"main": "index.js",
+	"main": "public/index.js",
 	"scripts": {
 		"transpilate": "tsc",
 		"generate-readme": "node public/index.js",
