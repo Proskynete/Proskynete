@@ -2,7 +2,7 @@ name: Update README.md
 
 on:
   schedule:
-    - cron: "0 12 * * 5"
+    - cron: '0 12 * * 5'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -11,7 +11,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
         with:
-          node-version: "14"
+          node-version: '14'
       - run: npm install
       - run: npm start
       - run: git config user.name "Eduardo Álvarez"
