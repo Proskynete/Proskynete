@@ -48,7 +48,7 @@ export const sliceArticles = (articles: Parser.Item[]): string =>
 		.slice(0, NUMBERS.ARTICLES)
 		.map(({ title, link, pubDate }) =>
 			pubDate
-				? `[${title}](${link}) - <small>Posted on ${prettyDate(
+				? `- [${title}](${link}) - <small>Posted on ${prettyDate(
 						pubDate,
 				  )}</small>`
 				: `[${title}](${link})`,

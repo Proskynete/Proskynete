@@ -92,7 +92,7 @@ exports.sliceArticles = function (articles) {
         .map(function (_a) {
         var title = _a.title, link = _a.link, pubDate = _a.pubDate;
         return pubDate
-            ? "[" + title + "](" + link + ") - <small>Posted on " + exports.prettyDate(pubDate) + "</small>"
+            ? "- [" + title + "](" + link + ") - <small>Posted on " + exports.prettyDate(pubDate) + "</small>"
             : "[" + title + "](" + link + ")";
     })
         .join('\n');

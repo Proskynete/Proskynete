@@ -290,8 +290,8 @@
   </strong>
 </p>
 
-[Empezando en el desarrollo web](https://eduardoalvarez.dev/articulos/empezando-en-el-desarrollo-web) - <small>Posted on February 4, 2021</small>
-[Introducción a JAMStack](https://eduardoalvarez.dev/articulos/introduccion-a-jamstack) - <small>Posted on April 26, 2020</small>
+- [Empezando en el desarrollo web](https://eduardoalvarez.dev/articulos/empezando-en-el-desarrollo-web) - <small>Posted on February 4, 2021</small>
+- [Introducción a JAMStack](https://eduardoalvarez.dev/articulos/introduccion-a-jamstack) - <small>Posted on April 26, 2020</small>
 
 ---
 
