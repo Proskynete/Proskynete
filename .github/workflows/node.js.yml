@@ -1,8 +1,8 @@
-name: Update README.md with github actions
+name: Update README.md
 
 on:
   schedule:
-    - cron: "0 0 1,15 * *"
+    - cron: "0 12 * * 5"
 jobs:
   build:
     runs-on: ubuntu-latest
