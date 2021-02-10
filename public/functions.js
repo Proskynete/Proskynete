@@ -52,7 +52,7 @@ moment_1.default.locale('en');
  * @param {GetVersionInterface} url - Url to check.
  * @returns All results according to search.
  */
-var getVersion = function (url) { return __awaiter(void 0, void 0, void 0, function () {
+exports.getVersion = function (url) { return __awaiter(void 0, void 0, void 0, function () {
     var file;
     return __generator(this, function (_a) {
         switch (_a.label) {
@@ -66,30 +66,27 @@ var getVersion = function (url) { return __awaiter(void 0, void 0, void 0, funct
         }
     });
 }); };
-exports.getVersion = getVersion;
 /**
  * Get all articles from some RSS page.
  * @returns All items found.
  */
-var getLatestArticles = function () { return __awaiter(void 0, void 0, void 0, function () { return __generator(this, function (_a) {
+exports.getLatestArticles = function () { return __awaiter(void 0, void 0, void 0, function () { return __generator(this, function (_a) {
     return [2 /*return*/, parser.parseURL(constants_1.URLS.RSS).then(function (data) { return data.items; })];
 }); }); };
-exports.getLatestArticles = getLatestArticles;
 /**
  * Transform the date that we pass to a LL format (moment reference).
  * @param {string} date - Any format of date.
  * @returns format example: MM DD, YYYY
  */
-var prettyDate = function (date) {
+exports.prettyDate = function (date) {
     return moment_1.default(new Date(date)).format('LL');
 };
-exports.prettyDate = prettyDate;
 /**
  * Get an array of articles and transform them with a markdown format.
  * @param {array} articles - Articles obtained from an RSS.
  * @returns Link with the title, and the date of the post, with markdown syntax.
  */
-var sliceArticles = function (articles) {
+exports.sliceArticles = function (articles) {
     return articles
         .slice(0, constants_1.NUMBERS.ARTICLES)
         .map(function (_a) {
@@ -100,12 +97,11 @@ var sliceArticles = function (articles) {
     })
         .join('\n');
 };
-exports.sliceArticles = sliceArticles;
 /**
  * Get images from any instagram profile
  * @returns A object with permalink and media_url attributes
  */
-var getInstagramImages = function () { return __awaiter(void 0, void 0, void 0, function () {
+exports.getInstagramImages = function () { return __awaiter(void 0, void 0, void 0, function () {
     var data, edges;
     return __generator(this, function (_a) {
         switch (_a.label) {
@@ -124,13 +120,12 @@ var getInstagramImages = function () { return __awaiter(void 0, void 0, void 0, 
         }
     });
 }); };
-exports.getInstagramImages = getInstagramImages;
 /**
  * Trasnform the string of images to mdx format and slice the result
  * @param {InstagramImagesResponse[]} images - Array of { permalink, media_url } attributes
  * @returns An array of links wirth images obtained from instagram
  */
-var latestInstagramImages = function (images) {
+exports.latestInstagramImages = function (images) {
     return images
         .slice(0, constants_1.NUMBERS.IMAGES)
         .map(function (_a) {
@@ -139,11 +134,9 @@ var latestInstagramImages = function (images) {
     })
         .join('');
 };
-exports.latestInstagramImages = latestInstagramImages;
 /**
  * Get the number of years from the year of birth to now
  * @returns Number of years
  */
-var getYearsOld = function () { return moment_1.default().diff(constants_1.YEAR_OF_BIRTH, 'years'); };
-exports.getYearsOld = getYearsOld;
+exports.getYearsOld = function () { return moment_1.default().diff(constants_1.YEAR_OF_BIRTH, 'years'); };
 //# sourceMappingURL=functions.js.map

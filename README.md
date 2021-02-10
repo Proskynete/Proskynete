@@ -246,9 +246,17 @@
   </strong>
 </p>
 
+<a href="https://www.instagram.com/p/CLCYGengbtk/" target="_blank">
+  <img
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c315.0.810.810a/s640x640/147484351_1047055985703156_8414043853798061953_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=waUkbX8T4mcAX-D5hSF&tp=1&oh=98630d247b899ebe15fdb485415db365&oe=604E16E1"
+    alt="En la oficina... a ver cómo se da la cosa acá xD"
+    width="150"
+    height="150"
+  />
+</a>
 <a href="https://www.instagram.com/p/CKZu82LASN_/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/141493947_137949514810442_7362213050375061519_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=6lb_qTMPiPMAX9lPs-R&tp=1&oh=13e0fa4f3254a5b9d39a41f7f0288b66&oe=6042759C"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/141493947_137949514810442_7362213050375061519_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=xdM4yUP9MpcAX80QAMP&tp=1&oh=e961551d38089127e8f632e6ee89ce41&oe=604E531C"
     alt="Disfrutando del día ❤️"
     width="150"
     height="150"
@@ -256,7 +264,7 @@
 </a>
 <a href="https://www.instagram.com/p/CKXhn2qAtNm/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.177.1440.1440a/s640x640/141217911_1152450091873137_4031924116361872425_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=ooBrQmqtQkUAX9Q1Bup&tp=1&oh=f39bd1dff03c6d8e5b49c1f73b04d599&oe=60437A9D"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.177.1440.1440a/s640x640/141217911_1152450091873137_4031924116361872425_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=enlwToQoGS4AX9ne3MX&tp=1&oh=bbcbd1438c937af7e7f402f9403b7ae3&oe=604F581D"
     alt="Y así comienza el finde ☺️"
     width="150"
     height="150"
@@ -264,16 +272,8 @@
 </a>
 <a href="https://www.instagram.com/p/CH08EtHAmUO/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=SGfQfVxaZ-0AX9ogb5P&tp=1&oh=e473eccbb19c9989b25ae8554b5f0265&oe=6042689E"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=kGUxeOaMUd4AX_RQFOl&tp=1&oh=7e6beae5f621e0f4606c7c026d7c7ad0&oe=604E461E"
     alt="Hace casi 30 meses comencé una inversión que ha sido duro mantener hasta el día de hoy, pero hoy, pude vislumbrar lo que se viene... no puedo estar más orgulloso de mi mismo por todo este tiempo que a significado un sacrificio pero que de poco a poco va tomando forma... y se ve filete! ❤️"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://www.instagram.com/p/CHtuu6HgQzu/" target="_blank">
-  <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c127.0.770.770a/s640x640/125768598_369307330825693_2973253652096890101_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=-bxZYup-60AAX_LDZyr&tp=1&oh=ae16f8849b6e0d004fe1ab1426900b9e&oe=6041D4F8"
-    alt="Por fin pudimos celebrar el lanzamiento de la aplicación con el tremendo equipo!! 💪🏻 puros vikingos ahí"
     width="150"
     height="150"
   />
@@ -290,6 +290,7 @@
   </strong>
 </p>
 
+[Empezando en el desarrollo web](https://eduardoalvarez.dev/articulos/empezando-en-el-desarrollo-web) - <small>Posted on February 4, 2021</small>
 [Introducción a JAMStack](https://eduardoalvarez.dev/articulos/introduccion-a-jamstack) - <small>Posted on April 26, 2020</small>
 
 ---
