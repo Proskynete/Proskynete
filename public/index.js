@@ -53,7 +53,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var fs_1 = require("fs");
 var prettier_1 = __importDefault(require("prettier"));
 var constants_1 = require("./constants");
-var functions_1 = require("./functions");
+var handlers_1 = require("./handlers");
 (function () { return __awaiter(void 0, void 0, void 0, function () {
     var prettierConfig, _a, template, articles, images, _verticalTimeline, _prettyRating, _articles, _images, _yearsOld, newMarkdown, markdownFormated, error_1;
     return __generator(this, function (_b) {
@@ -65,20 +65,20 @@ var functions_1 = require("./functions");
                 prettierConfig = _b.sent();
                 return [4 /*yield*/, Promise.all([
                         fs_1.promises.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
-                        functions_1.getLatestArticles(),
-                        functions_1.getInstagramImages(),
+                        handlers_1.handlerGetLatestArticles(),
+                        handlers_1.handlerGetInstagramImages(),
                     ])];
             case 2:
                 _a = _b.sent(), template = _a[0], articles = _a[1], images = _a[2];
-                return [4 /*yield*/, functions_1.getVersion(constants_1.URLS.VERTICAL_TIMELINE)];
+                return [4 /*yield*/, handlers_1.handlerGetVersion(constants_1.URLS.VERTICAL_TIMELINE)];
             case 3:
                 _verticalTimeline = _b.sent();
-                return [4 /*yield*/, functions_1.getVersion(constants_1.URLS.PRETTY_RATING)];
+                return [4 /*yield*/, handlers_1.handlerGetVersion(constants_1.URLS.PRETTY_RATING)];
             case 4:
                 _prettyRating = _b.sent();
-                _articles = articles ? functions_1.sliceArticles(articles) : '';
-                _images = images ? functions_1.latestInstagramImages(images) : '';
-                _yearsOld = functions_1.getYearsOld();
+                _articles = articles ? handlers_1.hanlderSliceArticles(articles) : '';
+                _images = images ? handlers_1.handlerGetLatestInstagramImages(images) : '';
+                _yearsOld = handlers_1.handlerGetYearsOld();
                 newMarkdown = template
                     .replace(constants_1.PLACEHOLDERS.PERSONAL.YEARS_OLD, _yearsOld.toString())
                     .replace(constants_1.PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)

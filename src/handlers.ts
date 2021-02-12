@@ -14,7 +14,7 @@ moment.locale('en');
  * @param {GetVersionInterface} url - Url to check.
  * @returns All results according to search.
  */
-export const getVersion = async (url: string): Promise<string> => {
+export const handlerGetVersion = async (url: string): Promise<string> => {
 	const file = await axios(url);
 
 	return new Promise((resolve) => {
@@ -27,7 +27,7 @@ export const getVersion = async (url: string): Promise<string> => {
  * Get all articles from some RSS page.
  * @returns All items found.
  */
-export const getLatestArticles = async () =>
+export const handlerGetLatestArticles = async () =>
 	parser.parseURL(URLS.RSS).then((data) => data.items);
 
 /**
@@ -35,7 +35,7 @@ export const getLatestArticles = async () =>
  * @param {string} date - Any format of date.
  * @returns format example: MM DD, YYYY
  */
-export const prettyDate = (date: string): string =>
+export const handlerPrettyDate = (date: string): string =>
 	moment(new Date(date)).format('LL');
 
 /**
@@ -43,12 +43,12 @@ export const prettyDate = (date: string): string =>
  * @param {array} articles - Articles obtained from an RSS.
  * @returns Link with the title, and the date of the post, with markdown syntax.
  */
-export const sliceArticles = (articles: Parser.Item[]): string =>
+export const hanlderSliceArticles = (articles: Parser.Item[]): string =>
 	articles
 		.slice(0, NUMBERS.ARTICLES)
 		.map(({ title, link, pubDate }) =>
 			pubDate
-				? `- [${title}](${link}) - <small>Posted on ${prettyDate(
+				? `- [${title}](${link}) - <small>Posted on ${handlerPrettyDate(
 						pubDate,
 				  )}</small>`
 				: `[${title}](${link})`,
@@ -59,7 +59,7 @@ export const sliceArticles = (articles: Parser.Item[]): string =>
  * Get images from any instagram profile
  * @returns A object with permalink and media_url attributes
  */
-export const getInstagramImages = async (): Promise<
+export const handlerGetInstagramImages = async (): Promise<
 	InstagramImagesResponse[]
 > => {
 	const { data } = await axios.get(
@@ -79,7 +79,9 @@ export const getInstagramImages = async (): Promise<
  * @param {InstagramImagesResponse[]} images - Array of { permalink, media_url } attributes
  * @returns An array of links wirth images obtained from instagram
  */
-export const latestInstagramImages = (images: InstagramImagesResponse[]) =>
+export const handlerGetLatestInstagramImages = (
+	images: InstagramImagesResponse[],
+) =>
 	images
 		.slice(0, NUMBERS.IMAGES)
 		.map(
@@ -102,4 +104,4 @@ export const latestInstagramImages = (images: InstagramImagesResponse[]) =>
  * Get the number of years from the year of birth to now
  * @returns Number of years
  */
-export const getYearsOld = () => moment().diff(YEAR_OF_BIRTH, 'years');
+export const handlerGetYearsOld = () => moment().diff(YEAR_OF_BIRTH, 'years');

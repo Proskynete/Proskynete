@@ -3,13 +3,13 @@ import prettier from 'prettier';
 
 import { NUMBERS, PLACEHOLDERS, URLS } from './constants';
 import {
-	getVersion,
-	getLatestArticles,
-	sliceArticles,
-	getInstagramImages,
-	latestInstagramImages,
-	getYearsOld,
-} from './functions';
+	handlerGetVersion,
+	handlerGetLatestArticles,
+	hanlderSliceArticles,
+	handlerGetInstagramImages,
+	handlerGetLatestInstagramImages,
+	handlerGetYearsOld,
+} from './handlers';
 
 (async () => {
 	try {
@@ -17,15 +17,15 @@ import {
 
 		const [template, articles, images] = await Promise.all([
 			fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
-			getLatestArticles(),
-			getInstagramImages(),
+			handlerGetLatestArticles(),
+			handlerGetInstagramImages(),
 		]);
 
-		const _verticalTimeline = await getVersion(URLS.VERTICAL_TIMELINE);
-		const _prettyRating = await getVersion(URLS.PRETTY_RATING);
-		const _articles = articles ? sliceArticles(articles) : '';
-		const _images = images ? latestInstagramImages(images) : '';
-		const _yearsOld = getYearsOld();
+		const _verticalTimeline = await handlerGetVersion(URLS.VERTICAL_TIMELINE);
+		const _prettyRating = await handlerGetVersion(URLS.PRETTY_RATING);
+		const _articles = articles ? hanlderSliceArticles(articles) : '';
+		const _images = images ? handlerGetLatestInstagramImages(images) : '';
+		const _yearsOld = handlerGetYearsOld();
 
 		const newMarkdown = template
 			.replace(PLACEHOLDERS.PERSONAL.YEARS_OLD, _yearsOld.toString())
