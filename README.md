@@ -248,7 +248,7 @@
 
 <a href="https://www.instagram.com/p/CLCYGengbtk/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c315.0.810.810a/s640x640/147484351_1047055985703156_8414043853798061953_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=I54UzCebsdYAX9EoNxY&tp=1&oh=392c6ea5f6c6c74d54eefbcce5d767c6&oe=60520B61"
+    src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c315.0.810.810a/s640x640/147484351_1047055985703156_8414043853798061953_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=36MSOAQmGQ8AX9n5Ull&tp=1&oh=cec304543fc1142f47bbcaab952ac0da&oe=60520B61"
     alt="En la oficina... a ver cómo se da la cosa acá xD"
     width="150"
     height="150"
@@ -256,7 +256,7 @@
 </a>
 <a href="https://www.instagram.com/p/CKZu82LASN_/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/141493947_137949514810442_7362213050375061519_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=e7xoY_kX20MAX_-61NH&tp=1&oh=741a754e574038e16c3f7d07a616776a&oe=604E531C"
+    src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/141493947_137949514810442_7362213050375061519_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=e7xoY_kX20MAX-mcWSM&tp=1&oh=085d65b3b3ef56610f623448a7278da5&oe=6052479C"
     alt="Disfrutando del día ❤️"
     width="150"
     height="150"
@@ -264,7 +264,7 @@
 </a>
 <a href="https://www.instagram.com/p/CKXhn2qAtNm/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.177.1440.1440a/s640x640/141217911_1152450091873137_4031924116361872425_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=HzXf01x5M-oAX_cJ5Fc&tp=1&oh=d658e865ed08e187aa7687b315680f8d&oe=604F581D"
+    src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.177.1440.1440a/s640x640/141217911_1152450091873137_4031924116361872425_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=MIOmqwGUD9AAX9YatDu&tp=1&oh=2255b92c750c6077129a943fea4a3d2e&oe=60534C9D"
     alt="Y así comienza el finde ☺️"
     width="150"
     height="150"
@@ -272,7 +272,7 @@
 </a>
 <a href="https://www.instagram.com/p/CH08EtHAmUO/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=kGUxeOaMUd4AX_RQFOl&tp=1&oh=7e6beae5f621e0f4606c7c026d7c7ad0&oe=604E461E"
+    src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=62_PrYeI7RwAX9zCWII&tp=1&oh=6f65f2c37cf302c82ced33520bf60518&oe=60523A9E"
     alt="Hace casi 30 meses comencé una inversión que ha sido duro mantener hasta el día de hoy, pero hoy, pude vislumbrar lo que se viene... no puedo estar más orgulloso de mi mismo por todo este tiempo que a significado un sacrificio pero que de poco a poco va tomando forma... y se ve filete! ❤️"
     width="150"
     height="150"
@@ -290,6 +290,7 @@
   </strong>
 </p>
 
+- [El Javascript necesario para React - Parte 1](https://eduardoalvarez.dev/articulos/el-javascript-necesario-para-react-parte-1) - <small>Posted on February 14, 2021</small>
 - [Empezando en el desarrollo web](https://eduardoalvarez.dev/articulos/empezando-en-el-desarrollo-web) - <small>Posted on February 4, 2021</small>
 - [Introducción a JAMStack](https://eduardoalvarez.dev/articulos/introduccion-a-jamstack) - <small>Posted on April 26, 2020</small>
 
