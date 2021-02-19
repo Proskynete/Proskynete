@@ -248,7 +248,7 @@
 
 <a href="https://www.instagram.com/p/CLCYGengbtk/" target="_blank">
   <img
-    src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c315.0.810.810a/s640x640/147484351_1047055985703156_8414043853798061953_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=EmzkQ3CyjsIAX_biUtl&tp=1&oh=21699ee40b7b72733b6a4ed8cb1780dc&oe=6055FFE1"
+    src="https://scontent-sea1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c315.0.810.810a/s640x640/147484351_1047055985703156_8414043853798061953_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=EmzkQ3CyjsIAX-ZnCJF&tp=1&oh=bbbd8d74da3f23335cc3d1aef17dcc77&oe=6059F461"
     alt="En la oficina... a ver cómo se da la cosa acá xD"
     width="150"
     height="150"
@@ -256,7 +256,7 @@
 </a>
 <a href="https://www.instagram.com/p/CKZu82LASN_/" target="_blank">
   <img
-    src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/141493947_137949514810442_7362213050375061519_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=yKltgZWqI2cAX83y_zQ&tp=1&oh=5621965154bb03290dc217fd4010b0e5&oe=60563C1C"
+    src="https://scontent-sea1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/141493947_137949514810442_7362213050375061519_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=102&_nc_ohc=yKltgZWqI2cAX8AHUTs&tp=1&oh=425be3c871963ab030f6ca1486c2b593&oe=605A309C"
     alt="Disfrutando del día ❤️"
     width="150"
     height="150"
@@ -264,7 +264,7 @@
 </a>
 <a href="https://www.instagram.com/p/CKXhn2qAtNm/" target="_blank">
   <img
-    src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.177.1440.1440a/s640x640/141217911_1152450091873137_4031924116361872425_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=nuMihD0M8E4AX-eSJyd&tp=1&oh=8aca3db1195e88f3aade1b2cdec01fdc&oe=6057411D"
+    src="https://scontent-sea1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.177.1440.1440a/s640x640/141217911_1152450091873137_4031924116361872425_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=109&_nc_ohc=nuMihD0M8E4AX9X-5z7&tp=1&oh=8396472d3e4f8567ccc01d36d98d0c67&oe=6057411D"
     alt="Y así comienza el finde ☺️"
     width="150"
     height="150"
@@ -272,7 +272,7 @@
 </a>
 <a href="https://www.instagram.com/p/CH08EtHAmUO/" target="_blank">
   <img
-    src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=eKyVxXxsD8kAX_roPru&tp=1&oh=96d9f4aaf6698efc60339d6aa8137d28&oe=60562F1E"
+    src="https://scontent-sea1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=101&_nc_ohc=Zjy5z4HVY3wAX_2TMld&tp=1&oh=e0d847298ae2ca7ed4b9be4f17b4cdcc&oe=605A239E"
     alt="Hace casi 30 meses comencé una inversión que ha sido duro mantener hasta el día de hoy, pero hoy, pude vislumbrar lo que se viene... no puedo estar más orgulloso de mi mismo por todo este tiempo que a significado un sacrificio pero que de poco a poco va tomando forma... y se ve filete! ❤️"
     width="150"
     height="150"
