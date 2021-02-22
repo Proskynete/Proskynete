@@ -7,7 +7,7 @@ import { URLS, NUMBERS, REGEXPS, YEAR_OF_BIRTH, PROSKYNETE } from './constants';
 import { InstagramImagesResponse, InstagramNodeInterface } from './interfaces';
 
 const parser = new Parser();
-moment.locale('en');
+moment.locale('es');
 
 /**
  * Get the version of a library published in npm.com
@@ -48,7 +48,7 @@ export const hanlderSliceArticles = (articles: Parser.Item[]): string =>
 		.slice(0, NUMBERS.ARTICLES)
 		.map(({ title, link, pubDate }) =>
 			pubDate
-				? `- [${title}](${link}) - <small>Posted on ${handlerPrettyDate(
+				? `- [${title}](${link}) - <small>Publicado el ${handlerPrettyDate(
 						pubDate,
 				  )}</small>`
 				: `[${title}](${link})`,

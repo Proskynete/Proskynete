@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋 My name is Eduardo Álvarez</h1>
+<h1 align="center">Hola a todos!! 👋 Mi nombre es Eduardo Álvarez</h1>
 <p align="center">
-  I'm software developer who is passionate about web technologies.
+  Y soy un desarrollador de software apasionado por las tecnologías web.
 </p>
 
 <p align="center">
@@ -99,23 +99,20 @@
 />
 
 <p align="left">
-  <strong>Life philosophy</strong>
+  <strong>Mi filosofía de vida</strong>
 </p>
 <p>
-  <i>
-    "If you're not willing to give it all up for something, you have no right to
-    try"
-  </i>
+  <i>"Si no estás dispuesto a darlo todo, no tienes derecho a intentarlo."</i>
 </p>
 
 <p align="left">
-  <strong>About me</strong>
+  <strong>Sobre mi</strong>
 </p>
 <ul>
-  <li>📍 I currently live in Lampa, RM. Santiago of Chile.</li>
-  <li>👨🏼‍💻 I'm 27 years old.</li>
-  <li>🛫 I love traveling around the world.</li>
-  <li>💻 Web technologies that I really, really like: React and Node.</li>
+  <li>📍 Actualmente vivo en Lampa, RM. Santiago de Chile.</li>
+  <li>👨🏼‍💻 Tengo 27 años.</li>
+  <li>🛫 Me encanta viajar.</li>
+  <li>💻 Las tecnologías web que realmente me gustan son: React y Node.</li>
 </ul>
 
 <p align="left">
@@ -123,18 +120,18 @@
 </p>
 <ul>
   <li>
-    🎼 Playing musical instruments (electric guitar, acoustic guitar, keyboard
-    and ukulele)
+    🎼 Tocar instrumentos musicales (guitarra eléctrica, guitarra acústica,
+    teclado y ukelele).
   </li>
   <li>
-    👾 Playing video games
+    👾 Jugar videojuegos como:
     <ul>
       <li>
         League of legends (lol):
         <ul>
-          <li>Server: LAS</li>
+          <li>Servidor: LAS</li>
           <li>
-            Summoner Name:
+            Nombre de invocador:
             <a
               href="https://www.leagueofgraphs.com/es/summoner/las/proskynete"
               target="_blank"
@@ -147,7 +144,7 @@
       <li>
         World of Warcraft (wow):
         <ul>
-          <li>Kingdom: Ragnaros</li>
+          <li>Reino: Ragnaros</li>
           <li>
             Raider.io:
             <a
@@ -158,24 +155,24 @@
             </a>
           </li>
           <li>
-            Race:
+            Raza:
             <a
               href="https://worldofwarcraft.com/en-us/game/races/undead"
               target="_blank"
             >
-              Undead
+              No muerto
             </a>
           </li>
           <li>
-            Class:
+            Clase:
             <a
               href="https://worldofwarcraft.com/en-us/game/talent-calculator#mage/fire"
               target="_blank"
             >
-              Fire Wizard
+              Mago fuego
             </a>
           </li>
-          <li>Level: 60</li>
+          <li>Nivel: 60</li>
         </ul>
       </li>
     </ul>
@@ -183,19 +180,19 @@
 </ul>
 
 <p align="left">
-  <strong>Others</strong>
+  <strong>Otros</strong>
 </p>
 <ul>
   <li>
-    📖 I'm currently learning English, Mobile Development (Flutter with Dart and
-    React Native) and AWS.
+    📖 Actualmente estoy estudiando inglés, desarrollo móvil (utilizando Flutter
+    y React Native) y AWS.
   </li>
   <li>
-    🍺 It's never a bad time to stop in the week and partake of a beer with
-    friends
+    🍺 Nunca es un mal momento para hacer un espacio en la semana y tomar una
+    cerveza con los amigos.
   </li>
   <li>
-    ⭐ I have 2 libraries created with React:
+    ⭐ Tengo 2 librerías desarrolladas con React en NPM:
     <ul>
       <li>
         vertical-timeline-component-react <small>v2.0.3</small> (
@@ -239,16 +236,16 @@
 
 <p align="left">
   <strong>
-    Latest 4 images on:
+    Últimas 4 imagenes en:
     <a href="https://instagram.com/proskynete" target="_blank">
-      My Instagram
+      Mi Instagram
     </a>
   </strong>
 </p>
 
 <a href="https://www.instagram.com/p/CLCYGengbtk/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c315.0.810.810a/s640x640/147484351_1047055985703156_8414043853798061953_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=I54UzCebsdYAX9EoNxY&tp=1&oh=392c6ea5f6c6c74d54eefbcce5d767c6&oe=60520B61"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c315.0.810.810a/s640x640/147484351_1047055985703156_8414043853798061953_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=ybbqH1vn-p4AX9EQQMj&tp=1&oh=73a7ee9c49e4ec2fed1a490dc83949c9&oe=605DE8E1"
     alt="En la oficina... a ver cómo se da la cosa acá xD"
     width="150"
     height="150"
@@ -256,7 +253,7 @@
 </a>
 <a href="https://www.instagram.com/p/CKZu82LASN_/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/141493947_137949514810442_7362213050375061519_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=e7xoY_kX20MAX_-61NH&tp=1&oh=741a754e574038e16c3f7d07a616776a&oe=604E531C"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/141493947_137949514810442_7362213050375061519_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=AGt8u52fPu0AX8bP9RR&tp=1&oh=3c1cc05317334ffdce46beab2e2ff01d&oe=605E251C"
     alt="Disfrutando del día ❤️"
     width="150"
     height="150"
@@ -264,7 +261,7 @@
 </a>
 <a href="https://www.instagram.com/p/CKXhn2qAtNm/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.177.1440.1440a/s640x640/141217911_1152450091873137_4031924116361872425_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=HzXf01x5M-oAX_cJ5Fc&tp=1&oh=d658e865ed08e187aa7687b315680f8d&oe=604F581D"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.177.1440.1440a/s640x640/141217911_1152450091873137_4031924116361872425_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=s85ZuyqaVzgAX_dfdfA&tp=1&oh=c0588f041a74280b0751d502192b2d0b&oe=605F2A1D"
     alt="Y así comienza el finde ☺️"
     width="150"
     height="150"
@@ -272,7 +269,7 @@
 </a>
 <a href="https://www.instagram.com/p/CH08EtHAmUO/" target="_blank">
   <img
-    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=kGUxeOaMUd4AX_RQFOl&tp=1&oh=7e6beae5f621e0f4606c7c026d7c7ad0&oe=604E461E"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=ik2VMdkGpDMAX9mWrI9&tp=1&oh=5c99ca600a303a217a2fc96051091d12&oe=605E181E"
     alt="Hace casi 30 meses comencé una inversión que ha sido duro mantener hasta el día de hoy, pero hoy, pude vislumbrar lo que se viene... no puedo estar más orgulloso de mi mismo por todo este tiempo que a significado un sacrificio pero que de poco a poco va tomando forma... y se ve filete! ❤️"
     width="150"
     height="150"
@@ -283,38 +280,42 @@
 
 <p align="left">
   <strong>
-    Latest 5 articles I wrote on:
+    Últimos 5 artículos publicados en:
     <a href="https://eduardoalvarez.dev" target="_blank">
       eduardoalvarez.dev
     </a>
   </strong>
 </p>
 
-- [Empezando en el desarrollo web](https://eduardoalvarez.dev/articulos/empezando-en-el-desarrollo-web) - <small>Posted on February 4, 2021</small>
-- [Introducción a JAMStack](https://eduardoalvarez.dev/articulos/introduccion-a-jamstack) - <small>Posted on April 26, 2020</small>
+- [El Javascript necesario para React - Parte 1](https://eduardoalvarez.dev/articulos/el-javascript-necesario-para-react-parte-1) - <small>Publicado el 14 de febrero de 2021</small>
+- [Empezando en el desarrollo web](https://eduardoalvarez.dev/articulos/empezando-en-el-desarrollo-web) - <small>Publicado el 4 de febrero de 2021</small>
+- [Introducción a JAMStack](https://eduardoalvarez.dev/articulos/introduccion-a-jamstack) - <small>Publicado el 26 de abril de 2020</small>
 
 ---
 
 <p align="left">
-  <strong>Credits & Thanks</strong>
+  <strong>Créditos y agradecimientos públicos</strong>
 </p>
 <ul>
   <li>
-    Animation developed:
+    Animación desarrollada por:
     <a href="https://pibe.cl/" target="_blank">
       pibe.cl
     </a>
   </li>
   <li>
-    Inspiration and teaching:
-    <a href="https://carlosazaustre.es/" target="_blank">
-      Carlos Azaustre
-    </a>
-  </li>
-  <li>
-    Inspiration and teaching:
-    <a href="https://midu.dev/" target="_blank">
-      Midudev
-    </a>
+    Inspiración y enseñanza:
+    <ul>
+      <li>
+        <a href="https://carlosazaustre.es/" target="_blank">
+          Carlos Azaustre
+        </a>
+      </li>
+      <li>
+        <a href="https://midu.dev/" target="_blank">
+          Midudev
+        </a>
+      </li>
+    </ul>
   </li>
 </ul>

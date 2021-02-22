@@ -46,7 +46,7 @@ var rss_parser_1 = __importDefault(require("rss-parser"));
 var moment_1 = __importDefault(require("moment"));
 var constants_1 = require("./constants");
 var parser = new rss_parser_1.default();
-moment_1.default.locale('en');
+moment_1.default.locale('es');
 /**
  * Get the version of a library published in npm.com
  * @param {GetVersionInterface} url - Url to check.
@@ -92,7 +92,7 @@ exports.hanlderSliceArticles = function (articles) {
         .map(function (_a) {
         var title = _a.title, link = _a.link, pubDate = _a.pubDate;
         return pubDate
-            ? "- [" + title + "](" + link + ") - <small>Posted on " + exports.handlerPrettyDate(pubDate) + "</small>"
+            ? "- [" + title + "](" + link + ") - <small>Publicado el " + exports.handlerPrettyDate(pubDate) + "</small>"
             : "[" + title + "](" + link + ")";
     })
         .join('\n');

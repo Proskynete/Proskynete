@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋 My name is Eduardo Álvarez</h1>
-<p align="center">I'm software developer who is passionate about web technologies.</p>
+<h1 align="center">Hola a todos!! 👋 Mi nombre es Eduardo Álvarez</h1>
+<p align="center">Y soy un desarrollador de software apasionado por las tecnologías web.</p>
 
 <p align="center">
   <img src="https://github.com/Proskynete/Proskynete/blob/master/images/icons/ts.png?raw=true" width="25" height="25" title="Typescript" />
@@ -22,46 +22,46 @@
 
 <img width="400" align="right" src="https://github.com/Proskynete/Proskynete/blob/master/images/proskynete.gif?raw=true" />
 
-<p align="left"><strong>Life philosophy</strong></p>
-<p><i>"If you're not willing to give it all up for something, you have no right to try"</i></p>
+<p align="left"><strong>Mi filosofía de vida</strong></p>
+<p><i>"Si no estás dispuesto a darlo todo, no tienes derecho a intentarlo."</i></p>
 
-<p align="left"><strong>About me</strong></p>
+<p align="left"><strong>Sobre mi</strong></p>
 <ul>
-  <li>📍 I currently live in Lampa, RM. Santiago of Chile.</li>
-  <li>👨🏼‍💻 I'm %{{years_old}}% years old.</li>
-  <li>🛫 I love traveling around the world.</li>
-  <li>💻 Web technologies that I really, really like: React and Node.</li>
+  <li>📍 Actualmente vivo en Lampa, RM. Santiago de Chile.</li>
+  <li>👨🏼‍💻 Tengo %{{years_old}}% años.</li>
+  <li>🛫 Me encanta viajar.</li>
+  <li>💻 Las tecnologías web que realmente me gustan son: React y Node.</li>
 </ul>
 
 <p align="left"><strong>Hobbies</strong></p>
 <ul>
-  <li>🎼 Playing musical instruments (electric guitar, acoustic guitar, keyboard and ukulele)</li>
-  <li>👾 Playing video games
+  <li>🎼 Tocar instrumentos musicales (guitarra eléctrica, guitarra acústica, teclado y ukelele).</li>
+  <li>👾 Jugar videojuegos como:
     <ul>
       <li>League of legends (lol):
         <ul>
-          <li>Server: LAS</li>
-          <li>Summoner Name:<a href="https://www.leagueofgraphs.com/es/summoner/las/proskynete" target='_blank'>Proskynete</a></li>
+          <li>Servidor: LAS</li>
+          <li>Nombre de invocador:<a href="https://www.leagueofgraphs.com/es/summoner/las/proskynete" target='_blank'>Proskynete</a></li>
         </ul>
       </li>
       <li>World of Warcraft (wow):
         <ul>
-          <li>Kingdom: Ragnaros</li>
+          <li>Reino: Ragnaros</li>
           <li>Raider.io:<a href="https://raider.io/characters/us/ragnaros/Proskynete" target="_blank">Proskynete</a></li>
-          <li>Race:<a href="https://worldofwarcraft.com/en-us/game/races/undead" target='_blank'>Undead</a></li>
-          <li>Class:<a href="https://worldofwarcraft.com/en-us/game/talent-calculator#mage/fire" target='_blank'>Fire Wizard</a></li>
-          <li>Level: 60</li>
+          <li>Raza:<a href="https://worldofwarcraft.com/en-us/game/races/undead" target='_blank'>No muerto</a></li>
+          <li>Clase:<a href="https://worldofwarcraft.com/en-us/game/talent-calculator#mage/fire" target='_blank'>Mago fuego</a></li>
+          <li>Nivel: 60</li>
         </ul>
       </li>
     </ul>
   </li>
 </ul>
 
-<p align="left"><strong>Others</strong></p>
+<p align="left"><strong>Otros</strong></p>
 <ul>
-  <li>📖 I'm currently learning English, Mobile Development (Flutter with Dart and React Native) and AWS.</li>
-  <li>🍺 It's never a bad time to stop in the week and partake of a beer with friends</li>
-  <li>⭐ I have 2 libraries created with React:
+  <li>📖 Actualmente estoy estudiando inglés, desarrollo móvil (utilizando Flutter y React Native) y AWS.</li>
+  <li>🍺 Nunca es un mal momento para hacer un espacio en la semana y tomar una cerveza con los amigos.</li>
+  <li>⭐ Tengo 2 librerías desarrolladas con React en NPM:
     <ul>
       <li>vertical-timeline-component-react <small>v%{{vt_version}}%</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a>-<a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repository</a>)</li>
       <li>pretty-rating-react <small>v%{{pr_version}}%</small> (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a>-<a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repository</a>)</li>
@@ -73,7 +73,7 @@
 
 <p align="left">
   <strong>
-    Latest %{{number_images}}% images on:<a href="https://instagram.com/proskynete" target='_blank'>My Instagram</a>
+    Últimas %{{number_images}}% imagenes en:<a href="https://instagram.com/proskynete" target='_blank'>Mi Instagram</a>
   </strong>
 </p>
 
@@ -83,7 +83,7 @@
 
 <p align="left">
   <strong>
-    Latest %{{number_articles}}% articles I wrote on:<a href="https://eduardoalvarez.dev" target='_blank'>eduardoalvarez.dev</a>
+    Últimos %{{number_articles}}% artículos publicados en:<a href="https://eduardoalvarez.dev" target='_blank'>eduardoalvarez.dev</a>
   </strong>
 </p>
 
@@ -91,9 +91,17 @@
 
 --- 
 
-<p align="left"><strong>Credits & Thanks</strong></p>
+<p align="left"><strong>Créditos y agradecimientos públicos</strong></p>
 <ul>
-  <li>Animation developed:<a href="https://pibe.cl/" target='_blank'>pibe.cl</a></li>
-  <li>Inspiration and teaching:<a href="https://carlosazaustre.es/" target='_blank'>Carlos Azaustre</a></li>
-  <li>Inspiration and teaching:<a href="https://midu.dev/" target='_blank'>Midudev</a></li>
+  <li>Animación desarrollada por:<a href="https://pibe.cl/" target='_blank'>pibe.cl</a></li>
+  <li>Inspiración y enseñanza:
+    <ul>
+      <li>
+        <a href="https://carlosazaustre.es/" target='_blank'>Carlos Azaustre</a>
+      </li>
+      <li>
+        <a href="https://midu.dev/" target='_blank'>Midudev</a>
+      </li>
+    </ul>
+  </li>
 </ul>
