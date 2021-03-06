@@ -52,7 +52,7 @@ moment_1.default.locale('es');
  * @param {GetVersionInterface} url - Url to check.
  * @returns All results according to search.
  */
-var handlerGetVersion = function (url) { return __awaiter(void 0, void 0, void 0, function () {
+exports.handlerGetVersion = function (url) { return __awaiter(void 0, void 0, void 0, function () {
     var file;
     return __generator(this, function (_a) {
         switch (_a.label) {
@@ -66,30 +66,27 @@ var handlerGetVersion = function (url) { return __awaiter(void 0, void 0, void 0
         }
     });
 }); };
-exports.handlerGetVersion = handlerGetVersion;
 /**
  * Get all articles from some RSS page.
  * @returns All items found.
  */
-var handlerGetLatestArticles = function () { return __awaiter(void 0, void 0, void 0, function () { return __generator(this, function (_a) {
+exports.handlerGetLatestArticles = function () { return __awaiter(void 0, void 0, void 0, function () { return __generator(this, function (_a) {
     return [2 /*return*/, parser.parseURL(constants_1.URLS.RSS).then(function (data) { return data.items; })];
 }); }); };
-exports.handlerGetLatestArticles = handlerGetLatestArticles;
 /**
  * Transform the date that we pass to a LL format (moment reference).
  * @param {string} date - Any format of date.
  * @returns format example: MM DD, YYYY
  */
-var handlerPrettyDate = function (date) {
+exports.handlerPrettyDate = function (date) {
     return moment_1.default(new Date(date)).format('LL');
 };
-exports.handlerPrettyDate = handlerPrettyDate;
 /**
  * Get an array of articles and transform them with a markdown format.
  * @param {array} articles - Articles obtained from an RSS.
  * @returns Link with the title, and the date of the post, with markdown syntax.
  */
-var hanlderSliceArticles = function (articles) {
+exports.hanlderSliceArticles = function (articles) {
     return articles
         .slice(0, constants_1.NUMBERS.ARTICLES)
         .map(function (_a) {
@@ -100,12 +97,11 @@ var hanlderSliceArticles = function (articles) {
     })
         .join('\n');
 };
-exports.hanlderSliceArticles = hanlderSliceArticles;
 /**
  * Get images from any instagram profile
  * @returns A object with permalink and media_url attributes
  */
-var handlerGetInstagramImages = function () { return __awaiter(void 0, void 0, void 0, function () {
+exports.handlerGetInstagramImages = function () { return __awaiter(void 0, void 0, void 0, function () {
     var data, edges;
     return __generator(this, function (_a) {
         switch (_a.label) {
@@ -124,13 +120,12 @@ var handlerGetInstagramImages = function () { return __awaiter(void 0, void 0, v
         }
     });
 }); };
-exports.handlerGetInstagramImages = handlerGetInstagramImages;
 /**
  * Trasnform the string of images to mdx format and slice the result
  * @param {InstagramImagesResponse[]} images - Array of { permalink, media_url } attributes
  * @returns An array of links wirth images obtained from instagram
  */
-var handlerGetLatestInstagramImages = function (images) {
+exports.handlerGetLatestInstagramImages = function (images) {
     return images
         .slice(0, constants_1.NUMBERS.IMAGES)
         .map(function (_a) {
@@ -139,11 +134,9 @@ var handlerGetLatestInstagramImages = function (images) {
     })
         .join('');
 };
-exports.handlerGetLatestInstagramImages = handlerGetLatestInstagramImages;
 /**
  * Get the number of years from the year of birth to now
  * @returns Number of years
  */
-var handlerGetYearsOld = function () { return moment_1.default().diff(constants_1.YEAR_OF_BIRTH, 'years'); };
-exports.handlerGetYearsOld = handlerGetYearsOld;
+exports.handlerGetYearsOld = function () { return moment_1.default().diff(constants_1.YEAR_OF_BIRTH, 'years'); };
 //# sourceMappingURL=handlers.js.map

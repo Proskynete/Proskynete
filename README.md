@@ -245,7 +245,7 @@
 
 <a href="https://www.instagram.com/p/CLCYGengbtk/" target="_blank">
   <img
-    src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c315.0.810.810a/s640x640/147484351_1047055985703156_8414043853798061953_n.jpg?tp=1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=mwwpDRM317IAX8l2l-z&oh=41629a0b7e62f1a160108075d32024e6&oe=606DBAE1"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c315.0.810.810a/s640x640/147484351_1047055985703156_8414043853798061953_n.jpg?tp=1&_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=mwwpDRM317IAX-Mb6CN&oh=9fdc78280aa9c6c476a5c2fe2ff3ba4f&oe=606DBAE1"
     alt="En la oficina... a ver cómo se da la cosa acá xD"
     width="150"
     height="150"
@@ -253,7 +253,7 @@
 </a>
 <a href="https://www.instagram.com/p/CKZu82LASN_/" target="_blank">
   <img
-    src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/141493947_137949514810442_7362213050375061519_n.jpg?tp=1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=SR2CdJFqeSkAX9oINNW&oh=77de94964ac2316545ca25b0026fbc84&oe=606DF71C"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/141493947_137949514810442_7362213050375061519_n.jpg?tp=1&_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=SR2CdJFqeSkAX_rDkDc&oh=a898c3a52de14fa69c8a575217f8e3b8&oe=606DF71C"
     alt="Disfrutando del día ❤️"
     width="150"
     height="150"
@@ -261,7 +261,7 @@
 </a>
 <a href="https://www.instagram.com/p/CKXhn2qAtNm/" target="_blank">
   <img
-    src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.177.1440.1440a/s640x640/141217911_1152450091873137_4031924116361872425_n.jpg?tp=1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=WTw5IZrr4REAX9hp3Q4&oh=ed55ddbf059a05292a97748325502aaa&oe=606B079D"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.177.1440.1440a/s640x640/141217911_1152450091873137_4031924116361872425_n.jpg?tp=1&_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=WTw5IZrr4REAX_qBxIP&oh=08dc4a17dc9de02073d528a98d34d978&oe=606EFC1D"
     alt="Y así comienza el finde ☺️"
     width="150"
     height="150"
@@ -269,7 +269,7 @@
 </a>
 <a href="https://www.instagram.com/p/CH08EtHAmUO/" target="_blank">
   <img
-    src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?tp=1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=LTTaOUDpkDcAX9bbdMB&oh=da4c2a01dbdba2ed478b793b9c225598&oe=606DEA1E"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?tp=1&_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=LTTaOUDpkDcAX_4BOpX&oh=6b6506b5c293b9831e20a8bf374cc8f8&oe=606DEA1E"
     alt="Hace casi 30 meses comencé una inversión que ha sido duro mantener hasta el día de hoy, pero hoy, pude vislumbrar lo que se viene... no puedo estar más orgulloso de mi mismo por todo este tiempo que a significado un sacrificio pero que de poco a poco va tomando forma... y se ve filete! ❤️"
     width="150"
     height="150"
@@ -287,8 +287,8 @@
   </strong>
 </p>
 
-- [El Javascript necesario para React - Parte 1](https://eduardoalvarez.dev/articulos/el-javascript-necesario-para-react-parte-1) - <small>Publicado el 14 de febrero de 2021</small>
 - [El Javascript necesario para React - Parte 2](https://eduardoalvarez.dev/articulos/el-javascript-necesario-para-react-parte-2) - <small>Publicado el 1 de marzo de 2021</small>
+- [El Javascript necesario para React - Parte 1](https://eduardoalvarez.dev/articulos/el-javascript-necesario-para-react-parte-1) - <small>Publicado el 14 de febrero de 2021</small>
 - [Empezando en el desarrollo web](https://eduardoalvarez.dev/articulos/empezando-en-el-desarrollo-web) - <small>Publicado el 4 de febrero de 2021</small>
 - [Introducción a JAMStack](https://eduardoalvarez.dev/articulos/introduccion-a-jamstack) - <small>Publicado el 26 de abril de 2020</small>
 
