@@ -195,7 +195,7 @@
     ⭐ Tengo 2 librerías desarrolladas con React en NPM:
     <ul>
       <li>
-        vertical-timeline-component-react <small>v2.0.3</small> (
+        vertical-timeline-component-react <small>v2.1.2</small> (
         <a
           href="https://www.npmjs.com/package/vertical-timeline-component-react"
           target="_blank"
@@ -212,7 +212,7 @@
         )
       </li>
       <li>
-        pretty-rating-react <small>v1.1.0</small> (
+        pretty-rating-react <small>v2.0.1</small> (
         <a
           href="https://www.npmjs.com/package/pretty-rating-react"
           target="_blank"
@@ -245,7 +245,7 @@
 
 <a href="https://www.instagram.com/p/CLCYGengbtk/" target="_blank">
   <img
-    src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c315.0.810.810a/s640x640/147484351_1047055985703156_8414043853798061953_n.jpg?tp=1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=100&_nc_ohc=HrcMck9tFsAAX9zOYnc&ccb=7-4&oh=22046151b97504da675d2f4f5a5beb3f&oe=607D8CE1&_nc_sid=86f79a"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c315.0.810.810a/s640x640/147484351_1047055985703156_8414043853798061953_n.jpg?tp=1&_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=HrcMck9tFsAAX8yBQCf&ccb=7-4&oh=8c0b253a154b3f7251bc20786bbcf52e&oe=60818161&_nc_sid=86f79a"
     alt="En la oficina... a ver cómo se da la cosa acá xD"
     width="150"
     height="150"
@@ -253,7 +253,7 @@
 </a>
 <a href="https://www.instagram.com/p/CKZu82LASN_/" target="_blank">
   <img
-    src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/141493947_137949514810442_7362213050375061519_n.jpg?tp=1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=102&_nc_ohc=rlQqscZ79IkAX_NZsZo&ccb=7-4&oh=d80f3e2acadfae31e28ddd6679da731a&oe=607DC91C&_nc_sid=86f79a"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/141493947_137949514810442_7362213050375061519_n.jpg?tp=1&_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=YK5LcYKwJekAX9RB0gB&ccb=7-4&oh=ed45194c58113f65542271c7c317aa1a&oe=6081BD9C&_nc_sid=86f79a"
     alt="Disfrutando del día ❤️"
     width="150"
     height="150"
@@ -261,7 +261,7 @@
 </a>
 <a href="https://www.instagram.com/p/CKXhn2qAtNm/" target="_blank">
   <img
-    src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.177.1440.1440a/s640x640/141217911_1152450091873137_4031924116361872425_n.jpg?tp=1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=109&_nc_ohc=mT-_eAbGB2sAX-Dnchh&ccb=7-4&oh=cf9cd2403d31ecb8d1dc18f0d950b2e7&oe=607ECE1D&_nc_sid=86f79a"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.177.1440.1440a/s640x640/141217911_1152450091873137_4031924116361872425_n.jpg?tp=1&_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=mT-_eAbGB2sAX_uivBd&ccb=7-4&oh=79bdb62b92407bebd0972ccc786778fa&oe=6082C29D&_nc_sid=86f79a"
     alt="Y así comienza el finde ☺️"
     width="150"
     height="150"
@@ -269,7 +269,7 @@
 </a>
 <a href="https://www.instagram.com/p/CH08EtHAmUO/" target="_blank">
   <img
-    src="https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?tp=1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=101&_nc_ohc=4h5tPnDTR_8AX_dByYp&ccb=7-4&oh=24768f77017c020e711d92433ee2b9c2&oe=607DBC1E&_nc_sid=86f79a"
+    src="https://instagram.fscl8-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/126147403_284595642979933_6622037358813752729_n.jpg?tp=1&_nc_ht=instagram.fscl8-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=_nyzjqPHt1UAX96YnPI&ccb=7-4&oh=0635bc242d08daba9f1c4425f2c5adf6&oe=6081B09E&_nc_sid=86f79a"
     alt="Hace casi 30 meses comencé una inversión que ha sido duro mantener hasta el día de hoy, pero hoy, pude vislumbrar lo que se viene... no puedo estar más orgulloso de mi mismo por todo este tiempo que a significado un sacrificio pero que de poco a poco va tomando forma... y se ve filete! ❤️"
     width="150"
     height="150"
