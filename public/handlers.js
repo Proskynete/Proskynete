@@ -146,4 +146,3 @@ exports.handlerGetLatestInstagramImages = handlerGetLatestInstagramImages;
  */
 var handlerGetYearsOld = function () { return moment_1.default().diff(constants_1.YEAR_OF_BIRTH, 'years'); };
 exports.handlerGetYearsOld = handlerGetYearsOld;
-//# sourceMappingURL=handlers.js.map
