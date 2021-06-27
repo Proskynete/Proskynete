@@ -65,6 +65,7 @@ export const handlerGetInstagramImages = async (): Promise<
 	const { data } = await axios.get(
 		`https://www.instagram.com/graphql/query?query_id=17888483320059182&variables={"id":${PROSKYNETE},"first":${NUMBERS.IMAGES},"after":null}`,
 	);
+
 	const edges = data.data.user.edge_owner_to_timeline_media.edges;
 
 	return edges.map(({ node }: InstagramNodeInterface) => ({
