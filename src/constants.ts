@@ -5,10 +5,10 @@ import {
 	UrlsInterface,
 } from './interfaces';
 
-export const BASE_NPM_URL: string = 'https://www.npmjs.com/package';
-export const BASE_WEBSITE: string = 'https://eduardoalvarez.dev';
-export const YEAR_OF_BIRTH: string = '1993-12-24';
-export const PROSKYNETE: number = 42938370;
+export const BASE_NPM_URL = 'https://www.npmjs.com/package';
+export const BASE_WEBSITE = 'https://eduardoalvarez.dev';
+export const YEAR_OF_BIRTH = '1993-12-24';
+export const PROSKYNETE = 42938370;
 
 export const PLACEHOLDERS: PlaceholdersInteface = {
 	PERSONAL: {

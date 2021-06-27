@@ -1,7 +1,7 @@
 import axios from 'axios';
 import cheerio from 'cheerio';
-import Parser from 'rss-parser';
 import moment from 'moment';
+import Parser from 'rss-parser';
 
 import { URLS, NUMBERS, REGEXPS, YEAR_OF_BIRTH, PROSKYNETE } from './constants';
 import { InstagramImagesResponse, InstagramNodeInterface } from './interfaces';
@@ -27,7 +27,7 @@ export const handlerGetVersion = async (url: string): Promise<string> => {
  * Get all articles from some RSS page.
  * @returns All items found.
  */
-export const handlerGetLatestArticles = async () =>
+export const handlerGetLatestArticles = async (): Promise<any> =>
 	parser.parseURL(URLS.RSS).then((data) => data.items);
 
 /**
@@ -35,8 +35,7 @@ export const handlerGetLatestArticles = async () =>
  * @param {string} date - Any format of date.
  * @returns format example: MM DD, YYYY
  */
-export const handlerPrettyDate = (date: string): string =>
-	moment(new Date(date)).format('LL');
+export const handlerPrettyDate = (date: string): string => moment(new Date(date)).format('LL');
 
 /**
  * Get an array of articles and transform them with a markdown format.
@@ -48,9 +47,7 @@ export const hanlderSliceArticles = (articles: Parser.Item[]): string =>
 		.slice(0, NUMBERS.ARTICLES)
 		.map(({ title, link, pubDate }) =>
 			pubDate
-				? `- [${title}](${link}) - <small>Publicado el ${handlerPrettyDate(
-						pubDate,
-				  )}</small>`
+				? `- [${title}](${link}) - <small>Publicado el ${handlerPrettyDate(pubDate)}</small>`
 				: `[${title}](${link})`,
 		)
 		.join('\n');
@@ -59,14 +56,12 @@ export const hanlderSliceArticles = (articles: Parser.Item[]): string =>
  * Get images from any instagram profile
  * @returns A object with permalink and media_url attributes
  */
-export const handlerGetInstagramImages = async (): Promise<
-	InstagramImagesResponse[]
-> => {
+export const handlerGetInstagramImages = async (): Promise<InstagramImagesResponse[]> => {
 	const { data } = await axios.get(
 		`https://www.instagram.com/graphql/query?query_id=17888483320059182&variables={"id":${PROSKYNETE},"first":${NUMBERS.IMAGES},"after":null}`,
 	);
 
-	const edges = data.data.user.edge_owner_to_timeline_media.edges;
+	const { edges } = data.data.user.edge_owner_to_timeline_media;
 
 	return edges.map(({ node }: InstagramNodeInterface) => ({
 		permalink: `https://www.instagram.com/p/${node.shortcode}/`,
@@ -80,17 +75,11 @@ export const handlerGetInstagramImages = async (): Promise<
  * @param {InstagramImagesResponse[]} images - Array of { permalink, media_url } attributes
  * @returns An array of links wirth images obtained from instagram
  */
-export const handlerGetLatestInstagramImages = (
-	images: InstagramImagesResponse[],
-) =>
+export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[]): string =>
 	images
 		.slice(0, NUMBERS.IMAGES)
 		.map(
-			({
-				media_url,
-				permalink,
-				description,
-			}) => `<a href='${permalink}' target='_blank'>
+			({ media_url, permalink, description }) => `<a href='${permalink}' target='_blank'>
 				<img
 					src='${media_url[0]}'
 					alt='${description}'
@@ -105,4 +94,4 @@ export const handlerGetLatestInstagramImages = (
  * Get the number of years from the year of birth to now
  * @returns Number of years
  */
-export const handlerGetYearsOld = () => moment().diff(YEAR_OF_BIRTH, 'years');
+export const handlerGetYearsOld = (): number => moment().diff(YEAR_OF_BIRTH, 'years');
