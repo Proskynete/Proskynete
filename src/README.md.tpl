@@ -36,6 +36,7 @@
 <p align="left"><strong>Hobbies</strong></p>
 <ul>
   <li>🎼 Tocar instrumentos musicales (guitarra eléctrica, guitarra acústica, teclado y ukelele).</li>
+  <li>🤓 Ver anime</li>
   <li>👾 Jugar videojuegos como:
     <ul>
       <li>League of legends (lol):

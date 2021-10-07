@@ -1,5 +1,6 @@
 import axios from 'axios';
 import cheerio from 'cheerio';
+import _ from 'lodash';
 import moment from 'moment';
 import Parser from 'rss-parser';
 
@@ -63,11 +64,15 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 
 	const { edges } = data.data.user.edge_owner_to_timeline_media;
 
-	return edges.map(({ node }: InstagramNodeInterface) => ({
-		permalink: `https://www.instagram.com/p/${node.shortcode}/`,
-		media_url: [node.thumbnail_src, node.thumbnail_resources[0]],
-		description: node.edge_media_to_caption.edges[0].node.text,
-	}));
+	return edges.map(({ node }: InstagramNodeInterface) => {
+		return {
+			permalink: `https://www.instagram.com/p/${node.shortcode}/`,
+			media_url: [node.dispay_url, node?.thumbnail_resources[0]],
+			description: !_.isEmpty(node.edge_media_to_caption.edges)
+				? node.edge_media_to_caption.edges[0].node.text
+				: '',
+		};
+	});
 };
 
 /**

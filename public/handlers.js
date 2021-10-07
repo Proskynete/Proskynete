@@ -42,8 +42,9 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.handlerGetYearsOld = exports.handlerGetLatestInstagramImages = exports.handlerGetInstagramImages = exports.hanlderSliceArticles = exports.handlerPrettyDate = exports.handlerGetLatestArticles = exports.handlerGetVersion = void 0;
 var axios_1 = __importDefault(require("axios"));
 var cheerio_1 = __importDefault(require("cheerio"));
-var rss_parser_1 = __importDefault(require("rss-parser"));
+var lodash_1 = __importDefault(require("lodash"));
 var moment_1 = __importDefault(require("moment"));
+var rss_parser_1 = __importDefault(require("rss-parser"));
 var constants_1 = require("./constants");
 var parser = new rss_parser_1.default();
 moment_1.default.locale('es');
@@ -80,9 +81,7 @@ exports.handlerGetLatestArticles = handlerGetLatestArticles;
  * @param {string} date - Any format of date.
  * @returns format example: MM DD, YYYY
  */
-var handlerPrettyDate = function (date) {
-    return moment_1.default(new Date(date)).format('LL');
-};
+var handlerPrettyDate = function (date) { return moment_1.default(new Date(date)).format('LL'); };
 exports.handlerPrettyDate = handlerPrettyDate;
 /**
  * Get an array of articles and transform them with a markdown format.
@@ -115,11 +114,13 @@ var handlerGetInstagramImages = function () { return __awaiter(void 0, void 0, v
                 edges = data.data.user.edge_owner_to_timeline_media.edges;
                 return [2 /*return*/, edges.map(function (_a) {
                         var node = _a.node;
-                        return ({
+                        return {
                             permalink: "https://www.instagram.com/p/" + node.shortcode + "/",
-                            media_url: [node.thumbnail_src, node.thumbnail_resources[0]],
-                            description: node.edge_media_to_caption.edges[0].node.text,
-                        });
+                            media_url: [node.dispay_url, node === null || node === void 0 ? void 0 : node.thumbnail_resources[0]],
+                            description: !lodash_1.default.isEmpty(node.edge_media_to_caption.edges)
+                                ? node.edge_media_to_caption.edges[0].node.text
+                                : '',
+                        };
                     })];
         }
     });

@@ -123,6 +123,7 @@
     🎼 Tocar instrumentos musicales (guitarra eléctrica, guitarra acústica,
     teclado y ukelele).
   </li>
+  <li>🤓 Ver anime</li>
   <li>
     👾 Jugar videojuegos como:
     <ul>
@@ -243,35 +244,29 @@
   </strong>
 </p>
 
+<a href="https://www.instagram.com/p/CT0zvVAAHW3/" target="_blank">
+  <img
+    src="undefined"
+    alt="The real reason I bought an iPad is that while writing code, I can watch Netflix 🤭"
+    width="150"
+    height="150"
+  />
+</a>
+<a href="https://www.instagram.com/p/CR2u5VMDP1R/" target="_blank">
+  <img src="undefined" alt="" width="150" height="150" />
+</a>
+<a href="https://www.instagram.com/p/CREYnNfjbHy/" target="_blank">
+  <img
+    src="undefined"
+    alt="Ha costado, pero cada vez me gusta más mi espacio de trabajo! 💪🏻"
+    width="150"
+    height="150"
+  />
+</a>
 <a href="https://www.instagram.com/p/CQPx9EXjVwQ/" target="_blank">
   <img
-    src="https://instagram.fscl7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/201651442_1019363352140818_2071394958195459903_n.jpg?tp=1&_nc_ht=instagram.fscl7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=gF876HU3q64AX9GfO6p&edm=APU89FABAAAA&ccb=7-4&oh=152d3e317214261c28ff7c6018f20c23&oe=60DEA93E&_nc_sid=86f79a"
+    src="undefined"
     alt="Un pequeño cambio a mi nuevo setup 2021 escuchando a los mostros @midu.dev @naschurmann 💪🏻"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://www.instagram.com/p/CP_PuWcD6ZY/" target="_blank">
-  <img
-    src="https://instagram.fscl7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/199037299_487850535847493_4314088075179116935_n.jpg?tp=1&_nc_ht=instagram.fscl7-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=kH5ORSed9ngAX8M_FTC&edm=APU89FABAAAA&ccb=7-4&oh=a793abec326e0a1c5c42ae712bcca430&oe=60DE4C18&_nc_sid=86f79a"
-    alt="Sometime I program like this…"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://www.instagram.com/p/COacS34AqTG/" target="_blank">
-  <img
-    src="https://instagram.fscl7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.175.1406.1406a/s640x640/180741605_242553984320117_6261628989213297168_n.jpg?tp=1&_nc_ht=instagram.fscl7-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=4M28hrxqxhwAX8UlQ4n&edm=APU89FABAAAA&ccb=7-4&oh=917710662b7df25537384aa684e23516&oe=60DEC79B&_nc_sid=86f79a"
-    alt="Hello world!"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://www.instagram.com/p/COIkVqAgtP1/" target="_blank">
-  <img
-    src="https://instagram.fscl7-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.180.1440.1440a/s640x640/177210578_214356773397222_7994427941982310614_n.jpg?tp=1&_nc_ht=instagram.fscl7-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=oplx0pEeuaAAX8kCmmr&edm=APU89FABAAAA&ccb=7-4&oh=68ccf67d8345167a3382947051b7c40b&oe=60DF878B&_nc_sid=86f79a"
-    alt="Yeeey!!!
-Finally With my #stateofjs2020 T-shirt!!"
     width="150"
     height="150"
   />

@@ -25,6 +25,7 @@
 		"axios": "^0.21.1",
 		"cheerio": "^1.0.0-rc.3",
 		"husky": "^6.0.0",
+		"lodash": "^4.17.21",
 		"moment": "^2.29.1",
 		"prettier": "^2.3.2",
 		"rss-parser": "^3.9.0",
@@ -33,6 +34,7 @@
 	"devDependencies": {
 		"@types/axios": "^0.14.0",
 		"@types/cheerio": "^0.22.22",
+		"@types/lodash": "^4.14.175",
 		"@types/prettier": "^2.1.5",
 		"@typescript-eslint/eslint-plugin": "^4.28.0",
 		"@typescript-eslint/parser": "^4.28.0",
