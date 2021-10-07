@@ -1,0 +1,21 @@
+name: Update README.md
+
+on:
+  schedule:
+    - cron: '0 8 * * 5'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '14'
+      - run: npm install
+      - run: npm start
+      - run: git config user.name "Eduardo Álvarez"
+      - run: git config user.email "eduardo.a1993@gmail.com"
+      - run: git add .
+      - run: git diff --quiet && git diff --staged --quiet || git commit -m "[Cron-Job] Update README with latest info"
+      - run: git push origin master
