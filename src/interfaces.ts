@@ -12,7 +12,7 @@ export interface EdgesInterface {
 
 export interface InstagramInterface {
 	shortcode: string;
-	dispay_url: string;
+	display_url: string;
 	thumbnail_resources: ThumbnailInterface[];
 	thumbnail_src: string;
 	edge_media_to_caption: {
@@ -26,7 +26,7 @@ export interface InstagramNodeInterface {
 
 export interface InstagramImagesResponse {
 	permalink: string;
-	media_url: [string, ThumbnailInterface];
+	media_url: string;
 	description: string;
 }
 

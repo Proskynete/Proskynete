@@ -67,7 +67,7 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 	return edges.map(({ node }: InstagramNodeInterface) => {
 		return {
 			permalink: `https://www.instagram.com/p/${node.shortcode}/`,
-			media_url: [node.dispay_url, node?.thumbnail_resources[0]],
+			media_url: node.thumbnail_src,
 			description: !_.isEmpty(node.edge_media_to_caption.edges)
 				? node.edge_media_to_caption.edges[0].node.text
 				: '',
@@ -84,12 +84,12 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 	images
 		.slice(0, NUMBERS.IMAGES)
 		.map(
-			({ media_url, permalink, description }) => `<a href='${permalink}' target='_blank'>
+			({ media_url, permalink }) => `<a href='${permalink}' target='_blank'>
 				<img
-					src='${media_url[0]}'
-					alt='${description}'
-					width='${media_url[1].config_width}'
-					height='${media_url[1].config_height}'
+					src='${media_url}'
+					alt='Instagram image'
+					width='150'
+					height='150'
 				/>
     </a>`,
 		)

@@ -116,7 +116,7 @@ var handlerGetInstagramImages = function () { return __awaiter(void 0, void 0, v
                         var node = _a.node;
                         return {
                             permalink: "https://www.instagram.com/p/" + node.shortcode + "/",
-                            media_url: [node.dispay_url, node === null || node === void 0 ? void 0 : node.thumbnail_resources[0]],
+                            media_url: node.thumbnail_src,
                             description: !lodash_1.default.isEmpty(node.edge_media_to_caption.edges)
                                 ? node.edge_media_to_caption.edges[0].node.text
                                 : '',
@@ -135,8 +135,8 @@ var handlerGetLatestInstagramImages = function (images) {
     return images
         .slice(0, constants_1.NUMBERS.IMAGES)
         .map(function (_a) {
-        var media_url = _a.media_url, permalink = _a.permalink, description = _a.description;
-        return "<a href='" + permalink + "' target='_blank'>\n\t\t\t\t<img\n\t\t\t\t\tsrc='" + media_url[0] + "'\n\t\t\t\t\talt='" + description + "'\n\t\t\t\t\twidth='" + media_url[1].config_width + "'\n\t\t\t\t\theight='" + media_url[1].config_height + "'\n\t\t\t\t/>\n    </a>";
+        var media_url = _a.media_url, permalink = _a.permalink;
+        return "<a href='" + permalink + "' target='_blank'>\n\t\t\t\t<img\n\t\t\t\t\tsrc='" + media_url + "'\n\t\t\t\t\talt='Instagram image'\n\t\t\t\t\twidth='150'\n\t\t\t\t\theight='150'\n\t\t\t\t/>\n    </a>";
     })
         .join('');
 };

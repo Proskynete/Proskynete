@@ -252,27 +252,32 @@
 
 <a href="https://www.instagram.com/p/CT0zvVAAHW3/" target="_blank">
   <img
-    src="undefined"
-    alt="The real reason I bought an iPad is that while writing code, I can watch Netflix 🤭"
+    src="https://instagram.fscl14-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/242050871_243023651082985_1418961891220065825_n.jpg?_nc_ht=instagram.fscl14-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=iBG18gn-QSAAX8R83os&edm=APU89FABAAAA&ccb=7-4&oh=07c8a0a076040fcdc6743cbb037ee1ac&oe=61745963&_nc_sid=86f79a"
+    alt="Instagram image"
     width="150"
     height="150"
   />
 </a>
 <a href="https://www.instagram.com/p/CR2u5VMDP1R/" target="_blank">
-  <img src="undefined" alt="" width="150" height="150" />
+  <img
+    src="https://instagram.fscl14-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.133.1066.1066a/s640x640/223421266_219015820001961_8188634106651211309_n.jpg?_nc_ht=instagram.fscl14-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=ROxKm6dtRmoAX8ixhZf&edm=APU89FABAAAA&ccb=7-4&oh=ad938b394ab6eae387ecda334570b10c&oe=61736567&_nc_sid=86f79a"
+    alt="Instagram image"
+    width="150"
+    height="150"
+  />
 </a>
 <a href="https://www.instagram.com/p/CREYnNfjbHy/" target="_blank">
   <img
-    src="undefined"
-    alt="Ha costado, pero cada vez me gusta más mi espacio de trabajo! 💪🏻"
+    src="https://instagram.fscl14-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/211498447_2934152030203278_3705938491042166157_n.jpg?_nc_ht=instagram.fscl14-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=7R1NZgcli-oAX9041IE&edm=APU89FABAAAA&ccb=7-4&oh=c5566ed85c24805bfe8e23004905d091&oe=617347AF&_nc_sid=86f79a"
+    alt="Instagram image"
     width="150"
     height="150"
   />
 </a>
 <a href="https://www.instagram.com/p/CQPx9EXjVwQ/" target="_blank">
   <img
-    src="undefined"
-    alt="Un pequeño cambio a mi nuevo setup 2021 escuchando a los mostros @midu.dev @naschurmann 💪🏻"
+    src="https://instagram.fscl14-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/201651442_1019363352140818_2071394958195459903_n.jpg?_nc_ht=instagram.fscl14-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=wchEuFc9zFIAX-bQ0Ti&edm=APU89FABAAAA&ccb=7-4&oh=d95ccbad7a0113a83cb5cbb532ad0d79&oe=6172F9FE&_nc_sid=86f79a"
+    alt="Instagram image"
     width="150"
     height="150"
   />
