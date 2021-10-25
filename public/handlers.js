@@ -57,7 +57,7 @@ var handlerGetVersion = function (url) { return __awaiter(void 0, void 0, void 0
     var file;
     return __generator(this, function (_a) {
         switch (_a.label) {
-            case 0: return [4 /*yield*/, axios_1.default(url)];
+            case 0: return [4 /*yield*/, (0, axios_1.default)(url)];
             case 1:
                 file = _a.sent();
                 return [2 /*return*/, new Promise(function (resolve) {
@@ -81,7 +81,7 @@ exports.handlerGetLatestArticles = handlerGetLatestArticles;
  * @param {string} date - Any format of date.
  * @returns format example: MM DD, YYYY
  */
-var handlerPrettyDate = function (date) { return moment_1.default(new Date(date)).format('LL'); };
+var handlerPrettyDate = function (date) { return (0, moment_1.default)(new Date(date)).format('LL'); };
 exports.handlerPrettyDate = handlerPrettyDate;
 /**
  * Get an array of articles and transform them with a markdown format.
@@ -94,7 +94,7 @@ var hanlderSliceArticles = function (articles) {
         .map(function (_a) {
         var title = _a.title, link = _a.link, pubDate = _a.pubDate;
         return pubDate
-            ? "- [" + title + "](" + link + ") - <small>Publicado el " + exports.handlerPrettyDate(pubDate) + "</small>"
+            ? "- [" + title + "](" + link + ") - <small>Publicado el " + (0, exports.handlerPrettyDate)(pubDate) + "</small>"
             : "[" + title + "](" + link + ")";
     })
         .join('\n');
@@ -145,5 +145,5 @@ exports.handlerGetLatestInstagramImages = handlerGetLatestInstagramImages;
  * Get the number of years from the year of birth to now
  * @returns Number of years
  */
-var handlerGetYearsOld = function () { return moment_1.default().diff(constants_1.YEAR_OF_BIRTH, 'years'); };
+var handlerGetYearsOld = function () { return (0, moment_1.default)().diff(constants_1.YEAR_OF_BIRTH, 'years'); };
 exports.handlerGetYearsOld = handlerGetYearsOld;

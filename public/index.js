@@ -65,20 +65,20 @@ var handlers_1 = require("./handlers");
                 prettierConfig = _b.sent();
                 return [4 /*yield*/, Promise.all([
                         fs_1.promises.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
-                        handlers_1.handlerGetLatestArticles(),
-                        handlers_1.handlerGetInstagramImages(),
+                        (0, handlers_1.handlerGetLatestArticles)(),
+                        (0, handlers_1.handlerGetInstagramImages)(),
                     ])];
             case 2:
                 _a = _b.sent(), template = _a[0], articles = _a[1], images = _a[2];
-                return [4 /*yield*/, handlers_1.handlerGetVersion(constants_1.URLS.VERTICAL_TIMELINE)];
+                return [4 /*yield*/, (0, handlers_1.handlerGetVersion)(constants_1.URLS.VERTICAL_TIMELINE)];
             case 3:
                 _verticalTimeline = _b.sent();
-                return [4 /*yield*/, handlers_1.handlerGetVersion(constants_1.URLS.PRETTY_RATING)];
+                return [4 /*yield*/, (0, handlers_1.handlerGetVersion)(constants_1.URLS.PRETTY_RATING)];
             case 4:
                 _prettyRating = _b.sent();
-                _articles = articles ? handlers_1.hanlderSliceArticles(articles) : '';
-                _images = images ? handlers_1.handlerGetLatestInstagramImages(images) : '';
-                _yearsOld = handlers_1.handlerGetYearsOld();
+                _articles = articles ? (0, handlers_1.hanlderSliceArticles)(articles) : '';
+                _images = images ? (0, handlers_1.handlerGetLatestInstagramImages)(images) : '';
+                _yearsOld = (0, handlers_1.handlerGetYearsOld)();
                 newMarkdown = template
                     .replace(constants_1.PLACEHOLDERS.PERSONAL.YEARS_OLD, _yearsOld.toString())
                     .replace(constants_1.PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)

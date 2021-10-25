@@ -1,6 +1,6 @@
+import _ from 'lodash';
 import axios from 'axios';
 import cheerio from 'cheerio';
-import _ from 'lodash';
 import moment from 'moment';
 import Parser from 'rss-parser';
 
