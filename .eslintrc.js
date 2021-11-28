@@ -11,11 +11,6 @@ module.exports = {
 	ignorePatterns: ['./public'],
 	plugins: ['@typescript-eslint'],
 	parser: '@typescript-eslint/parser',
-	parserOptions: {
-		project: ['./tsconfig.json'],
-		tsconfigRootDir: __dirname,
-		sourceType: 'module',
-	},
 	rules: {
 		'no-console': 0,
 		'@typescript-eslint/no-explicit-any': 0,
