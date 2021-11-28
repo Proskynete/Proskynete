@@ -8,6 +8,7 @@ module.exports = {
 		'plugin:@typescript-eslint/recommended',
 		'plugin:prettier/recommended',
 	],
+	ignorePatterns: ['./public'],
 	plugins: ['@typescript-eslint'],
 	parser: '@typescript-eslint/parser',
 	parserOptions: {

@@ -250,47 +250,6 @@
   </strong>
 </p>
 
-<a href="https://www.instagram.com/p/CVYaKmUlAud/" target="_blank">
-  <img
-    src="https://instagram.fscl15-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/247426394_552635039163688_5284049663495821167_n.jpg?_nc_ht=instagram.fscl15-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=tkQCaHJLZRgAX-iLXbG&edm=APU89FABAAAA&ccb=7-4&oh=60f41a4b576a8948b39b9d3ade7179d3&oe=618D8088&_nc_sid=86f79a"
-    alt="Instagram image"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://www.instagram.com/p/CT0zvVAAHW3/" target="_blank">
-  <img
-    src="https://instagram.fscl15-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/242050871_243023651082985_1418961891220065825_n.jpg?_nc_ht=instagram.fscl15-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=-k1dyk1nfssAX_Z7bbb&edm=APU89FABAAAA&ccb=7-4&oh=56dc355f3e433931b6737b8c7b459589&oe=618E0EA3&_nc_sid=86f79a"
-    alt="Instagram image"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://www.instagram.com/p/CR2u5VMDP1R/" target="_blank">
-  <img
-    src="https://instagram.fscl15-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.133.1066.1066a/s640x640/223421266_219015820001961_8188634106651211309_n.jpg?_nc_ht=instagram.fscl15-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=q0s61wBGAhsAX_O6JdX&edm=APU89FABAAAA&ccb=7-4&oh=d42bf7e315d07f7945a766700ab67fac&oe=618F14E7&_nc_sid=86f79a"
-    alt="Instagram image"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://www.instagram.com/p/CREYnNfjbHy/" target="_blank">
-  <img
-    src="https://instagram.fscl15-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/211498447_2934152030203278_3705938491042166157_n.jpg?_nc_ht=instagram.fscl15-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=tlH_6p74DGkAX_blucA&edm=APU89FABAAAA&ccb=7-4&oh=dda21fa43d70dc544920b9e47399ec74&oe=618EF72F&_nc_sid=86f79a"
-    alt="Instagram image"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://www.instagram.com/p/CQPx9EXjVwQ/" target="_blank">
-  <img
-    src="https://instagram.fscl15-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/201651442_1019363352140818_2071394958195459903_n.jpg?_nc_ht=instagram.fscl15-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=x8TUPL5G1QEAX_05AHY&edm=APU89FABAAAA&ccb=7-4&oh=ff36f36e83d2a376146caa88aba7113d&oe=618EA97E&_nc_sid=86f79a"
-    alt="Instagram image"
-    width="150"
-    height="150"
-  />
-</a>
-
 ---
 
 <p align="left">

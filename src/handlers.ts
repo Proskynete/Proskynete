@@ -62,17 +62,20 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 		`https://www.instagram.com/graphql/query?query_id=17888483320059182&variables={"id":${PROSKYNETE},"first":${NUMBERS.IMAGES},"after":null}`,
 	);
 
-	const { edges } = data.data.user.edge_owner_to_timeline_media;
+	const { edges } = data.data?.user?.edge_owner_to_timeline_media ?? {};
 
-	return edges.map(({ node }: InstagramNodeInterface) => {
-		return {
-			permalink: `https://www.instagram.com/p/${node.shortcode}/`,
-			media_url: node.thumbnail_src,
-			description: !_.isEmpty(node.edge_media_to_caption.edges)
-				? node.edge_media_to_caption.edges[0].node.text
-				: '',
-		};
-	});
+	return (
+		edges &&
+		edges.map(({ node }: InstagramNodeInterface) => {
+			return {
+				permalink: `https://www.instagram.com/p/${node.shortcode}/`,
+				media_url: node.thumbnail_src,
+				description: !_.isEmpty(node.edge_media_to_caption.edges)
+					? node.edge_media_to_caption.edges[0].node.text
+					: '',
+			};
+		})
+	);
 };
 
 /**
@@ -84,8 +87,14 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 	images
 		.slice(0, NUMBERS.IMAGES)
 		.map(
-			({ media_url, permalink, description }) => `
-			[![${description || 'Instagram image'}](${media_url})](${permalink})`,
+			({ media_url, permalink }) => `<a href='${permalink}' target='_blank'>
+				<img
+					src='${media_url}'
+					alt='Instagram image'
+					width='150'
+					height='150'
+				/>
+    </a>`,
 		)
 		.join('');
 

@@ -25,9 +25,9 @@ exports.PLACEHOLDERS = {
     },
 };
 exports.URLS = {
-    VERTICAL_TIMELINE: exports.BASE_NPM_URL + "/vertical-timeline-component-react",
-    PRETTY_RATING: exports.BASE_NPM_URL + "/pretty-rating-react",
-    RSS: exports.BASE_WEBSITE + "/rss.xml",
+    VERTICAL_TIMELINE: `${exports.BASE_NPM_URL}/vertical-timeline-component-react`,
+    PRETTY_RATING: `${exports.BASE_NPM_URL}/pretty-rating-react`,
+    RSS: `${exports.BASE_WEBSITE}/rss.xml`,
 };
 exports.REGEXPS = {
     TAG_ELEMENT: 'p.f2874b88.fw6.mb3.mt2.truncate.black-80.f4',
@@ -36,3 +36,4 @@ exports.NUMBERS = {
     ARTICLES: 5,
     IMAGES: 5,
 };
+//# sourceMappingURL=constants.js.map
