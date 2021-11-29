@@ -87,10 +87,10 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 	images
 		.slice(0, NUMBERS.IMAGES)
 		.map(
-			({ media_url, permalink }) => `<a href='${permalink}' target='_blank'>
+			({ media_url, permalink, description }) => `<a href='${permalink}' target='_blank'>
 				<img
 					src='${media_url}'
-					alt='Instagram image'
+					alt=${description ? `"${description}"` : "'Instagram image'"}
 					width='150'
 					height='150'
 				/>

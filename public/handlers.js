@@ -58,10 +58,10 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
 exports.handlerGetInstagramImages = handlerGetInstagramImages;
 const handlerGetLatestInstagramImages = (images) => images
     .slice(0, constants_1.NUMBERS.IMAGES)
-    .map(({ media_url, permalink }) => `<a href='${permalink}' target='_blank'>
+    .map(({ media_url, permalink, description }) => `<a href='${permalink}' target='_blank'>
 				<img
 					src='${media_url}'
-					alt='Instagram image'
+					alt=${description ? `"${description}"` : "'Instagram image'"}
 					width='150'
 					height='150'
 				/>
