@@ -30,15 +30,15 @@
 <ul>
   <li>📍 Actualmente vivo en Lampa, RM. Santiago de Chile.</li>
   <li>👨🏼‍💻 Tengo %{{years_old}}% años.</li>
-  <li>🛫 Me encanta viajar.</li>
-  <li>💻 Las tecnologías web que realmente me gustan son: React y Node.</li>
+  <li>🇨🇱 ✈️ 🇦🇷 🇪🇸 🇮🇹 🗿</li>
+  <li>💻 Las tecnologías que realmente me gustan son: React, TypeScript, Node y Dart.</li>
 </ul>
 
 <p align="left"><strong>Hobbies</strong></p>
 <ul>
-  <li>🎼 Tocar instrumentos musicales (guitarra eléctrica, guitarra acústica, teclado y ukelele).</li>
-  <li>🤓 Ver anime</li>
-  <li>👾 Jugar videojuegos como:
+  <li>🎼  Tocar instrumentos musicales (guitarra eléctrica, guitarra acústica, teclado y ukelele).</li>
+  <li>🤓  Ver anime</li>
+  <li>👾  Jugar videojuegos como:
     <ul>
       <li>League of legends (lol):
         <ul>

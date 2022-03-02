@@ -117,8 +117,11 @@
 <ul>
   <li>📍 Actualmente vivo en Lampa, RM. Santiago de Chile.</li>
   <li>👨🏼‍💻 Tengo 28 años.</li>
-  <li>🛫 Me encanta viajar.</li>
-  <li>💻 Las tecnologías web que realmente me gustan son: React y Node.</li>
+  <li>🇨🇱 ✈️ 🇦🇷 🇪🇸 🇮🇹 🗿</li>
+  <li>
+    💻 Las tecnologías que realmente me gustan son: React, TypeScript, Node y
+    Dart.
+  </li>
 </ul>
 
 <p align="left">
@@ -252,7 +255,7 @@
 
 <a href="https://www.instagram.com/p/CYQ92X5Ay-x" target="_blank">
   <img
-    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/271118452_150926767288340_6658601939174927593_n.jpg?stp=c0.175.1406.1406a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=gIjNkjpBCBIAX8NZyZP&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-tn1IQrFLqZUXSSQSwlEJGCqkl6xVjijP1EPXdkwdrew&oe=6226236F&_nc_sid=7bff83"
+    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/271118452_150926767288340_6658601939174927593_n.jpg?stp=c0.175.1406.1406a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=gIjNkjpBCBIAX9tGTux&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8DRN_fmiDGHG5y0sD-iOuRa3iJDjP7v3ws6pl0QibCLA&oe=6226236F&_nc_sid=7bff83"
     alt="Y así con las cosas de la vida, venir a juntarnos acá a caleta de kilómetros lol, nos vemos en otro viaje!"
     width="150"
     height="150"
@@ -260,7 +263,7 @@
 </a>
 <a href="https://www.instagram.com/p/CYO9EFpAYC6" target="_blank">
   <img
-    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/271147100_2386490614820726_160259203668310633_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=B_ajLqAfPSAAX9YdgOA&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-yO-C6QB7iXouCrFK5dmVXlPPBMw8AzBooREUcOoEIHA&oe=62268F27&_nc_sid=7bff83"
+    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/271147100_2386490614820726_160259203668310633_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=B_ajLqAfPSAAX-UI2E8&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT80TCOgqf0H98yF5tkjs6Jra8oCWFwjaH_tFZS9IEignQ&oe=62268F27&_nc_sid=7bff83"
     alt="Instagram image"
     width="150"
     height="150"
@@ -268,7 +271,7 @@
 </a>
 <a href="https://www.instagram.com/p/CVYaKmUlAud" target="_blank">
   <img
-    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/247426394_552635039163688_5284049663495821167_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=5Sc0NTxSbiwAX_nPFNr&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8hf-fncEsJ-7I6PqRe0fJ6qbxpT8dQuc2nhtFju4g9xA&oe=6226822B&_nc_sid=7bff83"
+    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/247426394_552635039163688_5284049663495821167_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=5Sc0NTxSbiwAX8NgPXx&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-hm3ceKvkXVn4f-AZkBHH-Hx9YlFT6_s_8UhTdbDl6Uw&oe=6226822B&_nc_sid=7bff83"
     alt="Comida bastante rica! 
 Acá con @violetalibertad 😁😁"
     width="150"
@@ -277,7 +280,7 @@ Acá con @violetalibertad 😁😁"
 </a>
 <a href="https://www.instagram.com/p/CT0zvVAAHW3" target="_blank">
   <img
-    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/242050871_243023651082985_1418961891220065825_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=jwtt5817K8kAX-2tzDS&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-ArTReZr2X_cYfLs67y8_SZcl1oLCLZ0ANZCfbBHplSA&oe=6225BC90&_nc_sid=7bff83"
+    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/242050871_243023651082985_1418961891220065825_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=jwtt5817K8kAX-xbIUD&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9-zYDHRpe57xxDeL_1KEXV0Pt0vlNPnz5dGuKuRg1MRA&oe=6225BC90&_nc_sid=7bff83"
     alt="The real reason I bought an iPad is that while writing code, I can watch Netflix 🤭"
     width="150"
     height="150"
@@ -285,7 +288,7 @@ Acá con @violetalibertad 😁😁"
 </a>
 <a href="https://www.instagram.com/p/CR2u5VMDP1R" target="_blank">
   <img
-    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/223421266_219015820001961_8188634106651211309_n.jpg?stp=c0.133.1066.1066a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=v37IuGyM0oYAX8Ep2Cq&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-6WCzti4PoO_ix0jJNUWHu8ltPbOaEtPU0zEWV0Zh9Ag&oe=6225655E&_nc_sid=7bff83"
+    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/223421266_219015820001961_8188634106651211309_n.jpg?stp=c0.133.1066.1066a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=v37IuGyM0oYAX-0bkL3&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-TxVZKgEBlj50BPNPy3MNRJ7hssXd1sNREIWWbo2Tcag&oe=6225655E&_nc_sid=7bff83"
     alt="Instagram image"
     width="150"
     height="150"
