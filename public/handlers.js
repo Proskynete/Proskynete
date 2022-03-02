@@ -67,6 +67,8 @@ const handlerGetLatestInstagramImages = (images) => images
 				<img
 					src='${media_url}'
 					alt=${description ? `"${description}"` : "'Instagram image'"}
+					width='150'
+					height='150'
 				/>
     </a>`)
     .join('');
