@@ -3,12 +3,21 @@ import axios from 'axios';
 import cheerio from 'cheerio';
 import moment from 'moment';
 import Parser from 'rss-parser';
+import { URLS, NUMBERS, REGEXPS, YEAR_OF_BIRTH, INSTAGRAM_USERNAME } from './constants';
+import {
+	Article,
+	InstagramApiResponse,
+	InstagramImagesResponse,
+	InstagramNodeInterface,
+} from './interfaces';
+import dotenv from 'dotenv';
 
-import { URLS, NUMBERS, REGEXPS, YEAR_OF_BIRTH, PROSKYNETE } from './constants';
-import { InstagramImagesResponse, InstagramNodeInterface } from './interfaces';
+dotenv.config();
 
 const parser = new Parser();
 moment.locale('es');
+
+const { INSTAGRAM_API_KEY } = process.env;
 
 /**
  * Get the version of a library published in npm.com
@@ -43,7 +52,7 @@ export const handlerPrettyDate = (date: string): string => moment(new Date(date)
  * @param {array} articles - Articles obtained from an RSS.
  * @returns Link with the title, and the date of the post, with markdown syntax.
  */
-export const hanlderSliceArticles = (articles: Parser.Item[]): string =>
+export const handlerSliceArticles = (articles: Article[]): string =>
 	articles
 		.slice(0, NUMBERS.ARTICLES)
 		.map(({ title, link, pubDate }) =>
@@ -58,21 +67,25 @@ export const hanlderSliceArticles = (articles: Parser.Item[]): string =>
  * @returns A object with permalink and media_url attributes
  */
 export const handlerGetInstagramImages = async (): Promise<InstagramImagesResponse[]> => {
-	const { data } = await axios.get(
-		`https://www.instagram.com/graphql/query?query_id=17888483320059182&variables={"id":${PROSKYNETE},"first":${NUMBERS.IMAGES},"after":null}`,
+	const { data }: any = await axios.get<InstagramApiResponse>(
+		`https://instagram85.p.rapidapi.com/account/${INSTAGRAM_USERNAME}/info`,
+		{
+			headers: {
+				'x-rapidapi-host': 'instagram85.p.rapidapi.com',
+				'x-rapidapi-key': INSTAGRAM_API_KEY as string,
+			},
+		},
 	);
 
-	const { edges } = data.data?.user?.edge_owner_to_timeline_media ?? {};
+	const images: InstagramNodeInterface[] = data.data.feed.data;
 
 	return (
-		edges &&
-		edges.map(({ node }: InstagramNodeInterface) => {
+		images &&
+		images.map((image) => {
 			return {
-				permalink: `https://www.instagram.com/p/${node.shortcode}/`,
-				media_url: node.thumbnail_src,
-				description: !_.isEmpty(node.edge_media_to_caption.edges)
-					? node.edge_media_to_caption.edges[0].node.text
-					: '',
+				permalink: image.post_url,
+				media_url: image.images.thumbnail,
+				description: !_.isEmpty(image.caption) ? image.caption : '',
 			};
 		})
 	);
@@ -91,8 +104,6 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 				<img
 					src='${media_url}'
 					alt=${description ? `"${description}"` : "'Instagram image'"}
-					width='150'
-					height='150'
 				/>
     </a>`,
 		)

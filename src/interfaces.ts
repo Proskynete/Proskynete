@@ -1,3 +1,24 @@
+export interface Article {
+	title: string;
+	link: string;
+	pubDate: string;
+}
+
+export interface InstagramApiResponse {
+	data: {
+		full_name: string;
+		profile_pic: {
+			normal: string;
+			hd: string;
+		};
+		biography: string;
+		website: string;
+		feed: {
+			data: InstagramNodeInterface[];
+		};
+	};
+}
+
 export interface ThumbnailInterface {
 	src: string;
 	config_width: number;
@@ -10,18 +31,21 @@ export interface EdgesInterface {
 	};
 }
 
-export interface InstagramInterface {
-	shortcode: string;
-	display_url: string;
-	thumbnail_resources: ThumbnailInterface[];
-	thumbnail_src: string;
-	edge_media_to_caption: {
-		edges: EdgesInterface[];
-	};
-}
-
 export interface InstagramNodeInterface {
-	node: InstagramInterface;
+	id: string;
+	short_code: string;
+	type: string;
+	post_url: string;
+	images: {
+		thumbnail: string;
+		original: {
+			low: string;
+			standard: string;
+			high: string;
+		};
+		square: string[];
+	};
+	caption: string;
 }
 
 export interface InstagramImagesResponse {

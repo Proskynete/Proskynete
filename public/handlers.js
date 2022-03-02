@@ -12,15 +12,18 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.handlerGetYearsOld = exports.handlerGetLatestInstagramImages = exports.handlerGetInstagramImages = exports.hanlderSliceArticles = exports.handlerPrettyDate = exports.handlerGetLatestArticles = exports.handlerGetVersion = void 0;
+exports.handlerGetYearsOld = exports.handlerGetLatestInstagramImages = exports.handlerGetInstagramImages = exports.handlerSliceArticles = exports.handlerPrettyDate = exports.handlerGetLatestArticles = exports.handlerGetVersion = void 0;
 const lodash_1 = __importDefault(require("lodash"));
 const axios_1 = __importDefault(require("axios"));
 const cheerio_1 = __importDefault(require("cheerio"));
 const moment_1 = __importDefault(require("moment"));
 const rss_parser_1 = __importDefault(require("rss-parser"));
 const constants_1 = require("./constants");
+const dotenv_1 = __importDefault(require("dotenv"));
+dotenv_1.default.config();
 const parser = new rss_parser_1.default();
 moment_1.default.locale('es');
+const { INSTAGRAM_API_KEY } = process.env;
 const handlerGetVersion = (url) => __awaiter(void 0, void 0, void 0, function* () {
     const file = yield (0, axios_1.default)(url);
     return new Promise((resolve) => {
@@ -33,25 +36,27 @@ const handlerGetLatestArticles = () => __awaiter(void 0, void 0, void 0, functio
 exports.handlerGetLatestArticles = handlerGetLatestArticles;
 const handlerPrettyDate = (date) => (0, moment_1.default)(new Date(date)).format('LL');
 exports.handlerPrettyDate = handlerPrettyDate;
-const hanlderSliceArticles = (articles) => articles
+const handlerSliceArticles = (articles) => articles
     .slice(0, constants_1.NUMBERS.ARTICLES)
     .map(({ title, link, pubDate }) => pubDate
     ? `- [${title}](${link}) - <small>Publicado el ${(0, exports.handlerPrettyDate)(pubDate)}</small>`
     : `[${title}](${link})`)
     .join('\n');
-exports.hanlderSliceArticles = hanlderSliceArticles;
+exports.handlerSliceArticles = handlerSliceArticles;
 const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, function* () {
-    var _a, _b, _c;
-    const { data } = yield axios_1.default.get(`https://www.instagram.com/graphql/query?query_id=17888483320059182&variables={"id":${constants_1.PROSKYNETE},"first":${constants_1.NUMBERS.IMAGES},"after":null}`);
-    const { edges } = (_c = (_b = (_a = data.data) === null || _a === void 0 ? void 0 : _a.user) === null || _b === void 0 ? void 0 : _b.edge_owner_to_timeline_media) !== null && _c !== void 0 ? _c : {};
-    return (edges &&
-        edges.map(({ node }) => {
+    const { data } = yield axios_1.default.get(`https://instagram85.p.rapidapi.com/account/${constants_1.INSTAGRAM_USERNAME}/info`, {
+        headers: {
+            'x-rapidapi-host': 'instagram85.p.rapidapi.com',
+            'x-rapidapi-key': INSTAGRAM_API_KEY,
+        },
+    });
+    const images = data.data.feed.data;
+    return (images &&
+        images.map((image) => {
             return {
-                permalink: `https://www.instagram.com/p/${node.shortcode}/`,
-                media_url: node.thumbnail_src,
-                description: !lodash_1.default.isEmpty(node.edge_media_to_caption.edges)
-                    ? node.edge_media_to_caption.edges[0].node.text
-                    : '',
+                permalink: image.post_url,
+                media_url: image.images.thumbnail,
+                description: !lodash_1.default.isEmpty(image.caption) ? image.caption : '',
             };
         }));
 });
@@ -62,8 +67,6 @@ const handlerGetLatestInstagramImages = (images) => images
 				<img
 					src='${media_url}'
 					alt=${description ? `"${description}"` : "'Instagram image'"}
-					width='150'
-					height='150'
 				/>
     </a>`)
     .join('');

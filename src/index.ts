@@ -5,7 +5,7 @@ import { NUMBERS, PLACEHOLDERS, URLS } from './constants';
 import {
 	handlerGetVersion,
 	handlerGetLatestArticles,
-	hanlderSliceArticles,
+	handlerSliceArticles,
 	handlerGetInstagramImages,
 	handlerGetLatestInstagramImages,
 	handlerGetYearsOld,
@@ -23,7 +23,7 @@ import {
 
 		const _verticalTimeline = await handlerGetVersion(URLS.VERTICAL_TIMELINE);
 		const _prettyRating = await handlerGetVersion(URLS.PRETTY_RATING);
-		const _articles = articles ? hanlderSliceArticles(articles) : '';
+		const _articles = articles ? handlerSliceArticles(articles) : '';
 		const _images = images ? handlerGetLatestInstagramImages(images) : '';
 		const _yearsOld = handlerGetYearsOld();
 

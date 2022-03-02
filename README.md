@@ -250,45 +250,35 @@
   </strong>
 </p>
 
-<a href="https://www.instagram.com/p/CYQ92X5Ay-x/" target="_blank">
+<a href="https://www.instagram.com/p/CYQ92X5Ay-x" target="_blank">
   <img
-    src="https://scontent-scl2-1.cdninstagram.com/v/t51.2885-15/271118452_150926767288340_6658601939174927593_n.jpg?stp=c0.175.1406.1406a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-scl2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=gIjNkjpBCBIAX-8IKT9&edm=APU89FABAAAA&ccb=7-4&oh=00_AT9C3x1lLcdfuzGvzENiJNaRj8YeX4G_CxXksWTlc28Z9g&oe=6226236F&_nc_sid=86f79a"
+    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/271118452_150926767288340_6658601939174927593_n.jpg?stp=c0.175.1406.1406a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=gIjNkjpBCBIAX-2gh2s&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-NG-CbJ0BFedD3F0zfenSllc_KTaPQO7sTgkuqVu7kmQ&oe=6226236F&_nc_sid=7bff83"
     alt="Y así con las cosas de la vida, venir a juntarnos acá a caleta de kilómetros lol, nos vemos en otro viaje!"
-    width="150"
-    height="150"
   />
 </a>
-<a href="https://www.instagram.com/p/CYO9EFpAYC6/" target="_blank">
+<a href="https://www.instagram.com/p/CYO9EFpAYC6" target="_blank">
   <img
-    src="https://scontent-scl2-1.cdninstagram.com/v/t51.2885-15/271147100_2386490614820726_160259203668310633_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-scl2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=B_ajLqAfPSAAX-HcOnc&edm=APU89FABAAAA&ccb=7-4&oh=00_AT_3QbGyIpCFiIxO_cQUWgmuVT4-2IzWCBcbET7PKvYI2Q&oe=62268F27&_nc_sid=86f79a"
+    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/271147100_2386490614820726_160259203668310633_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=B_ajLqAfPSAAX9U3bLd&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9b3DzDmSltdymJi0A1ytoxCORw7rq9ogLGDDRJrZN8yQ&oe=62268F27&_nc_sid=7bff83"
     alt="Instagram image"
-    width="150"
-    height="150"
   />
 </a>
-<a href="https://www.instagram.com/p/CVYaKmUlAud/" target="_blank">
+<a href="https://www.instagram.com/p/CVYaKmUlAud" target="_blank">
   <img
-    src="https://scontent-scl2-1.cdninstagram.com/v/t51.2885-15/247426394_552635039163688_5284049663495821167_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-scl2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=5Sc0NTxSbiwAX9zp7rm&edm=APU89FABAAAA&ccb=7-4&oh=00_AT-eFzh94soEHiBVK7HgQyOjMChrX-eDVWzq27G5Mc4k3A&oe=6226822B&_nc_sid=86f79a"
-    alt="Comida bastante rica!
+    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/247426394_552635039163688_5284049663495821167_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=5Sc0NTxSbiwAX87MXkT&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9nYdNLGypXXIZglXgGHHO2gItHj_wM27SwqC-Q55AHwQ&oe=6226822B&_nc_sid=7bff83"
+    alt="Comida bastante rica! 
 Acá con @violetalibertad 😁😁"
-    width="150"
-    height="150"
   />
 </a>
-<a href="https://www.instagram.com/p/CT0zvVAAHW3/" target="_blank">
+<a href="https://www.instagram.com/p/CT0zvVAAHW3" target="_blank">
   <img
-    src="https://scontent-scl2-1.cdninstagram.com/v/t51.2885-15/242050871_243023651082985_1418961891220065825_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-scl2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=jwtt5817K8kAX9HbZIc&edm=APU89FABAAAA&ccb=7-4&oh=00_AT93PEKGFcO_oAMsjUo_Yv_zc-3jq9Ov-rip0M_49PApRg&oe=6225BC90&_nc_sid=86f79a"
+    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/242050871_243023651082985_1418961891220065825_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=jwtt5817K8kAX9n2Zlq&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9mmRzeFhpLd8KB5w51YmSwiV0kTyZlIOKdM__R7-S0qw&oe=6225BC90&_nc_sid=7bff83"
     alt="The real reason I bought an iPad is that while writing code, I can watch Netflix 🤭"
-    width="150"
-    height="150"
   />
 </a>
-<a href="https://www.instagram.com/p/CR2u5VMDP1R/" target="_blank">
+<a href="https://www.instagram.com/p/CR2u5VMDP1R" target="_blank">
   <img
-    src="https://scontent-scl2-1.cdninstagram.com/v/t51.2885-15/223421266_219015820001961_8188634106651211309_n.jpg?stp=c0.133.1066.1066a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-scl2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=v37IuGyM0oYAX-ah_i0&edm=APU89FABAAAA&ccb=7-4&oh=00_AT_XhnZFio0U0gLKerErE5BKDtT9rsaT94eKDlu9wRVfZg&oe=6225655E&_nc_sid=86f79a"
+    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/223421266_219015820001961_8188634106651211309_n.jpg?stp=c0.133.1066.1066a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=v37IuGyM0oYAX9wz19s&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_1DBdDEzp3vicxepzpace9vzQwJkdBFE6AGqgJ-NcBNA&oe=6225655E&_nc_sid=7bff83"
     alt="Instagram image"
-    width="150"
-    height="150"
   />
 </a>
 

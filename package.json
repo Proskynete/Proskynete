@@ -15,8 +15,8 @@
 		"type": "git",
 		"url": "git+https://github.com/Proskynete/Proskynete.git"
 	},
-	"author": "Eduardo Álvarez",
-	"license": "MIT",
+	"author": "Eduardo Esteban Álvarez Castañeda <soy@eduardoalvarez.dev> (https://eduardoalvarez.dev)",
+	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/Proskynete/Proskynete/issues"
 	},
@@ -24,6 +24,7 @@
 	"dependencies": {
 		"axios": "^0.24.0",
 		"cheerio": "^1.0.0-rc.10",
+		"dotenv": "^16.0.0",
 		"husky": "^7.0.4",
 		"lodash": "^4.17.21",
 		"moment": "^2.29.1",

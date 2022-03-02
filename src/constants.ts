@@ -8,7 +8,8 @@ import {
 export const BASE_NPM_URL = 'https://www.npmjs.com/package';
 export const BASE_WEBSITE = 'https://eduardoalvarez.dev';
 export const YEAR_OF_BIRTH = '1993-12-24';
-export const PROSKYNETE = 42938370;
+export const INSTAGRAM_ID = 42938370;
+export const INSTAGRAM_USERNAME = 'proskynete';
 
 export const PLACEHOLDERS: PlaceholdersInteface = {
 	PERSONAL: {
