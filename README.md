@@ -116,7 +116,7 @@
 </p>
 <ul>
   <li>📍 Actualmente vivo en Lampa, RM. Santiago de Chile.</li>
-  <li>👨🏼‍💻 Tengo 27 años.</li>
+  <li>👨🏼‍💻 Tengo 28 años.</li>
   <li>🛫 Me encanta viajar.</li>
   <li>💻 Las tecnologías web que realmente me gustan son: React y Node.</li>
 </ul>
@@ -250,10 +250,26 @@
   </strong>
 </p>
 
+<a href="https://www.instagram.com/p/CYQ92X5Ay-x/" target="_blank">
+  <img
+    src="https://scontent-scl2-1.cdninstagram.com/v/t51.2885-15/271118452_150926767288340_6658601939174927593_n.jpg?stp=c0.175.1406.1406a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-scl2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=gIjNkjpBCBIAX-8IKT9&edm=APU89FABAAAA&ccb=7-4&oh=00_AT9C3x1lLcdfuzGvzENiJNaRj8YeX4G_CxXksWTlc28Z9g&oe=6226236F&_nc_sid=86f79a"
+    alt="Y así con las cosas de la vida, venir a juntarnos acá a caleta de kilómetros lol, nos vemos en otro viaje!"
+    width="150"
+    height="150"
+  />
+</a>
+<a href="https://www.instagram.com/p/CYO9EFpAYC6/" target="_blank">
+  <img
+    src="https://scontent-scl2-1.cdninstagram.com/v/t51.2885-15/271147100_2386490614820726_160259203668310633_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-scl2-1.cdninstagram.com&_nc_cat=102&_nc_ohc=B_ajLqAfPSAAX-HcOnc&edm=APU89FABAAAA&ccb=7-4&oh=00_AT_3QbGyIpCFiIxO_cQUWgmuVT4-2IzWCBcbET7PKvYI2Q&oe=62268F27&_nc_sid=86f79a"
+    alt="Instagram image"
+    width="150"
+    height="150"
+  />
+</a>
 <a href="https://www.instagram.com/p/CVYaKmUlAud/" target="_blank">
   <img
-    src="https://scontent-scl2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/247426394_552635039163688_5284049663495821167_n.jpg?_nc_ht=scontent-scl2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=alBOBPxCGHsAX-Ye2Li&edm=APU89FABAAAA&ccb=7-4&oh=f1d50e376a099228986e7d349b4ee2c8&oe=61AB2A48&_nc_sid=86f79a"
-    alt="Comida bastante rica! 
+    src="https://scontent-scl2-1.cdninstagram.com/v/t51.2885-15/247426394_552635039163688_5284049663495821167_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-scl2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=5Sc0NTxSbiwAX9zp7rm&edm=APU89FABAAAA&ccb=7-4&oh=00_AT-eFzh94soEHiBVK7HgQyOjMChrX-eDVWzq27G5Mc4k3A&oe=6226822B&_nc_sid=86f79a"
+    alt="Comida bastante rica!
 Acá con @violetalibertad 😁😁"
     width="150"
     height="150"
@@ -261,7 +277,7 @@ Acá con @violetalibertad 😁😁"
 </a>
 <a href="https://www.instagram.com/p/CT0zvVAAHW3/" target="_blank">
   <img
-    src="https://scontent-scl2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/242050871_243023651082985_1418961891220065825_n.jpg?_nc_ht=scontent-scl2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=CbayOJ-bNQEAX9ObAe6&edm=APU89FABAAAA&ccb=7-4&oh=39efabd4d3c027cd6829fed3c95f00ab&oe=61ABB863&_nc_sid=86f79a"
+    src="https://scontent-scl2-1.cdninstagram.com/v/t51.2885-15/242050871_243023651082985_1418961891220065825_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-scl2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=jwtt5817K8kAX9HbZIc&edm=APU89FABAAAA&ccb=7-4&oh=00_AT93PEKGFcO_oAMsjUo_Yv_zc-3jq9Ov-rip0M_49PApRg&oe=6225BC90&_nc_sid=86f79a"
     alt="The real reason I bought an iPad is that while writing code, I can watch Netflix 🤭"
     width="150"
     height="150"
@@ -269,24 +285,8 @@ Acá con @violetalibertad 😁😁"
 </a>
 <a href="https://www.instagram.com/p/CR2u5VMDP1R/" target="_blank">
   <img
-    src="https://scontent-scl2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.133.1066.1066a/s640x640/223421266_219015820001961_8188634106651211309_n.jpg?_nc_ht=scontent-scl2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=n1puWAJIIv8AX8vH2Ww&edm=APU89FABAAAA&ccb=7-4&oh=1f11dd10bb0d47dd6146807ed9f97113&oe=61ACBEA7&_nc_sid=86f79a"
+    src="https://scontent-scl2-1.cdninstagram.com/v/t51.2885-15/223421266_219015820001961_8188634106651211309_n.jpg?stp=c0.133.1066.1066a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-scl2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=v37IuGyM0oYAX-ah_i0&edm=APU89FABAAAA&ccb=7-4&oh=00_AT_XhnZFio0U0gLKerErE5BKDtT9rsaT94eKDlu9wRVfZg&oe=6225655E&_nc_sid=86f79a"
     alt="Instagram image"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://www.instagram.com/p/CREYnNfjbHy/" target="_blank">
-  <img
-    src="https://scontent-scl2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/211498447_2934152030203278_3705938491042166157_n.jpg?_nc_ht=scontent-scl2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=bNq-BYV1ORsAX8B28BX&edm=APU89FABAAAA&ccb=7-4&oh=79e9f35c251ee5dbd2c2c667abe0f7a2&oe=61ACA0EF&_nc_sid=86f79a"
-    alt="Ha costado, pero cada vez me gusta más mi espacio de trabajo! 💪🏻"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://www.instagram.com/p/CQPx9EXjVwQ/" target="_blank">
-  <img
-    src="https://scontent-scl2-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c180.0.1080.1080a/s640x640/201651442_1019363352140818_2071394958195459903_n.jpg?_nc_ht=scontent-scl2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=gFGIcKqA3koAX99_ZzC&edm=APU89FABAAAA&ccb=7-4&oh=d88bd62c941d3a2f3a7f2cf10453d876&oe=61AC533E&_nc_sid=86f79a"
-    alt="Un pequeño cambio a mi nuevo setup 2021 escuchando a los mostros @midu.dev @naschurmann 💪🏻"
     width="150"
     height="150"
   />
