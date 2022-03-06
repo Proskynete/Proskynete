@@ -1,6 +1,5 @@
 import { promises as fs } from 'fs';
 import prettier from 'prettier';
-
 import { NUMBERS, PLACEHOLDERS, URLS } from './constants';
 import {
 	handlerGetVersion,
@@ -9,6 +8,7 @@ import {
 	handlerGetInstagramImages,
 	handlerGetLatestInstagramImages,
 	handlerGetYearsOld,
+	handleGetTechnologies,
 } from './handlers';
 
 (async () => {
@@ -26,8 +26,10 @@ import {
 		const _articles = articles ? handlerSliceArticles(articles) : '';
 		const _images = images ? handlerGetLatestInstagramImages(images) : '';
 		const _yearsOld = handlerGetYearsOld();
+		const _technologies = handleGetTechnologies();
 
 		const newMarkdown = template
+			.replace(PLACEHOLDERS.TECHNOLOGIES, _technologies)
 			.replace(PLACEHOLDERS.PERSONAL.YEARS_OLD, _yearsOld.toString())
 			.replace(PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)
 			.replace(PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
@@ -36,12 +38,12 @@ import {
 			.replace(PLACEHOLDERS.WEBSITE.RSS, _articles)
 			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.SECTION_IMAGES, _images);
 
-		const markdownFormated = prettier.format(newMarkdown, {
+		const markdownFormatted = prettier.format(newMarkdown, {
 			...prettierConfig,
 			parser: 'mdx',
 		});
 
-		await fs.writeFile('./README.md', markdownFormated);
+		await fs.writeFile('./README.md', markdownFormatted);
 	} catch (error) {
 		console.error(error);
 	}

@@ -12,7 +12,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.handlerGetYearsOld = exports.handlerGetLatestInstagramImages = exports.handlerGetInstagramImages = exports.handlerSliceArticles = exports.handlerPrettyDate = exports.handlerGetLatestArticles = exports.handlerGetVersion = void 0;
+exports.handleGetTechnologies = exports.handlerGetYearsOld = exports.handlerGetLatestInstagramImages = exports.handlerGetInstagramImages = exports.handlerSliceArticles = exports.handlerPrettyDate = exports.handlerGetLatestArticles = exports.handlerGetVersion = void 0;
 const lodash_1 = __importDefault(require("lodash"));
 const axios_1 = __importDefault(require("axios"));
 const cheerio_1 = __importDefault(require("cheerio"));
@@ -75,4 +75,32 @@ const handlerGetLatestInstagramImages = (images) => images
 exports.handlerGetLatestInstagramImages = handlerGetLatestInstagramImages;
 const handlerGetYearsOld = () => (0, moment_1.default)().diff(constants_1.YEAR_OF_BIRTH, 'years');
 exports.handlerGetYearsOld = handlerGetYearsOld;
+const handleGetTechnologies = () => {
+    const _array = [
+        { file_name: 'ts', technology: 'Typescript' },
+        { file_name: 'js', technology: 'Javascript' },
+        { file_name: 'html5', technology: 'HTML5' },
+        { file_name: 'css3', technology: 'CSS3' },
+        { file_name: 'bootstrap', technology: 'Bootstrap' },
+        { file_name: 'sass', technology: 'Sass' },
+        { file_name: 'react', technology: 'React' },
+        { file_name: 'redux', technology: 'Redux' },
+        { file_name: 'node', technology: 'Nodejs' },
+        { file_name: 'mongodb', technology: 'MongoDB' },
+        { file_name: 'dart', technology: 'Dart' },
+        { file_name: 'flutter', technology: 'Flutter' },
+        { file_name: 'aws', technology: 'Amazon Web Services' },
+        { file_name: 'gcp', technology: 'Google Cloud Platform' },
+        { file_name: 'git', technology: 'Git' },
+    ];
+    return _array
+        .map(({ file_name, technology }) => `<img
+					src='${constants_1.BASE_URL_TECHNOLOGIES}/${file_name}.png?raw=true'
+					alt=${technology}
+					width='25'
+					height='25'
+				/>`)
+        .join(' ');
+};
+exports.handleGetTechnologies = handleGetTechnologies;
 //# sourceMappingURL=handlers.js.map

@@ -29,7 +29,9 @@ const handlers_1 = require("./handlers");
         const _articles = articles ? (0, handlers_1.handlerSliceArticles)(articles) : '';
         const _images = images ? (0, handlers_1.handlerGetLatestInstagramImages)(images) : '';
         const _yearsOld = (0, handlers_1.handlerGetYearsOld)();
+        const _technologies = (0, handlers_1.handleGetTechnologies)();
         const newMarkdown = template
+            .replace(constants_1.PLACEHOLDERS.TECHNOLOGIES, _technologies)
             .replace(constants_1.PLACEHOLDERS.PERSONAL.YEARS_OLD, _yearsOld.toString())
             .replace(constants_1.PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)
             .replace(constants_1.PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
@@ -37,8 +39,8 @@ const handlers_1 = require("./handlers");
             .replace(constants_1.PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.NUMBER_IMAGES, constants_1.NUMBERS.IMAGES.toString())
             .replace(constants_1.PLACEHOLDERS.WEBSITE.RSS, _articles)
             .replace(constants_1.PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.SECTION_IMAGES, _images);
-        const markdownFormated = prettier_1.default.format(newMarkdown, Object.assign(Object.assign({}, prettierConfig), { parser: 'mdx' }));
-        yield fs_1.promises.writeFile('./README.md', markdownFormated);
+        const markdownFormatted = prettier_1.default.format(newMarkdown, Object.assign(Object.assign({}, prettierConfig), { parser: 'mdx' }));
+        yield fs_1.promises.writeFile('./README.md', markdownFormatted);
     }
     catch (error) {
         console.error(error);

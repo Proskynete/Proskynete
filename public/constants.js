@@ -1,12 +1,14 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.NUMBERS = exports.REGEXPS = exports.URLS = exports.PLACEHOLDERS = exports.INSTAGRAM_USERNAME = exports.INSTAGRAM_ID = exports.YEAR_OF_BIRTH = exports.BASE_WEBSITE = exports.BASE_NPM_URL = void 0;
+exports.NUMBERS = exports.REGEXPS = exports.URLS = exports.PLACEHOLDERS = exports.BASE_URL_TECHNOLOGIES = exports.INSTAGRAM_USERNAME = exports.INSTAGRAM_ID = exports.YEAR_OF_BIRTH = exports.BASE_WEBSITE = exports.BASE_NPM_URL = void 0;
 exports.BASE_NPM_URL = 'https://www.npmjs.com/package';
 exports.BASE_WEBSITE = 'https://eduardoalvarez.dev';
 exports.YEAR_OF_BIRTH = '1993-12-24';
 exports.INSTAGRAM_ID = 42938370;
 exports.INSTAGRAM_USERNAME = 'proskynete';
+exports.BASE_URL_TECHNOLOGIES = 'https://github.com/Proskynete/Proskynete/blob/master/images/icons';
 exports.PLACEHOLDERS = {
+    TECHNOLOGIES: '%{{technologies}}%',
     PERSONAL: {
         YEARS_OLD: '%{{years_old}}%',
     },

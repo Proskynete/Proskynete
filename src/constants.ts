@@ -10,8 +10,11 @@ export const BASE_WEBSITE = 'https://eduardoalvarez.dev';
 export const YEAR_OF_BIRTH = '1993-12-24';
 export const INSTAGRAM_ID = 42938370;
 export const INSTAGRAM_USERNAME = 'proskynete';
+export const BASE_URL_TECHNOLOGIES =
+	'https://github.com/Proskynete/Proskynete/blob/master/images/icons';
 
 export const PLACEHOLDERS: PlaceholdersInteface = {
+	TECHNOLOGIES: '%{{technologies}}%',
 	PERSONAL: {
 		YEARS_OLD: '%{{years_old}}%',
 	},

@@ -54,7 +54,13 @@ export interface InstagramImagesResponse {
 	description: string;
 }
 
+export interface ImagesInterface {
+	file_name: string;
+	technology: string;
+}
+
 export interface PlaceholdersInteface {
+	TECHNOLOGIES: string;
 	PERSONAL: {
 		YEARS_OLD: string;
 	};

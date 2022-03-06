@@ -3,9 +3,17 @@ import axios from 'axios';
 import cheerio from 'cheerio';
 import moment from 'moment';
 import Parser from 'rss-parser';
-import { URLS, NUMBERS, REGEXPS, YEAR_OF_BIRTH, INSTAGRAM_USERNAME } from './constants';
+import {
+	URLS,
+	NUMBERS,
+	REGEXPS,
+	YEAR_OF_BIRTH,
+	INSTAGRAM_USERNAME,
+	BASE_URL_TECHNOLOGIES,
+} from './constants';
 import {
 	Article,
+	ImagesInterface,
 	InstagramApiResponse,
 	InstagramImagesResponse,
 	InstagramNodeInterface,
@@ -67,7 +75,7 @@ export const handlerSliceArticles = (articles: Article[]): string =>
  * @returns A object with permalink and media_url attributes
  */
 export const handlerGetInstagramImages = async (): Promise<InstagramImagesResponse[]> => {
-	const { data }: any = await axios.get<InstagramApiResponse>(
+	const { data } = await axios.get<InstagramApiResponse>(
 		`https://instagram85.p.rapidapi.com/account/${INSTAGRAM_USERNAME}/info`,
 		{
 			headers: {
@@ -116,3 +124,39 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
  * @returns Number of years
  */
 export const handlerGetYearsOld = (): number => moment().diff(YEAR_OF_BIRTH, 'years');
+
+/**
+ * Create array of technologies that I know
+ * @returns Array of technologies
+ */
+export const handleGetTechnologies = () => {
+	const _array: ImagesInterface[] = [
+		{ file_name: 'ts', technology: 'Typescript' },
+		{ file_name: 'js', technology: 'Javascript' },
+		{ file_name: 'html5', technology: 'HTML5' },
+		{ file_name: 'css3', technology: 'CSS3' },
+		{ file_name: 'bootstrap', technology: 'Bootstrap' },
+		{ file_name: 'sass', technology: 'Sass' },
+		{ file_name: 'react', technology: 'React' },
+		{ file_name: 'redux', technology: 'Redux' },
+		{ file_name: 'node', technology: 'Nodejs' },
+		{ file_name: 'mongodb', technology: 'MongoDB' },
+		{ file_name: 'dart', technology: 'Dart' },
+		{ file_name: 'flutter', technology: 'Flutter' },
+		{ file_name: 'aws', technology: 'Amazon Web Services' },
+		{ file_name: 'gcp', technology: 'Google Cloud Platform' },
+		{ file_name: 'git', technology: 'Git' },
+	];
+
+	return _array
+		.map(
+			({ file_name, technology }) =>
+				`<img
+					src='${BASE_URL_TECHNOLOGIES}/${file_name}.png?raw=true'
+					alt=${technology}
+					width='25'
+					height='25'
+				/>`,
+		)
+		.join(' ');
+};
