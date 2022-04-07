@@ -50,7 +50,6 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
             'x-rapidapi-key': INSTAGRAM_API_KEY,
         },
     });
-    console.log(data);
     const images = data.data.feed.data;
     return (images &&
         images.map((image) => {
