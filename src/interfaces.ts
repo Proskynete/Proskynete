@@ -59,7 +59,7 @@ export interface ImagesInterface {
 	technology: string;
 }
 
-export interface PlaceholdersInteface {
+export interface PlaceholdersInterface {
 	TECHNOLOGIES: string;
 	PERSONAL: {
 		YEARS_OLD: string;

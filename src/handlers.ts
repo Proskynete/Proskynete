@@ -100,9 +100,9 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 };
 
 /**
- * Trasnform the string of images to mdx format and slice the result
+ * Transform the string of images to mdx format and slice the result
  * @param {InstagramImagesResponse[]} images - Array of { permalink, media_url } attributes
- * @returns An array of links wirth images obtained from instagram
+ * @returns An array of links with images obtained from instagram
  */
 export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[]): string =>
 	images

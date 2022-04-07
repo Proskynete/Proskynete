@@ -1,6 +1,6 @@
 import {
 	NumbersInterface,
-	PlaceholdersInteface,
+	PlaceholdersInterface,
 	RegexpsInterface,
 	UrlsInterface,
 } from './interfaces';
@@ -13,7 +13,7 @@ export const INSTAGRAM_USERNAME = 'proskynete';
 export const BASE_URL_TECHNOLOGIES =
 	'https://github.com/Proskynete/Proskynete/blob/master/images/icons';
 
-export const PLACEHOLDERS: PlaceholdersInteface = {
+export const PLACEHOLDERS: PlaceholdersInterface = {
 	TECHNOLOGIES: '%{{technologies}}%',
 	PERSONAL: {
 		YEARS_OLD: '%{{years_old}}%',

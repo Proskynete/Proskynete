@@ -4,9 +4,9 @@
 	"description": "Proskynete README github profile",
 	"main": "public/index.js",
 	"scripts": {
-		"transpilate": "tsc",
+		"transpile": "tsc",
 		"generate-readme": "node public/index.js",
-		"start": "npm run transpilate && npm run generate-readme",
+		"start": "npm run transpile && npm run generate-readme",
 		"lint": "eslint . --ext .ts ./src",
 		"lint:fix": "eslint . --ext .ts ./src --fix",
 		"prepare": "husky install"
