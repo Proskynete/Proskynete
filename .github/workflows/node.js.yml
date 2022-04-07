@@ -18,10 +18,11 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: '16'
-      - run: npm install
-      - run: npm start
         env:
           INSTAGRAM_API_KEY: ${{ secrets.INSTAGRAM_API_KEY }}
+      - run: npm install
+      - run: echo ${{ secrets.SECRET_TOKEN }}
+      - run: npm start
       - run: |
           git config user.name "Eduardo Álvarez"
           git config user.email "eduardo.a1993@gmail.com"
