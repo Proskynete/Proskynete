@@ -21,7 +21,7 @@ jobs:
         env:
           INSTAGRAM_API_KEY: ${{ secrets.INSTAGRAM_API_KEY }}
       - run: npm install
-      - run: echo ${{ secrets.SECRET_TOKEN }}
+      - run: echo ${{ secrets.INSTAGRAM_API_KEY }}
       - run: npm start
       - run: |
           git config user.name "Eduardo Álvarez"
