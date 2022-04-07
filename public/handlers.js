@@ -44,14 +44,12 @@ const handlerSliceArticles = (articles) => articles
     .join('\n');
 exports.handlerSliceArticles = handlerSliceArticles;
 const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, function* () {
-    console.log('apikey: ', INSTAGRAM_API_KEY);
     const { data } = yield axios_1.default.get(`https://instagram85.p.rapidapi.com/account/${constants_1.INSTAGRAM_USERNAME}/info`, {
         headers: {
             'x-rapidapi-host': 'instagram85.p.rapidapi.com',
             'x-rapidapi-key': INSTAGRAM_API_KEY,
         },
     });
-    console.log('data: ', data);
     const images = data.data.feed.data;
     return (images &&
         images.map((image) => {
