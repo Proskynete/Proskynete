@@ -75,6 +75,7 @@ export const handlerSliceArticles = (articles: Article[]): string =>
  * @returns A object with permalink and media_url attributes
  */
 export const handlerGetInstagramImages = async (): Promise<InstagramImagesResponse[]> => {
+	console.log('apikey: ', INSTAGRAM_API_KEY);
 	const { data } = await axios.get<InstagramApiResponse>(
 		`https://instagram85.p.rapidapi.com/account/${INSTAGRAM_USERNAME}/info`,
 		{
@@ -84,6 +85,7 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 			},
 		},
 	);
+	console.log('data: ', data);
 
 	const images: InstagramNodeInterface[] = data.data.feed.data;
 
