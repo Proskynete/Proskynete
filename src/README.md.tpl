@@ -14,10 +14,10 @@
 
 <p align="left"><strong>Sobre mi</strong></p>
 <ul>
-  <li>📍 Actualmente vivo en Lampa, RM. Santiago de Chile.</li>
+  <li>📍 Chileno visitando Honduras.</li>
   <li>👨🏼‍💻 Tengo %{{years_old}}% años.</li>
-  <li>🇨🇱 ✈️ 🇦🇷 🇪🇸 🇮🇹 🗿</li>
-  <li>💻 Las tecnologías que realmente me gustan son: React, TypeScript, Node y Dart.</li>
+  <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳</li>
+  <li>💻 Las tecnologías que realmente me apasionan son: React, Typescript, Node y Dart.</li>
 </ul>
 
 <p align="left"><strong>Hobbies</strong></p>
@@ -47,7 +47,7 @@
 
 <p align="left"><strong>Otros</strong></p>
 <ul>
-  <li>📖 Actualmente estoy estudiando inglés, desarrollo móvil (utilizando Flutter y React Native) y AWS.</li>
+  <li>🧳 Actualmente me encuentro viajando por Latinoamérica.</li>
   <li>🍺 Nunca es un mal momento para hacer un espacio en la semana y tomar una cerveza con los amigos.</li>
   <li>⭐ Tengo 2 librerías desarrolladas con React en NPM:
     <ul>
