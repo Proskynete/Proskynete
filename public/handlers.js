@@ -38,27 +38,33 @@ const handlerPrettyDate = (date) => (0, moment_1.default)(new Date(date)).format
 exports.handlerPrettyDate = handlerPrettyDate;
 const handlerSliceArticles = (articles) => articles
     .slice(0, constants_1.NUMBERS.ARTICLES)
-    .map(({ title, link, pubDate }) => pubDate
-    ? `- [${title}](${link}) - <small>Publicado el ${(0, exports.handlerPrettyDate)(pubDate)}</small>`
-    : `[${title}](${link})`)
+    .map(({ title, link, pubDate }) => (pubDate ? `- [${title}](${link})` : `[${title}](${link})`))
     .join('\n');
 exports.handlerSliceArticles = handlerSliceArticles;
 const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, function* () {
-    const { data } = yield axios_1.default.get(`https://instagram85.p.rapidapi.com/account/${constants_1.INSTAGRAM_USERNAME}/info`, {
-        headers: {
-            'x-rapidapi-host': 'instagram85.p.rapidapi.com',
-            'x-rapidapi-key': INSTAGRAM_API_KEY,
-        },
-    });
-    const images = data.data.feed.data;
-    return (images &&
-        images.map((image) => {
-            return {
-                permalink: image.post_url,
-                media_url: image.images.thumbnail,
-                description: !lodash_1.default.isEmpty(image.caption) ? image.caption : '',
-            };
-        }));
+    try {
+        const { data } = yield axios_1.default.get(`https://instagram85.p.rapidapi.com/account/${constants_1.INSTAGRAM_USERNAME}/info`, {
+            headers: {
+                'X-Rapidapi-Host': 'instagram85.p.rapidapi.com',
+                'X-Rapidapi-Key': INSTAGRAM_API_KEY,
+                'X-Access-Token': INSTAGRAM_API_KEY,
+            },
+        });
+        const images = data.data.feed.data;
+        return (images &&
+            images.map((image) => {
+                return {
+                    permalink: image.post_url,
+                    media_url: image.images.square[0],
+                    description: !lodash_1.default.isEmpty(image.caption)
+                        ? image.caption.replace(/(\r\n|\n|\r)/gm, '').trim()
+                        : '',
+                };
+            }));
+    }
+    catch (err) {
+        console.error(err);
+    }
 });
 exports.handlerGetInstagramImages = handlerGetInstagramImages;
 const handlerGetLatestInstagramImages = (images) => images
@@ -67,8 +73,6 @@ const handlerGetLatestInstagramImages = (images) => images
 				<img
 					src='${media_url}'
 					alt=${description ? `"${description}"` : "'Instagram image'"}
-					width='150'
-					height='150'
 				/>
     </a>`)
     .join('');

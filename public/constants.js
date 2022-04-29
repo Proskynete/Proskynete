@@ -5,7 +5,7 @@ exports.BASE_NPM_URL = 'https://www.npmjs.com/package';
 exports.BASE_WEBSITE = 'https://eduardoalvarez.dev';
 exports.YEAR_OF_BIRTH = '1993-12-24';
 exports.INSTAGRAM_ID = 42938370;
-exports.INSTAGRAM_USERNAME = 'proskynete';
+exports.INSTAGRAM_USERNAME = 'Proskynete';
 exports.BASE_URL_TECHNOLOGIES = 'https://github.com/Proskynete/Proskynete/blob/master/images/icons';
 exports.PLACEHOLDERS = {
     TECHNOLOGIES: '%{{technologies}}%',
