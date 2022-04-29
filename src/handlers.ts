@@ -63,40 +63,43 @@ export const handlerPrettyDate = (date: string): string => moment(new Date(date)
 export const handlerSliceArticles = (articles: Article[]): string =>
 	articles
 		.slice(0, NUMBERS.ARTICLES)
-		.map(({ title, link, pubDate }) =>
-			pubDate
-				? `- [${title}](${link}) - <small>Publicado el ${handlerPrettyDate(pubDate)}</small>`
-				: `[${title}](${link})`,
-		)
+		.map(({ title, link, pubDate }) => (pubDate ? `- [${title}](${link})` : `[${title}](${link})`))
 		.join('\n');
 
 /**
  * Get images from any instagram profile
  * @returns A object with permalink and media_url attributes
  */
-export const handlerGetInstagramImages = async (): Promise<InstagramImagesResponse[]> => {
-	const { data } = await axios.get<InstagramApiResponse>(
-		`https://instagram85.p.rapidapi.com/account/${INSTAGRAM_USERNAME}/info`,
-		{
-			headers: {
-				'x-rapidapi-host': 'instagram85.p.rapidapi.com',
-				'x-rapidapi-key': INSTAGRAM_API_KEY as string,
+export const handlerGetInstagramImages = async (): Promise<InstagramImagesResponse[] | void> => {
+	try {
+		const { data } = await axios.get<InstagramApiResponse>(
+			`https://instagram85.p.rapidapi.com/account/${INSTAGRAM_USERNAME}/info`,
+			{
+				headers: {
+					'X-Rapidapi-Host': 'instagram85.p.rapidapi.com',
+					'X-Rapidapi-Key': INSTAGRAM_API_KEY as string,
+					'X-Access-Token': INSTAGRAM_API_KEY as string,
+				},
 			},
-		},
-	);
+		);
 
-	const images: InstagramNodeInterface[] = data.data.feed.data;
+		const images: InstagramNodeInterface[] = data.data.feed.data;
 
-	return (
-		images &&
-		images.map((image) => {
-			return {
-				permalink: image.post_url,
-				media_url: image.images.thumbnail,
-				description: !_.isEmpty(image.caption) ? image.caption : '',
-			};
-		})
-	);
+		return (
+			images &&
+			images.map((image) => {
+				return {
+					permalink: image.post_url,
+					media_url: image.images.square[0],
+					description: !_.isEmpty(image.caption)
+						? image.caption.replace(/(\r\n|\n|\r)/gm, '').trim()
+						: '',
+				};
+			})
+		);
+	} catch (err) {
+		console.error(err);
+	}
 };
 
 /**
@@ -112,8 +115,6 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 				<img
 					src='${media_url}'
 					alt=${description ? `"${description}"` : "'Instagram image'"}
-					width='150'
-					height='150'
 				/>
     </a>`,
 		)
