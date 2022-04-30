@@ -91,7 +91,7 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 				return {
 					type: image.type,
 					permalink: image.post_url,
-					media_url: image.type === 'video' ? image.videos.standard : image.images.thumbnail,
+					media_url: image.images.thumbnail,
 					description: !_.isEmpty(image.caption)
 						? image.caption.replace(/(\r\n|\n|\r)/gm, ' ').trim()
 						: '',
