@@ -46,5 +46,5 @@ export const REGEXPS: RegexpsInterface = {
 
 export const NUMBERS: NumbersInterface = {
 	ARTICLES: 5,
-	IMAGES: 5,
+	IMAGES: 4,
 };

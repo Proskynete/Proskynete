@@ -10,27 +10,43 @@ on:
     - cron: '0 8 * * 5'
 
 jobs:
-  lint:
+  run-linters:
+    name: Run linters
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - name: Check out Git repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
         with:
           node-version: '16'
-      - run: npm run lint
+
+      - name: Install Node.js dependencies
+        run: npm ci
+
+      - name: Code Linting
+        run: npm run lint
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - name: Check out Git repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v1
         with:
           node-version: '16'
-      - run: npm install
-      - run: npm start
+      - name: Install Node.js dependencies
+        run: npm ci
+
+      - name: Transpile & generate readme
+        run: npm start
         env:
           INSTAGRAM_API_KEY: ${{secrets.INSTAGRAM_API_KEY}}
+
       - run: |
           git config user.name "Eduardo Álvarez"
           git config user.email "soy@eduardoalvarez.dev"
