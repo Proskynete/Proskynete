@@ -31,10 +31,12 @@ export interface EdgesInterface {
 	};
 }
 
+export type TypesAllowed = 'image' | 'video' | 'sidecar';
+
 export interface InstagramNodeInterface {
 	id: string;
 	short_code: string;
-	type: string;
+	type: TypesAllowed;
 	post_url: string;
 	images: {
 		thumbnail: string;
@@ -45,10 +47,16 @@ export interface InstagramNodeInterface {
 		};
 		square: string[];
 	};
+	videos: {
+		low_bandwidth: string;
+		low: string;
+		standard: string;
+	};
 	caption: string;
 }
 
 export interface InstagramImagesResponse {
+	type: TypesAllowed;
 	permalink: string;
 	media_url: string;
 	description: string;

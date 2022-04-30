@@ -89,10 +89,11 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 			images &&
 			images.map((image) => {
 				return {
+					type: image.type,
 					permalink: image.post_url,
-					media_url: image.images.square[0],
+					media_url: image.type === 'video' ? image.videos.standard : image.images.thumbnail,
 					description: !_.isEmpty(image.caption)
-						? image.caption.replace(/(\r\n|\n|\r)/gm, '').trim()
+						? image.caption.replace(/(\r\n|\n|\r)/gm, ' ').trim()
 						: '',
 				};
 			})
@@ -111,10 +112,17 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 	images
 		.slice(0, NUMBERS.IMAGES)
 		.map(
-			({ media_url, permalink, description }) => `<a href='${permalink}' target='_blank'>
+			({ media_url, permalink, description, type }) => `<a href='${permalink}' target='_blank'>
 				<img
 					src='${media_url}'
-					alt=${description ? `"${description}"` : "'Instagram image'"}
+					alt=${
+						description
+							? `"${description}"`
+							: type === 'video'
+							? "'Instagram video'"
+							: "'Instagram image'"
+					}
+					width='20%'
 				/>
     </a>`,
 		)
