@@ -37,6 +37,6 @@ exports.REGEXPS = {
 };
 exports.NUMBERS = {
     ARTICLES: 5,
-    IMAGES: 4,
+    IMAGES: 5,
 };
 //# sourceMappingURL=constants.js.map

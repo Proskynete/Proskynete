@@ -78,7 +78,8 @@ const handlerGetLatestInstagramImages = (images) => images
     : type === 'video'
         ? "'Instagram video'"
         : "'Instagram image'"}
-					width='20%'
+					width='150px'
+					height='150px'
 				/>
     </a>`)
     .join('');
