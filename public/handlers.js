@@ -56,7 +56,7 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
                 return {
                     type: image.type,
                     permalink: image.post_url,
-                    media_url: image.type === 'video' ? image.videos.standard : image.images.thumbnail,
+                    media_url: image.images.thumbnail,
                     description: !lodash_1.default.isEmpty(image.caption)
                         ? image.caption.replace(/(\r\n|\n|\r)/gm, ' ').trim()
                         : '',
