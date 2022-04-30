@@ -122,7 +122,8 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 							? "'Instagram video'"
 							: "'Instagram image'"
 					}
-					width='20%'
+					width='150px'
+					height='150px'
 				/>
     </a>`,
 		)
