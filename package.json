@@ -1,6 +1,6 @@
 {
 	"name": "proskynete",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"description": "Proskynete README github profile",
 	"main": "public/index.js",
 	"scripts": {
