@@ -236,37 +236,6 @@
   </strong>
 </p>
 
-<a href="https://www.instagram.com/p/CctehnfOHqb" target="_blank">
-  <img
-    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/278921449_1023023798611078_3173873679217000302_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s150x150&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=5PUy54OunGYAX_wwiRo&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8qXRsUuQyT2d5RG9mIs6Adx6YDoIzOxdSkqQRkPswqtw&oe=62730B99&_nc_sid=7bff83"
-    alt="Felicidad ❤️"
-  />
-</a>
-<a href="https://www.instagram.com/p/CcOW8G0OlAs" target="_blank">
-  <img
-    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/278140654_358298049411886_6157918978119809269_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s150x150&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=110&_nc_ohc=6irR6syoUHkAX9p3B9B&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT9Mv-rgsKdRwyS7fwjJtj2xRb1o9HWgETKpa-iUUUijOA&oe=62736F83&_nc_sid=7bff83"
-    alt="Un cafecito en algún lugar de Honduras.Estos majes son otro pedo!"
-  />
-</a>
-<a href="https://www.instagram.com/p/Cb_GOpSAARN" target="_blank">
-  <img
-    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/277895915_264982375844814_1364159946048635381_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s150x150&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=106&_nc_ohc=NraYwQvQ0MEAX-h3x9_&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_8Gj2AsgkfYYGpnDCiIbH58Udz3ZBZ2oHrjU1Z0vs54w&oe=6273B1E8&_nc_sid=7bff83"
-    alt="Trabajando desde Honduras! Como no me va a gustar mi trabajo si me permite hacer estas cosas ❤️ y conocer gente increíble."
-  />
-</a>
-<a href="https://www.instagram.com/p/CbknlJGgbZM" target="_blank">
-  <img
-    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/277401254_1120246868753593_5792336941392140816_n.jpg?stp=dst-jpg_e15_p150x150&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=101&_nc_ohc=QEp_ICNM4R0AX-56vK2&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT84oWbzaOYxHHQeyNtRywkld0orUsfu2nG_41tRRxaIig&oe=626E701F&_nc_sid=7bff83"
-    alt="Instagram image"
-  />
-</a>
-<a href="https://www.instagram.com/p/CYQ92X5Ay-x" target="_blank">
-  <img
-    src="https://scontent-muc2-1.cdninstagram.com/v/t51.2885-15/271118452_150926767288340_6658601939174927593_n.jpg?stp=c0.175.1406.1406a_dst-jpg_e35_s150x150&_nc_ht=scontent-muc2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=Vc-6laehuiMAX9Bod_A&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT872F6wfaNMzfQNmNwqjzuscs1FkQLiST_ejS6gFuYS3A&oe=6273432F&_nc_sid=7bff83"
-    alt="Y así con las cosas de la vida, venir a juntarnos acá a caleta de kilómetros lol, nos vemos en otro viaje!"
-  />
-</a>
-
 ---
 
 <p align="left">

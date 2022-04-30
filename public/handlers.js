@@ -54,10 +54,11 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
         return (images &&
             images.map((image) => {
                 return {
+                    type: image.type,
                     permalink: image.post_url,
-                    media_url: image.images.square[0],
+                    media_url: image.type === 'video' ? image.videos.standard : image.images.thumbnail,
                     description: !lodash_1.default.isEmpty(image.caption)
-                        ? image.caption.replace(/(\r\n|\n|\r)/gm, '').trim()
+                        ? image.caption.replace(/(\r\n|\n|\r)/gm, ' ').trim()
                         : '',
                 };
             }));
@@ -69,10 +70,15 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
 exports.handlerGetInstagramImages = handlerGetInstagramImages;
 const handlerGetLatestInstagramImages = (images) => images
     .slice(0, constants_1.NUMBERS.IMAGES)
-    .map(({ media_url, permalink, description }) => `<a href='${permalink}' target='_blank'>
+    .map(({ media_url, permalink, description, type }) => `<a href='${permalink}' target='_blank'>
 				<img
 					src='${media_url}'
-					alt=${description ? `"${description}"` : "'Instagram image'"}
+					alt=${description
+    ? `"${description}"`
+    : type === 'video'
+        ? "'Instagram video'"
+        : "'Instagram image'"}
+					width='20%'
 				/>
     </a>`)
     .join('');
