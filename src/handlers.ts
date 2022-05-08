@@ -100,6 +100,7 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 		);
 	} catch (err) {
 		console.error(err);
+		throw new Error();
 	}
 };
 

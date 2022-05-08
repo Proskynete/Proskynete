@@ -103,7 +103,7 @@
 <ul>
   <li>📍 Chileno visitando Honduras.</li>
   <li>👨🏼‍💻 Tengo 28 años.</li>
-  <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳</li>
+  <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳🇨🇴</li>
   <li>
     💻 Las tecnologías que realmente me apasionan son: React, Typescript, Node y
     Dart.
