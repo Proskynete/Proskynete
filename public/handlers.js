@@ -65,6 +65,7 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
     }
     catch (err) {
         console.error(err);
+        throw new Error();
     }
 });
 exports.handlerGetInstagramImages = handlerGetInstagramImages;
