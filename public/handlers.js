@@ -56,7 +56,7 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
             images.map((image) => {
                 return {
                     permalink: image.node.shortcode,
-                    media_url: image.node.display_url,
+                    media_url: image.node.thumbnail_src,
                     accessibility: image.node.accessibility_caption,
                     description: image.node.edge_media_to_caption.edges.length
                         ? image.node.edge_media_to_caption.edges[0].node.text

@@ -31,6 +31,7 @@ export interface InstagramNodeInterface {
 		post_url: string;
 		display_url: string;
 		thumbnail_src: string;
+		thumbnail_resources: ThumbnailInterface[];
 		accessibility_caption: string;
 		edge_media_to_caption: {
 			edges: Captions[];
