@@ -13,7 +13,6 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.handleGetTechnologies = exports.handlerGetYearsOld = exports.handlerGetLatestInstagramImages = exports.handlerGetInstagramImages = exports.handlerSliceArticles = exports.handlerPrettyDate = exports.handlerGetLatestArticles = exports.handlerGetVersion = void 0;
-const lodash_1 = __importDefault(require("lodash"));
 const axios_1 = __importDefault(require("axios"));
 const cheerio_1 = __importDefault(require("cheerio"));
 const moment_1 = __importDefault(require("moment"));
@@ -43,22 +42,26 @@ const handlerSliceArticles = (articles) => articles
 exports.handlerSliceArticles = handlerSliceArticles;
 const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, function* () {
     try {
-        const { data } = yield axios_1.default.get(`https://instagram85.p.rapidapi.com/account/${constants_1.INSTAGRAM_USERNAME}/info`, {
+        const { data } = yield axios_1.default.get('https://instagram130.p.rapidapi.com/account-info', {
+            params: {
+                username: constants_1.INSTAGRAM_USERNAME,
+            },
             headers: {
-                'X-Rapidapi-Host': 'instagram85.p.rapidapi.com',
-                'X-Rapidapi-Key': INSTAGRAM_API_KEY,
-                'X-Access-Token': INSTAGRAM_API_KEY,
+                'X-RapidAPI-Host': 'instagram130.p.rapidapi.com',
+                'X-RapidAPI-Key': INSTAGRAM_API_KEY,
             },
         });
-        const images = data.data.feed.data;
+        const images = data.edge_owner_to_timeline_media.edges;
         return (images &&
             images.map((image) => {
                 return {
-                    type: image.type,
-                    permalink: image.post_url,
-                    media_url: image.images.thumbnail,
-                    description: !lodash_1.default.isEmpty(image.caption)
-                        ? image.caption.replace(/(\r\n|\n|\r)/gm, ' ').trim()
+                    permalink: image.node.shortcode,
+                    media_url: image.node.display_url,
+                    accessibility: image.node.accessibility_caption,
+                    description: image.node.edge_media_to_caption.edges.length
+                        ? image.node.edge_media_to_caption.edges[0].node.text
+                            .replace(/(\r\n|\n|\r)/gm, ' ')
+                            .trim()
                         : '',
                 };
             }));
@@ -71,14 +74,10 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
 exports.handlerGetInstagramImages = handlerGetInstagramImages;
 const handlerGetLatestInstagramImages = (images) => images
     .slice(0, constants_1.NUMBERS.IMAGES)
-    .map(({ media_url, permalink, description, type }) => `<a href='${permalink}' target='_blank'>
+    .map(({ media_url, permalink, accessibility, }) => `<a href='https://instagram.com/p/${permalink}' target='_blank'>
 				<img
 					src='${media_url}'
-					alt=${description
-    ? `"${description}"`
-    : type === 'video'
-        ? "'Instagram video'"
-        : "'Instagram image'"}
+					alt='${accessibility}'
 					width='150px'
 					height='150px'
 				/>

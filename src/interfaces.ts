@@ -5,17 +5,8 @@ export interface Article {
 }
 
 export interface InstagramApiResponse {
-	data: {
-		full_name: string;
-		profile_pic: {
-			normal: string;
-			hd: string;
-		};
-		biography: string;
-		website: string;
-		feed: {
-			data: InstagramNodeInterface[];
-		};
+	edge_owner_to_timeline_media: {
+		edges: InstagramNodeInterface[];
 	};
 }
 
@@ -31,34 +22,26 @@ export interface EdgesInterface {
 	};
 }
 
-export type TypesAllowed = 'image' | 'video' | 'sidecar';
+export type Captions = EdgesInterface;
 
 export interface InstagramNodeInterface {
-	id: string;
-	short_code: string;
-	type: TypesAllowed;
-	post_url: string;
-	images: {
-		thumbnail: string;
-		original: {
-			low: string;
-			standard: string;
-			high: string;
+	node: {
+		id: string;
+		shortcode: string;
+		post_url: string;
+		display_url: string;
+		thumbnail_src: string;
+		accessibility_caption: string;
+		edge_media_to_caption: {
+			edges: Captions[];
 		};
-		square: string[];
 	};
-	videos: {
-		low_bandwidth: string;
-		low: string;
-		standard: string;
-	};
-	caption: string;
 }
 
 export interface InstagramImagesResponse {
-	type: TypesAllowed;
 	permalink: string;
 	media_url: string;
+	accessibility: string;
 	description: string;
 }
 

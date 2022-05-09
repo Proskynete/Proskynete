@@ -1,4 +1,3 @@
-import _ from 'lodash';
 import axios from 'axios';
 import cheerio from 'cheerio';
 import moment from 'moment';
@@ -73,27 +72,31 @@ export const handlerSliceArticles = (articles: Article[]): string =>
 export const handlerGetInstagramImages = async (): Promise<InstagramImagesResponse[] | void> => {
 	try {
 		const { data } = await axios.get<InstagramApiResponse>(
-			`https://instagram85.p.rapidapi.com/account/${INSTAGRAM_USERNAME}/info`,
+			'https://instagram130.p.rapidapi.com/account-info',
 			{
+				params: {
+					username: INSTAGRAM_USERNAME,
+				},
 				headers: {
-					'X-Rapidapi-Host': 'instagram85.p.rapidapi.com',
-					'X-Rapidapi-Key': INSTAGRAM_API_KEY as string,
-					'X-Access-Token': INSTAGRAM_API_KEY as string,
+					'X-RapidAPI-Host': 'instagram130.p.rapidapi.com',
+					'X-RapidAPI-Key': INSTAGRAM_API_KEY as string,
 				},
 			},
 		);
 
-		const images: InstagramNodeInterface[] = data.data.feed.data;
+		const images: InstagramNodeInterface[] = data.edge_owner_to_timeline_media.edges;
 
 		return (
 			images &&
 			images.map((image) => {
 				return {
-					type: image.type,
-					permalink: image.post_url,
-					media_url: image.images.thumbnail,
-					description: !_.isEmpty(image.caption)
-						? image.caption.replace(/(\r\n|\n|\r)/gm, ' ').trim()
+					permalink: image.node.shortcode,
+					media_url: image.node.display_url,
+					accessibility: image.node.accessibility_caption,
+					description: image.node.edge_media_to_caption.edges.length
+						? image.node.edge_media_to_caption.edges[0].node.text
+								.replace(/(\r\n|\n|\r)/gm, ' ')
+								.trim()
 						: '',
 				};
 			})
@@ -113,16 +116,14 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 	images
 		.slice(0, NUMBERS.IMAGES)
 		.map(
-			({ media_url, permalink, description, type }) => `<a href='${permalink}' target='_blank'>
+			({
+				media_url,
+				permalink,
+				accessibility,
+			}) => `<a href='https://instagram.com/p/${permalink}' target='_blank'>
 				<img
 					src='${media_url}'
-					alt=${
-						description
-							? `"${description}"`
-							: type === 'video'
-							? "'Instagram video'"
-							: "'Instagram image'"
-					}
+					alt='${accessibility}'
 					width='150px'
 					height='150px'
 				/>
