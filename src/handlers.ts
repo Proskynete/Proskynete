@@ -124,8 +124,8 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 				<img
 					src='${media_url}'
 					alt='${accessibility}'
-					width='150px'
-					height='150px'
+					width='150'
+					height='150'
 				/>
     </a>`,
 		)
@@ -165,8 +165,8 @@ export const handleGetTechnologies = () => {
 				`<img
 					src='${BASE_URL_TECHNOLOGIES}/${file_name}.png?raw=true'
 					alt=${technology}
-					width='25px'
-					height='25px'
+					width='25'
+					height='25'
 				/>`,
 		)
 		.join(' ');

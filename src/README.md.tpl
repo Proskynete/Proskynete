@@ -6,21 +6,20 @@
 </p>
 
 ---
+<img align="right" width="400" src="https://github.com/Proskynete/Proskynete/blob/master/images/proskynete.gif?raw=true" />
 
-<img width="400" align="right" src="https://github.com/Proskynete/Proskynete/blob/master/images/proskynete.gif?raw=true" />
-
-<p align="left"><strong>Mi filosofía de vida</strong></p>
+<p><strong>Mi filosofía de vida</strong></p>
 <p><i>"Si no estás dispuesto a darlo todo, no tienes derecho a intentarlo."</i></p>
 
-<p align="left"><strong>Sobre mi</strong></p>
+<p><strong>Sobre mi</strong></p>
 <ul>
-  <li>📍 Chileno visitando Colombia.</li>
+  <li>📍 Chileno viajando por America... Ahora estoy en Colombia.</li>
   <li>👨🏼‍💻 Tengo %{{years_old}}% años.</li>
   <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳🇨🇴</li>
   <li>💻 Las tecnologías que realmente me apasionan son: React, Typescript, Node y Dart.</li>
 </ul>
 
-<p align="left"><strong>Hobbies</strong></p>
+<p><strong>Hobbies</strong></p>
 <ul>
   <li>🎼  Tocar instrumentos musicales (guitarra eléctrica, guitarra acústica, teclado y ukelele).</li>
   <li>🤓  Ver anime</li>
@@ -45,7 +44,7 @@
   </li>
 </ul>
 
-<p align="left"><strong>Otros</strong></p>
+<p><strong>Otros</strong></p>
 <ul>
   <li>🧳 Actualmente me encuentro viajando por Latinoamérica.</li>
   <li>🍺 Nunca es un mal momento para hacer un espacio en la semana y tomar una cerveza con los amigos.</li>

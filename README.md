@@ -5,98 +5,98 @@
 
 <p align="center">
   <img
-     src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/ts.png?raw=true'
-     alt=Typescript
-     width='25px'
-     height='25px'
-    /> <img
-     src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/js.png?raw=true'
-     alt=Javascript
-     width='25px'
-     height='25px'
-    /> <img
-     src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/html5.png?raw=true'
-     alt=HTML5
-     width='25px'
-     height='25px'
-    /> <img
-     src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/css3.png?raw=true'
-     alt=CSS3
-     width='25px'
-     height='25px'
-    /> <img
-     src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/bootstrap.png?raw=true'
-     alt=Bootstrap
-     width='25px'
-     height='25px'
-    /> <img
-     src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/sass.png?raw=true'
-     alt=Sass
-     width='25px'
-     height='25px'
-    /> <img
-     src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/react.png?raw=true'
-     alt=React
-     width='25px'
-     height='25px'
-    /> <img
-     src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/redux.png?raw=true'
-     alt=Redux
-     width='25px'
-     height='25px'
-    /> <img
-     src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/node.png?raw=true'
-     alt=Nodejs
-     width='25px'
-     height='25px'
-    /> <img
-     src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/mongodb.png?raw=true'
-     alt=MongoDB
-     width='25px'
-     height='25px'
-    /> <img
-     src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/dart.png?raw=true'
-     alt=Dart
-     width='25px'
-     height='25px'
-    /> <img
-     src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/flutter.png?raw=true'
-     alt=Flutter
-     width='25px'
-     height='25px'
-    /> <img
-     src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/aws.png?raw=true'
-     alt=Amazon Web Services
-     width='25px'
-     height='25px'
-    /> <img
-     src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/git.png?raw=true'
-     alt=Git
-     width='25px'
-     height='25px'
-    />
+					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/ts.png?raw=true'
+					alt=Typescript
+					width='25'
+					height='25'
+				/> <img
+					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/js.png?raw=true'
+					alt=Javascript
+					width='25'
+					height='25'
+				/> <img
+					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/html5.png?raw=true'
+					alt=HTML5
+					width='25'
+					height='25'
+				/> <img
+					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/css3.png?raw=true'
+					alt=CSS3
+					width='25'
+					height='25'
+				/> <img
+					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/bootstrap.png?raw=true'
+					alt=Bootstrap
+					width='25'
+					height='25'
+				/> <img
+					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/sass.png?raw=true'
+					alt=Sass
+					width='25'
+					height='25'
+				/> <img
+					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/react.png?raw=true'
+					alt=React
+					width='25'
+					height='25'
+				/> <img
+					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/redux.png?raw=true'
+					alt=Redux
+					width='25'
+					height='25'
+				/> <img
+					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/node.png?raw=true'
+					alt=Nodejs
+					width='25'
+					height='25'
+				/> <img
+					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/mongodb.png?raw=true'
+					alt=MongoDB
+					width='25'
+					height='25'
+				/> <img
+					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/dart.png?raw=true'
+					alt=Dart
+					width='25'
+					height='25'
+				/> <img
+					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/flutter.png?raw=true'
+					alt=Flutter
+					width='25'
+					height='25'
+				/> <img
+					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/aws.png?raw=true'
+					alt=Amazon Web Services
+					width='25'
+					height='25'
+				/> <img
+					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/git.png?raw=true'
+					alt=Git
+					width='25'
+					height='25'
+				/>
 </p>
 
 ---
 
 <img
-  width="400"
   align="right"
+  width="400"
   src="https://github.com/Proskynete/Proskynete/blob/master/images/proskynete.gif?raw=true"
 />
 
-<p align="left">
+<p>
   <strong>Mi filosofía de vida</strong>
 </p>
 <p>
   <i>"Si no estás dispuesto a darlo todo, no tienes derecho a intentarlo."</i>
 </p>
 
-<p align="left">
+<p>
   <strong>Sobre mi</strong>
 </p>
 <ul>
-  <li>📍 Chileno visitando Colombia.</li>
+  <li>📍 Chileno viajando por America... Ahora estoy en Colombia.</li>
   <li>👨🏼‍💻 Tengo 28 años.</li>
   <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳🇨🇴</li>
   <li>
@@ -105,7 +105,7 @@
   </li>
 </ul>
 
-<p align="left">
+<p>
   <strong>Hobbies</strong>
 </p>
 <ul>
@@ -170,7 +170,7 @@
   </li>
 </ul>
 
-<p align="left">
+<p>
   <strong>Otros</strong>
 </p>
 <ul>
@@ -233,42 +233,42 @@
 
 <a href="https://instagram.com/p/Cc_cocVOMbD" target="_blank">
   <img
-    src="https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/279489900_144076224849503_3151273438362112689_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=dREUTKBZv5QAX9NsYjl&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT_oauzX8OE6TKETyLIOXXWm2mTJ5Mztt8DxHH6gloyDnA&oe=6294DB0C&_nc_sid=7bff83"
+    src="https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/279489900_144076224849503_3151273438362112689_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=dREUTKBZv5QAX-Dp_EE&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT9k16tuBUj18i1NDA4hHANPIt5e39SdUYhe4u0t6tXy_g&oe=6294DB0C&_nc_sid=7bff83"
     alt="Photo shared by Eduardo Esteban Álvarez Castañeda on April 30, 2022 tagging @stephanierozf, and @oscarhrivera. May be an image of 1 person, ocean and sky."
-    width="150px"
-    height="150px"
+    width="150"
+    height="150"
   />
 </a>
 <a href="https://instagram.com/p/CctehnfOHqb" target="_blank">
   <img
-    src="https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/278921449_1023023798611078_3173873679217000302_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=e_XXEgB1BCsAX_XfK_A&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT_Vks95o73ORlQxcZKn43niSA2wMalq-lyf9uvfxhjLfw&oe=6294A9D9&_nc_sid=7bff83"
+    src="https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/278921449_1023023798611078_3173873679217000302_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=e_XXEgB1BCsAX-ToB5D&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT9Vl8Q94FHBQBY_NThz7sU118Q5eMOYSXsp3375sEym-w&oe=6294A9D9&_nc_sid=7bff83"
     alt="Photo by Eduardo Esteban Álvarez Castañeda on April 23, 2022. May be an image of 1 person, beard, sunglasses and outdoors."
-    width="150px"
-    height="150px"
+    width="150"
+    height="150"
   />
 </a>
 <a href="https://instagram.com/p/CcOW8G0OlAs" target="_blank">
   <img
-    src="https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/278140654_358298049411886_6157918978119809269_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=C0rvH8vZ3U4AX-uFAM-&tn=rCBrJqNhyd6JJ5G_&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT8yyIZCjo2tw7zHhlT_iqZIWqs0E7ACf3nHLdAIa_9PLw&oe=62950DC3&_nc_sid=7bff83"
+    src="https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/278140654_358298049411886_6157918978119809269_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=C0rvH8vZ3U4AX_UrC8c&tn=RJNX3wvhXdm7UB8z&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT_DTmtv-2bmM9KjqhhXhhCthlTvityEIYg5MmPeDZTxeg&oe=62950DC3&_nc_sid=7bff83"
     alt="Photo by Eduardo Esteban Álvarez Castañeda on April 11, 2022."
-    width="150px"
-    height="150px"
+    width="150"
+    height="150"
   />
 </a>
 <a href="https://instagram.com/p/Cb_GOpSAARN" target="_blank">
   <img
-    src="https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/277895915_264982375844814_1364159946048635381_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=S50GG10HfyQAX_As9u7&tn=rCBrJqNhyd6JJ5G_&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT_tGMIUEq21QRdgGMx2jkrem-JFyyiC199QcyvTKdsh7g&oe=629355E8&_nc_sid=7bff83"
+    src="https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/277895915_264982375844814_1364159946048635381_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=S50GG10HfyQAX8kgAKQ&tn=RJNX3wvhXdm7UB8z&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT_NhTbo7ktrsGpgWRF6vCdLt_YMU2EgXlKRKgKPhgeTBg&oe=629355E8&_nc_sid=7bff83"
     alt="Photo by Eduardo Esteban Álvarez Castañeda in San Pedro Sula, Cortes with @oscarhrivera, and @bj_tabo."
-    width="150px"
-    height="150px"
+    width="150"
+    height="150"
   />
 </a>
 <a href="https://instagram.com/p/CbknlJGgbZM" target="_blank">
   <img
-    src="https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/277401254_1120246868753593_5792336941392140816_n.jpg?stp=c0.120.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=AyMAqrumImEAX-sR9l3&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT_mKxahQb3HE2jkLR9R7uWgMMDrGhw395Eqj4gUBPuhYw&oe=628F659F&_nc_sid=7bff83"
+    src="https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/277401254_1120246868753593_5792336941392140816_n.jpg?stp=c0.120.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=AyMAqrumImEAX_taLpY&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT-ZtSSWgku23PrFv8IwRrm5atBYQk_yGLwDZJR-O02HFg&oe=628F659F&_nc_sid=7bff83"
     alt="null"
-    width="150px"
-    height="150px"
+    width="150"
+    height="150"
   />
 </a>
 
