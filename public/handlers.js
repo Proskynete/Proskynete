@@ -101,15 +101,14 @@ const handleGetTechnologies = () => {
         { file_name: 'dart', technology: 'Dart' },
         { file_name: 'flutter', technology: 'Flutter' },
         { file_name: 'aws', technology: 'Amazon Web Services' },
-        { file_name: 'gcp', technology: 'Google Cloud Platform' },
         { file_name: 'git', technology: 'Git' },
     ];
     return _array
         .map(({ file_name, technology }) => `<img
 					src='${constants_1.BASE_URL_TECHNOLOGIES}/${file_name}.png?raw=true'
 					alt=${technology}
-					width='25'
-					height='25'
+					width='25px'
+					height='25px'
 				/>`)
         .join(' ');
 };

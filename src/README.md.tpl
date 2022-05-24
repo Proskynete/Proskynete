@@ -14,7 +14,7 @@
 
 <p align="left"><strong>Sobre mi</strong></p>
 <ul>
-  <li>📍 Chileno visitando Honduras.</li>
+  <li>📍 Chileno visitando Colombia.</li>
   <li>👨🏼‍💻 Tengo %{{years_old}}% años.</li>
   <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳🇨🇴</li>
   <li>💻 Las tecnologías que realmente me apasionan son: React, Typescript, Node y Dart.</li>
