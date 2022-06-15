@@ -96,7 +96,7 @@
   <strong>Sobre mi</strong>
 </p>
 <ul>
-  <li>📍 Chileno viajando por America... Ahora estoy en Colombia.</li>
+  <li>📍 Un chileno viajero mas...</li>
   <li>👨🏼‍💻 Tengo 28 años.</li>
   <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳🇨🇴</li>
   <li>
@@ -231,46 +231,42 @@
   </strong>
 </p>
 
-<a href="https://instagram.com/p/Cc_cocVOMbD" target="_blank">
-  <img
-    src="https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/279489900_144076224849503_3151273438362112689_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=dREUTKBZv5QAX-Dp_EE&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT9k16tuBUj18i1NDA4hHANPIt5e39SdUYhe4u0t6tXy_g&oe=6294DB0C&_nc_sid=7bff83"
-    alt="Photo shared by Eduardo Esteban Álvarez Castañeda on April 30, 2022 tagging @stephanierozf, and @oscarhrivera. May be an image of 1 person, ocean and sky."
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/CctehnfOHqb" target="_blank">
-  <img
-    src="https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/278921449_1023023798611078_3173873679217000302_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=e_XXEgB1BCsAX-ToB5D&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT9Vl8Q94FHBQBY_NThz7sU118Q5eMOYSXsp3375sEym-w&oe=6294A9D9&_nc_sid=7bff83"
-    alt="Photo by Eduardo Esteban Álvarez Castañeda on April 23, 2022. May be an image of 1 person, beard, sunglasses and outdoors."
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/CcOW8G0OlAs" target="_blank">
-  <img
-    src="https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/278140654_358298049411886_6157918978119809269_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=C0rvH8vZ3U4AX_UrC8c&tn=RJNX3wvhXdm7UB8z&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT_DTmtv-2bmM9KjqhhXhhCthlTvityEIYg5MmPeDZTxeg&oe=62950DC3&_nc_sid=7bff83"
-    alt="Photo by Eduardo Esteban Álvarez Castañeda on April 11, 2022."
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/Cb_GOpSAARN" target="_blank">
-  <img
-    src="https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/277895915_264982375844814_1364159946048635381_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=S50GG10HfyQAX8kgAKQ&tn=RJNX3wvhXdm7UB8z&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT_NhTbo7ktrsGpgWRF6vCdLt_YMU2EgXlKRKgKPhgeTBg&oe=629355E8&_nc_sid=7bff83"
-    alt="Photo by Eduardo Esteban Álvarez Castañeda in San Pedro Sula, Cortes with @oscarhrivera, and @bj_tabo."
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/CbknlJGgbZM" target="_blank">
-  <img
-    src="https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/277401254_1120246868753593_5792336941392140816_n.jpg?stp=c0.120.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=AyMAqrumImEAX_taLpY&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT-ZtSSWgku23PrFv8IwRrm5atBYQk_yGLwDZJR-O02HFg&oe=628F659F&_nc_sid=7bff83"
-    alt="null"
-    width="150"
-    height="150"
-  />
-</a>
+<a href='https://instagram.com/p/CerwYCyAqE0' target='_blank'>
+				<img
+					src='https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/287288045_1072708873327104_823272167501957216_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=ESoaozZcw08AX9JRdy5&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT91ORVaQSvxyYmPGjdORhw-kFsZSwUJrpY9h-syayIYuA&oe=62B16F68&_nc_sid=8fd12b'
+					alt='Photo by Eduardo Esteban Álvarez Castañeda in Casa cervecera Bravo's. May be an image of 3 people and drink.'
+					width='150'
+					height='150'
+				/>
+    </a><a href='https://instagram.com/p/Cc_cocVOMbD' target='_blank'>
+				<img
+					src='https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/279489900_144076224849503_3151273438362112689_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=EueDzkxloTUAX-3l3sj&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT9jHup-aEGj0uZcVep6Gd6ta0HXPLe-XF0dNWWLSq34Qg&oe=62B08A8C&_nc_sid=8fd12b'
+					alt='Photo shared by Eduardo Esteban Álvarez Castañeda on April 30, 2022 tagging @stephanierozf, and @oscarhrivera. May be an image of 1 person, ocean and sky.'
+					width='150'
+					height='150'
+				/>
+    </a><a href='https://instagram.com/p/CctehnfOHqb' target='_blank'>
+				<img
+					src='https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/278921449_1023023798611078_3173873679217000302_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=oM0oxneOGwQAX9oNClu&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT9axC6snbz4n2Sls27w3v8lCLngfXR6fNmnZ7CXeWY3Zw&oe=62B05959&_nc_sid=8fd12b'
+					alt='Photo by Eduardo Esteban Álvarez Castañeda on April 23, 2022. May be an image of 1 person, beard, sunglasses and outdoors.'
+					width='150'
+					height='150'
+				/>
+    </a><a href='https://instagram.com/p/CcOW8G0OlAs' target='_blank'>
+				<img
+					src='https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/278140654_358298049411886_6157918978119809269_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=bBHF4wXp_bYAX_qiVgl&tn=fnNbmh01rKA85ia9&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT-4LJczOmcPwhQB8o6E9myFQPK8X62bC9hR1j_dTxjbZg&oe=62B0BD43&_nc_sid=8fd12b'
+					alt='Photo by Eduardo Esteban Álvarez Castañeda on April 11, 2022.'
+					width='150'
+					height='150'
+				/>
+    </a><a href='https://instagram.com/p/Cb_GOpSAARN' target='_blank'>
+				<img
+					src='https://instagram.fbrs3-1.fna.fbcdn.net/v/t51.2885-15/277895915_264982375844814_1364159946048635381_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fbrs3-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=4_T3V5ICKxAAX-0awWh&tn=fnNbmh01rKA85ia9&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT-DG0lN-wOpOXw0Kk_JUXNkQGDS_ACXiH1QwDt61DKYMw&oe=62B0FFA8&_nc_sid=8fd12b'
+					alt='Photo by Eduardo Esteban Álvarez Castañeda in San Pedro Sula, Cortes with @oscarhrivera, and @bj_tabo.'
+					width='150'
+					height='150'
+				/>
+    </a>
 
 ---
 
