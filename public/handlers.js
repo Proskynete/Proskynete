@@ -54,6 +54,7 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
         const images = data.edge_owner_to_timeline_media.edges;
         return (images &&
             images.map((image) => {
+                console.log(image.node.accessibility_caption);
                 return {
                     permalink: image.node.shortcode,
                     media_url: image.node.thumbnail_src,
@@ -74,10 +75,10 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
 exports.handlerGetInstagramImages = handlerGetInstagramImages;
 const handlerGetLatestInstagramImages = (images) => images
     .slice(0, constants_1.NUMBERS.IMAGES)
-    .map(({ media_url, permalink, accessibility, }) => `<a href='https://instagram.com/p/${permalink}' target='_blank'>
+    .map(({ media_url, permalink, accessibility, description, }) => `<a href='https://instagram.com/p/${permalink}' target='_blank'>
 				<img
 					src='${media_url}'
-					alt='${accessibility}'
+					alt='${accessibility !== null && accessibility !== void 0 ? accessibility : description}'
 					width='150'
 					height='150'
 				/>

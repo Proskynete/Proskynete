@@ -88,18 +88,16 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 
 		return (
 			images &&
-			images.map((image) => {
-				return {
-					permalink: image.node.shortcode,
-					media_url: image.node.thumbnail_src,
-					accessibility: image.node.accessibility_caption,
-					description: image.node.edge_media_to_caption.edges.length
-						? image.node.edge_media_to_caption.edges[0].node.text
-								.replace(/(\r\n|\n|\r)/gm, ' ')
-								.trim()
-						: '',
-				};
-			})
+			images.map((image) => ({
+				permalink: image.node.shortcode,
+				media_url: image.node.thumbnail_src,
+				accessibility: image.node.accessibility_caption,
+				description: image.node.edge_media_to_caption.edges.length
+					? image.node.edge_media_to_caption.edges[0].node.text
+							.replace(/(\r\n|\n|\r)/gm, ' ')
+							.trim()
+					: '',
+			}))
 		);
 	} catch (err) {
 		console.error(err);
@@ -120,10 +118,11 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 				media_url,
 				permalink,
 				accessibility,
+				description,
 			}) => `<a href='https://instagram.com/p/${permalink}' target='_blank'>
 				<img
 					src='${media_url}'
-					alt='${accessibility}'
+					alt='${accessibility ?? description}'
 					width='150'
 					height='150'
 				/>
