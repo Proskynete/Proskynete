@@ -53,19 +53,16 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
         });
         const images = data.edge_owner_to_timeline_media.edges;
         return (images &&
-            images.map((image) => {
-                console.log(image.node.accessibility_caption);
-                return {
-                    permalink: image.node.shortcode,
-                    media_url: image.node.thumbnail_src,
-                    accessibility: image.node.accessibility_caption,
-                    description: image.node.edge_media_to_caption.edges.length
-                        ? image.node.edge_media_to_caption.edges[0].node.text
-                            .replace(/(\r\n|\n|\r)/gm, ' ')
-                            .trim()
-                        : '',
-                };
-            }));
+            images.map((image) => ({
+                permalink: image.node.shortcode,
+                media_url: image.node.thumbnail_src,
+                accessibility: image.node.accessibility_caption,
+                description: image.node.edge_media_to_caption.edges.length
+                    ? image.node.edge_media_to_caption.edges[0].node.text
+                        .replace(/(\r\n|\n|\r)/gm, ' ')
+                        .trim()
+                    : '',
+            })));
     }
     catch (err) {
         console.error(err);
