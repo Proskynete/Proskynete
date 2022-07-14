@@ -13,7 +13,7 @@
 
 <p><strong>Sobre mi</strong></p>
 <ul>
-  <li>📍 Un chileno viajero mas...</li>
+  <li>📍 Por ahora en Chile...</li>
   <li>👨🏼‍💻 Tengo %{{years_old}}% años.</li>
   <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳🇨🇴</li>
   <li>💻 Las tecnologías que realmente me apasionan son: React, Typescript, Node y Dart.</li>

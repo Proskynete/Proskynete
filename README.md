@@ -96,7 +96,7 @@
   <strong>Sobre mi</strong>
 </p>
 <ul>
-  <li>📍 Un chileno viajero mas...</li>
+  <li>📍 Por ahora en Chile...</li>
   <li>👨🏼‍💻 Tengo 28 años.</li>
   <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳🇨🇴</li>
   <li>
@@ -231,42 +231,46 @@
   </strong>
 </p>
 
-<a href='https://instagram.com/p/CfIhjWcOJSa' target='_blank'>
-				<img
-					src='https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/289693546_169702278868244_1919187535485443717_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=XwmEnnnRptcAX92wfYs&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8JJy1u6ViiT272IBssyZSxyRC32tcyZt3BZMVfdT7x2g&oe=62CAC678&_nc_sid=8fd12b'
-					alt='Photo shared by Eduardo Esteban Álvarez Castañeda on June 22, 2022 tagging @littlekeyboards, and @deltahub.io.'
-					width='150'
-					height='150'
-				/>
-    </a><a href='https://instagram.com/p/CfAuh4kjxDn' target='_blank'>
-				<img
-					src='https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/289052959_714399283114801_6011050335395030770_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=pL8QBX_RgoEAX8MLIdR&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8mE6EAJB6L2sdPixoz9B_jjXiyAIfqaXZaQ_cJ19UPbw&oe=62CA2F6B&_nc_sid=8fd12b'
-					alt='Photo by Eduardo Esteban Álvarez Castañeda in Lampa, Region Metropolitana, Chile with @littlekeyboards. May be an image of computer keyboard.'
-					width='150'
-					height='150'
-				/>
-    </a><a href='https://instagram.com/p/CerwYCyAqE0' target='_blank'>
-				<img
-					src='https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/287288045_1072708873327104_823272167501957216_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=6KJaXJ-a2xgAX_sFaO8&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT9YhdHcjcLYeElwYsPSv3xrY97jQSJOLi7KvaujmXoZHw&oe=62CB24A8&_nc_sid=8fd12b'
-					alt='Photo by Eduardo Esteban Álvarez Castañeda in Casa cervecera Bravo's. May be an image of 3 people and drink.'
-					width='150'
-					height='150'
-				/>
-    </a><a href='https://instagram.com/p/Cc_cocVOMbD' target='_blank'>
-				<img
-					src='https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/279489900_144076224849503_3151273438362112689_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=iw-pIjWLkgsAX8X4YT4&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT90ymkM8M4u9wA1UIDztWJ4NxtIztB368OcPTwyXuwPFA&oe=62CA3FCC&_nc_sid=8fd12b'
-					alt='Photo shared by Eduardo Esteban Álvarez Castañeda on April 30, 2022 tagging @stephanierozf, and @oscarhrivera. May be an image of 1 person, ocean and sky.'
-					width='150'
-					height='150'
-				/>
-    </a><a href='https://instagram.com/p/CctehnfOHqb' target='_blank'>
-				<img
-					src='https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/278921449_1023023798611078_3173873679217000302_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=cZ81QMMbCBgAX8vCYBE&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8KyjriLhZ4_isEq_1LfPVYGag23GTSC78gc_S57WCiUQ&oe=62CA0E99&_nc_sid=8fd12b'
-					alt='Photo by Eduardo Esteban Álvarez Castañeda on April 23, 2022. May be an image of 1 person, beard, sunglasses and outdoors.'
-					width='150'
-					height='150'
-				/>
-    </a>
+<a href="https://instagram.com/p/CfIhjWcOJSa" target="_blank">
+  <img
+    src="https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/289693546_169702278868244_1919187535485443717_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=J-Bjl08AZqwAX9O0VNi&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT_nmT9R38BW_YC6dXpdpCIHnjl03YCed1sc6kpbPUv07g&oe=62D6A3F8&_nc_sid=7bff83"
+    alt="Dam! So beautiful 😍"
+    width="150"
+    height="150"
+  />
+</a>
+<a href="https://instagram.com/p/CfAuh4kjxDn" target="_blank">
+  <img
+    src="https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/289052959_714399283114801_6011050335395030770_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=n0krQBBy5cAAX_olda1&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT_AR0ZQerShhormtXfN3-usyeCCSmt0sXUyzVB0awXhkw&oe=62D8072B&_nc_sid=7bff83"
+    alt="I have a bit quirky hobby… I like to build and collect mechanical keyboards 😁🫣  Tengo un hobby un poco peculiar… me gusta armar y coleccionar teclados mecánicos 😁🫣  #corne #keyboard #littlekeyboards #mecanicalkeyboard #programmer #programming"
+    width="150"
+    height="150"
+  />
+</a>
+<a href="https://instagram.com/p/CerwYCyAqE0" target="_blank">
+  <img
+    src="https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/287288045_1072708873327104_823272167501957216_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=vU8mIOLpyboAX8Yze7z&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT8WCljMRGc-q6IDR8v_rdq3lHc34AeMi51v6QzD0iZwfA&oe=62D70228&_nc_sid=7bff83"
+    alt="🍺👌🏻 Créditos a la fotógrafa @aragutierrz"
+    width="150"
+    height="150"
+  />
+</a>
+<a href="https://instagram.com/p/Cc_cocVOMbD" target="_blank">
+  <img
+    src="https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/279489900_144076224849503_3151273438362112689_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=2VnoyQVwRGAAX8CLDJw&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT-yzsWFbmlNUlP3d-45BFMZYkhrWc0dldN2FSNS-GbKxQ&oe=62D8178C&_nc_sid=7bff83"
+    alt="No me puedo ir de Honduras sin hacerles un reconocimiento público a esta hermosa pareja. Palabras faltan para agradecer todo lo que hicieron por mi, por hacer que mi estadía en este hermoso país fuese una experiencia inolvidable…  @stephanierozf y @oscarhrivera les bendigo y les agradezco por todo. Muchas gracias ❤️"
+    width="150"
+    height="150"
+  />
+</a>
+<a href="https://instagram.com/p/CctehnfOHqb" target="_blank">
+  <img
+    src="https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/278921449_1023023798611078_3173873679217000302_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=HiTYGolnHzwAX9WbQng&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT9asbj2F_A4xU3YEZrGJfyhwIHOg9FehHor0i_QIZl_DQ&oe=62D7E659&_nc_sid=7bff83"
+    alt="Felicidad ❤️"
+    width="150"
+    height="150"
+  />
+</a>
 
 ---
 
