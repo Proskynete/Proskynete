@@ -231,9 +231,17 @@
   </strong>
 </p>
 
+<a href="https://instagram.com/p/CgVQF2sO95q" target="_blank">
+  <img
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/295264933_730670758233047_4939723456836520256_n.jpg?stp=c0.90.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=Ctk0tDsFEGEAX8s-CBn&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT-fqcOp4fpc-ajeri7IT7qlKGnwarUBbv7oP0kSzo4nLQ&oe=62E15D7F&_nc_sid=8fd12b"
+    alt="Hoy me siento y me pongo a pensar en todas las cosas que he podido lograr y no puedo estar mas  que agradecido de Dios por permitirme llegar hasta acá. Hoy a mis 28 años, puedo decir que gracias a su mano y su favor, es que tengo un buen excelente trabajo que me a permitido viajar y conocer tanto lugares como personas maravillosas, me ha permitido tener un vehículo el cual me permite ayudar a mi familia, un departamento y ahora un terreno en el sur de mi país, el cual me permitirá acoger a los que me rodean y dar un buen vivir a mi familia.  Hoy a mis 28 años no puedo si no que agradecer el apoyo de mi familia y también agradecerme por madrugar, por esforzarme, y por permitirme soñar y trazar metas las cuales he podido alcanzar.   Dios ha sido bueno!"
+    width="150"
+    height="150"
+  />
+</a>
 <a href="https://instagram.com/p/CfIhjWcOJSa" target="_blank">
   <img
-    src="https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/289693546_169702278868244_1919187535485443717_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=J-Bjl08AZqwAX9O0VNi&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT_nmT9R38BW_YC6dXpdpCIHnjl03YCed1sc6kpbPUv07g&oe=62D6A3F8&_nc_sid=7bff83"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/289693546_169702278868244_1919187535485443717_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=CfXFusIwOt0AX--pNiO&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8XxOVOgpbrh9uCMcCOvc_GLhAZnywhp2aRBPNglZPLeg&oe=62E675F8&_nc_sid=8fd12b"
     alt="Dam! So beautiful 😍"
     width="150"
     height="150"
@@ -241,7 +249,7 @@
 </a>
 <a href="https://instagram.com/p/CfAuh4kjxDn" target="_blank">
   <img
-    src="https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/289052959_714399283114801_6011050335395030770_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=n0krQBBy5cAAX_olda1&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT_AR0ZQerShhormtXfN3-usyeCCSmt0sXUyzVB0awXhkw&oe=62D8072B&_nc_sid=7bff83"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/289052959_714399283114801_6011050335395030770_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Q7lVdlUXq_QAX_izf4_&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8WBFQPn2XsD5qgjTyZTUxY78gj9aszWMiJd-E9JnqwbA&oe=62E5DEEB&_nc_sid=8fd12b"
     alt="I have a bit quirky hobby… I like to build and collect mechanical keyboards 😁🫣  Tengo un hobby un poco peculiar… me gusta armar y coleccionar teclados mecánicos 😁🫣  #corne #keyboard #littlekeyboards #mecanicalkeyboard #programmer #programming"
     width="150"
     height="150"
@@ -249,7 +257,7 @@
 </a>
 <a href="https://instagram.com/p/CerwYCyAqE0" target="_blank">
   <img
-    src="https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/287288045_1072708873327104_823272167501957216_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=vU8mIOLpyboAX8Yze7z&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT8WCljMRGc-q6IDR8v_rdq3lHc34AeMi51v6QzD0iZwfA&oe=62D70228&_nc_sid=7bff83"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/287288045_1072708873327104_823272167501957216_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=toeEy5gESdAAX_UM4t1&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8r3zQr6AR7pLER0ri7rUqg1MhR8Ym6j2rWAK35CAdtcg&oe=62E4D9E8&_nc_sid=8fd12b"
     alt="🍺👌🏻 Créditos a la fotógrafa @aragutierrz"
     width="150"
     height="150"
@@ -257,16 +265,8 @@
 </a>
 <a href="https://instagram.com/p/Cc_cocVOMbD" target="_blank">
   <img
-    src="https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/279489900_144076224849503_3151273438362112689_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=2VnoyQVwRGAAX8CLDJw&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT-yzsWFbmlNUlP3d-45BFMZYkhrWc0dldN2FSNS-GbKxQ&oe=62D8178C&_nc_sid=7bff83"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/279489900_144076224849503_3151273438362112689_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=McTZU0H_H5cAX-mkVTQ&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8d95kfZtuJbc6SFjbE5Qadz_YNqE5d5BYjaQyGWmPLKA&oe=62E5EF4C&_nc_sid=8fd12b"
     alt="No me puedo ir de Honduras sin hacerles un reconocimiento público a esta hermosa pareja. Palabras faltan para agradecer todo lo que hicieron por mi, por hacer que mi estadía en este hermoso país fuese una experiencia inolvidable…  @stephanierozf y @oscarhrivera les bendigo y les agradezco por todo. Muchas gracias ❤️"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/CctehnfOHqb" target="_blank">
-  <img
-    src="https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/278921449_1023023798611078_3173873679217000302_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=HiTYGolnHzwAX9WbQng&edm=ABfd0MgBAAAA&ccb=7-5&oh=00_AT9asbj2F_A4xU3YEZrGJfyhwIHOg9FehHor0i_QIZl_DQ&oe=62D7E659&_nc_sid=7bff83"
-    alt="Felicidad ❤️"
     width="150"
     height="150"
   />
