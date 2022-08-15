@@ -52,7 +52,6 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
                 'X-RapidAPI-Key': INSTAGRAM_API_KEY,
             },
         });
-        console.log(data.edges);
         const images = data.edges;
         return (images &&
             images.map((image) => ({
