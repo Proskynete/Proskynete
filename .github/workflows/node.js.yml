@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+  workflow_dispatch:
 
   schedule:
     - cron: '0 8 * * 5'
@@ -23,7 +24,7 @@ jobs:
           node-version: '16'
 
       - name: Install Node.js dependencies
-        run: npm ci
+        run: npm install
 
       - name: Code Linting
         run: npm run lint
@@ -39,7 +40,7 @@ jobs:
         with:
           node-version: '16'
       - name: Install Node.js dependencies
-        run: npm ci
+        run: npm install
 
       - name: Transpile & generate readme
         run: npm start
@@ -50,5 +51,5 @@ jobs:
           git config user.name "Eduardo Álvarez"
           git config user.email "soy@eduardoalvarez.dev"
           git add .
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: [action] update README"
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: [action] Update README with latest info"
           git push origin master
