@@ -8,7 +8,7 @@ import {
 export const BASE_NPM_URL = 'https://www.npmjs.com/package';
 export const BASE_WEBSITE = 'https://eduardoalvarez.dev';
 export const YEAR_OF_BIRTH = '1993-12-24';
-export const INSTAGRAM_ID = 42938370;
+export const INSTAGRAM_USER_ID = 42938370;
 export const INSTAGRAM_USERNAME = 'Proskynete';
 export const BASE_URL_TECHNOLOGIES =
 	'https://github.com/Proskynete/Proskynete/blob/master/images/icons';

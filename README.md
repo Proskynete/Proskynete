@@ -231,9 +231,17 @@
   </strong>
 </p>
 
+<a href="https://instagram.com/p/ChEbn97usTO" target="_blank">
+  <img
+    src="https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/298797036_789251125552890_4686222786392180939_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=106&_nc_ohc=ZglDScKwh7wAX_1L-iw&edm=APU89FABAAAA&ccb=7-5&oh=00_AT9sdUzNgWdqLpd3NQIC2a6UpdIvTCamgfthAWDjc-nICQ&oe=63023B52&_nc_sid=86f79a"
+    alt="Y bueno, acá estamos un día mas 💪🏻"
+    width="150"
+    height="150"
+  />
+</a>
 <a href="https://instagram.com/p/CgVQF2sO95q" target="_blank">
   <img
-    src="https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/295264933_730670758233047_4939723456836520256_n.jpg?stp=c0.90.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=Ctk0tDsFEGEAX_u0MGo&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT_lcXDMWgRhXJeRVrmLBJCragpuE6HmnZDm8PqxjXqmZQ&oe=62E15D7F&_nc_sid=8fd12b"
+    src="https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/295264933_730670758233047_4939723456836520256_n.jpg?stp=c0.90.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=JbRmnnBL-40AX_36fu1&edm=APU89FABAAAA&ccb=7-5&oh=00_AT91ptU8S_jfv65HENC9aXb4y1GaMzNH9l4N2cwN7ojl4Q&oe=62FC643F&_nc_sid=86f79a"
     alt="Hoy me siento y me pongo a pensar en todas las cosas que he podido lograr y no puedo estar mas  que agradecido de Dios por permitirme llegar hasta acá. Hoy a mis 28 años, puedo decir que gracias a su mano y su favor, es que tengo un buen excelente trabajo que me a permitido viajar y conocer tanto lugares como personas maravillosas, me ha permitido tener un vehículo el cual me permite ayudar a mi familia, un departamento y ahora un terreno en el sur de mi país, el cual me permitirá acoger a los que me rodean y dar un buen vivir a mi familia.  Hoy a mis 28 años no puedo si no que agradecer el apoyo de mi familia y también agradecerme por madrugar, por esforzarme, y por permitirme soñar y trazar metas las cuales he podido alcanzar.   Dios ha sido bueno!"
     width="150"
     height="150"
@@ -241,7 +249,7 @@
 </a>
 <a href="https://instagram.com/p/CfIhjWcOJSa" target="_blank">
   <img
-    src="https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/289693546_169702278868244_1919187535485443717_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=CfXFusIwOt0AX8NVSfG&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT88Qrmar62E0GoUuciytBmHSEBaDUrQdjy5LKuWPm7fBw&oe=62E675F8&_nc_sid=8fd12b"
+    src="https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/289693546_169702278868244_1919187535485443717_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=acrO5QMxLHcAX8rcX0T&edm=APU89FABAAAA&ccb=7-5&oh=00_AT_lIocbMfzgS-Kaz1fkXsSNQX8dX4WlXyw9zJ9K1gBi_A&oe=63022578&_nc_sid=86f79a"
     alt="Dam! So beautiful 😍"
     width="150"
     height="150"
@@ -249,7 +257,7 @@
 </a>
 <a href="https://instagram.com/p/CfAuh4kjxDn" target="_blank">
   <img
-    src="https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/289052959_714399283114801_6011050335395030770_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=Q7lVdlUXq_QAX9iwMEi&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT8Q09Pf-6syHWe9e67tSysTKf7ZASfdCfXHd4xpUbtgRQ&oe=62E5DEEB&_nc_sid=8fd12b"
+    src="https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/289052959_714399283114801_6011050335395030770_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=RYBcn1hYmuEAX8dq3Nt&edm=APU89FABAAAA&ccb=7-5&oh=00_AT-h9CUjrkhYyskwUXCKzcdy8j7JHiM9MyOgVwyfVIhnAA&oe=63018E6B&_nc_sid=86f79a"
     alt="I have a bit quirky hobby… I like to build and collect mechanical keyboards 😁🫣  Tengo un hobby un poco peculiar… me gusta armar y coleccionar teclados mecánicos 😁🫣  #corne #keyboard #littlekeyboards #mecanicalkeyboard #programmer #programming"
     width="150"
     height="150"
@@ -257,16 +265,8 @@
 </a>
 <a href="https://instagram.com/p/CerwYCyAqE0" target="_blank">
   <img
-    src="https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/287288045_1072708873327104_823272167501957216_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=toeEy5gESdAAX98AWew&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT9Hgx1h9EzVyyGqzf2d9Si7ryBEnUyS8j3v8x5i2sPV_g&oe=62E4D9E8&_nc_sid=8fd12b"
+    src="https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/287288045_1072708873327104_823272167501957216_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=M5iuCS3U1n8AX83kvBx&edm=APU89FABAAAA&ccb=7-5&oh=00_AT_DPWYUkRdak2oj941lrKMSFFlpXpFYi0Wa-hFCePd_8w&oe=63008968&_nc_sid=86f79a"
     alt="🍺👌🏻 Créditos a la fotógrafa @aragutierrz"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/Cc_cocVOMbD" target="_blank">
-  <img
-    src="https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/279489900_144076224849503_3151273438362112689_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=McTZU0H_H5cAX-XxT72&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AT9jgnmrdfwwWu3QlURU3h80My-LNjxuPZicGMPNxbgUSw&oe=62E5EF4C&_nc_sid=8fd12b"
-    alt="No me puedo ir de Honduras sin hacerles un reconocimiento público a esta hermosa pareja. Palabras faltan para agradecer todo lo que hicieron por mi, por hacer que mi estadía en este hermoso país fuese una experiencia inolvidable…  @stephanierozf y @oscarhrivera les bendigo y les agradezco por todo. Muchas gracias ❤️"
     width="150"
     height="150"
   />

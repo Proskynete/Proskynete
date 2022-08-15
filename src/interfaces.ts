@@ -5,9 +5,7 @@ export interface Article {
 }
 
 export interface InstagramApiResponse {
-	edge_owner_to_timeline_media: {
-		edges: InstagramNodeInterface[];
-	};
+	edges: InstagramNodeInterface[];
 }
 
 export interface ThumbnailInterface {

@@ -7,7 +7,7 @@ import {
 	NUMBERS,
 	REGEXPS,
 	YEAR_OF_BIRTH,
-	INSTAGRAM_USERNAME,
+	INSTAGRAM_USER_ID,
 	BASE_URL_TECHNOLOGIES,
 } from './constants';
 import {
@@ -72,10 +72,11 @@ export const handlerSliceArticles = (articles: Article[]): string =>
 export const handlerGetInstagramImages = async (): Promise<InstagramImagesResponse[] | void> => {
 	try {
 		const { data } = await axios.get<InstagramApiResponse>(
-			'https://instagram130.p.rapidapi.com/account-info',
+			'https://instagram130.p.rapidapi.com/account-medias',
 			{
 				params: {
-					username: INSTAGRAM_USERNAME,
+					userid: INSTAGRAM_USER_ID,
+					first: NUMBERS.IMAGES,
 				},
 				headers: {
 					'X-RapidAPI-Host': 'instagram130.p.rapidapi.com',
@@ -84,7 +85,7 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 			},
 		);
 
-		const images: InstagramNodeInterface[] = data.edge_owner_to_timeline_media.edges;
+		const images: InstagramNodeInterface[] = data.edges;
 
 		return (
 			images &&
