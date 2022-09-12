@@ -233,7 +233,7 @@
 
 <a href="https://instagram.com/p/ChdNOKEufyD" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/300224972_2589427467856227_2810952855320808865_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=QtYXFFIs5ZMAX-FVvyJ&edm=APU89FABAAAA&ccb=7-5&oh=00_AT9KqgWq7PPPo5sTO4-gv-PgBiNiSbLKrvZNnpunrCBfmQ&oe=632252F9&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/300224972_2589427467856227_2810952855320808865_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=jyxyy_PVk_0AX-nDF1i&edm=APU89FABAAAA&ccb=7-5&oh=00_AT_qd86RVCSAYpOBJFbsoc28i7qvaYS56LpTjQpUXsf5uw&oe=63264779&_nc_sid=86f79a"
     alt="Manden energía plz!"
     width="150"
     height="150"
@@ -241,7 +241,7 @@
 </a>
 <a href="https://instagram.com/p/ChEbn97usTO" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/298797036_789251125552890_4686222786392180939_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=qZxKsiexHvUAX-fGpJu&edm=APU89FABAAAA&ccb=7-5&oh=00_AT-rbHYOSjThCPshXd0qU2WHEJ5JplBeZeL91-Spmndc-Q&oe=6321DF52&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/298797036_789251125552890_4686222786392180939_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=eE4IxnmeuYMAX8De0-Q&edm=APU89FABAAAA&ccb=7-5&oh=00_AT9ljz1RYLtiTKQ-RSa-FRwBId8rTOFqJLrU1ik3M1UGdg&oe=6325D3D2&_nc_sid=86f79a"
     alt="Y bueno, acá estamos un día mas 💪🏻"
     width="150"
     height="150"
@@ -249,7 +249,7 @@
 </a>
 <a href="https://instagram.com/p/CgVQF2sO95q" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/295264933_730670758233047_4939723456836520256_n.jpg?stp=c0.90.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=OZ5W2jzEEf4AX9xGiRe&edm=APU89FABAAAA&ccb=7-5&oh=00_AT-RWAdiTy4gTv1MrVpRu5i5qRpte2CJA-m3Qi4QZ1jqfw&oe=631D59BF&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/295264933_730670758233047_4939723456836520256_n.jpg?stp=c0.90.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=4ZXjhbPbauwAX8bNL1W&edm=APU89FABAAAA&ccb=7-5&oh=00_AT-duVoNJaJkxehBHrrUQovugU4VHgJpbzBp-roliWnUDA&oe=63214E3F&_nc_sid=86f79a"
     alt="Hoy me siento y me pongo a pensar en todas las cosas que he podido lograr y no puedo estar mas  que agradecido de Dios por permitirme llegar hasta acá. Hoy a mis 28 años, puedo decir que gracias a su mano y su favor, es que tengo un buen excelente trabajo que me a permitido viajar y conocer tanto lugares como personas maravillosas, me ha permitido tener un vehículo el cual me permite ayudar a mi familia, un departamento y ahora un terreno en el sur de mi país, el cual me permitirá acoger a los que me rodean y dar un buen vivir a mi familia.  Hoy a mis 28 años no puedo si no que agradecer el apoyo de mi familia y también agradecerme por madrugar, por esforzarme, y por permitirme soñar y trazar metas las cuales he podido alcanzar.   Dios ha sido bueno!"
     width="150"
     height="150"
@@ -257,7 +257,7 @@
 </a>
 <a href="https://instagram.com/p/CfIhjWcOJSa" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/289693546_169702278868244_1919187535485443717_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=XdakbmjDLLoAX_fOJ6w&edm=APU89FABAAAA&ccb=7-5&oh=00_AT9fxqYjmzL2VTwrX3vQDLxZ4yYBpe2bo_UyUnCVpNRlTg&oe=6321C978&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/289693546_169702278868244_1919187535485443717_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=yJUHHx8q-GkAX-SYCrM&edm=APU89FABAAAA&ccb=7-5&oh=00_AT9hGR7qXF8FeDsJixnKJ8MsjoYVDRHqn4rqfrHnSlDTaA&oe=6325BDF8&_nc_sid=86f79a"
     alt="Dam! So beautiful 😍"
     width="150"
     height="150"
@@ -265,7 +265,7 @@
 </a>
 <a href="https://instagram.com/p/CfAuh4kjxDn" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/289052959_714399283114801_6011050335395030770_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=RIULBOm0vVsAX-YuLD0&edm=APU89FABAAAA&ccb=7-5&oh=00_AT97lJfiteoOCPIiW5YMxRWS05ROKVXlVzxM2lJVO1twQw&oe=6321326B&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/289052959_714399283114801_6011050335395030770_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=8qBT3h6yiGsAX_os6DB&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8szdlOcyv4cc72JL1Oyw690DdE6OW02gz-azGuPvhU1Q&oe=632526EB&_nc_sid=86f79a"
     alt="I have a bit quirky hobby… I like to build and collect mechanical keyboards 😁🫣  Tengo un hobby un poco peculiar… me gusta armar y coleccionar teclados mecánicos 😁🫣  #corne #keyboard #littlekeyboards #mecanicalkeyboard #programmer #programming"
     width="150"
     height="150"
