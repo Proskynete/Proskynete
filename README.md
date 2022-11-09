@@ -231,9 +231,17 @@
   </strong>
 </p>
 
+<a href="https://instagram.com/p/CkuYGxFjfcF" target="_blank">
+  <img
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/314764496_654706342905247_5798081144739882941_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=SBUGa6hyVvsAX9KaND6&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDrt2OumJ2Fqhby2MtQqxS89eoK8K4PNC0YuGQ7j73dyw&oe=63710915&_nc_sid=86f79a"
+    alt="Uno de los últimos viajes (si no es que el último) del año, donde pude subir a Machu Picchu y poder dar check a este país que lo tenía pendiente por mucho tiempo, pero no es solo eso, en este viaje tuve la bendición y la dicha de poder ir con mi viejo ❤️"
+    width="150"
+    height="150"
+  />
+</a>
 <a href="https://instagram.com/p/CjMJIAYOpy9" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/309499768_506155310959624_6269623508055932673_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=5xk6_NmsiwMAX-UfhfF&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBD-bk1ohmS0Yu4ZPGtvARKNCzuT4U7mu3FE40P6X0Twg&oe=636E396A&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/309499768_506155310959624_6269623508055932673_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=5xk6_NmsiwMAX-4xKnh&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBDYcSIlzEOP54USQdiWIm9vvtSVtk0IiSIY5eO8uozKQ&oe=637033AA&_nc_sid=86f79a"
     alt="Una experiencia de sabor ❤️"
     width="150"
     height="150"
@@ -241,7 +249,7 @@
 </a>
 <a href="https://instagram.com/p/CjLgNEJOswN" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/310040283_494199692724977_5605496311313412644_n.jpg?stp=c61.0.1318.1318a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=xsgou1ssMiQAX9rAIhM&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA8u5q0am_DGUi55N3pt4CFftAzEdBq3f1-41whusOezg&oe=636DD421&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/310040283_494199692724977_5605496311313412644_n.jpg?stp=c61.0.1318.1318a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=9273UpYKox0AX9222Ve&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCinFwIT9vrGrDPO4LZXw-SvF3lLxoYZgiNaLIpQ_36JQ&oe=636FCE61&_nc_sid=86f79a"
     alt="Chilaquiles de pollo ❤️❤️❤️"
     width="150"
     height="150"
@@ -249,7 +257,7 @@
 </a>
 <a href="https://instagram.com/p/ChdNOKEufyD" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/300224972_2589427467856227_2810952855320808865_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=pHLMkCanvZAAX_YSHSL&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDPAG8x7kn77pmoJRIGDJbzXPPaWYUUjyhTXJSi-HG4og&oe=636D7879&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/300224972_2589427467856227_2810952855320808865_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=dw79YWT_ERsAX8Ffnhh&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCEC80CX5Q3mjAh8ouJjNNG8QOMoYhwzDhLyuDF-k6XDA&oe=636F72B9&_nc_sid=86f79a"
     alt="Manden energía plz!"
     width="150"
     height="150"
@@ -257,16 +265,8 @@
 </a>
 <a href="https://instagram.com/p/ChEbn97usTO" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/298797036_789251125552890_4686222786392180939_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=WyMWth5Tp-cAX_s9IH2&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDnti3-9dF0dRbz4zas9ln1l_OnyiMMDRZ48Vs1qNT4vw&oe=636D04D2&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/298797036_789251125552890_4686222786392180939_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=L4c_emCj8P8AX9iCtVZ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDjZOpFOXlES48e1ADX2IPNjWzDGogFXocjPrjfGvG_LQ&oe=6370F952&_nc_sid=86f79a"
     alt="Y bueno, acá estamos un día mas 💪🏻"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/CgVQF2sO95q" target="_blank">
-  <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/295264933_730670758233047_4939723456836520256_n.jpg?stp=c0.90.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=3xxzNwiRnYEAX9Ce9e_&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCvshxrZESOCzLGp7XDTMoQBon8xNTJdUzQZcWNOs0gPA&oe=636A797F&_nc_sid=86f79a"
-    alt="Hoy me siento y me pongo a pensar en todas las cosas que he podido lograr y no puedo estar mas  que agradecido de Dios por permitirme llegar hasta acá. Hoy a mis 28 años, puedo decir que gracias a su mano y su favor, es que tengo un buen excelente trabajo que me a permitido viajar y conocer tanto lugares como personas maravillosas, me ha permitido tener un vehículo el cual me permite ayudar a mi familia, un departamento y ahora un terreno en el sur de mi país, el cual me permitirá acoger a los que me rodean y dar un buen vivir a mi familia.  Hoy a mis 28 años no puedo si no que agradecer el apoyo de mi familia y también agradecerme por madrugar, por esforzarme, y por permitirme soñar y trazar metas las cuales he podido alcanzar.   Dios ha sido bueno!"
     width="150"
     height="150"
   />
