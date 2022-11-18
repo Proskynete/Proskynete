@@ -13,10 +13,10 @@
 
 <p><strong>Sobre mi</strong></p>
 <ul>
-  <li>📍 Viajando por el mundo...</li>
+  <li>📍 Lampa, Santiago de Chile.</li>
   <li>👨🏼‍💻 Tengo %{{years_old}}% años.</li>
-  <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳🇨🇴</li>
-  <li>💻 Las tecnologías que realmente me apasionan son: React, Typescript, Node y Dart.</li>
+  <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳🇨🇴🇵🇪</li>
+  <li>💻 Las tecnologías que realmente me apasionan son: React, Typescript y Dart.</li>
 </ul>
 
 <p><strong>Hobbies</strong></p>
@@ -46,7 +46,7 @@
 
 <p><strong>Otros</strong></p>
 <ul>
-  <li>🧳 Actualmente me encuentro viajando por Latinoamérica.</li>
+  <li>🧳 Intento viajar cada vez que se pueda.</li>
   <li>🍺 Nunca es un mal momento para hacer un espacio en la semana y tomar una cerveza con los amigos.</li>
   <li>⭐ Tengo 2 librerías desarrolladas con React en NPM:
     <ul>
