@@ -23,25 +23,7 @@
 <ul>
   <li>🎼  Tocar instrumentos musicales (guitarra eléctrica, guitarra acústica, teclado y ukelele).</li>
   <li>🤓  Ver anime</li>
-  <li>👾  Jugar videojuegos como:
-    <ul>
-      <li>League of legends (lol):
-        <ul>
-          <li>Servidor: LAS</li>
-          <li>Nombre de invocador:<a href="https://www.leagueofgraphs.com/es/summoner/las/proskynete" target='_blank'>Proskynete</a></li>
-        </ul>
-      </li>
-      <li>World of Warcraft (wow):
-        <ul>
-          <li>Reino: Ragnaros</li>
-          <li>Raider.io:<a href="https://raider.io/characters/us/ragnaros/Proskynete" target="_blank">Proskynete</a></li>
-          <li>Raza:<a href="https://worldofwarcraft.com/en-us/game/races/undead" target='_blank'>No muerto</a></li>
-          <li>Clase:<a href="https://worldofwarcraft.com/en-us/game/talent-calculator#mage/fire" target='_blank'>Mago fuego</a></li>
-          <li>Nivel: 60</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
+  <li>👾  Jugar videojuegos</li>
 </ul>
 
 <p><strong>Otros</strong></p>
