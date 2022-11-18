@@ -113,60 +113,7 @@
     teclado y ukelele).
   </li>
   <li>🤓 Ver anime</li>
-  <li>
-    👾 Jugar videojuegos como:
-    <ul>
-      <li>
-        League of legends (lol):
-        <ul>
-          <li>Servidor: LAS</li>
-          <li>
-            Nombre de invocador:
-            <a
-              href="https://www.leagueofgraphs.com/es/summoner/las/proskynete"
-              target="_blank"
-            >
-              Proskynete
-            </a>
-          </li>
-        </ul>
-      </li>
-      <li>
-        World of Warcraft (wow):
-        <ul>
-          <li>Reino: Ragnaros</li>
-          <li>
-            Raider.io:
-            <a
-              href="https://raider.io/characters/us/ragnaros/Proskynete"
-              target="_blank"
-            >
-              Proskynete
-            </a>
-          </li>
-          <li>
-            Raza:
-            <a
-              href="https://worldofwarcraft.com/en-us/game/races/undead"
-              target="_blank"
-            >
-              No muerto
-            </a>
-          </li>
-          <li>
-            Clase:
-            <a
-              href="https://worldofwarcraft.com/en-us/game/talent-calculator#mage/fire"
-              target="_blank"
-            >
-              Mago fuego
-            </a>
-          </li>
-          <li>Nivel: 60</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
+  <li>👾 Jugar videojuegos</li>
 </ul>
 
 <p>
@@ -232,7 +179,7 @@
 
 <a href="https://instagram.com/p/CkuYGxFjfcF" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/314764496_654706342905247_5798081144739882941_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=R-3bhwbpxKEAX__vEDr&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAqz7sBPxMRTu1Oh71KZ1R_1AvLfig_mDFb5uuBD-Nvkw&oe=637AEC55&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/314764496_654706342905247_5798081144739882941_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=R-3bhwbpxKEAX94QprZ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD-GLPggK-fpeWs7HSaL7dyB0sJkA7rkufosG0zz9d9fg&oe=637AEC55&_nc_sid=86f79a"
     alt="Uno de los últimos viajes (si no es que el último) del año, donde pude subir a Machu Picchu y poder dar check a este país que lo tenía pendiente por mucho tiempo, pero no es solo eso, en este viaje tuve la bendición y la dicha de poder ir con mi viejo ❤️"
     width="150"
     height="150"
@@ -240,7 +187,7 @@
 </a>
 <a href="https://instagram.com/p/CjMJIAYOpy9" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/309499768_506155310959624_6269623508055932673_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=UurGUBRXRRQAX8Pia5e&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDvaR2_AY2LvK4u7RPITHCjC6hetjsmpJjLq8omDl11qQ&oe=637C112A&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/309499768_506155310959624_6269623508055932673_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=UurGUBRXRRQAX8L5fLs&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBd2gEauumS0-IBubQvKgpWG0AWi5i14ErysHpm1UKDRg&oe=637C112A&_nc_sid=86f79a"
     alt="Una experiencia de sabor ❤️"
     width="150"
     height="150"
@@ -248,7 +195,7 @@
 </a>
 <a href="https://instagram.com/p/CjLgNEJOswN" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/310040283_494199692724977_5605496311313412644_n.jpg?stp=c61.0.1318.1318a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=UMsqOjTKUs8AX-_xYqA&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAl3r1raB_kngSq1lu-9D8Q_9Xfn_Z6uqxto9JPgJLyTw&oe=637BABE1&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/310040283_494199692724977_5605496311313412644_n.jpg?stp=c61.0.1318.1318a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=UMsqOjTKUs8AX82fVCv&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCAAiaHopGSG0BqEPp8N7B9dV8kXE5Q-zDruti2o8ph5w&oe=637BABE1&_nc_sid=86f79a"
     alt="Chilaquiles de pollo ❤️❤️❤️"
     width="150"
     height="150"
@@ -256,7 +203,7 @@
 </a>
 <a href="https://instagram.com/p/ChdNOKEufyD" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/300224972_2589427467856227_2810952855320808865_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=OPUdjPJ554MAX_x9CRz&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDUbpQo9Ia1S6KrBE_Bpr-s-YYD8vpi1WXa8vgPlfGaWQ&oe=637B5039&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/300224972_2589427467856227_2810952855320808865_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=OPUdjPJ554MAX-MOR-G&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDj2CYKsjaM8Yg9RCnulFehRtcCD5W91ccu8UHL6gsjNg&oe=637B5039&_nc_sid=86f79a"
     alt="Manden energía plz!"
     width="150"
     height="150"
@@ -264,7 +211,7 @@
 </a>
 <a href="https://instagram.com/p/ChEbn97usTO" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/298797036_789251125552890_4686222786392180939_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=quJRz8WTInsAX_B5MsD&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBs76RnkgNWHtiv4WuFyb0mrMSA6Yf9dQ3lLYhblYVAVg&oe=637ADC92&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/298797036_789251125552890_4686222786392180939_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=quJRz8WTInsAX9vRCWQ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAXmHEzzjERL-W099IOqh1WaYTJHBOOn9p169MyASIgCA&oe=637ADC92&_nc_sid=86f79a"
     alt="Y bueno, acá estamos un día mas 💪🏻"
     width="150"
     height="150"
