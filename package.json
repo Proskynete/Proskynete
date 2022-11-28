@@ -15,7 +15,11 @@
 		"type": "git",
 		"url": "git+https://github.com/Proskynete/Proskynete.git"
 	},
-	"author": "Eduardo Esteban Álvarez Castañeda <soy@eduardoalvarez.dev> (https://eduardoalvarez.dev)",
+	"author": {
+		"name": "Eduardo Esteban Álvarez Castañeda",
+		"email": "soy@eduardoalvarez.dev",
+		"url": "https://eduardoalvarez.dev"
+	},
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/Proskynete/Proskynete/issues"
