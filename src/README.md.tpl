@@ -30,6 +30,7 @@
 <ul>
   <li>🧳 Intento viajar cada vez que se pueda.</li>
   <li>🍺 Nunca es un mal momento para hacer un espacio en la semana y tomar una cerveza con los amigos.</li>
+  <li>📚 Estudiando Go lang, Python e Ingles.</li>
   <li>⭐ Tengo 2 librerías desarrolladas con React en NPM:
     <ul>
       <li>vertical-timeline-component-react <small>v%{{vt_version}}%</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a>-<a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repository</a>)</li>

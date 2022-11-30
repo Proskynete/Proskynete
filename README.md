@@ -125,6 +125,7 @@
     🍺 Nunca es un mal momento para hacer un espacio en la semana y tomar una
     cerveza con los amigos.
   </li>
+  <li>📚 Estudiando Go lang, Python e Ingles.</li>
   <li>
     ⭐ Tengo 2 librerías desarrolladas con React en NPM:
     <ul>
@@ -179,7 +180,7 @@
 
 <a href="https://instagram.com/p/CkuYGxFjfcF" target="_blank">
   <img
-    src="https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/314764496_654706342905247_5798081144739882941_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=CVbnAd1G_C8AX9STeCm&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB-9T1R3dsJwxnkpNknUGHv2xFWsZlubWbj8H-4Vk4m3g&oe=6384CF95&_nc_sid=86f79a"
+    src="https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/314764496_654706342905247_5798081144739882941_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=107&_nc_ohc=wOrKpF9SBRcAX-EfaAZ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCIl0m-oYc1JeeXZxO787Rxjf8CBLoQz6Qs8dkyot5LHA&oe=638ABE55&_nc_sid=86f79a"
     alt="Uno de los últimos viajes (si no es que el último) del año, donde pude subir a Machu Picchu y poder dar check a este país que lo tenía pendiente por mucho tiempo, pero no es solo eso, en este viaje tuve la bendición y la dicha de poder ir con mi viejo ❤️"
     width="150"
     height="150"
@@ -187,7 +188,7 @@
 </a>
 <a href="https://instagram.com/p/CjMJIAYOpy9" target="_blank">
   <img
-    src="https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-15/309499768_506155310959624_6269623508055932673_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=104&_nc_ohc=wnLGFtQTrIkAX9XQNOq&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB0A4sSHlFSCCY6kX5AOW-ztkwUNDy_oTKlB5_aKV-LQg&oe=6385F46A&_nc_sid=86f79a"
+    src="https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/309499768_506155310959624_6269623508055932673_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=104&_nc_ohc=SyJpWC8aeaMAX_ydjVG&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAN72KrwSDZ4HtqPdjdF558_EjzZ4MFfaTu47RpWJ9V6A&oe=638BE32A&_nc_sid=86f79a"
     alt="Una experiencia de sabor ❤️"
     width="150"
     height="150"
@@ -195,7 +196,7 @@
 </a>
 <a href="https://instagram.com/p/CjLgNEJOswN" target="_blank">
   <img
-    src="https://scontent-lhr8-2.cdninstagram.com/v/t51.2885-15/310040283_494199692724977_5605496311313412644_n.jpg?stp=c61.0.1318.1318a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_cat=105&_nc_ohc=S9TgG5oHhVEAX8WitmO&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBpUfUL0ayT6Hot82HmiBOCDsq6y0ds94HQuME4tHLe-Q&oe=63858F21&_nc_sid=86f79a"
+    src="https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/310040283_494199692724977_5605496311313412644_n.jpg?stp=c61.0.1318.1318a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=pyyRsuzeaCUAX9CvoR2&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBt7gS5k24Si0sTN1NtLly6du_gF2jsI2oPkQSLTYXwhA&oe=638B7DE1&_nc_sid=86f79a"
     alt="Chilaquiles de pollo ❤️❤️❤️"
     width="150"
     height="150"
@@ -203,7 +204,7 @@
 </a>
 <a href="https://instagram.com/p/ChdNOKEufyD" target="_blank">
   <img
-    src="https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/300224972_2589427467856227_2810952855320808865_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=103&_nc_ohc=1huPb0oXl2EAX_DUh0g&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAAqONKblwGl2hpLI4uVXZEx8cTrF2x6b6xZORgrDTO-A&oe=63853379&_nc_sid=86f79a"
+    src="https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/300224972_2589427467856227_2810952855320808865_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=bIMero9U1CMAX_z-vD1&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDoJljGiC3quc6lVDAJDUu-yqIGIt81ia17b-RkKB0Amw&oe=638B2239&_nc_sid=86f79a"
     alt="Manden energía plz!"
     width="150"
     height="150"
@@ -211,7 +212,7 @@
 </a>
 <a href="https://instagram.com/p/ChEbn97usTO" target="_blank">
   <img
-    src="https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/298797036_789251125552890_4686222786392180939_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=106&_nc_ohc=YMDcc0GGa1IAX9sqJyU&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC96f-7-bsQ0Fr-_fQpFxu3ZD9IPl8I87V92CrWZ8X01A&oe=6384BFD2&_nc_sid=86f79a"
+    src="https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/298797036_789251125552890_4686222786392180939_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=106&_nc_ohc=N9_9TziaEKoAX84N87D&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCkSdi7jfx0XU7LhCkhqEv79IKSzleuJHiCp46WMFTpQg&oe=638CA8D2&_nc_sid=86f79a"
     alt="Y bueno, acá estamos un día mas 💪🏻"
     width="150"
     height="150"
