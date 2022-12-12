@@ -2,14 +2,7 @@ import axios from 'axios';
 import cheerio from 'cheerio';
 import moment from 'moment';
 import Parser from 'rss-parser';
-import {
-	URLS,
-	NUMBERS,
-	REGEXPS,
-	YEAR_OF_BIRTH,
-	INSTAGRAM_USER_ID,
-	BASE_URL_TECHNOLOGIES,
-} from './constants';
+import { URLS, COUNT, REGEXPS, PERSONAL, INSTAGRAM, BASE_URL } from './constants';
 import {
 	Article,
 	ImagesInterface,
@@ -27,9 +20,10 @@ moment.locale('es');
 const { INSTAGRAM_API_KEY } = process.env;
 
 /**
- * Get the version of a library published in npm.com
- * @param {GetVersionInterface} url - Url to check.
- * @returns All results according to search.
+ * It takes a URL as an argument, fetches the HTML of the page, and returns the
+ * version number of the software
+ * @param {string} url - The URL of the page to be scraped.
+ * @returns The version of the package.
  */
 export const handlerGetVersion = async (url: string): Promise<string> => {
 	const file = await axios(url);
@@ -41,43 +35,39 @@ export const handlerGetVersion = async (url: string): Promise<string> => {
 };
 
 /**
- * Get all articles from some RSS page.
- * @returns All items found.
+ * It fetches the RSS feed from the URL, parses it, and returns the items
  */
 export const handlerGetLatestArticles = async (): Promise<any> =>
 	parser.parseURL(URLS.RSS).then((data) => data.items);
 
 /**
- * Transform the date that we pass to a LL format (moment reference).
- * @param {string} date - Any format of date.
- * @returns format example: MM DD, YYYY
+ * It takes a date string, converts it to a Date object, then uses the moment.js
+ * library to format it as a long date
+ * @param {string} date - The date you want to format.
  */
 export const handlerPrettyDate = (date: string): string => moment(new Date(date)).format('LL');
 
 /**
- * Get an array of articles and transform them with a markdown format.
- * @param {array} articles - Articles obtained from an RSS.
- * @returns Link with the title, and the date of the post, with markdown syntax.
+ * It takes an array of articles, slices it to the first 5 articles, and then maps
+ * each article to a markdown link
+ * @param {Article[]} articles - Article[] - the array of articles to be sliced
  */
 export const handlerSliceArticles = (articles: Article[]): string =>
 	articles
-		.slice(0, NUMBERS.ARTICLES)
+		.slice(0, COUNT.ARTICLES)
 		.map(({ title, link, pubDate }) => (pubDate ? `- [${title}](${link})` : `[${title}](${link})`))
 		.join('\n');
 
 /**
- * Get images from any instagram profile
- * @returns A object with permalink and media_url attributes
+ * It makes a request to the Instagram API, gets the data, and returns an array of
+ * objects with the data we need
+ * @returns An array of InstagramImagesResponse objects.
  */
 export const handlerGetInstagramImages = async (): Promise<InstagramImagesResponse[] | void> => {
 	try {
 		const { data } = await axios.get<InstagramApiResponse>(
-			'https://instagram130.p.rapidapi.com/account-medias',
+			`${BASE_URL.INSTAGRAM_API}?userid=${INSTAGRAM.USER_ID}&first=${COUNT.IMAGES}`,
 			{
-				params: {
-					userid: INSTAGRAM_USER_ID,
-					first: NUMBERS.IMAGES,
-				},
 				headers: {
 					'X-RapidAPI-Host': 'instagram130.p.rapidapi.com',
 					'X-RapidAPI-Key': INSTAGRAM_API_KEY as string,
@@ -107,13 +97,14 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 };
 
 /**
- * Transform the string of images to mdx format and slice the result
- * @param {InstagramImagesResponse[]} images - Array of { permalink, media_url } attributes
- * @returns An array of links with images obtained from instagram
+ * It takes an array of Instagram images, slices it to the first 10 images, and
+ * returns a string of HTML image tags
+ * @param {InstagramImagesResponse[]} images - InstagramImagesResponse[] - this is
+ * the response from the Instagram API.
  */
 export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[]): string =>
 	images
-		.slice(0, NUMBERS.IMAGES)
+		.slice(0, COUNT.IMAGES)
 		.map(
 			({
 				media_url,
@@ -132,25 +123,23 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 		.join('');
 
 /**
- * Get the number of years from the year of birth to now
- * @returns Number of years
+ * > It returns the number of years old I am
  */
-export const handlerGetYearsOld = (): number => moment().diff(YEAR_OF_BIRTH, 'years');
+export const handlerGetYearsOld = (): number => moment().diff(PERSONAL.YEAR_OF_BIRTH, 'years');
 
 /**
- * Create array of technologies that I know
- * @returns Array of technologies
+ * It takes an array of objects, maps over each object, and returns a string of
+ * HTML
+ * @returns A string of images
  */
 export const handleGetTechnologies = () => {
 	const _array: ImagesInterface[] = [
 		{ file_name: 'ts', technology: 'Typescript' },
 		{ file_name: 'js', technology: 'Javascript' },
-		{ file_name: 'html5', technology: 'HTML5' },
-		{ file_name: 'css3', technology: 'CSS3' },
-		{ file_name: 'bootstrap', technology: 'Bootstrap' },
-		{ file_name: 'sass', technology: 'Sass' },
 		{ file_name: 'react', technology: 'React' },
 		{ file_name: 'redux', technology: 'Redux' },
+		{ file_name: 'html5', technology: 'HTML5' },
+		{ file_name: 'css3', technology: 'CSS3' },
 		{ file_name: 'node', technology: 'Nodejs' },
 		{ file_name: 'mongodb', technology: 'MongoDB' },
 		{ file_name: 'dart', technology: 'Dart' },
@@ -163,7 +152,7 @@ export const handleGetTechnologies = () => {
 		.map(
 			({ file_name, technology }) =>
 				`<img
-					src='${BASE_URL_TECHNOLOGIES}/${file_name}.png?raw=true'
+					src='${BASE_URL.TECHNOLOGIES}/${file_name}.png?raw=true'
 					alt=${technology}
 					width='25'
 					height='25'

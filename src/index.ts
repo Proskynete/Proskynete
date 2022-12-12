@@ -1,6 +1,6 @@
 import { promises as fs } from 'fs';
 import prettier from 'prettier';
-import { NUMBERS, PLACEHOLDERS, URLS } from './constants';
+import { COUNT, PLACEHOLDERS, URLS } from './constants';
 import {
 	handlerGetVersion,
 	handlerGetLatestArticles,
@@ -33,8 +33,8 @@ import {
 			.replace(PLACEHOLDERS.PERSONAL.YEARS_OLD, _yearsOld.toString())
 			.replace(PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)
 			.replace(PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
-			.replace(PLACEHOLDERS.WEBSITE.NUMBER_ARTICLES, NUMBERS.ARTICLES.toString())
-			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.NUMBER_IMAGES, NUMBERS.IMAGES.toString())
+			.replace(PLACEHOLDERS.WEBSITE.NUMBER_ARTICLES, COUNT.ARTICLES.toString())
+			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.NUMBER_IMAGES, COUNT.IMAGES.toString())
 			.replace(PLACEHOLDERS.WEBSITE.RSS, _articles)
 			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.SECTION_IMAGES, _images);
 

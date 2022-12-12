@@ -33,8 +33,8 @@
   <li>📚 Estudiando Go lang, Python e Ingles.</li>
   <li>⭐ Tengo 2 librerías desarrolladas con React en NPM:
     <ul>
-      <li>vertical-timeline-component-react <small>v%{{vt_version}}%</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a>-<a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repository</a>)</li>
-      <li>pretty-rating-react <small>v%{{pr_version}}%</small> (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a>-<a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repository</a>)</li>
+      <li>vertical-timeline-component-react <small>v%{{vt_version}}%</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a>-<a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repo</a>)</li>
+      <li>pretty-rating-react <small>v%{{pr_version}}%</small> (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a>-<a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repo</a>)</li>
     </ul>
   </li>
 </ul>

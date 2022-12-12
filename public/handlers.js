@@ -36,17 +36,13 @@ exports.handlerGetLatestArticles = handlerGetLatestArticles;
 const handlerPrettyDate = (date) => (0, moment_1.default)(new Date(date)).format('LL');
 exports.handlerPrettyDate = handlerPrettyDate;
 const handlerSliceArticles = (articles) => articles
-    .slice(0, constants_1.NUMBERS.ARTICLES)
+    .slice(0, constants_1.COUNT.ARTICLES)
     .map(({ title, link, pubDate }) => (pubDate ? `- [${title}](${link})` : `[${title}](${link})`))
     .join('\n');
 exports.handlerSliceArticles = handlerSliceArticles;
 const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, function* () {
     try {
-        const { data } = yield axios_1.default.get('https://instagram130.p.rapidapi.com/account-medias', {
-            params: {
-                userid: constants_1.INSTAGRAM_USER_ID,
-                first: constants_1.NUMBERS.IMAGES,
-            },
+        const { data } = yield axios_1.default.get(`${constants_1.BASE_URL.INSTAGRAM_API}?userid=${constants_1.INSTAGRAM.USER_ID}&first=${constants_1.COUNT.IMAGES}`, {
             headers: {
                 'X-RapidAPI-Host': 'instagram130.p.rapidapi.com',
                 'X-RapidAPI-Key': INSTAGRAM_API_KEY,
@@ -72,7 +68,7 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
 });
 exports.handlerGetInstagramImages = handlerGetInstagramImages;
 const handlerGetLatestInstagramImages = (images) => images
-    .slice(0, constants_1.NUMBERS.IMAGES)
+    .slice(0, constants_1.COUNT.IMAGES)
     .map(({ media_url, permalink, accessibility, description, }) => `<a href='https://instagram.com/p/${permalink}' target='_blank'>
 				<img
 					src='${media_url}'
@@ -83,18 +79,16 @@ const handlerGetLatestInstagramImages = (images) => images
     </a>`)
     .join('');
 exports.handlerGetLatestInstagramImages = handlerGetLatestInstagramImages;
-const handlerGetYearsOld = () => (0, moment_1.default)().diff(constants_1.YEAR_OF_BIRTH, 'years');
+const handlerGetYearsOld = () => (0, moment_1.default)().diff(constants_1.PERSONAL.YEAR_OF_BIRTH, 'years');
 exports.handlerGetYearsOld = handlerGetYearsOld;
 const handleGetTechnologies = () => {
     const _array = [
         { file_name: 'ts', technology: 'Typescript' },
         { file_name: 'js', technology: 'Javascript' },
-        { file_name: 'html5', technology: 'HTML5' },
-        { file_name: 'css3', technology: 'CSS3' },
-        { file_name: 'bootstrap', technology: 'Bootstrap' },
-        { file_name: 'sass', technology: 'Sass' },
         { file_name: 'react', technology: 'React' },
         { file_name: 'redux', technology: 'Redux' },
+        { file_name: 'html5', technology: 'HTML5' },
+        { file_name: 'css3', technology: 'CSS3' },
         { file_name: 'node', technology: 'Nodejs' },
         { file_name: 'mongodb', technology: 'MongoDB' },
         { file_name: 'dart', technology: 'Dart' },
@@ -104,7 +98,7 @@ const handleGetTechnologies = () => {
     ];
     return _array
         .map(({ file_name, technology }) => `<img
-					src='${constants_1.BASE_URL_TECHNOLOGIES}/${file_name}.png?raw=true'
+					src='${constants_1.BASE_URL.TECHNOLOGIES}/${file_name}.png?raw=true'
 					alt=${technology}
 					width='25'
 					height='25'

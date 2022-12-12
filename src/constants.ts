@@ -1,17 +1,10 @@
 import {
-	NumbersInterface,
+	BaseUrlInterface,
+	CountInterface,
 	PlaceholdersInterface,
 	RegexpsInterface,
 	UrlsInterface,
 } from './interfaces';
-
-export const BASE_NPM_URL = 'https://www.npmjs.com/package';
-export const BASE_WEBSITE = 'https://eduardoalvarez.dev';
-export const YEAR_OF_BIRTH = '1993-12-24';
-export const INSTAGRAM_USER_ID = 42938370;
-export const INSTAGRAM_USERNAME = 'Proskynete';
-export const BASE_URL_TECHNOLOGIES =
-	'https://github.com/Proskynete/Proskynete/blob/master/images/icons';
 
 export const PLACEHOLDERS: PlaceholdersInterface = {
 	TECHNOLOGIES: '%{{technologies}}%',
@@ -34,17 +27,33 @@ export const PLACEHOLDERS: PlaceholdersInterface = {
 	},
 };
 
-export const URLS: UrlsInterface = {
-	VERTICAL_TIMELINE: `${BASE_NPM_URL}/vertical-timeline-component-react`,
-	PRETTY_RATING: `${BASE_NPM_URL}/pretty-rating-react`,
-	RSS: `${BASE_WEBSITE}/rss.xml`,
-};
-
 export const REGEXPS: RegexpsInterface = {
 	TAG_ELEMENT: 'p.f2874b88.fw6.mb3.mt2.truncate.black-80.f4',
 };
 
-export const NUMBERS: NumbersInterface = {
+export const COUNT: CountInterface = {
 	ARTICLES: 5,
 	IMAGES: 5,
+};
+
+export const BASE_URL: BaseUrlInterface = {
+	NPM: 'https://www.npmjs.com/package',
+	WEBSITE: 'https://eduardoalvarez.dev',
+	TECHNOLOGIES: 'https://github.com/Proskynete/Proskynete/blob/master/images/icons',
+	INSTAGRAM_API: 'https://instagram130.p.rapidapi.com/account-medias',
+};
+
+export const URLS: UrlsInterface = {
+	VERTICAL_TIMELINE: `${BASE_URL.NPM}/vertical-timeline-component-react`,
+	PRETTY_RATING: `${BASE_URL.NPM}/pretty-rating-react`,
+	RSS: `${BASE_URL.WEBSITE}/rss.xml`,
+};
+
+export const INSTAGRAM = {
+	USER_ID: 42938370,
+	USER_NAME: 'Proskynete',
+};
+
+export const PERSONAL = {
+	YEAR_OF_BIRTH: '1993-12-24',
 };

@@ -70,6 +70,13 @@ export interface PlaceholdersInterface {
 	};
 }
 
+export interface BaseUrlInterface {
+	NPM: string;
+	WEBSITE: string;
+	TECHNOLOGIES: string;
+	INSTAGRAM_API: string;
+}
+
 export interface UrlsInterface {
 	VERTICAL_TIMELINE: string;
 	PRETTY_RATING: string;
@@ -80,7 +87,7 @@ export interface RegexpsInterface {
 	TAG_ELEMENT: string;
 }
 
-export interface NumbersInterface {
+export interface CountInterface {
 	ARTICLES: number;
 	IMAGES: number;
 }

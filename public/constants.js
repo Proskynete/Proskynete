@@ -1,12 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.NUMBERS = exports.REGEXPS = exports.URLS = exports.PLACEHOLDERS = exports.BASE_URL_TECHNOLOGIES = exports.INSTAGRAM_USERNAME = exports.INSTAGRAM_USER_ID = exports.YEAR_OF_BIRTH = exports.BASE_WEBSITE = exports.BASE_NPM_URL = void 0;
-exports.BASE_NPM_URL = 'https://www.npmjs.com/package';
-exports.BASE_WEBSITE = 'https://eduardoalvarez.dev';
-exports.YEAR_OF_BIRTH = '1993-12-24';
-exports.INSTAGRAM_USER_ID = 42938370;
-exports.INSTAGRAM_USERNAME = 'Proskynete';
-exports.BASE_URL_TECHNOLOGIES = 'https://github.com/Proskynete/Proskynete/blob/master/images/icons';
+exports.PERSONAL = exports.INSTAGRAM = exports.URLS = exports.BASE_URL = exports.COUNT = exports.REGEXPS = exports.PLACEHOLDERS = void 0;
 exports.PLACEHOLDERS = {
     TECHNOLOGIES: '%{{technologies}}%',
     PERSONAL: {
@@ -27,16 +21,29 @@ exports.PLACEHOLDERS = {
         },
     },
 };
-exports.URLS = {
-    VERTICAL_TIMELINE: `${exports.BASE_NPM_URL}/vertical-timeline-component-react`,
-    PRETTY_RATING: `${exports.BASE_NPM_URL}/pretty-rating-react`,
-    RSS: `${exports.BASE_WEBSITE}/rss.xml`,
-};
 exports.REGEXPS = {
     TAG_ELEMENT: 'p.f2874b88.fw6.mb3.mt2.truncate.black-80.f4',
 };
-exports.NUMBERS = {
+exports.COUNT = {
     ARTICLES: 5,
     IMAGES: 5,
+};
+exports.BASE_URL = {
+    NPM: 'https://www.npmjs.com/package',
+    WEBSITE: 'https://eduardoalvarez.dev',
+    TECHNOLOGIES: 'https://github.com/Proskynete/Proskynete/blob/master/images/icons',
+    INSTAGRAM_API: 'https://instagram130.p.rapidapi.com/account-medias',
+};
+exports.URLS = {
+    VERTICAL_TIMELINE: `${exports.BASE_URL.NPM}/vertical-timeline-component-react`,
+    PRETTY_RATING: `${exports.BASE_URL.NPM}/pretty-rating-react`,
+    RSS: `${exports.BASE_URL.WEBSITE}/rss.xml`,
+};
+exports.INSTAGRAM = {
+    USER_ID: 42938370,
+    USER_NAME: 'Proskynete',
+};
+exports.PERSONAL = {
+    YEAR_OF_BIRTH: '1993-12-24',
 };
 //# sourceMappingURL=constants.js.map
