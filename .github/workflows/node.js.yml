@@ -1,4 +1,4 @@
-name: Update README.md
+name: '🚀 Update README.md'
 
 on:
   workflow_dispatch:
@@ -6,44 +6,49 @@ on:
     - cron: '0 8 * * mon,wed,fri'
 
 jobs:
-  run-linters:
+  linters:
     name: Run linters
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out Git repository
+      - name: 📚 Check out Git repository
         uses: actions/checkout@v2
 
-      - name: Set up Node.js
+      - name: 🟢 Set up Node.js
         uses: actions/setup-node@v1
         with:
           node-version: '16'
 
-      - name: Install Node.js dependencies
+      - name: 🛠 Install Node.js dependencies
         run: npm install
 
-      - name: Code Linting
+      - name: 🔦 Code Linting
         run: npm run lint
+
   build:
+    name: Generate new README.md
     runs-on: ubuntu-latest
+    needs: [linters]
 
     steps:
-      - name: Check out Git repository
+      - name: 📚 Check out Git repository
         uses: actions/checkout@v2
 
-      - name: Set up Node.js
+      - name: 🟢 Set up Node.js
         uses: actions/setup-node@v1
         with:
           node-version: '16'
-      - name: Install Node.js dependencies
+
+      - name: 🛠 Install Node.js dependencies
         run: npm install
 
-      - name: Transpile & generate readme
-        run: npm start
+      - name: ⚙️ Transpile and generate a new readme file
         env:
           INSTAGRAM_API_KEY: ${{secrets.INSTAGRAM_API_KEY}}
+        run: npm start
 
-      - run: |
+      - name: 📝 Commit and push changes
+        run: |
           git config user.name "Eduardo Álvarez"
           git config user.email "soy@eduardoalvarez.dev"
           git add .
