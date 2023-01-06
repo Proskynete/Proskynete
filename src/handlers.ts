@@ -1,6 +1,7 @@
-import axios from 'axios';
+import axios, { AxiosError } from 'axios';
 import cheerio from 'cheerio';
 import moment from 'moment';
+import * as core from '@actions/core';
 import Parser from 'rss-parser';
 import { URLS, COUNT, REGEXPS, PERSONAL, INSTAGRAM, BASE_URL } from './constants';
 import {
@@ -91,8 +92,13 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 			}))
 		);
 	} catch (err) {
-		console.error(err);
-		throw new Error();
+		if (axios.isAxiosError(err)) {
+			const { response } = err as AxiosError;
+			if (response) {
+				console.error(err);
+				core.setFailed(err.message);
+			}
+		}
 	}
 };
 
