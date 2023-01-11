@@ -69,6 +69,8 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
             },
         });
         const images = data === null || data === void 0 ? void 0 : data.edges;
+        console.log('first image(thumbnail_src): ', images[0].node.thumbnail_src);
+        console.log('first image(display_url): ', images[0].node.display_url);
         return (images &&
             images.map((image) => ({
                 shortcode: image.node.shortcode,

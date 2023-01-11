@@ -82,8 +82,7 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 			images &&
 			images.map((image) => ({
 				shortcode: image.node.shortcode,
-				// url: image.node.thumbnail_src,
-				url: image.node.display_url,
+				url: image.node.thumbnail_src,
 				accessibility: image.node.accessibility_caption,
 				description: image.node.edge_media_to_caption.edges.length
 					? image.node.edge_media_to_caption.edges[0].node.text

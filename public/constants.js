@@ -26,7 +26,7 @@ exports.REGEXPS = {
 };
 exports.COUNT = {
     ARTICLES: 5,
-    IMAGES: 10,
+    IMAGES: 5,
 };
 exports.BASE_URL = {
     NPM: 'https://www.npmjs.com/package',
