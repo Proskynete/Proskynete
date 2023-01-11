@@ -76,13 +76,14 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 			},
 		);
 
-		const images: InstagramNodeInterface[] = data.edges;
+		const images: InstagramNodeInterface[] = data?.edges;
 
 		return (
 			images &&
 			images.map((image) => ({
-				permalink: image.node.shortcode,
-				media_url: image.node.thumbnail_src,
+				shortcode: image.node.shortcode,
+				// url: image.node.thumbnail_src,
+				url: image.node.display_url,
 				accessibility: image.node.accessibility_caption,
 				description: image.node.edge_media_to_caption.edges.length
 					? image.node.edge_media_to_caption.edges[0].node.text
@@ -95,7 +96,6 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 		if (axios.isAxiosError(err)) {
 			const { response } = err as AxiosError;
 			if (response) {
-				console.error(err);
 				core.setFailed(err.message);
 			}
 		}
@@ -113,13 +113,13 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 		.slice(0, COUNT.IMAGES)
 		.map(
 			({
-				media_url,
-				permalink,
+				shortcode,
+				url,
 				accessibility,
 				description,
-			}) => `<a href='https://instagram.com/p/${permalink}' target='_blank'>
+			}) => `<a href='https://instagram.com/p/${shortcode}' target='_blank'>
 				<img
-					src='${media_url}'
+					src='${url}'
 					alt='${accessibility ?? description}'
 					width='150'
 					height='150'

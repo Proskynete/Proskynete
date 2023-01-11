@@ -68,11 +68,11 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
                 'X-RapidAPI-Key': INSTAGRAM_API_KEY,
             },
         });
-        const images = data.edges;
+        const images = data === null || data === void 0 ? void 0 : data.edges;
         return (images &&
             images.map((image) => ({
-                permalink: image.node.shortcode,
-                media_url: image.node.thumbnail_src,
+                shortcode: image.node.shortcode,
+                url: image.node.display_url,
                 accessibility: image.node.accessibility_caption,
                 description: image.node.edge_media_to_caption.edges.length
                     ? image.node.edge_media_to_caption.edges[0].node.text
@@ -85,7 +85,6 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
         if (axios_1.default.isAxiosError(err)) {
             const { response } = err;
             if (response) {
-                console.error(err);
                 core.setFailed(err.message);
             }
         }
@@ -94,9 +93,9 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
 exports.handlerGetInstagramImages = handlerGetInstagramImages;
 const handlerGetLatestInstagramImages = (images) => images
     .slice(0, constants_1.COUNT.IMAGES)
-    .map(({ media_url, permalink, accessibility, description, }) => `<a href='https://instagram.com/p/${permalink}' target='_blank'>
+    .map(({ shortcode, url, accessibility, description, }) => `<a href='https://instagram.com/p/${shortcode}' target='_blank'>
 				<img
-					src='${media_url}'
+					src='${url}'
 					alt='${accessibility !== null && accessibility !== void 0 ? accessibility : description}'
 					width='150'
 					height='150'

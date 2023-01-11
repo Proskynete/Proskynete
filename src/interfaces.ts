@@ -38,8 +38,8 @@ export interface InstagramNodeInterface {
 }
 
 export interface InstagramImagesResponse {
-	permalink: string;
-	media_url: string;
+	shortcode: string;
+	url: string;
 	accessibility: string;
 	description: string;
 }

@@ -33,7 +33,7 @@ export const REGEXPS: RegexpsInterface = {
 
 export const COUNT: CountInterface = {
 	ARTICLES: 5,
-	IMAGES: 5,
+	IMAGES: 10,
 };
 
 export const BASE_URL: BaseUrlInterface = {
