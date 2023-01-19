@@ -31,10 +31,12 @@
   <li>🧳 Intento viajar cada vez que se pueda.</li>
   <li>🍺 Nunca es un mal momento para hacer un espacio en la semana y tomar una cerveza con los amigos.</li>
   <li>📚 Estudiando Go lang, Python e Ingles.</li>
-  <li>⭐ Tengo 2 librerías desarrolladas con React en NPM:
+  <li>⭐ Tengo algunos proyectos open source que pueden ser de utilidad para la comunidad:</li>
     <ul>
-      <li>vertical-timeline-component-react <small>v%{{vt_version}}%</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a>-<a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repo</a>)</li>
-      <li>pretty-rating-react <small>v%{{pr_version}}%</small> (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a>-<a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repo</a>)</li>
+      <li>vertical-timeline-component-react <small>v%{{vt_version}}%</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repo</a>)</li>
+      <li>pretty-rating-react <small>v%{{pr_version}}%</small> (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repo</a>)</li>
+      <li>node-api-skeleton (<a href="https://github.com/Proskynete/node-api-skeleton" target="_blank">repo</a>)</li>
+      <li>cypress-cucumber-boilerplate (<a href="https://github.com/Proskynete/cypress-cucumber-boilerplate" target="_blank">repo</a>)</li>
     </ul>
   </li>
 </ul>
