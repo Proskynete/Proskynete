@@ -28,7 +28,7 @@
 
 <p><strong>Otros</strong></p>
 <ul>
-  <li>🧳 Intento viajar cada vez que se pueda.</li>
+  <li>🧳 Nómada digital.</li>
   <li>🍺 Nunca es un mal momento para hacer un espacio en la semana y tomar una cerveza con los amigos.</li>
   <li>📚 Estudiando Go lang, Python e Ingles.</li>
   <li>⭐ Tengo algunos proyectos open source que pueden ser de utilidad para la comunidad:</li>
