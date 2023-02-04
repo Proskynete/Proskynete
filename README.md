@@ -132,9 +132,17 @@
   </strong>
 </p>
 
+<a href="https://instagram.com/p/CoNAuxgOT5j" target="_blank">
+  <img
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/328849559_206686231917196_696212618091754780_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=UWP6StQfwGgAX8vx84g&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA90dcdi5jMNxgiReDhIsU1tMCbwiSKo6YOAfrvSLqwvw&oe=63E39CA6&_nc_sid=86f79a"
+    alt="@softserve_people"
+    width="150"
+    height="150"
+  />
+</a>
 <a href="https://instagram.com/p/CmAmzisDp2K" target="_blank">
   <img
-    src="https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/318988918_518667036991984_8541609458471216604_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=104&_nc_ohc=Dib1VRArD4IAX89Twgx&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCaXl1FrGfPqRhhl9kA_lgLaEO8F4q0zBgzSsIQyHz9zg&oe=63DDE4B1&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/318988918_518667036991984_8541609458471216604_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=ZNME7FYte_EAX-DcQJv&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB0ZfrdIpdRljEjBjIsAlU1W7ChMQsXgUH4eFrNsff2OA&oe=63E1D931&_nc_sid=86f79a"
     alt="Amistades que salen de la nada ❤️❤️"
     width="150"
     height="150"
@@ -142,7 +150,7 @@
 </a>
 <a href="https://instagram.com/p/CkuYGxFjfcF" target="_blank">
   <img
-    src="https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/314764496_654706342905247_5798081144739882941_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=107&_nc_ohc=AJU2pVIcPt8AX9guJz5&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCTaHqBdn2dFSBQjLQZIBnTGcGydJzzo9JN4PaWymcVOw&oe=63DDCCD5&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/314764496_654706342905247_5798081144739882941_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ZZDJOJnYnNcAX-LbUxl&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAVRvrPvE84n3j2fyX1NSLbm7sPa1atQKv6Ddu7tdPlsQ&oe=63E3BB95&_nc_sid=86f79a"
     alt="Uno de los últimos viajes (si no es que el último) del año, donde pude subir a Machu Picchu y poder dar check a este país que lo tenía pendiente por mucho tiempo, pero no es solo eso, en este viaje tuve la bendición y la dicha de poder ir con mi viejo ❤️"
     width="150"
     height="150"
@@ -150,7 +158,7 @@
 </a>
 <a href="https://instagram.com/p/CjMJIAYOpy9" target="_blank">
   <img
-    src="https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/309499768_506155310959624_6269623508055932673_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=104&_nc_ohc=9P_R5q9LgmwAX_ns-5a&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBRCOo4Ff7svFNjru0Xp4pm5rK3H_6YaS1Mvh24sJXsYw&oe=63DCF76A&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/309499768_506155310959624_6269623508055932673_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=TpvqaYzN_pgAX82HmtV&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBIISNhJfvfCyn2vq6irC7_SdcFJuAHIv7s5IYRn25SRQ&oe=63E2E62A&_nc_sid=86f79a"
     alt="Una experiencia de sabor ❤️"
     width="150"
     height="150"
@@ -158,16 +166,8 @@
 </a>
 <a href="https://instagram.com/p/CjLgNEJOswN" target="_blank">
   <img
-    src="https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/310040283_494199692724977_5605496311313412644_n.jpg?stp=c61.0.1318.1318a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=hLMOEe5v008AX_WBmPG&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCMXSiFxZ4IpdhPV9gFy9-q0FPqnyesBuI8jOe8hM1UQA&oe=63DC9221&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/310040283_494199692724977_5605496311313412644_n.jpg?stp=c61.0.1318.1318a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=YbTWnHVViEAAX9VFA8W&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA3yo3iTs683pOKb6Q3RF9Ti9K7joX7l2SeF9U3bQ_E5g&oe=63E280E1&_nc_sid=86f79a"
     alt="Chilaquiles de pollo ❤️❤️❤️"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/ChdNOKEufyD" target="_blank">
-  <img
-    src="https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/300224972_2589427467856227_2810952855320808865_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=RIFQY6i6zBUAX9ySRng&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDjw4bSildPNTTkB23Lh_M8R7hiWiEN2ePZvkSYb1c9NQ&oe=63DE30B9&_nc_sid=86f79a"
-    alt="Manden energía plz!"
     width="150"
     height="150"
   />
