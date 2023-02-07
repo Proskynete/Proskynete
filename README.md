@@ -132,9 +132,17 @@
   </strong>
 </p>
 
+<a href="https://instagram.com/p/CoU0ICRuxm_" target="_blank">
+  <img
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/329734593_717267019777990_404130072762870943_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=X_9hFqQv8ZEAX8GuAmR&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBtDvNJS2piwHikLALgZr7PxitxKKUi_lqAS5IaZElZHw&oe=63E6EC51&_nc_sid=86f79a"
+    alt="Esta imagen fue una de mis preferidas, por lejos. El haber estado trabajando codo a codo con @nicoavila_a ha sido súper bkn, una persona humilde, que ha dado mucho y sigue dando mucho por la comunidad.  Eres una persona increíble Nico y nunca dejes de serlo 💪  Nos vemos en más eventos! que esto no para  #angulardeveloper #angularchile #reactjs #reactchile #developers #jsconfcl #jsconfchile"
+    width="150"
+    height="150"
+  />
+</a>
 <a href="https://instagram.com/p/CoQgIFUOJGc" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/328967883_668804948263607_127091444278630989_n.jpg?stp=c160.0.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=Buh_qVQsdsYAX_0PGto&edm=APU89FABAAAA&ccb=7-5&oh=00_AfClMuY9T6ATCtuKFQ90IixuisIL2QPm7D0QQSCNZU75KQ&oe=63E59575&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/328967883_668804948263607_127091444278630989_n.jpg?stp=c160.0.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=Vo1YgEiMuZwAX-um32f&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAKyO_27ibypQGbyqONgdrP5TAb3FDrbQUU6iMzDHfV9A&oe=63E78FB5&_nc_sid=86f79a"
     alt="Y así termina la primer aversion de esta magnífica @jsconf.cl… muy feliz de haber participado, haber compartido y conocido a unas personas verdaderamente apasionadas por compartir en comunidad todo lo que saben y más ❤️❤️❤️ Cansado a full, pero feliz 🚀  Se vienen cositas 🫣🤭"
     width="150"
     height="150"
@@ -142,7 +150,7 @@
 </a>
 <a href="https://instagram.com/p/CoPLKeZOAWY" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/328999736_606743461463407_3711726649028094572_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=O0G4vKE79dQAX_5KIO-&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA4HeeSG0jtHhXdrW_D4k937p3Uf97cysP1l1KaEyPjfw&oe=63E5AB9B&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/328999736_606743461463407_3711726649028094572_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=O0G4vKE79dQAX-0FVnk&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDoCRDieG43VEfnZ-UBBNwWpPAnbkIxJWLGW-nuufoY2A&oe=63E7A5DB&_nc_sid=86f79a"
     alt="Hoy soy más sueño que persona… pero vamos por el último día de la @jsconf.cl 🚀  Si te interesa, puedes ver las charlas online 👀 en nuestro sitio web oficial: https://jsconf.cl/"
     width="150"
     height="150"
@@ -150,7 +158,7 @@
 </a>
 <a href="https://instagram.com/p/CoPFOwBgLE_" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/327649703_213311231111050_5390530053664312214_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=37JmFNrzpCsAX8W5rvi&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDBwycIznKwDPcHFC2XVHTM5stLcYoDdvvBMe6NwCBPiQ&oe=63E2A3A1&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/327649703_213311231111050_5390530053664312214_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=37JmFNrzpCsAX9Ukmsp&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAKfTSl3HfJiV-YZCncEHK5-0QkOEJWu-ZWIYzA2WoOug&oe=63E3F521&_nc_sid=86f79a"
     alt=""
     width="150"
     height="150"
@@ -158,16 +166,8 @@
 </a>
 <a href="https://instagram.com/p/CoNAuxgOT5j" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/328849559_206686231917196_696212618091754780_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=X3q_imxs4vQAX-Nfi0g&edm=APU89FABAAAA&ccb=7-5&oh=00_AfALtwqs86cMU5b13LtlqtewDl1e4pLvzbMWGW9CTmPwEw&oe=63E596E6&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/328849559_206686231917196_696212618091754780_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=a_bJEGmesLYAX-_v6_c&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBcPzbUmFMyVnsXYL56L-v1Sy1qIAVIZO87Pudm7b5KgA&oe=63E79126&_nc_sid=86f79a"
     alt="@softserve_people"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/CmAmzisDp2K" target="_blank">
-  <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/318988918_518667036991984_8541609458471216604_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=6l6dBWJ_pSwAX8SpewL&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDP6rU7AsqViv6xPT9PSFLDBvU3leElG-GhR5-iusk1ug&oe=63E5CDB1&_nc_sid=86f79a"
-    alt="Amistades que salen de la nada ❤️❤️"
     width="150"
     height="150"
   />
