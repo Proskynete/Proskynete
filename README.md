@@ -134,7 +134,7 @@
 
 <a href="https://instagram.com/p/Coe-9aaujax" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/330214421_704824997766060_994139522448662799_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=J03JOzv8CKIAX8-141p&edm=APU89FABAAAA&ccb=7-5&oh=00_AfA0fB5iDNfbt5-NliVNVXeqkBMGBxtPo4-4pTMQmfsHNg&oe=6415F8BF&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/330214421_704824997766060_994139522448662799_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=MEYvIvAJzxMAX_QO9i4&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDc9MlKMJ90D_SkvQLkL-7ZuMV9OeHf9W5IL-VNn6sqJA&oe=641BE77F&_nc_sid=86f79a"
     alt="Computador nuevo, empresa nueva… se vienen cositas nuevas ❤️"
     width="150"
     height="150"
@@ -142,7 +142,7 @@
 </a>
 <a href="https://instagram.com/p/CoU0ICRuxm_" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/329734593_717267019777990_404130072762870943_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=NMcoUpagWlgAX_6fAOV&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC6_RWPPaQLhBfENifl0sGy0cjYXJvE9zYFomvTJHT1Nw&oe=64166251&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/329734593_717267019777990_404130072762870943_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=rTxpp4qVbakAX-qZboC&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDZm2du0o9J59T5aNAovh_tFfGWYCROzq8yW_Yu0_6jvQ&oe=641C5111&_nc_sid=86f79a"
     alt="Esta imagen fue una de mis preferidas, por lejos. El haber estado trabajando codo a codo con @nicoavila_a ha sido súper bkn, una persona humilde, que ha dado mucho y sigue dando mucho por la comunidad.  Eres una persona increíble Nico y nunca dejes de serlo 💪  Nos vemos en más eventos! que esto no para  #angulardeveloper #angularchile #reactjs #reactchile #developers #jsconfcl #jsconfchile"
     width="150"
     height="150"
@@ -150,7 +150,7 @@
 </a>
 <a href="https://instagram.com/p/CoQgIFUOJGc" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/328967883_668804948263607_127091444278630989_n.jpg?stp=c160.0.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=LmbbXbPzG4MAX98mvyx&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBNz0-zuur5dasNIF9EOcxckIamwVFXC4svEkFfIcQCGA&oe=641705B5&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/328967883_668804948263607_127091444278630989_n.jpg?stp=c160.0.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=I1dJBo7ao5oAX8aI6mQ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC69QA4noQ_XshAaoKYNRLllV5KsrsnM-9Ww-gH9pFkjg&oe=641AFA35&_nc_sid=86f79a"
     alt="Y así termina la primer aversion de esta magnífica @jsconf.cl… muy feliz de haber participado, haber compartido y conocido a unas personas verdaderamente apasionadas por compartir en comunidad todo lo que saben y más ❤️❤️❤️ Cansado a full, pero feliz 🚀  Se vienen cositas 🫣🤭"
     width="150"
     height="150"
@@ -158,7 +158,7 @@
 </a>
 <a href="https://instagram.com/p/CoPLKeZOAWY" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/328999736_606743461463407_3711726649028094572_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=CJm8asDZmHsAX9-25Wy&edm=APU89FABAAAA&ccb=7-5&oh=00_AfAIWeZPJ3wDpjFPaCwHQTuDSumcb_nvKxO9_Kd-gs2XWg&oe=64171BDB&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/328999736_606743461463407_3711726649028094572_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ExiTkqy910kAX8lrJ9c&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDxmm7unvvB-Og83B90_uebz7H6QZCy05QezAmmi90xJA&oe=641B105B&_nc_sid=86f79a"
     alt="Hoy soy más sueño que persona… pero vamos por el último día de la @jsconf.cl 🚀  Si te interesa, puedes ver las charlas online 👀 en nuestro sitio web oficial: https://jsconf.cl/"
     width="150"
     height="150"
@@ -166,7 +166,7 @@
 </a>
 <a href="https://instagram.com/p/CoPFOwBgLE_" target="_blank">
   <img
-    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/327649703_213311231111050_5390530053664312214_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=gNJ-Ktvt6JAAX_ls1Sy&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCndLvWY7zmVrVBnLftd3UYogbkNkRe5ow5ntOhlNLKRw&oe=64136B21&_nc_sid=86f79a"
+    src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/327649703_213311231111050_5390530053664312214_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=ECA4voNH1gQAX9OJJlV&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBnNmft1YoZCmaCtdPBACgaWyuDZQle5aIAL2VDTSURhg&oe=64180861&_nc_sid=86f79a"
     alt=""
     width="150"
     height="150"
