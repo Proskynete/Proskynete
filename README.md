@@ -134,7 +134,7 @@
 
 <a href="https://instagram.com/p/CqI5wdru-7b" target="_blank">
   <img
-    src="https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/337327222_201976165795419_1125575247083917258_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=103&_nc_ohc=R5cxDSRta6IAX9J9kV6&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB4UQTZDHKtbWKlUxGM8vgAtXCwq0kkyK-9KuoTdI9Cqg&oe=6439A035&_nc_sid=86f79a"
+    src="https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/337327222_201976165795419_1125575247083917258_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=103&_nc_ohc=R5cxDSRta6IAX9ZvlPe&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCOPNG36kOIMNyAIi76NcWAZJ63CiU9QRgwZb8cw3e_CQ&oe=643B9A75&_nc_sid=86f79a"
     alt="Una nueva etapa, nuevos compañeros, nuevos desafíos… se viene con todo  @etpayoficial"
     width="150"
     height="150"
@@ -142,7 +142,7 @@
 </a>
 <a href="https://instagram.com/p/Coe-9aaujax" target="_blank">
   <img
-    src="https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/330214421_704824997766060_994139522448662799_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=100&_nc_ohc=QS1r12upmPEAX8j5e2Z&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCUh2hw0t1hVIU4UzHHZ7KcP2zWh7Q0fRlQwfkrXsn0Fg&oe=6439913F&_nc_sid=86f79a"
+    src="https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/330214421_704824997766060_994139522448662799_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=100&_nc_ohc=QS1r12upmPEAX9wzLw3&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBJCXFTzKY_KRdaNgnSlLvHDHlGVdVML22EE504PYCs8g&oe=643B8B7F&_nc_sid=86f79a"
     alt="Computador nuevo, empresa nueva… se vienen cositas nuevas ❤️"
     width="150"
     height="150"
@@ -150,7 +150,7 @@
 </a>
 <a href="https://instagram.com/p/CoU0ICRuxm_" target="_blank">
   <img
-    src="https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/329734593_717267019777990_404130072762870943_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=110&_nc_ohc=0gsxHkKZ9KAAX8LUXGb&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCcKfovD8v8jBbB33dR1Vdtu3_e-Oj7xyyRx11p8i6vlw&oe=64380091&_nc_sid=86f79a"
+    src="https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/329734593_717267019777990_404130072762870943_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=110&_nc_ohc=0gsxHkKZ9KAAX9lzvoC&edm=APU89FABAAAA&ccb=7-5&oh=00_AfC86ivUIZle3ZExAN6Lxs8qlzX1MvCcgVsNIRgAkcOrxg&oe=643BF511&_nc_sid=86f79a"
     alt="Esta imagen fue una de mis preferidas, por lejos. El haber estado trabajando codo a codo con @nicoavila_a ha sido súper bkn, una persona humilde, que ha dado mucho y sigue dando mucho por la comunidad.  Eres una persona increíble Nico y nunca dejes de serlo 💪  Nos vemos en más eventos! que esto no para  #angulardeveloper #angularchile #reactjs #reactchile #developers #jsconfcl #jsconfchile"
     width="150"
     height="150"
@@ -158,7 +158,7 @@
 </a>
 <a href="https://instagram.com/p/CoQgIFUOJGc" target="_blank">
   <img
-    src="https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/328967883_668804948263607_127091444278630989_n.jpg?stp=c160.0.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=111&_nc_ohc=J5Z0wk2q448AX_ZUDYl&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDKNUy9F_uGvK_vYqBDNnrIavOnKQqaxAL8QgIwoZ06IQ&oe=6438A3F5&_nc_sid=86f79a"
+    src="https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/328967883_668804948263607_127091444278630989_n.jpg?stp=c160.0.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=111&_nc_ohc=BKujg2EQK10AX_XDOtS&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCj20GhLL5BB7Ju0pC3znEvMVEPNzSm4bnOSqq7gK9k6Q&oe=643A9E35&_nc_sid=86f79a"
     alt="Y así termina la primer aversion de esta magnífica @jsconf.cl… muy feliz de haber participado, haber compartido y conocido a unas personas verdaderamente apasionadas por compartir en comunidad todo lo que saben y más ❤️❤️❤️ Cansado a full, pero feliz 🚀  Se vienen cositas 🫣🤭"
     width="150"
     height="150"
@@ -166,7 +166,7 @@
 </a>
 <a href="https://instagram.com/p/CoPLKeZOAWY" target="_blank">
   <img
-    src="https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/328999736_606743461463407_3711726649028094572_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=8IbF-F3OT6AAX8O3W64&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDgAKFwTmwFRoHPpEkoAN1ye-IdXR0HcsMRX5bqx4YTDw&oe=6438BA1B&_nc_sid=86f79a"
+    src="https://scontent-lhr8-1.cdninstagram.com/v/t51.2885-15/328999736_606743461463407_3711726649028094572_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_cat=107&_nc_ohc=8IbF-F3OT6AAX8Sp0SP&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBLYcwAqO6bdnAr4r8pNXhNhuXceKCyAAbTfZMrp3_7Jw&oe=643AB45B&_nc_sid=86f79a"
     alt="Hoy soy más sueño que persona… pero vamos por el último día de la @jsconf.cl 🚀  Si te interesa, puedes ver las charlas online 👀 en nuestro sitio web oficial: https://jsconf.cl/"
     width="150"
     height="150"
