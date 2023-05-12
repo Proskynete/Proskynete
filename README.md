@@ -134,7 +134,7 @@
 
 <a href="https://instagram.com/p/CsBoUc3g5Ii" target="_blank">
   <img
-    src="https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/345532788_1262112531060903_1803152386566123011_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=R7P2Cbb77vwAX85qS7E&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCZx5SoiwwnGTKqzO6Ene4yQ27frbstDpwVjjfe9qWjsg&oe=64613A0B&_nc_sid=86f79a"
+    src="https://instagram.fkiv8-1.fna.fbcdn.net/v/t51.2885-15/345532788_1262112531060903_1803152386566123011_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fkiv8-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=I4ZlYcV_3B8AX8zue7D&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDItCDnwPne9VTV0vSgFIJ6_dKW_jlXEPYPDnK31hupGA&oe=6463344B&_nc_sid=86f79a"
     alt="Desde las oficinas, el equipo de los teletubbidevs les manda buenos días 🌞"
     width="150"
     height="150"
@@ -142,7 +142,7 @@
 </a>
 <a href="https://instagram.com/p/CqI5wdru-7b" target="_blank">
   <img
-    src="https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/337327222_201976165795419_1125575247083917258_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=Lkm9f564eyUAX-CULY_&edm=APU89FABAAAA&ccb=7-5&oh=00_AfB0rn5y9-S3hVWusQD88f928xExfyuxnmNDqwDSQ6KN8Q&oe=64612D35&_nc_sid=86f79a"
+    src="https://instagram.fkiv8-1.fna.fbcdn.net/v/t51.2885-15/337327222_201976165795419_1125575247083917258_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fkiv8-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=Lkm9f564eyUAX8gwBVP&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDwSGPeeUMVLPqPWgxW4okoly9u7CfYkhKj9p_uhaiMrw&oe=64632775&_nc_sid=86f79a"
     alt="Una nueva etapa, nuevos compañeros, nuevos desafíos… se viene con todo  @etpayoficial"
     width="150"
     height="150"
@@ -150,7 +150,7 @@
 </a>
 <a href="https://instagram.com/p/Coe-9aaujax" target="_blank">
   <img
-    src="https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/330214421_704824997766060_994139522448662799_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=0K_9tA1Oo5MAX83_NDR&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD5Nnnzi9dSIai_bSYCxZrm537-qijma5DavvVpvxYszA&oe=64611E3F&_nc_sid=86f79a"
+    src="https://instagram.fkiv8-1.fna.fbcdn.net/v/t51.2885-15/330214421_704824997766060_994139522448662799_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fkiv8-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=0K_9tA1Oo5MAX8cZWB6&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDbsY-zzw5-0BbBYNXdbYfWv0sR_YZNrCFp5oQ3II6mPw&oe=6463187F&_nc_sid=86f79a"
     alt="Computador nuevo, empresa nueva… se vienen cositas nuevas ❤️"
     width="150"
     height="150"
@@ -158,7 +158,7 @@
 </a>
 <a href="https://instagram.com/p/CoU0ICRuxm_" target="_blank">
   <img
-    src="https://scontent-lcy1-2.cdninstagram.com/v/t51.2885-15/329734593_717267019777990_404130072762870943_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lcy1-2.cdninstagram.com&_nc_cat=110&_nc_ohc=0s66c8g5dZgAX-XqQkK&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCStG-PcuDAtTQmSwf0F6X90RqXhuH_3wuvB_uAJkpT6w&oe=645F8D91&_nc_sid=86f79a"
+    src="https://instagram.fkiv8-1.fna.fbcdn.net/v/t51.2885-15/329734593_717267019777990_404130072762870943_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fkiv8-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=0s66c8g5dZgAX_Q8ThJ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBZXh3T_Cmq7Vk6dhmm4LRo5_Pqkdi3BGn3ug4STQ03WA&oe=64638211&_nc_sid=86f79a"
     alt="Esta imagen fue una de mis preferidas, por lejos. El haber estado trabajando codo a codo con @nicoavila_a ha sido súper bkn, una persona humilde, que ha dado mucho y sigue dando mucho por la comunidad.  Eres una persona increíble Nico y nunca dejes de serlo 💪  Nos vemos en más eventos! que esto no para  #angulardeveloper #angularchile #reactjs #reactchile #developers #jsconfcl #jsconfchile"
     width="150"
     height="150"
@@ -166,7 +166,7 @@
 </a>
 <a href="https://instagram.com/p/CoQgIFUOJGc" target="_blank">
   <img
-    src="https://scontent-lcy1-1.cdninstagram.com/v/t51.2885-15/328967883_668804948263607_127091444278630989_n.jpg?stp=c160.0.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-lcy1-1.cdninstagram.com&_nc_cat=111&_nc_ohc=c9gRbwqygiUAX9AF0QU&edm=APU89FABAAAA&ccb=7-5&oh=00_AfCDB4QFssQQTWx1ufC_a4IAi_G1B0PbExk7LuoXCDTyfg&oe=646030F5&_nc_sid=86f79a"
+    src="https://instagram.fkiv8-1.fna.fbcdn.net/v/t51.2885-15/328967883_668804948263607_127091444278630989_n.jpg?stp=c160.0.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fkiv8-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=uDucdll83-MAX_KFp7U&edm=APU89FABAAAA&ccb=7-5&oh=00_AfD4dBYDi-VQLR6D1rkK1WJxR7D31pxuhZoIIhY9kGA40w&oe=64622B35&_nc_sid=86f79a"
     alt="Y así termina la primer aversion de esta magnífica @jsconf.cl… muy feliz de haber participado, haber compartido y conocido a unas personas verdaderamente apasionadas por compartir en comunidad todo lo que saben y más ❤️❤️❤️ Cansado a full, pero feliz 🚀  Se vienen cositas 🫣🤭"
     width="150"
     height="150"
