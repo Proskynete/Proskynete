@@ -67,6 +67,7 @@ export const handlerSliceArticles = (articles: Article[]): string =>
 export const handlerGetInstagramImages = async (): Promise<InstagramImagesResponse[] | void> => {
 	try {
 		const { data } = await axios.get<InstagramApiResponse>(BASE_URL.INSTAGRAM_API, {
+			timeout: 20000,
 			params: {
 				user: INSTAGRAM.USER_NAME,
 			},

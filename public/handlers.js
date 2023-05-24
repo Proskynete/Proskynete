@@ -64,6 +64,7 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
     var _a, _b, _c;
     try {
         const { data } = yield axios_1.default.get(constants_1.BASE_URL.INSTAGRAM_API, {
+            timeout: 20000,
             params: {
                 user: constants_1.INSTAGRAM.USER_NAME,
             },
@@ -73,8 +74,6 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
             },
         });
         const images = (_c = (_b = (_a = data.data) === null || _a === void 0 ? void 0 : _a.user) === null || _b === void 0 ? void 0 : _b.edge_owner_to_timeline_media) === null || _c === void 0 ? void 0 : _c.edges;
-        console.log(data);
-        console.log(images);
         return (images &&
             images.map((image) => ({
                 shortcode: image.node.shortcode,
