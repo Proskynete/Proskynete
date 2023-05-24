@@ -5,7 +5,13 @@ export interface Article {
 }
 
 export interface InstagramApiResponse {
-	edges: InstagramNodeInterface[];
+	data: {
+		user: {
+			edge_owner_to_timeline_media: {
+				edges: InstagramNodeInterface[];
+			};
+		};
+	};
 }
 
 export interface ThumbnailInterface {

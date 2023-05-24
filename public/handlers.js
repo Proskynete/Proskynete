@@ -61,14 +61,20 @@ const handlerSliceArticles = (articles) => articles
     .join('\n');
 exports.handlerSliceArticles = handlerSliceArticles;
 const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, function* () {
+    var _a, _b, _c;
     try {
-        const { data } = yield axios_1.default.get(`${constants_1.BASE_URL.INSTAGRAM_API}?userid=${constants_1.INSTAGRAM.USER_ID}&first=${constants_1.COUNT.IMAGES}`, {
+        const { data } = yield axios_1.default.get(constants_1.BASE_URL.INSTAGRAM_API, {
+            params: {
+                user: constants_1.INSTAGRAM.USER_NAME,
+            },
             headers: {
-                'X-RapidAPI-Host': 'instagram130.p.rapidapi.com',
+                'X-RapidAPI-Host': 'instagram-scraper-2022.p.rapidapi.com',
                 'X-RapidAPI-Key': INSTAGRAM_API_KEY,
             },
         });
-        const images = data === null || data === void 0 ? void 0 : data.edges;
+        const images = (_c = (_b = (_a = data.data) === null || _a === void 0 ? void 0 : _a.user) === null || _b === void 0 ? void 0 : _b.edge_owner_to_timeline_media) === null || _c === void 0 ? void 0 : _c.edges;
+        console.log(data);
+        console.log(images);
         return (images &&
             images.map((image) => ({
                 shortcode: image.node.shortcode,

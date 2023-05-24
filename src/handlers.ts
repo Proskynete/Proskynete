@@ -66,17 +66,17 @@ export const handlerSliceArticles = (articles: Article[]): string =>
  */
 export const handlerGetInstagramImages = async (): Promise<InstagramImagesResponse[] | void> => {
 	try {
-		const { data } = await axios.get<InstagramApiResponse>(
-			`${BASE_URL.INSTAGRAM_API}?userid=${INSTAGRAM.USER_ID}&first=${COUNT.IMAGES}`,
-			{
-				headers: {
-					'X-RapidAPI-Host': 'instagram130.p.rapidapi.com',
-					'X-RapidAPI-Key': INSTAGRAM_API_KEY as string,
-				},
+		const { data } = await axios.get<InstagramApiResponse>(BASE_URL.INSTAGRAM_API, {
+			params: {
+				user: INSTAGRAM.USER_NAME,
 			},
-		);
+			headers: {
+				'X-RapidAPI-Host': 'instagram-scraper-2022.p.rapidapi.com',
+				'X-RapidAPI-Key': INSTAGRAM_API_KEY as string,
+			},
+		});
 
-		const images: InstagramNodeInterface[] = data?.edges;
+		const images: InstagramNodeInterface[] = data.data?.user?.edge_owner_to_timeline_media?.edges;
 
 		return (
 			images &&
