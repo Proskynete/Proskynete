@@ -13,10 +13,11 @@
 
 <p><strong>Sobre mi</strong></p>
 <ul>
-  <li>📍 Lampa, Santiago de Chile.</li>
+  <li>📍 Santiago de Chile.</li>
   <li>👨🏼‍💻 Tengo %{{years_old}}% años.</li>
   <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳🇨🇴🇵🇪</li>
-  <li>💻 Las tecnologías que realmente me apasionan son: React, Typescript y Dart.</li>
+  <li>💻 Las Tecnologías que realmente me apasionan son: React y Typescript.</li>
+  <li>🧐 Me generan mucho interés: a11y y AI</li>
 </ul>
 
 <p><strong>Hobbies</strong></p>
@@ -60,20 +61,3 @@
 </p>
 
 %{{articles}}%
-
---- 
-
-<p align="left"><strong>Créditos y agradecimientos públicos</strong></p>
-<ul>
-  <li>Animación desarrollada por:<a href="https://pibe.cl/" target='_blank'>pibe.cl</a></li>
-  <li>Inspiración y enseñanza:
-    <ul>
-      <li>
-        <a href="https://carlosazaustre.es/" target='_blank'>Carlos Azaustre</a>
-      </li>
-      <li>
-        <a href="https://midu.dev/" target='_blank'>Midudev</a>
-      </li>
-    </ul>
-  </li>
-</ul>
