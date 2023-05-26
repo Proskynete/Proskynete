@@ -86,12 +86,13 @@
   <strong>Sobre mi</strong>
 </p>
 <ul>
-  <li>📍 Lampa, Santiago de Chile.</li>
+  <li>📍 Santiago de Chile.</li>
   <li>👨🏼‍💻 Tengo 29 años.</li>
   <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳🇨🇴🇵🇪</li>
   <li>
-    💻 Las tecnologías que realmente me apasionan son: React, Typescript y Dart.
+    💻 Las Tecnologías que realmente me apasionan son: React y Typescript.
   </li>
+  <li>🧐 Me generan mucho interés: a11y y AI</li>
 </ul>
 
 <p>
@@ -132,47 +133,6 @@
   </strong>
 </p>
 
-<a href="https://instagram.com/p/CskJ5M4ACpx" target="_blank">
-  <img
-    src="https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/348246543_938746430673820_2179857044385951821_n.jpg?stp=c0.120.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=104&_nc_ohc=p1JpiHv_PEsAX_vGgo_&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzEwODY1MzE1NjA0NTY5NTYwMQ%3D%3D.2.c-ccb7-5&oh=00_AfC3ccvM5pEvq3lPyNrWaMKZBFST8aFuA_H5pOa7Xh3p_A&oe=64761018&_nc_sid=f4eaf9"
-    alt="Luego de 5 casi 6 años sin cortarme el pelo, hoy llego el momento Chan!! Wjsjsjsaj  A mi familia le gusto 🤣"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/CsBoUc3g5Ii" target="_blank">
-  <img
-    src="https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/345532788_1262112531060903_1803152386566123011_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=m6GYjI-5KQIAX-pK72b&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzA5ODkzNTM0NTg1MzczMTM2Mg%3D%3D.2.c-ccb7-5&oh=00_AfDsEiw03yxqd2GVWWh2gPn82UtaT-HD46atUcAXW7QhIQ&oe=6475008B&_nc_sid=f4eaf9"
-    alt="Desde las oficinas, el equipo de los teletubbidevs les manda buenos días 🌞"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/CqI5wdru-7b" target="_blank">
-  <img
-    src="https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/337327222_201976165795419_1125575247083917258_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=ZZ_-eRQB0psAX8Jq-Mn&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzA2NDk1MzU2NTQ4Mzg4ODM0Nw%3D%3D.2-ccb7-5&oh=00_AfAkQXObKD92MuTi0j5pkrKOB0UKkB9VxxSTDvElB3FD_A&oe=6474F3B5&_nc_sid=f4eaf9"
-    alt="Una nueva etapa, nuevos compañeros, nuevos desafíos… se viene con todo  @etpayoficial"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/Coe-9aaujax" target="_blank">
-  <img
-    src="https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/330214421_704824997766060_994139522448662799_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=100&_nc_ohc=koQSwhgvA08AX_uSmoz&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzAzNTE0MDA5ODAzMTc2MTA3Mw%3D%3D.2.c-ccb7-5&oh=00_AfC81043kgvH2NlHgS2z_ebXXFN9YGFge66HFE0iO4vDVg&oe=6474E4BF&_nc_sid=f4eaf9"
-    alt="Computador nuevo, empresa nueva… se vienen cositas nuevas ❤️"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/CoU0ICRuxm_" target="_blank">
-  <img
-    src="https://scontent-waw1-1.cdninstagram.com/v/t51.2885-15/329734593_717267019777990_404130072762870943_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=110&_nc_ohc=yK8eYdV35_kAX96uaJI&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzAzMjI3NzY5OTc0NjUzNTg3MQ%3D%3D.2-ccb7-5&oh=00_AfAqn7yqvusS7P3e1QeXywLkGitGH8CTzMgGJJWk_J2X1Q&oe=64754E51&_nc_sid=f4eaf9"
-    alt="Esta imagen fue una de mis preferidas, por lejos. El haber estado trabajando codo a codo con @nicoavila_a ha sido súper bkn, una persona humilde, que ha dado mucho y sigue dando mucho por la comunidad.  Eres una persona increíble Nico y nunca dejes de serlo 💪  Nos vemos en más eventos! que esto no para  #angulardeveloper #angularchile #reactjs #reactchile #developers #jsconfcl #jsconfchile"
-    width="150"
-    height="150"
-  />
-</a>
-
 ---
 
 <p align="left">
@@ -188,32 +148,3 @@
 - [El Javascript necesario para React - Parte 1](https://eduardoalvarez.dev/articulos/el-javascript-necesario-para-react-parte-1)
 - [Empezando en el desarrollo web](https://eduardoalvarez.dev/articulos/empezando-en-el-desarrollo-web)
 - [Introducción a JAMStack](https://eduardoalvarez.dev/articulos/introduccion-a-jamstack)
-
----
-
-<p align="left">
-  <strong>Créditos y agradecimientos públicos</strong>
-</p>
-<ul>
-  <li>
-    Animación desarrollada por:
-    <a href="https://pibe.cl/" target="_blank">
-      pibe.cl
-    </a>
-  </li>
-  <li>
-    Inspiración y enseñanza:
-    <ul>
-      <li>
-        <a href="https://carlosazaustre.es/" target="_blank">
-          Carlos Azaustre
-        </a>
-      </li>
-      <li>
-        <a href="https://midu.dev/" target="_blank">
-          Midudev
-        </a>
-      </li>
-    </ul>
-  </li>
-</ul>
