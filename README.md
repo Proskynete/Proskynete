@@ -135,7 +135,7 @@
 
 <a href="https://instagram.com/p/CskJ5M4ACpx" target="_blank">
   <img
-    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t51.2885-15/348246543_938746430673820_2179857044385951821_n.jpg?stp=c0.120.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=D-bm0OktsAIAX-DUjRk&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzEwODY1MzE1NjA0NTY5NTYwMQ%3D%3D.2.c-ccb7-5&oh=00_AfDWDjq_VbwcyzF574XRBBFdV8InOXywcfRRqobzOeApTA&oe=647DF918&_nc_sid=f4eaf9"
+    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t51.2885-15/348246543_938746430673820_2179857044385951821_n.jpg?stp=c0.120.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=mXRLyQXpf-IAX8nTxy7&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzEwODY1MzE1NjA0NTY5NTYwMQ%3D%3D.2.c-ccb7-5&oh=00_AfCyYp780HaTSge8F4U3g_oLqBj6B12koqIMLZfpJz4fbg&oe=6481ED98&_nc_sid=f4eaf9"
     alt="Luego de 5 casi 6 años sin cortarme el pelo, hoy llego el momento Chan!! Wjsjsjsaj  A mi familia le gusto 🤣"
     width="150"
     height="150"
@@ -143,7 +143,7 @@
 </a>
 <a href="https://instagram.com/p/CsBoUc3g5Ii" target="_blank">
   <img
-    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t51.2885-15/345532788_1262112531060903_1803152386566123011_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=1eu5AJnG0nIAX9EHPQ2&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzA5ODkzNTM0NTg1MzczMTM2Mg%3D%3D.2.c-ccb7-5&oh=00_AfAVLLhboytbri4Gn_eGjydA7CDZPX5_XVpE9OV9E7wIVg&oe=647EE3CB&_nc_sid=f4eaf9"
+    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t51.2885-15/345532788_1262112531060903_1803152386566123011_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_ng22nw4vG8AX_pJWiY&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzA5ODkzNTM0NTg1MzczMTM2Mg%3D%3D.2.c-ccb7-5&oh=00_AfDzsa7zG_pmG9mAYYXhfoiqNdq5BxflP7GwS-g-NrKEmw&oe=6482D84B&_nc_sid=f4eaf9"
     alt="Desde las oficinas, el equipo de los teletubbidevs les manda buenos días 🌞"
     width="150"
     height="150"
@@ -151,7 +151,7 @@
 </a>
 <a href="https://instagram.com/p/CqI5wdru-7b" target="_blank">
   <img
-    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t51.2885-15/337327222_201976165795419_1125575247083917258_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=2ZCq0NInTOAAX_FeCCB&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzA2NDk1MzU2NTQ4Mzg4ODM0Nw%3D%3D.2-ccb7-5&oh=00_AfAx4p6MM3_R-KUmfDkXTNy2ddw8pCc2OSVwHMUGnF5gew&oe=647ED6F5&_nc_sid=f4eaf9"
+    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t51.2885-15/337327222_201976165795419_1125575247083917258_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=wNLmD8IiZ-AAX-zVRfT&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzA2NDk1MzU2NTQ4Mzg4ODM0Nw%3D%3D.2-ccb7-5&oh=00_AfAlPYSTxrC6NcFdIAeVPpT7dAJjxuwqOq04w1e_hPOC0A&oe=6482CB75&_nc_sid=f4eaf9"
     alt="Una nueva etapa, nuevos compañeros, nuevos desafíos… se viene con todo  @etpayoficial"
     width="150"
     height="150"
@@ -159,7 +159,7 @@
 </a>
 <a href="https://instagram.com/p/Coe-9aaujax" target="_blank">
   <img
-    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t51.2885-15/330214421_704824997766060_994139522448662799_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=iyHlczj7wXAAX-v_ixq&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzAzNTE0MDA5ODAzMTc2MTA3Mw%3D%3D.2.c-ccb7-5&oh=00_AfDN3bDrDiy1zyJhjIckU3yt6zUMj6ZtWCVDD42MK7SRoQ&oe=647EC7FF&_nc_sid=f4eaf9"
+    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t51.2885-15/330214421_704824997766060_994139522448662799_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=VaJsKOFROfcAX8tV94p&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzAzNTE0MDA5ODAzMTc2MTA3Mw%3D%3D.2.c-ccb7-5&oh=00_AfDs8PKK2RQoaYVCEqJnz40pO-ltznv__eW1IJ8V_iqK9A&oe=6482BC7F&_nc_sid=f4eaf9"
     alt="Computador nuevo, empresa nueva… se vienen cositas nuevas ❤️"
     width="150"
     height="150"
@@ -167,7 +167,7 @@
 </a>
 <a href="https://instagram.com/p/CoU0ICRuxm_" target="_blank">
   <img
-    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t51.2885-15/329734593_717267019777990_404130072762870943_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=b46b1WAhIlsAX82Yknl&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzAzMjI3NzY5OTc0NjUzNTg3MQ%3D%3D.2-ccb7-5&oh=00_AfCB_iFc_NOR0p5L0wBGlNgVjMm8GqfAbzmcF-6GlYuQmg&oe=647F3191&_nc_sid=f4eaf9"
+    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t51.2885-15/329734593_717267019777990_404130072762870943_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=iR_JDZjyCjAAX95BVyq&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzAzMjI3NzY5OTc0NjUzNTg3MQ%3D%3D.2-ccb7-5&oh=00_AfDOD9QT-o-t597Pb2EgX2x69mRc29aeHXsmPUKeuti8ew&oe=64832611&_nc_sid=f4eaf9"
     alt="Esta imagen fue una de mis preferidas, por lejos. El haber estado trabajando codo a codo con @nicoavila_a ha sido súper bkn, una persona humilde, que ha dado mucho y sigue dando mucho por la comunidad.  Eres una persona increíble Nico y nunca dejes de serlo 💪  Nos vemos en más eventos! que esto no para  #angulardeveloper #angularchile #reactjs #reactchile #developers #jsconfcl #jsconfchile"
     width="150"
     height="150"
