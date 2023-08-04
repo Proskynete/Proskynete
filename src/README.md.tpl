@@ -16,8 +16,8 @@
   <li>📍 Chile.</li>
   <li>👨🏼‍💻 Tengo %{{years_old}}% años.</li>
   <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳🇨🇴🇵🇪</li>
-  <li>💻 Las Tecnologías que realmente me apasionan son: React y Typescript.</li>
-  <li>🧐 Me generan mucho interés: a11y y AI</li>
+  <li>💻 Las Tecnologías que realmente me apasionan son: React, Node, TS, Flutter.</li>
+  <li>🧐 Intereses: a11y y AI</li>
 </ul>
 
 <p><strong>Hobbies</strong></p>
@@ -40,6 +40,7 @@
       <li>cypress-cucumber-boilerplate (<a href="https://github.com/Proskynete/cypress-cucumber-boilerplate" target="_blank">repo</a>)</li>
     </ul>
   </li>
+  <li>⚛️ Pude participar como profesor en el curso de React en Coderhouse</li>
 </ul>
 
 ---
