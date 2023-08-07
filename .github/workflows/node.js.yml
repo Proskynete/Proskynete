@@ -55,4 +55,4 @@ jobs:
           git config user.email "soy@eduardoalvarez.dev"
           git add .
           git diff --quiet && git diff --staged --quiet || git commit -m "chore: [action] Update README with latest info"
-          git push origin master
+          git push origin main
