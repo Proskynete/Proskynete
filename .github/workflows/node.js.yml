@@ -2,7 +2,7 @@ name: '🚀 Update README.md'
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   workflow_dispatch:
   schedule:
     - cron: '0 8 * * mon,wed,fri'
