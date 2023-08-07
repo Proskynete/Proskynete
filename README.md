@@ -5,62 +5,62 @@
 
 <p align="center">
   <img
-					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/ts.png?raw=true'
+					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/ts.png?raw=true'
 					alt=Typescript
 					width='25'
 					height='25'
 				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/js.png?raw=true'
+					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/js.png?raw=true'
 					alt=Javascript
 					width='25'
 					height='25'
 				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/react.png?raw=true'
+					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/react.png?raw=true'
 					alt=React
 					width='25'
 					height='25'
 				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/redux.png?raw=true'
+					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/redux.png?raw=true'
 					alt=Redux
 					width='25'
 					height='25'
 				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/html5.png?raw=true'
+					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/html5.png?raw=true'
 					alt=HTML5
 					width='25'
 					height='25'
 				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/css3.png?raw=true'
+					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/css3.png?raw=true'
 					alt=CSS3
 					width='25'
 					height='25'
 				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/node.png?raw=true'
+					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/node.png?raw=true'
 					alt=Nodejs
 					width='25'
 					height='25'
 				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/mongodb.png?raw=true'
+					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/mongodb.png?raw=true'
 					alt=MongoDB
 					width='25'
 					height='25'
 				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/dart.png?raw=true'
+					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/dart.png?raw=true'
 					alt=Dart
 					width='25'
 					height='25'
 				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/flutter.png?raw=true'
+					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/flutter.png?raw=true'
 					alt=Flutter
 					width='25'
 					height='25'
 				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/aws.png?raw=true'
+					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/aws.png?raw=true'
 					alt=Amazon Web Services
 					width='25'
 					height='25'
 				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/master/images/icons/git.png?raw=true'
+					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/git.png?raw=true'
 					alt=Git
 					width='25'
 					height='25'
@@ -136,7 +136,7 @@
 
 <a href="https://instagram.com/p/Cum0mzxgL1t" target="_blank">
   <img
-    src="https://instagram.ffru4-1.fna.fbcdn.net/v/t39.30808-6/358620804_18370690906058371_5881264006162478980_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ffru4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ac3YHU9fD6gAX-gv11q&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE0NTQzMjc1NTExNDkxNzIyOQ%3D%3D.2.c-ccb7-5&oh=00_AfBcp7F6aHlhQuyozzwD2Th6X0pXffvhbYqsCpiKWX-nNQ&oe=64D12B52&_nc_sid=bc0c2c"
+    src="https://instagram.fcdg3-1.fna.fbcdn.net/v/t39.30808-6/358620804_18370690906058371_5881264006162478980_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fcdg3-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=nf3qO8cJidsAX-4hq5Q&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE0NTQzMjc1NTExNDkxNzIyOQ%3D%3D.2.c-ccb7-5&oh=00_AfCOLMrMXpZpbSa9PtarZiT6Eve2qdhiUMKRpjx7P_pJFg&oe=64D51FD2&_nc_sid=bc0c2c"
     alt="Nunca pensé en mi vida, tener todas las oportunidades que Dios me ha brindado a lo largo de mi carrera… agradecido❤️"
     width="150"
     height="150"
@@ -144,7 +144,7 @@
 </a>
 <a href="https://instagram.com/p/CskJ5M4ACpx" target="_blank">
   <img
-    src="https://instagram.ffru4-1.fna.fbcdn.net/v/t51.2885-15/348246543_938746430673820_2179857044385951821_n.jpg?stp=c0.120.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ffru4-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=qpm8pQryXq8AX_0oCiP&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzEwODY1MzE1NjA0NTY5NTYwMQ%3D%3D.2.c-ccb7-5&oh=00_AfCNwrt8sraFO4Qz5voZQeMhHM18wQCYKle5v_ORl_9Xwg&oe=64D301D8&_nc_sid=bc0c2c"
+    src="https://instagram.fcdg3-1.fna.fbcdn.net/v/t51.2885-15/348246543_938746430673820_2179857044385951821_n.jpg?stp=c0.120.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fcdg3-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=y1v1cSa10qkAX9xFHJj&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzEwODY1MzE1NjA0NTY5NTYwMQ%3D%3D.2.c-ccb7-5&oh=00_AfChcYGktaQhw1Pl_dQXc84aUXZGcsEOL21jmn4KZYde6w&oe=64D4FC18&_nc_sid=bc0c2c"
     alt="Luego de 5 casi 6 años sin cortarme el pelo, hoy llego el momento Chan!! Wjsjsjsaj  A mi familia le gusto 🤣"
     width="150"
     height="150"
@@ -152,7 +152,7 @@
 </a>
 <a href="https://instagram.com/p/CsBoUc3g5Ii" target="_blank">
   <img
-    src="https://instagram.ffru4-1.fna.fbcdn.net/v/t51.2885-15/345532788_1262112531060903_1803152386566123011_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ffru4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=tl3bK42W094AX-IgMGp&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzA5ODkzNTM0NTg1MzczMTM2Mg%3D%3D.2.c-ccb7-5&oh=00_AfBopiH75-d_X9D__iT8dzwQOkmLRitf-2OZoKhta1AOTg&oe=64D1F24B&_nc_sid=bc0c2c"
+    src="https://instagram.fcdg3-1.fna.fbcdn.net/v/t51.2885-15/345532788_1262112531060903_1803152386566123011_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fcdg3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=0wuOdb8YG4UAX-jMVkt&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzA5ODkzNTM0NTg1MzczMTM2Mg%3D%3D.2.c-ccb7-5&oh=00_AfClGxPgBWtHltGzNqkHvXuFDu0OpiB2tXHJyNYlhRqa0g&oe=64D5E6CB&_nc_sid=bc0c2c"
     alt="Desde las oficinas, el equipo de los teletubbidevs les manda buenos días 🌞"
     width="150"
     height="150"
@@ -160,7 +160,7 @@
 </a>
 <a href="https://instagram.com/p/CqI5wdru-7b" target="_blank">
   <img
-    src="https://instagram.ffru4-1.fna.fbcdn.net/v/t51.2885-15/337327222_201976165795419_1125575247083917258_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ffru4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=P8A_pIGCtO4AX-81l2d&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzA2NDk1MzU2NTQ4Mzg4ODM0Nw%3D%3D.2-ccb7-5&oh=00_AfBSIFyGHaSGSepsFYcUEacvqUKb6y8borkee00I5y-Juw&oe=64D1E575&_nc_sid=bc0c2c"
+    src="https://instagram.fcdg3-1.fna.fbcdn.net/v/t51.2885-15/337327222_201976165795419_1125575247083917258_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fcdg3-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=_NOk2iCZUUAAX9hzERm&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzA2NDk1MzU2NTQ4Mzg4ODM0Nw%3D%3D.2-ccb7-5&oh=00_AfArjSlKVq2lpD6qc7Rw-1CgkcLzWlm9_NxJOOF8uPvT2Q&oe=64D5D9F5&_nc_sid=bc0c2c"
     alt="Una nueva etapa, nuevos compañeros, nuevos desafíos… se viene con todo  @etpayoficial"
     width="150"
     height="150"
@@ -168,7 +168,7 @@
 </a>
 <a href="https://instagram.com/p/Coe-9aaujax" target="_blank">
   <img
-    src="https://instagram.ffru4-1.fna.fbcdn.net/v/t51.2885-15/330214421_704824997766060_994139522448662799_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ffru4-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=GX8r0uyRfcIAX_w7CRA&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzAzNTE0MDA5ODAzMTc2MTA3Mw%3D%3D.2.c-ccb7-5&oh=00_AfAKh5akNovxMDUYKiwdjrTKojrfOh4eW7NjNYaZa8vTtA&oe=64D1D67F&_nc_sid=bc0c2c"
+    src="https://instagram.fcdg3-1.fna.fbcdn.net/v/t51.2885-15/330214421_704824997766060_994139522448662799_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fcdg3-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=xdw4wfv6x2gAX8e2R6M&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzAzNTE0MDA5ODAzMTc2MTA3Mw%3D%3D.2.c-ccb7-5&oh=00_AfCLgxcXcUMFxMif6m-kmByOQ_khDHwI5NIB1q2vPQb6ww&oe=64D5CAFF&_nc_sid=bc0c2c"
     alt="Computador nuevo, empresa nueva… se vienen cositas nuevas ❤️"
     width="150"
     height="150"
