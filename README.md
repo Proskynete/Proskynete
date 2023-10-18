@@ -136,7 +136,7 @@
 
 <a href="https://instagram.com/p/Cw_Ll0nAjVd" target="_blank">
   <img
-    src="https://scontent-fra3-2.cdninstagram.com/v/t39.30808-6/376789327_18382036558058371_4292152160041872943_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_cat=107&_nc_ohc=rtu8bizeirsAX8qYOJm&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE4ODMxODAzODgyMjg5Mjg5Mw%3D%3D.2.c-ccb7-5&oh=00_AfBZhXgx4AMANSkSSw4_JdWS3bqag6GTuVVkiSRR8iRHXA&oe=65327F83&_nc_sid=bc0c2c"
+    src="https://scontent-ams4-1.cdninstagram.com/v/t39.30808-6/376789327_18382036558058371_4292152160041872943_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=yobIaR7GJDsAX-wu2-l&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE4ODMxODAzODgyMjg5Mjg5Mw%3D%3D.2.c-ccb7-5&oh=00_AfAHClxZx0W1NYRvlcVaG2Pbn4UR895pMkycBzpQRvtFzw&oe=653479C3&_nc_sid=bc0c2c"
     alt="Los primeros 3 puntos! Que grande ❤️❤️"
     width="150"
     height="150"
@@ -144,7 +144,7 @@
 </a>
 <a href="https://instagram.com/p/CwDd_mnA6Nj" target="_blank">
   <img
-    src="https://scontent-fra3-2.cdninstagram.com/v/t39.30808-6/367731039_18377627677058371_9070745662309363721_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_cat=107&_nc_ohc=OMCd-MC9Ck4AX8nmOeq&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE3MTUxMDQ3NjczMTU1NjcwNw%3D%3D.2.c-ccb7-5&oh=00_AfAgHsf7NACdq9WhNYysDduzgjtXsbRZGLThD82mFA9VgA&oe=6531296E&_nc_sid=bc0c2c"
+    src="https://scontent-ams4-1.cdninstagram.com/v/t39.30808-6/367731039_18377627677058371_9070745662309363721_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=OMCd-MC9Ck4AX88TVXb&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE3MTUxMDQ3NjczMTU1NjcwNw%3D%3D.2.c-ccb7-5&oh=00_AfCTdbT92EIiFMlXLzRU6TR2_604BR-jx4hUPVmfJDg3yg&oe=65351DEE&_nc_sid=bc0c2c"
     alt=""
     width="150"
     height="150"
@@ -152,7 +152,7 @@
 </a>
 <a href="https://instagram.com/p/Cum0mzxgL1t" target="_blank">
   <img
-    src="https://scontent-fra3-2.cdninstagram.com/v/t39.30808-6/358620804_18370690906058371_5881264006162478980_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_cat=107&_nc_ohc=4CaB7tc-5DUAX-VeAQj&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE0NTQzMjc1NTExNDkxNzIyOQ%3D%3D.2.c-ccb7-5&oh=00_AfAePjnZfvmkGLbWhKzuoRdxkttVUzU3968wqJkHoR1jZw&oe=65321192&_nc_sid=bc0c2c"
+    src="https://scontent-ams4-1.cdninstagram.com/v/t39.30808-6/358620804_18370690906058371_5881264006162478980_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=e0_-T7NdbdsAX-mv0Y2&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE0NTQzMjc1NTExNDkxNzIyOQ%3D%3D.2.c-ccb7-5&oh=00_AfArlzOwVPpLcXQ0VjBS3coclBQmYE9qlfYlEhGjCAHozA&oe=65340BD2&_nc_sid=bc0c2c"
     alt="Nunca pensé en mi vida, tener todas las oportunidades que Dios me ha brindado a lo largo de mi carrera… agradecido❤️"
     width="150"
     height="150"
@@ -160,7 +160,7 @@
 </a>
 <a href="https://instagram.com/p/CskJ5M4ACpx" target="_blank">
   <img
-    src="https://scontent-fra3-2.cdninstagram.com/v/t51.2885-15/348246543_938746430673820_2179857044385951821_n.jpg?stp=c0.120.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_cat=104&_nc_ohc=eX7n8wjEXjsAX8voPsr&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzEwODY1MzE1NjA0NTY5NTYwMQ%3D%3D.2.c-ccb7-5&oh=00_AfCsxsYKJmUfqYdodG7k5qM_6gm0ebY0kovMI3OsiSZj5Q&oe=6531EDD8&_nc_sid=bc0c2c"
+    src="https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/348246543_938746430673820_2179857044385951821_n.jpg?stp=c0.120.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=eX7n8wjEXjsAX_oSghR&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzEwODY1MzE1NjA0NTY5NTYwMQ%3D%3D.2.c-ccb7-5&oh=00_AfDVIFbBKBXZQNK4bbPAJQLN8uEM8YpkZMNjr8VoaTrASQ&oe=6533E818&_nc_sid=bc0c2c"
     alt="Luego de 5 casi 6 años sin cortarme el pelo, hoy llego el momento Chan!! Wjsjsjsaj  A mi familia le gusto 🤣"
     width="150"
     height="150"
@@ -168,7 +168,7 @@
 </a>
 <a href="https://instagram.com/p/CsBoUc3g5Ii" target="_blank">
   <img
-    src="https://scontent-fra3-1.cdninstagram.com/v/t51.2885-15/345532788_1262112531060903_1803152386566123011_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=m_EthyAOfkMAX8gVsQZ&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzA5ODkzNTM0NTg1MzczMTM2Mg%3D%3D.2.c-ccb7-5&oh=00_AfCOCIeu_N2UTk6AMAsJTAJInoAEKEIz6NWk_cxGgU7rUA&oe=6532D88B&_nc_sid=bc0c2c"
+    src="https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/345532788_1262112531060903_1803152386566123011_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-ams4-1.cdninstagram.com&_nc_cat=103&_nc_ohc=cVx1EuR20ZkAX9I3UsK&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzA5ODkzNTM0NTg1MzczMTM2Mg%3D%3D.2.c-ccb7-5&oh=00_AfDz46p4-lAdkeltZBHJF7EuEKhcoLzHonjV58dIumxJng&oe=6534D2CB&_nc_sid=bc0c2c"
     alt="Desde las oficinas, el equipo de los teletubbidevs les manda buenos días 🌞"
     width="150"
     height="150"
