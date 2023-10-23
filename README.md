@@ -134,9 +134,17 @@
   </strong>
 </p>
 
+<a href="https://instagram.com/p/CypIPIogXVI" target="_blank">
+  <img
+    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/394535818_18389674027058371_8710224513886780496_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=QtrMO3VJZfQAX9-Vwis&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIxODEzOTYzMzE2NjY3NzMyMA%3D%3D.2.c-ccb7-5&oh=00_AfD_TbsjXZW-chz7DQuZ7EvHlabPHuE55HdtwBmgI-o6TQ&oe=653A355D&_nc_sid=bc0c2c"
+    alt="Mi cholito está feliz ❤️❤️❤️❤️"
+    width="150"
+    height="150"
+  />
+</a>
 <a href="https://instagram.com/p/Cw_Ll0nAjVd" target="_blank">
   <img
-    src="https://instagram.fwaw7-1.fna.fbcdn.net/v/t39.30808-6/376789327_18382036558058371_4292152160041872943_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fwaw7-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=yobIaR7GJDsAX8heAKM&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE4ODMxODAzODgyMjg5Mjg5Mw%3D%3D.2.c-ccb7-5&oh=00_AfAg6x9I_eEXF9RKcNDRdPEq9aYGxgh_VRNAb6UZO67yWw&oe=65367403&_nc_sid=bc0c2c"
+    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/376789327_18382036558058371_4292152160041872943_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BQn0LkT8YaUAX8nJRDj&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE4ODMxODAzODgyMjg5Mjg5Mw%3D%3D.2.c-ccb7-5&oh=00_AfACbwNZlOgWSZvo_RyJT2qo58oEHe8OoijbsexunoFZ6w&oe=653A6883&_nc_sid=bc0c2c"
     alt="Los primeros 3 puntos! Que grande ❤️❤️"
     width="150"
     height="150"
@@ -144,7 +152,7 @@
 </a>
 <a href="https://instagram.com/p/CwDd_mnA6Nj" target="_blank">
   <img
-    src="https://instagram.fwaw7-1.fna.fbcdn.net/v/t39.30808-6/367731039_18377627677058371_9070745662309363721_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fwaw7-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Y-HaeVUgpJ0AX_qHuPK&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE3MTUxMDQ3NjczMTU1NjcwNw%3D%3D.2.c-ccb7-5&oh=00_AfADFnbxUjY1tZO72TU7P_QWb43yN8DE_qnOX6RFATZ7BA&oe=6537182E&_nc_sid=bc0c2c"
+    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/367731039_18377627677058371_9070745662309363721_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=eJ1Ph_32LLYAX_p1sJf&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE3MTUxMDQ3NjczMTU1NjcwNw%3D%3D.2.c-ccb7-5&oh=00_AfBSUWwMtQsC9BZ4osK2x0IRKhSWB_ySgqWgyQa3OKZwVA&oe=653B0CAE&_nc_sid=bc0c2c"
     alt=""
     width="150"
     height="150"
@@ -152,7 +160,7 @@
 </a>
 <a href="https://instagram.com/p/Cum0mzxgL1t" target="_blank">
   <img
-    src="https://instagram.fwaw7-1.fna.fbcdn.net/v/t39.30808-6/358620804_18370690906058371_5881264006162478980_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fwaw7-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=K6mkElVyJTkAX_1B_LH&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE0NTQzMjc1NTExNDkxNzIyOQ%3D%3D.2.c-ccb7-5&oh=00_AfBLqEFG9djdzW0BQNOG06HDLxZkLmtihLbvj1DSFaPVmg&oe=65380052&_nc_sid=bc0c2c"
+    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/358620804_18370690906058371_5881264006162478980_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=0iOsCuO-xlgAX_2iO2t&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE0NTQzMjc1NTExNDkxNzIyOQ%3D%3D.2.c-ccb7-5&oh=00_AfAxsFd9Xab64VumzfVe0_EH1UjnddVR8gsdJ0oxDmzeDg&oe=653BF4D2&_nc_sid=bc0c2c"
     alt="Nunca pensé en mi vida, tener todas las oportunidades que Dios me ha brindado a lo largo de mi carrera… agradecido❤️"
     width="150"
     height="150"
@@ -160,16 +168,8 @@
 </a>
 <a href="https://instagram.com/p/CskJ5M4ACpx" target="_blank">
   <img
-    src="https://instagram.fwaw7-1.fna.fbcdn.net/v/t51.2885-15/348246543_938746430673820_2179857044385951821_n.jpg?stp=c0.120.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fwaw7-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=jZt9hgKmtSQAX_ITRy6&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzEwODY1MzE1NjA0NTY5NTYwMQ%3D%3D.2.c-ccb7-5&oh=00_AfBDeH4KNJCc7FTBztBKfuPFfV80plIwlSsiUvMy-rgSsg&oe=6537DC98&_nc_sid=bc0c2c"
+    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t51.2885-15/348246543_938746430673820_2179857044385951821_n.jpg?stp=c0.120.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=1HS_9T395G8AX_7SyiA&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzEwODY1MzE1NjA0NTY5NTYwMQ%3D%3D.2.c-ccb7-5&oh=00_AfCMt1hdn4hHOMfLn0qDQAyfBt0mgp-ueHrT6iUrjkpjuw&oe=653BD118&_nc_sid=bc0c2c"
     alt="Luego de 5 casi 6 años sin cortarme el pelo, hoy llego el momento Chan!! Wjsjsjsaj  A mi familia le gusto 🤣"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/CsBoUc3g5Ii" target="_blank">
-  <img
-    src="https://instagram.fwaw7-1.fna.fbcdn.net/v/t51.2885-15/345532788_1262112531060903_1803152386566123011_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fwaw7-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=Y2xqyQdjuXIAX9sJigC&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzA5ODkzNTM0NTg1MzczMTM2Mg%3D%3D.2.c-ccb7-5&oh=00_AfBJTylNE6bi28LjECtI0cpkDWYNgolgRz5r8rWcZyHt6Q&oe=6536CD0B&_nc_sid=bc0c2c"
-    alt="Desde las oficinas, el equipo de los teletubbidevs les manda buenos días 🌞"
     width="150"
     height="150"
   />
