@@ -64,6 +64,11 @@
 					alt=Git
 					width='25'
 					height='25'
+				/> <img
+					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/firebase.png?raw=true'
+					alt=Firebase
+					width='25'
+					height='25'
 				/>
 </p>
 
@@ -110,8 +115,9 @@
 <p><strong>Otros</strong></p>
 <ul>
   <li>🧳 Nómada digital.</li>
-  <li>🍺 Nunca es un mal momento para hacer un espacio en la semana y tomar una cerveza con los amigos.</li>
-  <li>📚 Estudiando Go lang, Python e Inglés.</li>
+  <li>🍺 Siempre es un buen momento para hacer un espacio en la semana y tomar una cerveza con los amigos.</li>
+  <li>📚 Estudiando Python e Inglés.</li>
+  <li>👉 Voluntario en JSConf Chile.</li>
   <li>⭐ Tengo algunos proyectos open source que pueden ser de utilidad para la comunidad:</li>
     <ul>
       <li>vertical-timeline-component-react <small>v4.4.1</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repo</a>)</li>
@@ -136,7 +142,7 @@
 
 <a href="https://instagram.com/p/CypIPIogXVI" target="_blank">
   <img
-    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/394535818_18389674027058371_8710224513886780496_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=QtrMO3VJZfQAX9-Vwis&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIxODEzOTYzMzE2NjY3NzMyMA%3D%3D.2.c-ccb7-5&oh=00_AfD_TbsjXZW-chz7DQuZ7EvHlabPHuE55HdtwBmgI-o6TQ&oe=653A355D&_nc_sid=bc0c2c"
+    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t39.30808-6/394535818_18389674027058371_8710224513886780496_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=QtrMO3VJZfQAX_hf2Mk&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIxODEzOTYzMzE2NjY3NzMyMA%3D%3D.2.c-ccb7-5&oh=00_AfC4KAQqDOshBni8HBDBFl6vC0XCzM3zR_nOgphIpSeWbw&oe=653C2F9D&_nc_sid=bc0c2c"
     alt="Mi cholito está feliz ❤️❤️❤️❤️"
     width="150"
     height="150"
@@ -144,7 +150,7 @@
 </a>
 <a href="https://instagram.com/p/Cw_Ll0nAjVd" target="_blank">
   <img
-    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/376789327_18382036558058371_4292152160041872943_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BQn0LkT8YaUAX8nJRDj&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE4ODMxODAzODgyMjg5Mjg5Mw%3D%3D.2.c-ccb7-5&oh=00_AfACbwNZlOgWSZvo_RyJT2qo58oEHe8OoijbsexunoFZ6w&oe=653A6883&_nc_sid=bc0c2c"
+    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t39.30808-6/376789327_18382036558058371_4292152160041872943_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BQn0LkT8YaUAX_VUKWC&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE4ODMxODAzODgyMjg5Mjg5Mw%3D%3D.2.c-ccb7-5&oh=00_AfBmZtQ4ofBkbF7Fq-_rlGO7OIozhe6p-sfXySF2YcD_eA&oe=653C62C3&_nc_sid=bc0c2c"
     alt="Los primeros 3 puntos! Que grande ❤️❤️"
     width="150"
     height="150"
@@ -152,7 +158,7 @@
 </a>
 <a href="https://instagram.com/p/CwDd_mnA6Nj" target="_blank">
   <img
-    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/367731039_18377627677058371_9070745662309363721_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=eJ1Ph_32LLYAX_p1sJf&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE3MTUxMDQ3NjczMTU1NjcwNw%3D%3D.2.c-ccb7-5&oh=00_AfBSUWwMtQsC9BZ4osK2x0IRKhSWB_ySgqWgyQa3OKZwVA&oe=653B0CAE&_nc_sid=bc0c2c"
+    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t39.30808-6/367731039_18377627677058371_9070745662309363721_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=eJ1Ph_32LLYAX9juA6O&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE3MTUxMDQ3NjczMTU1NjcwNw%3D%3D.2.c-ccb7-5&oh=00_AfAMG_v7sTiKlHBVjTYB-oSGSD0lQGnzSQPo-cAAgwGuGw&oe=653B0CAE&_nc_sid=bc0c2c"
     alt=""
     width="150"
     height="150"
@@ -160,7 +166,7 @@
 </a>
 <a href="https://instagram.com/p/Cum0mzxgL1t" target="_blank">
   <img
-    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/358620804_18370690906058371_5881264006162478980_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=0iOsCuO-xlgAX_2iO2t&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE0NTQzMjc1NTExNDkxNzIyOQ%3D%3D.2.c-ccb7-5&oh=00_AfAxsFd9Xab64VumzfVe0_EH1UjnddVR8gsdJ0oxDmzeDg&oe=653BF4D2&_nc_sid=bc0c2c"
+    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t39.30808-6/358620804_18370690906058371_5881264006162478980_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=0iOsCuO-xlgAX-twY9l&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE0NTQzMjc1NTExNDkxNzIyOQ%3D%3D.2.c-ccb7-5&oh=00_AfAC0CCnqBGg-lEvB9y2_4IGvIc1FArEabpBxbSpGtd87g&oe=653BF4D2&_nc_sid=bc0c2c"
     alt="Nunca pensé en mi vida, tener todas las oportunidades que Dios me ha brindado a lo largo de mi carrera… agradecido❤️"
     width="150"
     height="150"
@@ -168,7 +174,7 @@
 </a>
 <a href="https://instagram.com/p/CskJ5M4ACpx" target="_blank">
   <img
-    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t51.2885-15/348246543_938746430673820_2179857044385951821_n.jpg?stp=c0.120.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=1HS_9T395G8AX_7SyiA&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzEwODY1MzE1NjA0NTY5NTYwMQ%3D%3D.2.c-ccb7-5&oh=00_AfCMt1hdn4hHOMfLn0qDQAyfBt0mgp-ueHrT6iUrjkpjuw&oe=653BD118&_nc_sid=bc0c2c"
+    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t51.2885-15/348246543_938746430673820_2179857044385951821_n.jpg?stp=c0.120.960.960a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=1HS_9T395G8AX8uVXJI&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzEwODY1MzE1NjA0NTY5NTYwMQ%3D%3D.2.c-ccb7-5&oh=00_AfA1MrVPoICORBX3RMikY_i_OnuS-f6yAFwocy1hwBd2Fw&oe=653BD118&_nc_sid=bc0c2c"
     alt="Luego de 5 casi 6 años sin cortarme el pelo, hoy llego el momento Chan!! Wjsjsjsaj  A mi familia le gusto 🤣"
     width="150"
     height="150"

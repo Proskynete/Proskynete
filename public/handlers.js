@@ -124,6 +124,7 @@ const handleGetTechnologies = () => {
         { file_name: 'flutter', technology: 'Flutter' },
         { file_name: 'aws', technology: 'Amazon Web Services' },
         { file_name: 'git', technology: 'Git' },
+        { file_name: 'firebase', technology: 'Firebase' },
     ];
     return _array
         .map(({ file_name, technology }) => `<img
