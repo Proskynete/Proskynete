@@ -142,7 +142,7 @@
 
 <a href="https://instagram.com/p/Cy9hdsUIuxt" target="_blank">
   <img
-    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/396158910_17879972402967311_8682112862063658116_n.jpg?stp=c204.0.1031.1031a_dst-jpg_e15_s640x640&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=WNpUWUGiOjsAX-CpTFU&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIyMzg4MDA4NDI0OTMwODI2OQ%3D%3D.2.c-ccb7-5&oh=00_AfDxE9idhLqSZQCx45sbszUPX60QXv_YQbK5Hxyug-EXLA&oe=654A5544&_nc_sid=bc0c2c"
+    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/396158910_17879972402967311_8682112862063658116_n.jpg?stp=c204.0.1031.1031a_dst-jpg_e15_s640x640&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=3RlWa7deRDYAX9eena6&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIyMzg4MDA4NDI0OTMwODI2OQ%3D%3D.2.c-ccb7-5&oh=00_AfCedDyUasuIbQP5f01rva3zP21Rz6C_Bbd2hSXpheH9vg&oe=654E49C4&_nc_sid=bc0c2c"
     alt="🎉 ¡Y así concluye TechSchool! 🚀   Queremos expresar nuestro más profundo agradecimiento a todos los asistentes que hicieron de este evento algo verdaderamente especial. La energía, las ganas de aprender y la comunidad en acción son lo que nos impulsa a seguir organizando eventos como este. ❤️👩‍💻👨‍💻  Ya estamos ansiosos por el próximo encuentro. ¡Hasta pronto y sigamos construyendo juntos esta increíble comunidad! 🤗🌟  Agradecimientos para: 👨‍🏫 👩‍🏫 Nuestros mentores Francisca Medina Concha Alfonsina Lizardo 👾 Eduardo Álvarez Castañeda Gonzalo Fleming Garrido  🏢 Al equipo de JSCHILE.ORG en terreno @hubprovidencia @diruzcode @_benjvvp @fabianko @panchocorderos 🚀  🏡 Equipo online:  @fforres @pillilii @dereemii   Síguenos en todas nuestras redes en el link de nuestra bio ⭐️  #TechSchool #Gracias #ComunidadJSChile #HastaPronto"
     width="150"
     height="150"
@@ -150,7 +150,7 @@
 </a>
 <a href="https://instagram.com/p/CypIPIogXVI" target="_blank">
   <img
-    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/394535818_18389674027058371_8710224513886780496_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=VOaX7puM9hQAX8yDxAk&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIxODEzOTYzMzE2NjY3NzMyMA%3D%3D.2.c-ccb7-5&oh=00_AfAF4_U6EDz6fnjGS03ty-gMFVzV6VcnrTAnmmMMfWXf2Q&oe=654A075D&_nc_sid=bc0c2c"
+    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/394535818_18389674027058371_8710224513886780496_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ubRBrVxK-xMAX_jOcrv&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIxODEzOTYzMzE2NjY3NzMyMA%3D%3D.2.c-ccb7-5&oh=00_AfBiQwa7BLdDxA9Gg2kUxkQpkR8lIM_bLSrDKaPqgkQyyg&oe=654DFBDD&_nc_sid=bc0c2c"
     alt="Mi cholito está feliz ❤️❤️❤️❤️"
     width="150"
     height="150"
@@ -158,7 +158,7 @@
 </a>
 <a href="https://instagram.com/p/Cw_Ll0nAjVd" target="_blank">
   <img
-    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/376789327_18382036558058371_4292152160041872943_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=6dCW_aoBkAAAX80Oigg&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE4ODMxODAzODgyMjg5Mjg5Mw%3D%3D.2.c-ccb7-5&oh=00_AfAAEn40v6WOcosJJbVoyTy69kCTUO3Xl33MLXgRSFKBCQ&oe=654A3A83&_nc_sid=bc0c2c"
+    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/376789327_18382036558058371_4292152160041872943_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=rrds58QjROQAX_Zhmx3&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE4ODMxODAzODgyMjg5Mjg5Mw%3D%3D.2.c-ccb7-5&oh=00_AfAtbyo3gl7I15mTQVEWCVORVw9zCzo_petEZUGX6ecwXw&oe=654E2F03&_nc_sid=bc0c2c"
     alt="Los primeros 3 puntos! Que grande ❤️❤️"
     width="150"
     height="150"
@@ -166,7 +166,7 @@
 </a>
 <a href="https://instagram.com/p/CwDd_mnA6Nj" target="_blank">
   <img
-    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/367731039_18377627677058371_9070745662309363721_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=fZW4Q290bWAAX_BDRCX&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE3MTUxMDQ3NjczMTU1NjcwNw%3D%3D.2.c-ccb7-5&oh=00_AfAg-EQxc1y8pSdi4CF2gGtB82z4e9-gMh-1eyPqjeejTw&oe=6548E46E&_nc_sid=bc0c2c"
+    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/367731039_18377627677058371_9070745662309363721_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=kF9CU4wNp0sAX-omcGk&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE3MTUxMDQ3NjczMTU1NjcwNw%3D%3D.2.c-ccb7-5&oh=00_AfA3VQRLEdJg3C-90i7uCRpdEtop4tRPqU0bA5kC9BA5pg&oe=654CD8EE&_nc_sid=bc0c2c"
     alt=""
     width="150"
     height="150"
@@ -174,7 +174,7 @@
 </a>
 <a href="https://instagram.com/p/Cum0mzxgL1t" target="_blank">
   <img
-    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/358620804_18370690906058371_5881264006162478980_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=E9zhSCgmQlAAX-7P55R&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE0NTQzMjc1NTExNDkxNzIyOQ%3D%3D.2.c-ccb7-5&oh=00_AfBfe8q2b-STQIQNDQIxwzTbVoG4BsifXPCI-5LHw_uaLA&oe=6549CC92&_nc_sid=bc0c2c"
+    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/358620804_18370690906058371_5881264006162478980_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=kXaOfwl6GiEAX9bjIBj&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzE0NTQzMjc1NTExNDkxNzIyOQ%3D%3D.2.c-ccb7-5&oh=00_AfCgfzTdDEeC1gnuwS3bvDjfmkZeamfW_LKbQxbR5wDvTw&oe=654DC112&_nc_sid=bc0c2c"
     alt="Nunca pensé en mi vida, tener todas las oportunidades que Dios me ha brindado a lo largo de mi carrera… agradecido❤️"
     width="150"
     height="150"
