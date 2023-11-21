@@ -112,12 +112,20 @@
   <li>👾 Jugar videojuegos</li>
 </ul>
 
+<p>
+  <strong>Voluntariados</strong>
+</p>
+<ul>
+  <li>Volunteer Staff - JSConf Chile</li>
+  <li>Job search preparation - Laboratoria</li>
+  <li>Conseguir trabajo en TI - JavaScript Chile</li>
+</ul>
+
 <p><strong>Otros</strong></p>
 <ul>
   <li>🧳 Nómada digital.</li>
   <li>🍺 Siempre es un buen momento para hacer un espacio en la semana y tomar una cerveza con los amigos.</li>
   <li>📚 Estudiando Python e Inglés.</li>
-  <li>👉 Voluntario en JSConf Chile.</li>
   <li>⭐ Tengo algunos proyectos open source que pueden ser de utilidad para la comunidad:</li>
     <ul>
       <li>vertical-timeline-component-react <small>v4.4.1</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repo</a>)</li>
@@ -142,7 +150,7 @@
 
 <a href="https://instagram.com/p/Cz0YlL1AAe_" target="_blank">
   <img
-    src="https://scontent-waw1-1.cdninstagram.com/v/t39.30808-6/403200363_18395440663058371_9132060762854505125_n.jpg?stp=c0.112.897.897a_dst-jpg_e15_s640x640&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=107&_nc_ohc=q_Wz8Ru5LyAAX-dTaIE&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzOTMyMjE0MDQyMzQ4OTQ3MQ%3D%3D.2.c-ccb7-5&oh=00_AfBcq4RLjPrQXiMn4-UpnLXJ3_tWtRVISAqNL-HJrmFfuQ&oe=6560989C&_nc_sid=bc0c2c"
+    src="https://instagram.fevn6-5.fna.fbcdn.net/v/t39.30808-6/403200363_18395440663058371_9132060762854505125_n.jpg?stp=c0.112.897.897a_dst-jpg_e15_s640x640&_nc_ht=instagram.fevn6-5.fna.fbcdn.net&_nc_cat=107&_nc_ohc=89vBqqLA9KYAX9gH7Ck&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzOTMyMjE0MDQyMzQ4OTQ3MQ%3D%3D.2.c-ccb7-5&oh=00_AfARjk5so_Se2TWRGSGrFx6DPTsWb03xrdC1VLiieRobDQ&oe=656292DC&_nc_sid=bc0c2c"
     alt="Que lindo fue poder verte y estar un ratito contigo! Fue muy random el cómo nos conocimos hace más o menos 1 año y medio, y hoy, luego de mucho tiempo, por fin pudimos juntarnos ❤️ Espero que para la próxima, podamos estar más tiempo juntos, hasta el próximo viaje 🫰🏻"
     width="150"
     height="150"
@@ -150,7 +158,7 @@
 </a>
 <a href="https://instagram.com/p/CzoxfSpA8j7" target="_blank">
   <img
-    src="https://scontent-waw1-1.cdninstagram.com/v/t39.30808-6/400604772_18394572928058371_70677843358975347_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=107&_nc_ohc=u0TfWW7iFUoAX-a1W1Z&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzNjA1Mzk4Njg2Mzk5MTAzNQ%3D%3D.2.c-ccb7-5&oh=00_AfCsLDQ7iStaDyytFtftXCqsChs9o5_cGW46fP6YfcBl4w&oe=655F8257&_nc_sid=bc0c2c"
+    src="https://instagram.fevn6-5.fna.fbcdn.net/v/t39.30808-6/400604772_18394572928058371_70677843358975347_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fevn6-5.fna.fbcdn.net&_nc_cat=107&_nc_ohc=u0TfWW7iFUoAX8J3nsC&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzNjA1Mzk4Njg2Mzk5MTAzNQ%3D%3D.2.c-ccb7-5&oh=00_AfD4t6M7zek0Z_3mDyS2bBlCpROjOEfoKU9WjjJ5AbEqlA&oe=65617C97&_nc_sid=bc0c2c"
     alt="Gracias JS??  Que lindo que es Medellín ❤️❤️"
     width="150"
     height="150"
@@ -158,7 +166,7 @@
 </a>
 <a href="https://instagram.com/p/CzjQIe7g3Z0" target="_blank">
   <img
-    src="https://scontent-waw1-1.cdninstagram.com/v/t39.30808-6/400808304_18394140784058371_499473468581646816_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=107&_nc_ohc=IwxahhnqQ04AX-NJzdn&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzNDQ5OTkwOTA5Mjg2NTY1Mg%3D%3D.2-ccb7-5&oh=00_AfCkREhlVgFOFHLEJ-ykzBKp_k-spRiXy1ETa7mimqGUPQ&oe=65602A67&_nc_sid=bc0c2c"
+    src="https://instagram.fevn6-5.fna.fbcdn.net/v/t39.30808-6/400808304_18394140784058371_499473468581646816_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fevn6-5.fna.fbcdn.net&_nc_cat=107&_nc_ohc=IwxahhnqQ04AX8ZURzM&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzNDQ5OTkwOTA5Mjg2NTY1Mg%3D%3D.2-ccb7-5&oh=00_AfBDeCotUZIZ6oxf1r9wHeYrlAdeGIcXjfPxZf6ZVRepDQ&oe=656224A7&_nc_sid=bc0c2c"
     alt="Y bueno, si me retrasan el vuelo, que mas puedo hacer? 🫢"
     width="150"
     height="150"
@@ -166,7 +174,7 @@
 </a>
 <a href="https://instagram.com/p/Cy9hdsUIuxt" target="_blank">
   <img
-    src="https://scontent-waw1-1.cdninstagram.com/v/t39.30808-6/396158910_17879972402967311_8682112862063658116_n.jpg?stp=c204.0.1031.1031a_dst-jpg_e15_s640x640&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=111&_nc_ohc=TTF85YVjnQAAX8ep5AC&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIyMzg4MDA4NDI0OTMwODI2OQ%3D%3D.2.c-ccb7-5&oh=00_AfAfDZ7OGPviGvY0EJi9u6ENYCw7-38YiRiOs2J46bt8Lw&oe=65601604&_nc_sid=bc0c2c"
+    src="https://instagram.fevn6-4.fna.fbcdn.net/v/t39.30808-6/396158910_17879972402967311_8682112862063658116_n.jpg?stp=c204.0.1031.1031a_dst-jpg_e15_s640x640&_nc_ht=instagram.fevn6-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=U4kCjnHaJwYAX8SYZp6&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIyMzg4MDA4NDI0OTMwODI2OQ%3D%3D.2.c-ccb7-5&oh=00_AfCdqMGNO8hwidWOzCsHIG0dZzVQ8PK45K89NFoNGiEvVQ&oe=65621044&_nc_sid=bc0c2c"
     alt="🎉 ¡Y así concluye TechSchool! 🚀   Queremos expresar nuestro más profundo agradecimiento a todos los asistentes que hicieron de este evento algo verdaderamente especial. La energía, las ganas de aprender y la comunidad en acción son lo que nos impulsa a seguir organizando eventos como este. ❤️👩‍💻👨‍💻  Ya estamos ansiosos por el próximo encuentro. ¡Hasta pronto y sigamos construyendo juntos esta increíble comunidad! 🤗🌟  Agradecimientos para: 👨‍🏫 👩‍🏫 Nuestros mentores Francisca Medina Concha Alfonsina Lizardo 👾 Eduardo Álvarez Castañeda Gonzalo Fleming Garrido  🏢 Al equipo de JSCHILE.ORG en terreno @hubprovidencia @diruzcode @_benjvvp @fabianko @panchocorderos 🚀  🏡 Equipo online:  @fforres @pillilii @dereemii   Síguenos en todas nuestras redes en el link de nuestra bio ⭐️  #TechSchool #Gracias #ComunidadJSChile #HastaPronto"
     width="150"
     height="150"
@@ -174,7 +182,7 @@
 </a>
 <a href="https://instagram.com/p/CypIPIogXVI" target="_blank">
   <img
-    src="https://scontent-waw1-1.cdninstagram.com/v/t39.30808-6/394535818_18389674027058371_8710224513886780496_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw1-1.cdninstagram.com&_nc_cat=107&_nc_ohc=-V0vrtoBR70AX9p085n&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIxODEzOTYzMzE2NjY3NzMyMA%3D%3D.2.c-ccb7-5&oh=00_AfBzEkLLj9HEdpBiK1Se_g763rn4zfw473V7Px7gbcVIWA&oe=655FC81D&_nc_sid=bc0c2c"
+    src="https://instagram.fevn6-5.fna.fbcdn.net/v/t39.30808-6/394535818_18389674027058371_8710224513886780496_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fevn6-5.fna.fbcdn.net&_nc_cat=107&_nc_ohc=-V0vrtoBR70AX9Ny-XD&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIxODEzOTYzMzE2NjY3NzMyMA%3D%3D.2.c-ccb7-5&oh=00_AfBG45fUbgaUzoBmuY2qA49VL4kV4qfNF37eYBhMb6evrA&oe=6561C25D&_nc_sid=bc0c2c"
     alt="Mi cholito está feliz ❤️❤️❤️❤️"
     width="150"
     height="150"
