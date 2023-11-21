@@ -27,12 +27,19 @@
   <li>👾  Jugar videojuegos</li>
 </ul>
 
+
+<p><strong>Voluntariados</strong></p>
+<ul>
+  <li>Volunteer Staff - JSConf Chile</li>
+  <li>Job search preparation - Laboratoria</li>
+  <li>Conseguir trabajo en TI - JavaScript Chile</li>
+</ul>
+
 <p><strong>Otros</strong></p>
 <ul>
   <li>🧳 Nómada digital.</li>
   <li>🍺 Siempre es un buen momento para hacer un espacio en la semana y tomar una cerveza con los amigos.</li>
   <li>📚 Estudiando Python e Inglés.</li>
-  <li>👉 Voluntario en JSConf Chile.</li>
   <li>⭐ Tengo algunos proyectos open source que pueden ser de utilidad para la comunidad:</li>
     <ul>
       <li>vertical-timeline-component-react <small>v%{{vt_version}}%</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repo</a>)</li>
