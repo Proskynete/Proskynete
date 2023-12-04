@@ -150,7 +150,7 @@
 
 <a href="https://instagram.com/p/Cz0YlL1AAe_" target="_blank">
   <img
-    src="https://instagram.fevn6-5.fna.fbcdn.net/v/t39.30808-6/403200363_18395440663058371_9132060762854505125_n.jpg?stp=c0.112.897.897a_dst-jpg_e15_s640x640&_nc_ht=instagram.fevn6-5.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Y50J1IVAMkMAX9oSo2Z&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzOTMyMjE0MDQyMzQ4OTQ3MQ%3D%3D.2.c-ccb7-5&oh=00_AfDsrncoMDOrF4Kdg2LvIi2desSE6b_XrIL-Ddw11UmtsQ&oe=656E705C&_nc_sid=bc0c2c"
+    src="https://instagram.fsbz1-1.fna.fbcdn.net/v/t39.30808-6/403200363_18395440663058371_9132060762854505125_n.jpg?stp=c0.112.897.897a_dst-jpg_e15_s640x640&_nc_ht=instagram.fsbz1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=TjeGvANi9VoAX_SDCpB&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzOTMyMjE0MDQyMzQ4OTQ3MQ%3D%3D.2.c-ccb7-5&oh=00_AfCACUCJ4CEDmoEIFyFN-PuOof__XJwN1dX_aYR2Sfxd4g&oe=657264DC&_nc_sid=bc0c2c"
     alt="Que lindo fue poder verte y estar un ratito contigo! Fue muy random el cómo nos conocimos hace más o menos 1 año y medio, y hoy, luego de mucho tiempo, por fin pudimos juntarnos ❤️ Espero que para la próxima, podamos estar más tiempo juntos, hasta el próximo viaje 🫰🏻"
     width="150"
     height="150"
@@ -158,7 +158,7 @@
 </a>
 <a href="https://instagram.com/p/CzoxfSpA8j7" target="_blank">
   <img
-    src="https://instagram.fevn6-5.fna.fbcdn.net/v/t39.30808-6/400604772_18394572928058371_70677843358975347_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fevn6-5.fna.fbcdn.net&_nc_cat=107&_nc_ohc=q0RPyxqmHC0AX9qdiWH&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzNjA1Mzk4Njg2Mzk5MTAzNQ%3D%3D.2.c-ccb7-5&oh=00_AfBo-T9wbj3x3KBqCN1iM5-PGqw7ZEEkEz23TozsCh-G9A&oe=656F5457&_nc_sid=bc0c2c"
+    src="https://instagram.fsbz1-1.fna.fbcdn.net/v/t39.30808-6/400604772_18394572928058371_70677843358975347_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fsbz1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=gGloWhz71LwAX_D5biI&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzNjA1Mzk4Njg2Mzk5MTAzNQ%3D%3D.2.c-ccb7-5&oh=00_AfCF_3HivvsBFpK45eH8uFMfSGYBlNkPywem8J7bt5twow&oe=657348D7&_nc_sid=bc0c2c"
     alt="Gracias JS??  Que lindo que es Medellín ❤️❤️"
     width="150"
     height="150"
@@ -166,7 +166,7 @@
 </a>
 <a href="https://instagram.com/p/CzjQIe7g3Z0" target="_blank">
   <img
-    src="https://instagram.fevn6-5.fna.fbcdn.net/v/t39.30808-6/400808304_18394140784058371_499473468581646816_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fevn6-5.fna.fbcdn.net&_nc_cat=107&_nc_ohc=AL89s8q8lJgAX_OUYhY&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzNDQ5OTkwOTA5Mjg2NTY1Mg%3D%3D.2-ccb7-5&oh=00_AfAbk2DToR3uSCrNr4Qy7dSk3WvgvLMCmuc-3fnNCTB0IQ&oe=656E0227&_nc_sid=bc0c2c"
+    src="https://instagram.fsbz1-1.fna.fbcdn.net/v/t39.30808-6/400808304_18394140784058371_499473468581646816_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fsbz1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=VInbfxp56S0AX_OeBdx&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzNDQ5OTkwOTA5Mjg2NTY1Mg%3D%3D.2-ccb7-5&oh=00_AfCXiqUn1nv3aYJ2hvZkZ1Bur6URgZpCC9pr_Q-Zw0OI9Q&oe=6571F6A7&_nc_sid=bc0c2c"
     alt="Y bueno, si me retrasan el vuelo, que mas puedo hacer? 🫢"
     width="150"
     height="150"
@@ -174,7 +174,7 @@
 </a>
 <a href="https://instagram.com/p/Cy9hdsUIuxt" target="_blank">
   <img
-    src="https://instagram.fevn6-4.fna.fbcdn.net/v/t39.30808-6/396158910_17879972402967311_8682112862063658116_n.jpg?stp=c204.0.1031.1031a_dst-jpg_e15_s640x640&_nc_ht=instagram.fevn6-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=fqEXdm6xw5MAX9JGRV0&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIyMzg4MDA4NDI0OTMwODI2OQ%3D%3D.2.c-ccb7-5&oh=00_AfDBK-aOfhaNZY4rHcRTLiiX9U8e62UbCfKdAiGZLseB0w&oe=656DEDC4&_nc_sid=bc0c2c"
+    src="https://instagram.fsbz1-1.fna.fbcdn.net/v/t39.30808-6/396158910_17879972402967311_8682112862063658116_n.jpg?stp=c204.0.1031.1031a_dst-jpg_e15_s640x640&_nc_ht=instagram.fsbz1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=TEnzaYzH32cAX_eUrXn&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIyMzg4MDA4NDI0OTMwODI2OQ%3D%3D.2.c-ccb7-5&oh=00_AfCfV4yNE3bzFtaW4FNu4QqjJpUBWPu3N6Npg8eAy8lMIg&oe=6571E244&_nc_sid=bc0c2c"
     alt="🎉 ¡Y así concluye TechSchool! 🚀   Queremos expresar nuestro más profundo agradecimiento a todos los asistentes que hicieron de este evento algo verdaderamente especial. La energía, las ganas de aprender y la comunidad en acción son lo que nos impulsa a seguir organizando eventos como este. ❤️👩‍💻👨‍💻  Ya estamos ansiosos por el próximo encuentro. ¡Hasta pronto y sigamos construyendo juntos esta increíble comunidad! 🤗🌟  Agradecimientos para: 👨‍🏫 👩‍🏫 Nuestros mentores Francisca Medina Concha Alfonsina Lizardo 👾 Eduardo Álvarez Castañeda Gonzalo Fleming Garrido  🏢 Al equipo de JSCHILE.ORG en terreno @hubprovidencia @diruzcode @_benjvvp @fabianko @panchocorderos 🚀  🏡 Equipo online:  @fforres @pillilii @dereemii   Síguenos en todas nuestras redes en el link de nuestra bio ⭐️  #TechSchool #Gracias #ComunidadJSChile #HastaPronto"
     width="150"
     height="150"
@@ -182,7 +182,7 @@
 </a>
 <a href="https://instagram.com/p/CypIPIogXVI" target="_blank">
   <img
-    src="https://instagram.fevn6-5.fna.fbcdn.net/v/t39.30808-6/394535818_18389674027058371_8710224513886780496_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fevn6-5.fna.fbcdn.net&_nc_cat=107&_nc_ohc=zcXkoiE4A_sAX9Il9ze&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIxODEzOTYzMzE2NjY3NzMyMA%3D%3D.2.c-ccb7-5&oh=00_AfCIM2WSS7m1GoT8bpJMJ_KpPiBmlN9iTQMN8dxSqEZb4w&oe=656D9FDD&_nc_sid=bc0c2c"
+    src="https://instagram.fsbz1-1.fna.fbcdn.net/v/t39.30808-6/394535818_18389674027058371_8710224513886780496_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fsbz1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=AqK4yLV1R0cAX_QADw9&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIxODEzOTYzMzE2NjY3NzMyMA%3D%3D.2.c-ccb7-5&oh=00_AfCKTc54MCsI11t2LvJUObivpMTvWgNSISW5Ey16chISjg&oe=6571945D&_nc_sid=bc0c2c"
     alt="Mi cholito está feliz ❤️❤️❤️❤️"
     width="150"
     height="150"
