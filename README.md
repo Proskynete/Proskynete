@@ -150,7 +150,7 @@
 
 <a href="https://instagram.com/p/C0vWEEDglpH" target="_blank">
   <img
-    src="https://scontent-fra3-2.cdninstagram.com/v/t39.30808-6/409867898_18399857245058371_1121824249454466674_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ad=z-m&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_cat=107&_nc_ohc=7TUAie7dW6cAX8jBm3q&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI1NTkxODA4Mzc5NzE4NzkwMw%3D%3D.2.c-ccb7-5&oh=00_AfAtbdfndCbpJnSz39_pOKdtLfV8HYn-gtm0fjw3sDVQFA&oe=659BEBA6&_nc_sid=bc0c2c"
+    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t39.30808-6/409867898_18399857245058371_1121824249454466674_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=lXf6oktQdv8AX85nS8j&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI1NTkxODA4Mzc5NzE4NzkwMw%3D%3D.2.c-ccb7-5&oh=00_AfBrrqm2oRvMmsjN9_JyPi7_Ho8qsBAQiVP6pFoD3yAIRg&oe=659FE026&_nc_sid=bc0c2c"
     alt="Luego de mucho tiempo y de manera muy improvisada, por fin nos pudimos juntar.  Fue muy rico poder verte, reírnos y chismear un poco 🫢🤣 Que se repita pronto ya sea acá o en Colombia ❤️"
     width="150"
     height="150"
@@ -158,7 +158,7 @@
 </a>
 <a href="https://instagram.com/p/Cz0YlL1AAe_" target="_blank">
   <img
-    src="https://scontent-fra3-2.cdninstagram.com/v/t39.30808-6/403200363_18395440663058371_9132060762854505125_n.jpg?stp=c0.112.897.897a_dst-jpg_e15_s640x640&_nc_ad=z-m&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_cat=107&_nc_ohc=uVusFwWPdOIAX_88CId&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzOTMyMjE0MDQyMzQ4OTQ3MQ%3D%3D.2.c-ccb7-5&oh=00_AfC-65Luo--yZTRb4MAAl2_186ld8SrclFBoIb8_173W8w&oe=659BEC1C&_nc_sid=bc0c2c"
+    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t39.30808-6/403200363_18395440663058371_9132060762854505125_n.jpg?stp=c0.112.897.897a_dst-jpg_e15_s640x640&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=H_K5lqRFickAX-LSDi9&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzOTMyMjE0MDQyMzQ4OTQ3MQ%3D%3D.2.c-ccb7-5&oh=00_AfAXD9ET8P3h6P3mz-3r19PidwmDZ4Nt7UH4Nluy_CO8BA&oe=659FE09C&_nc_sid=bc0c2c"
     alt="Que lindo fue poder verte y estar un ratito contigo! Fue muy random el cómo nos conocimos hace más o menos 1 año y medio, y hoy, luego de mucho tiempo, por fin pudimos juntarnos ❤️ Espero que para la próxima, podamos estar más tiempo juntos, hasta el próximo viaje 🫰🏻"
     width="150"
     height="150"
@@ -166,7 +166,7 @@
 </a>
 <a href="https://instagram.com/p/CzoxfSpA8j7" target="_blank">
   <img
-    src="https://scontent-fra3-2.cdninstagram.com/v/t39.30808-6/400604772_18394572928058371_70677843358975347_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ad=z-m&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_cat=107&_nc_ohc=NMDYctmoE3QAX9lRP9J&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzNjA1Mzk4Njg2Mzk5MTAzNQ%3D%3D.2.c-ccb7-5&oh=00_AfBSTG3raF1pQjiGi49ZRIGm728rFa_HSzrPZaHd0MHx4w&oe=659CD017&_nc_sid=bc0c2c"
+    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t39.30808-6/400604772_18394572928058371_70677843358975347_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Mq_45Q5v8PgAX_z2Sny&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzNjA1Mzk4Njg2Mzk5MTAzNQ%3D%3D.2.c-ccb7-5&oh=00_AfBcFJc6ZUc_p_BihKzk6RXhG9UIsYo4Ce_7tMEc7LVGXw&oe=65A0C497&_nc_sid=bc0c2c"
     alt="Gracias JS??  Que lindo que es Medellín ❤️❤️"
     width="150"
     height="150"
@@ -174,15 +174,15 @@
 </a>
 <a href="https://instagram.com/p/CzjQIe7g3Z0" target="_blank">
   <img
-    src="https://scontent-fra3-2.cdninstagram.com/v/t39.30808-6/400808304_18394140784058371_499473468581646816_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ad=z-m&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_cat=107&_nc_ohc=QpFr9G6ar9wAX9kErrH&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzNDQ5OTkwOTA5Mjg2NTY1Mg%3D%3D.2-ccb7-5&oh=00_AfCI-fr2jH_AcEbExXiUmhaNqzsScUEYQAwwRM2DVHFXmQ&oe=659D7827&_nc_sid=bc0c2c"
-    alt="Y bueno, si me retrasan el vuelo, que mas puedo hacer? 🫢"
+    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t39.30808-6/400808304_18394140784058371_499473468581646816_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=tlbBa1LYJz8AX-PdFE6&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzNDQ5OTkwOTA5Mjg2NTY1Mg%3D%3D.2-ccb7-5&oh=00_AfD51jErmStg0AP69mAGGBliMQSUPzmk3NF3PDSGeqtKKg&oe=65A16CA7&_nc_sid=bc0c2c"
+    alt="Y bueno, si me retrasan el vuelo, que mas puedo hacer? 🫢  #eduardoalvarez_dev"
     width="150"
     height="150"
   />
 </a>
 <a href="https://instagram.com/p/Cy9hdsUIuxt" target="_blank">
   <img
-    src="https://scontent-fra3-2.cdninstagram.com/v/t39.30808-6/396158910_17879972402967311_8682112862063658116_n.jpg?stp=c204.0.1031.1031a_dst-jpg_e15_s640x640&_nc_ad=z-m&_nc_ht=scontent-fra3-2.cdninstagram.com&_nc_cat=111&_nc_ohc=SAdrfcMYFQwAX_tZZsx&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIyMzg4MDA4NDI0OTMwODI2OQ%3D%3D.2.c-ccb7-5&oh=00_AfAQdNUtnq_lmPHnB_1mg_FwCKEfxdX4irlxy30gJUmRAw&oe=659D63C4&_nc_sid=bc0c2c"
+    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t39.30808-6/396158910_17879972402967311_8682112862063658116_n.jpg?stp=c204.0.1031.1031a_dst-jpg_e15_s640x640&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=a0xjiqt07EgAX8DaWGm&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIyMzg4MDA4NDI0OTMwODI2OQ%3D%3D.2.c-ccb7-5&oh=00_AfAjq4AdVZL4QH5INI6afzR6wG82vMKYmJowd8GiQSojjQ&oe=65A15844&_nc_sid=bc0c2c"
     alt="🎉 ¡Y así concluye TechSchool! 🚀   Queremos expresar nuestro más profundo agradecimiento a todos los asistentes que hicieron de este evento algo verdaderamente especial. La energía, las ganas de aprender y la comunidad en acción son lo que nos impulsa a seguir organizando eventos como este. ❤️👩‍💻👨‍💻  Ya estamos ansiosos por el próximo encuentro. ¡Hasta pronto y sigamos construyendo juntos esta increíble comunidad! 🤗🌟  Agradecimientos para: 👨‍🏫 👩‍🏫 Nuestros mentores Francisca Medina Concha Alfonsina Lizardo 👾 Eduardo Álvarez Castañeda Gonzalo Fleming Garrido  🏢 Al equipo de JSCHILE.ORG en terreno @hubprovidencia @diruzcode @_benjvvp @fabianko @panchocorderos 🚀  🏡 Equipo online:  @fforres @pillilii @dereemii   Síguenos en todas nuestras redes en el link de nuestra bio ⭐️  #TechSchool #Gracias #ComunidadJSChile #HastaPronto"
     width="150"
     height="150"
