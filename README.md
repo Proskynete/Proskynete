@@ -148,9 +148,17 @@
   </strong>
 </p>
 
+<a href="https://instagram.com/p/C5aNo2CMqrH" target="_blank">
+  <img
+    src="https://instagram.fevn6-5.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=instagram.fevn6-5.fna.fbcdn.net&_nc_cat=108&_nc_ohc=2UPZOFM_Nb4Ab7DFKsJ&edm=APU89FABAAAA&ccb=7-5&oh=00_AfADE7YdrDGUQxvcvan0wQcW_XGMaxVVO3BvqYWrDDrMLA&oe=661591D6&_nc_sid=bc0c2c"
+    alt=""
+    width="150"
+    height="150"
+  />
+</a>
 <a href="https://instagram.com/p/C4jFrUBAngD" target="_blank">
   <img
-    src="https://scontent-waw2-2.cdninstagram.com/v/t39.30808-6/433096135_18420451327058371_8085307193828185018_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=107&_nc_ohc=ceQyBPw46P4Ab6pmhdZ&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzMyNDUyNTkxMjQ4OTMyODQ2OQ%3D%3D.2.c-ccb7-5&oh=00_AfD0c5ksZKfSVmm7HrrNr-qLclz5m7h-dHxA3-2LcxN8Ww&oe=66159F91&_nc_sid=bc0c2c"
+    src="https://instagram.fevn6-5.fna.fbcdn.net/v/t39.30808-6/433096135_18420451327058371_8085307193828185018_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fevn6-5.fna.fbcdn.net&_nc_cat=107&_nc_ohc=J3-thPieTEEAb6_PS5_&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzMyNDUyNTkxMjQ4OTMyODQ2OQ%3D%3D.2.c-ccb7-5&oh=00_AfDQA5uTK5S18MxVqwpxkV74_KYb75uBl5jQGo7a6MWWUA&oe=66199411&_nc_sid=bc0c2c"
     alt="La nueva organización de mi setup para este año 🫢❤️"
     width="150"
     height="150"
@@ -158,7 +166,7 @@
 </a>
 <a href="https://instagram.com/p/C1-OZuggKeB" target="_blank">
   <img
-    src="https://scontent-waw2-2.cdninstagram.com/v/t39.30808-6/418830222_18405567298058371_8901975083607395399_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=107&_nc_ohc=yyX8kIAQo34Ab5YkVZv&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI3ODEyMDkxNDk2ODkxNDIwMA%3D%3D.2.c-ccb7-5&oh=00_AfDt4q-AKHJDWJBDZnh4k0P1sMZODQa482vJYuWH6360ww&oe=66159E1B&_nc_sid=bc0c2c"
+    src="https://instagram.fevn6-5.fna.fbcdn.net/v/t39.30808-6/418830222_18405567298058371_8901975083607395399_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fevn6-5.fna.fbcdn.net&_nc_cat=107&_nc_ohc=a-cltTaisEkAb7vGEfs&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI3ODEyMDkxNDk2ODkxNDIwMA%3D%3D.2.c-ccb7-5&oh=00_AfDWSygkN7v9i4Ww9eYoZXW2HW2P6GVsJh5ws0001fRY6Q&oe=6619929B&_nc_sid=bc0c2c"
     alt="Un día distinto en familiar, aprovechando de descansar con mi cholito ❤️❤️"
     width="150"
     height="150"
@@ -166,7 +174,7 @@
 </a>
 <a href="https://instagram.com/p/C0vWEEDglpH" target="_blank">
   <img
-    src="https://scontent-waw2-2.cdninstagram.com/v/t39.30808-6/409867898_18399857245058371_1121824249454466674_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=107&_nc_ohc=v7uPGcWWKSkAb4p6Xkc&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI1NTkxODA4Mzc5NzE4NzkwMw%3D%3D.2.c-ccb7-5&oh=00_AfCwEe0SRDl0vmsFeZqsrsv7Nf0NomwEURcJSyvW1QVjBQ&oe=66156DE6&_nc_sid=bc0c2c"
+    src="https://instagram.fevn6-5.fna.fbcdn.net/v/t39.30808-6/409867898_18399857245058371_1121824249454466674_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fevn6-5.fna.fbcdn.net&_nc_cat=107&_nc_ohc=QubgPD9qOCgAb5CwK4N&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI1NTkxODA4Mzc5NzE4NzkwMw%3D%3D.2.c-ccb7-5&oh=00_AfAl3jVf4nY_nih7R-cTpVM__ne9Tt9kLbhl4tLPl4cPZg&oe=66196266&_nc_sid=bc0c2c"
     alt="Luego de mucho tiempo y de manera muy improvisada, por fin nos pudimos juntar.  Fue muy rico poder verte, reírnos y chismear un poco 🫢🤣 Que se repita pronto ya sea acá o en Colombia ❤️"
     width="150"
     height="150"
@@ -174,16 +182,8 @@
 </a>
 <a href="https://instagram.com/p/Cz0YlL1AAe_" target="_blank">
   <img
-    src="https://scontent-waw2-2.cdninstagram.com/v/t39.30808-6/403200363_18395440663058371_9132060762854505125_n.jpg?stp=c0.112.897.897a_dst-jpg_e15_s640x640&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=107&_nc_ohc=jlkIcu5Kdw8Ab5FCYtr&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzOTMyMjE0MDQyMzQ4OTQ3MQ%3D%3D.2.c-ccb7-5&oh=00_AfB0QZ80NwLhlJz3vWrC_5-XCHlVViIOGy6ejr-axaK8uQ&oe=66156E5C&_nc_sid=bc0c2c"
+    src="https://instagram.fevn6-5.fna.fbcdn.net/v/t39.30808-6/403200363_18395440663058371_9132060762854505125_n.jpg?stp=c0.112.897.897a_dst-jpg_e15_s640x640&_nc_ht=instagram.fevn6-5.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ZKnYJLmhADkAb6z2N6g&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzOTMyMjE0MDQyMzQ4OTQ3MQ%3D%3D.2.c-ccb7-5&oh=00_AfAbaPadVJXGBcduy7zksmtqUW971_FeluHAnXXZnQU7VQ&oe=661962DC&_nc_sid=bc0c2c"
     alt="Que lindo fue poder verte y estar un ratito contigo! Fue muy random el cómo nos conocimos hace más o menos 1 año y medio, y hoy, luego de mucho tiempo, por fin pudimos juntarnos ❤️ Espero que para la próxima, podamos estar más tiempo juntos, hasta el próximo viaje 🫰🏻"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/CzoxfSpA8j7" target="_blank">
-  <img
-    src="https://scontent-waw2-2.cdninstagram.com/v/t39.30808-6/400604772_18394572928058371_70677843358975347_n.jpg?stp=c180.0.1080.1080a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw2-2.cdninstagram.com&_nc_cat=107&_nc_ohc=asazxPkFiL8Ab4wV00P&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzNjA1Mzk4Njg2Mzk5MTAzNQ%3D%3D.2.c-ccb7-5&oh=00_AfDajbJ7ADdfEC9Z3f5GkFW8mcMUQTeSuLMs6BYF427JqQ&oe=66157157&_nc_sid=bc0c2c"
-    alt="Gracias JS??  Que lindo que es Medellín ❤️❤️"
     width="150"
     height="150"
   />
