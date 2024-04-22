@@ -16,10 +16,15 @@ jobs:
       - name: 📚 Check out Git repository
         uses: actions/checkout@v3
 
+      - uses: ⏳ pnpm/action-setup@v3
+        with:
+          version: 8
+
       - name: 🟢 Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: '20'
+          cache: 'pnpm'
 
       - name: 🛠 Install Node.js dependencies
         run: pnpm install
@@ -36,10 +41,15 @@ jobs:
       - name: 📚 Check out Git repository
         uses: actions/checkout@v3
 
+      - uses: ⏳ pnpm/action-setup@v3
+        with:
+          version: 8
+
       - name: 🟢 Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: '20'
+          cache: 'pnpm'
 
       - name: 🛠 Install Node.js dependencies
         run: pnpm install
