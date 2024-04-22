@@ -16,7 +16,8 @@ jobs:
       - name: 📚 Check out Git repository
         uses: actions/checkout@v3
 
-      - uses: ⏳ pnpm/action-setup@v3
+      - name: 🚀 Setup with pnpm
+        uses: pnpm/action-setup@v3
         with:
           version: 8
 
@@ -41,7 +42,8 @@ jobs:
       - name: 📚 Check out Git repository
         uses: actions/checkout@v3
 
-      - uses: ⏳ pnpm/action-setup@v3
+      - name: 🚀 Setup with pnpm
+        uses: pnpm/action-setup@v3
         with:
           version: 8
 
