@@ -22,10 +22,10 @@ jobs:
           node-version: '16'
 
       - name: 🛠 Install Node.js dependencies
-        run: npm install
+        run: pnpm install
 
       - name: 🔦 Code Linting
-        run: npm run lint
+        run: pnpm run lint
 
   build:
     name: Generate new README.md
@@ -42,12 +42,12 @@ jobs:
           node-version: '16'
 
       - name: 🛠 Install Node.js dependencies
-        run: npm install
+        run: pnpm install
 
       - name: ⚙️ Transpile and generate a new readme file
         env:
           INSTAGRAM_API_KEY: ${{ secrets.INSTAGRAM_API_KEY }}
-        run: npm start
+        run: pnpm start
 
       - name: 📝 Commit and push changes
         run: |
