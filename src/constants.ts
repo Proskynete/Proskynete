@@ -50,8 +50,8 @@ export const URLS: UrlsInterface = {
 };
 
 export const INSTAGRAM = {
-	USER_ID: 42938370,
-	USER_NAME: 'Proskynete',
+	USER_ID: 42938370, // 41056689992
+	USER_NAME: 'Proskynete', // eduardo_alvarez.dev
 };
 
 export const PERSONAL = {
