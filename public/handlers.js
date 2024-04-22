@@ -61,22 +61,22 @@ const handlerSliceArticles = (articles) => articles
     .join('\n');
 exports.handlerSliceArticles = handlerSliceArticles;
 const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, function* () {
-    var _a, _b, _c;
+    var _a, _b;
     try {
         const { data } = yield axios_1.default.get(constants_1.BASE_URL.INSTAGRAM_API, {
             timeout: 20000,
             params: {
-                user: constants_1.INSTAGRAM.USER_NAME,
+                id_user: constants_1.INSTAGRAM.USER_ID,
             },
             headers: {
                 'X-RapidAPI-Host': 'instagram-scraper-2022.p.rapidapi.com',
                 'X-RapidAPI-Key': INSTAGRAM_API_KEY,
             },
         });
-        const images = (_c = (_b = (_a = data.data) === null || _a === void 0 ? void 0 : _a.user) === null || _b === void 0 ? void 0 : _b.edge_owner_to_timeline_media) === null || _c === void 0 ? void 0 : _c.edges;
+        const images = (_b = (_a = data.data) === null || _a === void 0 ? void 0 : _a.user) === null || _b === void 0 ? void 0 : _b.edge_owner_to_timeline_media.edges;
         return (images &&
             images.map((image) => ({
-                shortcode: image.node.shortcode,
+                code: image.node.shortcode,
                 url: image.node.thumbnail_src,
                 accessibility: image.node.accessibility_caption,
                 description: image.node.edge_media_to_caption.edges.length
@@ -98,7 +98,7 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
 exports.handlerGetInstagramImages = handlerGetInstagramImages;
 const handlerGetLatestInstagramImages = (images) => images
     .slice(0, constants_1.COUNT.IMAGES)
-    .map(({ shortcode, url, accessibility, description, }) => `<a href='https://instagram.com/p/${shortcode}' target='_blank'>
+    .map(({ code, url, accessibility, description, }) => `<a href='https://instagram.com/p/${code}' target='_blank'>
 				<img
 					src='${url}'
 					alt='${accessibility !== null && accessibility !== void 0 ? accessibility : description}'

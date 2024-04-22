@@ -44,7 +44,7 @@ export interface InstagramNodeInterface {
 }
 
 export interface InstagramImagesResponse {
-	shortcode: string;
+	code: string;
 	url: string;
 	accessibility: string;
 	description: string;

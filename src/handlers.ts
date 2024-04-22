@@ -69,7 +69,7 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 		const { data } = await axios.get<InstagramApiResponse>(BASE_URL.INSTAGRAM_API, {
 			timeout: 20000,
 			params: {
-				user: INSTAGRAM.USER_NAME,
+				id_user: INSTAGRAM.USER_ID,
 			},
 			headers: {
 				'X-RapidAPI-Host': 'instagram-scraper-2022.p.rapidapi.com',
@@ -77,12 +77,12 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 			},
 		});
 
-		const images: InstagramNodeInterface[] = data.data?.user?.edge_owner_to_timeline_media?.edges;
+		const images: InstagramNodeInterface[] = data.data?.user?.edge_owner_to_timeline_media.edges;
 
 		return (
 			images &&
 			images.map((image) => ({
-				shortcode: image.node.shortcode,
+				code: image.node.shortcode,
 				url: image.node.thumbnail_src,
 				accessibility: image.node.accessibility_caption,
 				description: image.node.edge_media_to_caption.edges.length
@@ -113,11 +113,11 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 		.slice(0, COUNT.IMAGES)
 		.map(
 			({
-				shortcode,
+				code,
 				url,
 				accessibility,
 				description,
-			}) => `<a href='https://instagram.com/p/${shortcode}' target='_blank'>
+			}) => `<a href='https://instagram.com/p/${code}' target='_blank'>
 				<img
 					src='${url}'
 					alt='${accessibility ?? description}'
