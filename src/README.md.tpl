@@ -6,7 +6,7 @@
 </p>
 
 ---
-<img align="right" width="300" height="300 src="https://github.com/Proskynete/Proskynete/blob/main/images/proskynete_without_bg.gif?raw=true" />
+<img align="right" width="300" height="300" src="https://github.com/Proskynete/Proskynete/blob/main/images/proskynete_without_bg.gif?raw=true" />
 
 <p><strong>Mi filosofía de vida</strong></p>
 <p><i>"Si no estás dispuesto a darlo todo, no tienes derecho a intentarlo."</i></p>
