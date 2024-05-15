@@ -32,8 +32,10 @@
 <ul>
   <li>Volunteer Staff - JSConf Chile</li>
   <li>Job search preparation - Laboratoria</li>
-  <li>Conseguir trabajo en TI - JavaScript Chile</li>
 </ul>
+
+<p><strong>Charlas y Talleres</strong></p>
+%{{instagram_images}}%
 
 <p><strong>Otros</strong></p>
 <ul>

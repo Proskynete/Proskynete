@@ -1,6 +1,5 @@
 import axios, { AxiosError } from 'axios';
 import cheerio from 'cheerio';
-import moment from 'moment';
 import * as core from '@actions/core';
 import Parser from 'rss-parser';
 import { URLS, COUNT, REGEXPS, PERSONAL, INSTAGRAM, BASE_URL } from './constants';
@@ -16,7 +15,6 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 const parser = new Parser();
-moment.locale('es');
 
 const { INSTAGRAM_API_KEY } = process.env;
 
@@ -40,13 +38,6 @@ export const handlerGetPackageVersion = async (url: string): Promise<string> => 
  */
 export const handlerGetLatestArticles = async (): Promise<any> =>
 	parser.parseURL(URLS.RSS).then((data) => data.items);
-
-/**
- * It takes a date string, converts it to a Date object, then uses the moment.js
- * library to format it as a long date
- * @param {string} date - The date you want to format.
- */
-export const handlerPrettyDate = (date: string): string => moment(new Date(date)).format('LL');
 
 /**
  * It takes an array of articles, slices it to the first 5 articles, and then maps
@@ -95,9 +86,8 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 	} catch (err) {
 		if (axios.isAxiosError(err)) {
 			const { response } = err as AxiosError;
-			if (response) {
-				core.setFailed(err.message);
-			}
+			if (response) core.setFailed(err.message);
+			process.exit(1);
 		}
 	}
 };
@@ -128,10 +118,19 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 		)
 		.join('');
 
-/**
- * > It returns the number of years old I am
- */
-export const handlerGetYearsOld = (): number => moment().diff(PERSONAL.YEAR_OF_BIRTH, 'years');
+export const handlerGetYearsOld = (): number =>
+	dateDifferenceInYears(new Date(PERSONAL.YEAR_OF_BIRTH), new Date());
+
+const dateDifferenceInMonths = (dateInitial: Date, dateFinal: Date) =>
+	Math.max(
+		(dateFinal.getFullYear() - dateInitial.getFullYear()) * 12 +
+			dateFinal.getMonth() -
+			dateInitial.getMonth(),
+		0,
+	);
+
+const dateDifferenceInYears = (dateInitial: Date, dateFinal: Date) =>
+	Math.trunc(dateDifferenceInMonths(dateInitial, dateFinal) / 12);
 
 /**
  * It takes an array of objects, maps over each object, and returns a string of
