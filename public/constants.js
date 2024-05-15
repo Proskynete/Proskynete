@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.PERSONAL = exports.INSTAGRAM = exports.URLS = exports.BASE_URL = exports.COUNT = exports.REGEXPS = exports.PLACEHOLDERS = void 0;
+exports.URLS = exports.PERSONAL = exports.INSTAGRAM = exports.BASE_URL = exports.COUNT = exports.REGEXPS = exports.PLACEHOLDERS = void 0;
 exports.PLACEHOLDERS = {
     TECHNOLOGIES: '%{{technologies}}%',
     PERSONAL: {
@@ -20,6 +20,9 @@ exports.PLACEHOLDERS = {
             SECTION_IMAGES: '%{{instagram_images}}%',
         },
     },
+    ADP_LIST: {
+        COMMENTS: '%{{adp_list_comments}}%',
+    },
 };
 exports.REGEXPS = {
     TAG_ELEMENT: 'p.f2874b88.fw6.mb3.mt2.truncate.black-80.f4',
@@ -27,17 +30,14 @@ exports.REGEXPS = {
 exports.COUNT = {
     ARTICLES: 5,
     IMAGES: 5,
+    COMMENTS: 3,
 };
 exports.BASE_URL = {
     NPM: 'https://www.npmjs.com/package',
     WEBSITE: 'https://eduardoalvarez.dev',
     TECHNOLOGIES: 'https://github.com/Proskynete/Proskynete/blob/main/images/icons',
     INSTAGRAM_API: 'https://instagram-scraper-2022.p.rapidapi.com/ig/posts/',
-};
-exports.URLS = {
-    VERTICAL_TIMELINE: `${exports.BASE_URL.NPM}/vertical-timeline-component-react`,
-    PRETTY_RATING: `${exports.BASE_URL.NPM}/pretty-rating-react`,
-    RSS: `${exports.BASE_URL.WEBSITE}/rss.xml`,
+    ADP_LIST: 'https://api2.adplist.org',
 };
 exports.INSTAGRAM = {
     USER_ID: 42938370,
@@ -45,5 +45,12 @@ exports.INSTAGRAM = {
 };
 exports.PERSONAL = {
     YEAR_OF_BIRTH: '1993-12-24',
+    ADP_USER_ID: 983411,
+};
+exports.URLS = {
+    VERTICAL_TIMELINE: `${exports.BASE_URL.NPM}/vertical-timeline-component-react`,
+    PRETTY_RATING: `${exports.BASE_URL.NPM}/pretty-rating-react`,
+    RSS: `${exports.BASE_URL.WEBSITE}/rss.xml`,
+    ADP_LIST_COMMENTS: `${exports.BASE_URL.ADP_LIST}/core/review/?user_id=${exports.PERSONAL.ADP_USER_ID}`,
 };
 //# sourceMappingURL=constants.js.map
