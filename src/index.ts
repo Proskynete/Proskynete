@@ -9,6 +9,7 @@ import {
 	handlerGetLatestInstagramImages,
 	handlerGetYearsOld,
 	handleGetTechnologies,
+	handlerGetAdpListComments,
 } from './handlers';
 
 (async () => {
@@ -23,6 +24,7 @@ import {
 
 		const _verticalTimeline = await handlerGetPackageVersion(URLS.VERTICAL_TIMELINE);
 		const _prettyRating = await handlerGetPackageVersion(URLS.PRETTY_RATING);
+		const _comments = await handlerGetAdpListComments(URLS.ADP_LIST_COMMENTS);
 		const _articles = articles ? handlerSliceArticles(articles) : '';
 		const _images = images ? handlerGetLatestInstagramImages(images) : '';
 		const _yearsOld = handlerGetYearsOld();
@@ -36,7 +38,8 @@ import {
 			.replace(PLACEHOLDERS.WEBSITE.NUMBER_ARTICLES, COUNT.ARTICLES.toString())
 			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.NUMBER_IMAGES, COUNT.IMAGES.toString())
 			.replace(PLACEHOLDERS.WEBSITE.RSS, _articles)
-			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.SECTION_IMAGES, _images);
+			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.SECTION_IMAGES, _images)
+			.replace(PLACEHOLDERS.ADP_LIST.COMMENTS, _comments);
 
 		const markdownFormatted = prettier.format(newMarkdown, {
 			...prettierConfig,

@@ -34,8 +34,12 @@
   <li>Job search preparation - Laboratoria</li>
 </ul>
 
-<p><strong>Charlas y Talleres</strong></p>
-%{{instagram_images}}%
+<p><strong>Comentarios en ADPList</strong></p>
+
+<ul>
+  %{{adp_list_comments}}%
+</ul>
+
 
 <p><strong>Otros</strong></p>
 <ul>

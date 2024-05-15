@@ -25,6 +25,9 @@ export const PLACEHOLDERS: PlaceholdersInterface = {
 			SECTION_IMAGES: '%{{instagram_images}}%',
 		},
 	},
+	ADP_LIST: {
+		COMMENTS: '%{{adp_list_comments}}%',
+	},
 };
 
 export const REGEXPS: RegexpsInterface = {
@@ -34,6 +37,7 @@ export const REGEXPS: RegexpsInterface = {
 export const COUNT: CountInterface = {
 	ARTICLES: 5,
 	IMAGES: 5,
+	COMMENTS: 3,
 };
 
 export const BASE_URL: BaseUrlInterface = {
@@ -41,12 +45,7 @@ export const BASE_URL: BaseUrlInterface = {
 	WEBSITE: 'https://eduardoalvarez.dev',
 	TECHNOLOGIES: 'https://github.com/Proskynete/Proskynete/blob/main/images/icons',
 	INSTAGRAM_API: 'https://instagram-scraper-2022.p.rapidapi.com/ig/posts/',
-};
-
-export const URLS: UrlsInterface = {
-	VERTICAL_TIMELINE: `${BASE_URL.NPM}/vertical-timeline-component-react`,
-	PRETTY_RATING: `${BASE_URL.NPM}/pretty-rating-react`,
-	RSS: `${BASE_URL.WEBSITE}/rss.xml`,
+	ADP_LIST: 'https://api2.adplist.org',
 };
 
 export const INSTAGRAM = {
@@ -56,4 +55,12 @@ export const INSTAGRAM = {
 
 export const PERSONAL = {
 	YEAR_OF_BIRTH: '1993-12-24',
+	ADP_USER_ID: 983411,
+};
+
+export const URLS: UrlsInterface = {
+	VERTICAL_TIMELINE: `${BASE_URL.NPM}/vertical-timeline-component-react`,
+	PRETTY_RATING: `${BASE_URL.NPM}/pretty-rating-react`,
+	RSS: `${BASE_URL.WEBSITE}/rss.xml`,
+	ADP_LIST_COMMENTS: `${BASE_URL.ADP_LIST}/core/review/?user_id=${PERSONAL.ADP_USER_ID}`,
 };

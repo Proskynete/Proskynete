@@ -5,6 +5,7 @@ import Parser from 'rss-parser';
 import { URLS, COUNT, REGEXPS, PERSONAL, INSTAGRAM, BASE_URL } from './constants';
 import {
 	Article,
+	GetCommentFromADPListResponse,
 	ImagesInterface,
 	InstagramApiResponse,
 	InstagramImagesResponse,
@@ -31,6 +32,24 @@ export const handlerGetPackageVersion = async (url: string): Promise<string> => 
 		const $ = cheerio.load(file.data);
 		resolve($(REGEXPS.TAG_ELEMENT).eq(0).text());
 	});
+};
+
+export const handlerGetAdpListComments = async (url: string) => {
+	const { data } = await axios<GetCommentFromADPListResponse[]>(url);
+
+	return data
+		.slice(0, COUNT.COMMENTS)
+		.map(
+			({ review, reviewed_by, date_reviewed }) =>
+				`<li><i>"${review}"</i> - ${reviewed_by.name} (<small>${new Date(
+					date_reviewed,
+				).toLocaleDateString('es-CL', {
+					day: 'numeric',
+					month: 'long',
+					year: 'numeric',
+				})}</small>)<li>`,
+		)
+		.join('\n');
 };
 
 /**
