@@ -24,8 +24,8 @@ const handlers_1 = require("./handlers");
             (0, handlers_1.handlerGetLatestArticles)(),
             (0, handlers_1.handlerGetInstagramImages)(),
         ]);
-        const _verticalTimeline = yield (0, handlers_1.handlerGetVersion)(constants_1.URLS.VERTICAL_TIMELINE);
-        const _prettyRating = yield (0, handlers_1.handlerGetVersion)(constants_1.URLS.PRETTY_RATING);
+        const _verticalTimeline = yield (0, handlers_1.handlerGetPackageVersion)(constants_1.URLS.VERTICAL_TIMELINE);
+        const _prettyRating = yield (0, handlers_1.handlerGetPackageVersion)(constants_1.URLS.PRETTY_RATING);
         const _articles = articles ? (0, handlers_1.handlerSliceArticles)(articles) : '';
         const _images = images ? (0, handlers_1.handlerGetLatestInstagramImages)(images) : '';
         const _yearsOld = (0, handlers_1.handlerGetYearsOld)();

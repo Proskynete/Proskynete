@@ -31,30 +31,26 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.handleGetTechnologies = exports.handlerGetYearsOld = exports.handlerGetLatestInstagramImages = exports.handlerGetInstagramImages = exports.handlerSliceArticles = exports.handlerPrettyDate = exports.handlerGetLatestArticles = exports.handlerGetVersion = void 0;
+exports.handleGetTechnologies = exports.handlerGetYearsOld = exports.handlerGetLatestInstagramImages = exports.handlerGetInstagramImages = exports.handlerSliceArticles = exports.handlerGetLatestArticles = exports.handlerGetPackageVersion = void 0;
 const axios_1 = __importDefault(require("axios"));
 const cheerio_1 = __importDefault(require("cheerio"));
-const moment_1 = __importDefault(require("moment"));
 const core = __importStar(require("@actions/core"));
 const rss_parser_1 = __importDefault(require("rss-parser"));
 const constants_1 = require("./constants");
 const dotenv_1 = __importDefault(require("dotenv"));
 dotenv_1.default.config();
 const parser = new rss_parser_1.default();
-moment_1.default.locale('es');
 const { INSTAGRAM_API_KEY } = process.env;
-const handlerGetVersion = (url) => __awaiter(void 0, void 0, void 0, function* () {
+const handlerGetPackageVersion = (url) => __awaiter(void 0, void 0, void 0, function* () {
     const file = yield (0, axios_1.default)(url);
     return new Promise((resolve) => {
         const $ = cheerio_1.default.load(file.data);
         resolve($(constants_1.REGEXPS.TAG_ELEMENT).eq(0).text());
     });
 });
-exports.handlerGetVersion = handlerGetVersion;
+exports.handlerGetPackageVersion = handlerGetPackageVersion;
 const handlerGetLatestArticles = () => __awaiter(void 0, void 0, void 0, function* () { return parser.parseURL(constants_1.URLS.RSS).then((data) => data.items); });
 exports.handlerGetLatestArticles = handlerGetLatestArticles;
-const handlerPrettyDate = (date) => (0, moment_1.default)(new Date(date)).format('LL');
-exports.handlerPrettyDate = handlerPrettyDate;
 const handlerSliceArticles = (articles) => articles
     .slice(0, constants_1.COUNT.ARTICLES)
     .map(({ title, link, pubDate }) => (pubDate ? `- [${title}](${link})` : `[${title}](${link})`))
@@ -89,9 +85,9 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
     catch (err) {
         if (axios_1.default.isAxiosError(err)) {
             const { response } = err;
-            if (response) {
+            if (response)
                 core.setFailed(err.message);
-            }
+            process.exit(1);
         }
     }
 });
@@ -108,8 +104,12 @@ const handlerGetLatestInstagramImages = (images) => images
     </a>`)
     .join('');
 exports.handlerGetLatestInstagramImages = handlerGetLatestInstagramImages;
-const handlerGetYearsOld = () => (0, moment_1.default)().diff(constants_1.PERSONAL.YEAR_OF_BIRTH, 'years');
+const handlerGetYearsOld = () => dateDifferenceInYears(new Date(constants_1.PERSONAL.YEAR_OF_BIRTH), new Date());
 exports.handlerGetYearsOld = handlerGetYearsOld;
+const dateDifferenceInMonths = (dateInitial, dateFinal) => Math.max((dateFinal.getFullYear() - dateInitial.getFullYear()) * 12 +
+    dateFinal.getMonth() -
+    dateInitial.getMonth(), 0);
+const dateDifferenceInYears = (dateInitial, dateFinal) => Math.trunc(dateDifferenceInMonths(dateInitial, dateFinal) / 12);
 const handleGetTechnologies = () => {
     const _array = [
         { file_name: 'ts', technology: 'Typescript' },

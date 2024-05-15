@@ -121,6 +121,50 @@
   <li>Job search preparation - Laboratoria</li>
 </ul>
 
+<p>
+  <strong>Charlas y Talleres</strong>
+</p>
+<a href="https://instagram.com/p/C5aNo2CMqrH" target="_blank">
+  <img
+    src="https://instagram.fkgf7-1.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=instagram.fkgf7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=3yTcFnvO9qkQ7kNvgEisCwR&edm=APU89FABAAAA&ccb=7-5&oh=00_AYAwBAIgC-le-g2qyVNwEUC4gYsORYJTcdI5e2qY2jcWFw&oe=66470216&_nc_sid=bc0c2c"
+    alt=""
+    width="150"
+    height="150"
+  />
+</a>
+<a href="https://instagram.com/p/C4jFrUBAngD" target="_blank">
+  <img
+    src="https://instagram.fkgf7-1.fna.fbcdn.net/v/t39.30808-6/433096135_18420451327058371_8085307193828185018_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fkgf7-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=leR6YFUD-8QQ7kNvgEHK2kF&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzMyNDUyNTkxMjQ4OTMyODQ2OQ%3D%3D.2.c-ccb7-5&oh=00_AYB8AccYCsWmTP0W5EfE6dYgL-8P4bYUkYWO-iZ0ngkvKA&oe=664B0451&_nc_sid=bc0c2c"
+    alt="La nueva organización de mi setup para este año 🫢❤️"
+    width="150"
+    height="150"
+  />
+</a>
+<a href="https://instagram.com/p/C1-OZuggKeB" target="_blank">
+  <img
+    src="https://instagram.fkgf7-1.fna.fbcdn.net/v/t39.30808-6/418830222_18405567298058371_8901975083607395399_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fkgf7-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=nPCXRRLAs6gQ7kNvgG9cQUi&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI3ODEyMDkxNDk2ODkxNDIwMA%3D%3D.2.c-ccb7-5&oh=00_AYCkQg6vEBhaghDNIrHsFVMzDa00DWI3IYkKsX0YbaHanA&oe=664B02DB&_nc_sid=bc0c2c"
+    alt="Un día distinto en familiar, aprovechando de descansar con mi cholito ❤️❤️"
+    width="150"
+    height="150"
+  />
+</a>
+<a href="https://instagram.com/p/C0vWEEDglpH" target="_blank">
+  <img
+    src="https://instagram.fkgf7-1.fna.fbcdn.net/v/t39.30808-6/409867898_18399857245058371_1121824249454466674_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fkgf7-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=lRQFMLFofN8Q7kNvgFwxxoQ&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI1NTkxODA4Mzc5NzE4NzkwMw%3D%3D.2.c-ccb7-5&oh=00_AYAhnJn0EzWqi-hGU7t0yMH0i22yShqYRHVvwAKYA2jagA&oe=664B0AE6&_nc_sid=bc0c2c"
+    alt="Luego de mucho tiempo y de manera muy improvisada, por fin nos pudimos juntar.  Fue muy rico poder verte, reírnos y chismear un poco 🫢🤣 Que se repita pronto ya sea acá o en Colombia ❤️"
+    width="150"
+    height="150"
+  />
+</a>
+<a href="https://instagram.com/p/Cz0YlL1AAe_" target="_blank">
+  <img
+    src="https://instagram.fkgf7-1.fna.fbcdn.net/v/t39.30808-6/403200363_18395440663058371_9132060762854505125_n.jpg?stp=c0.112.897.897a_dst-jpg_e15_s640x640&_nc_ht=instagram.fkgf7-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=rCMw69A09zEQ7kNvgHhesKE&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzOTMyMjE0MDQyMzQ4OTQ3MQ%3D%3D.2.c-ccb7-5&oh=00_AYDk0uuFx0iFwTntRdewPt0vBpX-UrAhXvMtkMRZuFpajg&oe=664B0B5C&_nc_sid=bc0c2c"
+    alt="Que lindo fue poder verte y estar un ratito contigo! Fue muy random el cómo nos conocimos hace más o menos 1 año y medio, y hoy, luego de mucho tiempo, por fin pudimos juntarnos ❤️ Espero que para la próxima, podamos estar más tiempo juntos, hasta el próximo viaje 🫰🏻"
+    width="150"
+    height="150"
+  />
+</a>
+
 <p><strong>Otros</strong></p>
 <ul>
   <li>🧳 Nómada digital.</li>
@@ -148,46 +192,7 @@
   </strong>
 </p>
 
-<a href="https://instagram.com/p/C5aNo2CMqrH" target="_blank">
-  <img
-    src="https://scontent-hel3-1.cdninstagram.com/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=scontent-hel3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=3yTcFnvO9qkQ7kNvgETQcab&edm=APU89FABAAAA&ccb=7-5&oh=00_AYCFIBltP58Pu5lET500ehbdIKGAVU7JRdIulgi2DvhFGQ&oe=66470216&_nc_sid=bc0c2c"
-    alt=""
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/C4jFrUBAngD" target="_blank">
-  <img
-    src="https://scontent-hel3-1.cdninstagram.com/v/t39.30808-6/433096135_18420451327058371_8085307193828185018_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-hel3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=leR6YFUD-8QQ7kNvgE0tjAy&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzMyNDUyNTkxMjQ4OTMyODQ2OQ%3D%3D.2.c-ccb7-5&oh=00_AYBP9-ZlIaAM2j-AbZ9mZRzJqeJ7hcxnBItU5i9wi0JP_w&oe=664B0451&_nc_sid=bc0c2c"
-    alt="La nueva organización de mi setup para este año 🫢❤️"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/C1-OZuggKeB" target="_blank">
-  <img
-    src="https://scontent-hel3-1.cdninstagram.com/v/t39.30808-6/418830222_18405567298058371_8901975083607395399_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-hel3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=nPCXRRLAs6gQ7kNvgFdGSf7&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI3ODEyMDkxNDk2ODkxNDIwMA%3D%3D.2.c-ccb7-5&oh=00_AYDsSifujfq45PxsZSe8cc_B7WAy7hnAvBnCVTdxTl57rA&oe=664B02DB&_nc_sid=bc0c2c"
-    alt="Un día distinto en familiar, aprovechando de descansar con mi cholito ❤️❤️"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/C0vWEEDglpH" target="_blank">
-  <img
-    src="https://scontent-hel3-1.cdninstagram.com/v/t39.30808-6/409867898_18399857245058371_1121824249454466674_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-hel3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=lRQFMLFofN8Q7kNvgFYjt4j&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI1NTkxODA4Mzc5NzE4NzkwMw%3D%3D.2.c-ccb7-5&oh=00_AYCbJi0N5tSvvkXAAeBDHtM3XDpBVA0Mv_7mX8TdqcMYuw&oe=664B0AE6&_nc_sid=bc0c2c"
-    alt="Luego de mucho tiempo y de manera muy improvisada, por fin nos pudimos juntar.  Fue muy rico poder verte, reírnos y chismear un poco 🫢🤣 Que se repita pronto ya sea acá o en Colombia ❤️"
-    width="150"
-    height="150"
-  />
-</a>
-<a href="https://instagram.com/p/Cz0YlL1AAe_" target="_blank">
-  <img
-    src="https://scontent-hel3-1.cdninstagram.com/v/t39.30808-6/403200363_18395440663058371_9132060762854505125_n.jpg?stp=c0.112.897.897a_dst-jpg_e15_s640x640&_nc_ht=scontent-hel3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=rCMw69A09zEQ7kNvgEudGUT&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzOTMyMjE0MDQyMzQ4OTQ3MQ%3D%3D.2.c-ccb7-5&oh=00_AYCFNCn_VlNlHl64rcI7_u1FPd5TTQqnI_NAGt3AkkxctQ&oe=664B0B5C&_nc_sid=bc0c2c"
-    alt="Que lindo fue poder verte y estar un ratito contigo! Fue muy random el cómo nos conocimos hace más o menos 1 año y medio, y hoy, luego de mucho tiempo, por fin pudimos juntarnos ❤️ Espero que para la próxima, podamos estar más tiempo juntos, hasta el próximo viaje 🫰🏻"
-    width="150"
-    height="150"
-  />
-</a>
+%{{instagram_images}}%
 
 ---
 
