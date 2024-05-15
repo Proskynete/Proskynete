@@ -26,7 +26,7 @@ const { INSTAGRAM_API_KEY } = process.env;
  * @param {string} url - The URL of the page to be scraped.
  * @returns The version of the package.
  */
-export const handlerGetVersion = async (url: string): Promise<string> => {
+export const handlerGetPackageVersion = async (url: string): Promise<string> => {
 	const file = await axios(url);
 
 	return new Promise((resolve) => {

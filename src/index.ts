@@ -2,7 +2,7 @@ import { promises as fs } from 'fs';
 import prettier from 'prettier';
 import { COUNT, PLACEHOLDERS, URLS } from './constants';
 import {
-	handlerGetVersion,
+	handlerGetPackageVersion,
 	handlerGetLatestArticles,
 	handlerSliceArticles,
 	handlerGetInstagramImages,
@@ -21,8 +21,8 @@ import {
 			handlerGetInstagramImages(),
 		]);
 
-		const _verticalTimeline = await handlerGetVersion(URLS.VERTICAL_TIMELINE);
-		const _prettyRating = await handlerGetVersion(URLS.PRETTY_RATING);
+		const _verticalTimeline = await handlerGetPackageVersion(URLS.VERTICAL_TIMELINE);
+		const _prettyRating = await handlerGetPackageVersion(URLS.PRETTY_RATING);
 		const _articles = articles ? handlerSliceArticles(articles) : '';
 		const _images = images ? handlerGetLatestInstagramImages(images) : '';
 		const _yearsOld = handlerGetYearsOld();
