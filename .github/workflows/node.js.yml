@@ -17,13 +17,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: 🚀 Setup with pnpm
-        uses: pnpm/action-setup@v3
+        uses: pnpm/action-setup@v4
         with:
           version: 8
-          run_install: |
-            - recursive: true
-              args: [--frozen-lockfile, --strict-peer-dependencies]
-            - args: [--global, gulp, prettier, typescript]
 
       - name: 🟢 Set up Node.js
         uses: actions/setup-node@v3
@@ -47,13 +43,9 @@ jobs:
         uses: actions/checkout@v3
 
       - name: 🚀 Setup with pnpm
-        uses: pnpm/action-setup@v3
+        uses: pnpm/action-setup@v4
         with:
           version: 8
-          run_install: |
-            - recursive: true
-              args: [--frozen-lockfile, --strict-peer-dependencies]
-            - args: [--global, gulp, prettier, typescript]
 
       - name: 🟢 Set up Node.js
         uses: actions/setup-node@v3
