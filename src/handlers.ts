@@ -47,7 +47,7 @@ export const handlerGetAdpListComments = async (url: string) => {
 					day: 'numeric',
 					month: 'long',
 					year: 'numeric',
-				})}</small>)<li>`,
+				})}</small>)</li>`,
 		)
 		.join('\n');
 };
