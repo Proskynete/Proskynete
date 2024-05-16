@@ -57,7 +57,7 @@ const handlerGetAdpListComments = (url) => __awaiter(void 0, void 0, void 0, fun
         day: 'numeric',
         month: 'long',
         year: 'numeric',
-    })}</small>)<li>`)
+    })}</small>)</li>`)
         .join('\n');
 });
 exports.handlerGetAdpListComments = handlerGetAdpListComments;

@@ -126,7 +126,15 @@
 </p>
 
 <ul>
-  <li><i>"Eduardo se toma el tiempo necesario para resolver dudas siempre con muy buena actitud. Recibe todas las inquietudes y traza un camino personalizado de aprendizaje segun lo que quieres resolver o los objetivos que tengas"</i> - Andres Perez (<small>25 de abril de 2024</small>)<li>
+  <li>
+    <i>
+      "Eduardo se toma el tiempo necesario para resolver dudas siempre con muy
+      buena actitud. Recibe todas las inquietudes y traza un camino
+      personalizado de aprendizaje segun lo que quieres resolver o los objetivos
+      que tengas"
+    </i>{" "}
+    - Andres Perez (<small>25 de abril de 2024</small>)
+  </li>
 </ul>
 
 <p><strong>Otros</strong></p>
