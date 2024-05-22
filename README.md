@@ -170,7 +170,7 @@
 
 <a href="https://instagram.com/p/C5aNo2CMqrH" target="_blank">
   <img
-    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=fOVYFveqaxgQ7kNvgFO7_5k&edm=APU89FABAAAA&ccb=7-5&oh=00_AYDyIc-qLpPz8zLrKsHzqQNFBuYMaxZYtVgOfXxRYzxd_Q&oe=664CF0D6&_nc_sid=bc0c2c"
+    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=fOVYFveqaxgQ7kNvgF63Krn&edm=APU89FABAAAA&ccb=7-5&oh=00_AYDdFQOAPhV2Q03SMEZ2gfG8HNYX7AY6eUPspLCHU2Kzbg&oe=664F93D6&_nc_sid=bc0c2c"
     alt=""
     width="150"
     height="150"
@@ -178,7 +178,7 @@
 </a>
 <a href="https://instagram.com/p/C4jFrUBAngD" target="_blank">
   <img
-    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t39.30808-6/433096135_18420451327058371_8085307193828185018_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=X5RYZd_hjwwQ7kNvgH6tv2q&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzMyNDUyNTkxMjQ4OTMyODQ2OQ%3D%3D.2.c-ccb7-5&oh=00_AYDDekThYpEg4OizG6gnsaaIuXVk182GJ2nOXd1Fx-8fUg&oe=6650F311&_nc_sid=bc0c2c"
+    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/433096135_18420451327058371_8085307193828185018_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=eoZZwsf_L18Q7kNvgHb7h2O&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzMyNDUyNTkxMjQ4OTMyODQ2OQ%3D%3D.2.c-ccb7-5&oh=00_AYABInlIE0nHH6XTO3_2cf4pITm5KopXnHBdzDs6vJORNg&oe=66539611&_nc_sid=bc0c2c"
     alt="La nueva organización de mi setup para este año 🫢❤️"
     width="150"
     height="150"
@@ -186,7 +186,7 @@
 </a>
 <a href="https://instagram.com/p/C1-OZuggKeB" target="_blank">
   <img
-    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t39.30808-6/418830222_18405567298058371_8901975083607395399_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=qTYOCF89CjUQ7kNvgFE3oFt&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI3ODEyMDkxNDk2ODkxNDIwMA%3D%3D.2.c-ccb7-5&oh=00_AYAxfY8-nZzTx0UE_6oknwhZTviGHZCjcHfSFam6CJIy8g&oe=6650F19B&_nc_sid=bc0c2c"
+    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/418830222_18405567298058371_8901975083607395399_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Y36m1-39N0QQ7kNvgFsS5RD&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI3ODEyMDkxNDk2ODkxNDIwMA%3D%3D.2.c-ccb7-5&oh=00_AYDtsG26g7rVTRKM3KjK-xVJCS6r_5E8vKwKjDN3mp81aw&oe=6653949B&_nc_sid=bc0c2c"
     alt="Un día distinto en familiar, aprovechando de descansar con mi cholito ❤️❤️"
     width="150"
     height="150"
@@ -194,7 +194,7 @@
 </a>
 <a href="https://instagram.com/p/C0vWEEDglpH" target="_blank">
   <img
-    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t39.30808-6/409867898_18399857245058371_1121824249454466674_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Awf0e9qxFxoQ7kNvgFs-R02&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI1NTkxODA4Mzc5NzE4NzkwMw%3D%3D.2.c-ccb7-5&oh=00_AYB9xzGs_4XLOVpCPEE0bbWP5Y5DF8TwCqPRVcMbdDcTfg&oe=6650C166&_nc_sid=bc0c2c"
+    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/409867898_18399857245058371_1121824249454466674_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Awf0e9qxFxoQ7kNvgFwC-oV&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI1NTkxODA4Mzc5NzE4NzkwMw%3D%3D.2.c-ccb7-5&oh=00_AYAFR2s15L-1ZT1Vzx6xjhK_9FB9f8jTG84pyhPvG0k03w&oe=66536466&_nc_sid=bc0c2c"
     alt="Luego de mucho tiempo y de manera muy improvisada, por fin nos pudimos juntar.  Fue muy rico poder verte, reírnos y chismear un poco 🫢🤣 Que se repita pronto ya sea acá o en Colombia ❤️"
     width="150"
     height="150"
@@ -202,7 +202,7 @@
 </a>
 <a href="https://instagram.com/p/Cz0YlL1AAe_" target="_blank">
   <img
-    src="https://instagram.ftll2-1.fna.fbcdn.net/v/t39.30808-6/403200363_18395440663058371_9132060762854505125_n.jpg?stp=c0.112.897.897a_dst-jpg_e15_s640x640&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=4rkyO_fFP_YQ7kNvgGfXRyo&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzOTMyMjE0MDQyMzQ4OTQ3MQ%3D%3D.2.c-ccb7-5&oh=00_AYCjkw5bdURdiLoQBvYGIH1Ai655hsomg-LbJ8SG_Si9ow&oe=6650C1DC&_nc_sid=bc0c2c"
+    src="https://instagram.fdub6-1.fna.fbcdn.net/v/t39.30808-6/403200363_18395440663058371_9132060762854505125_n.jpg?stp=c0.112.897.897a_dst-jpg_e15_s640x640&_nc_ht=instagram.fdub6-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=wxJZoOGOgY4Q7kNvgFZKyAN&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIzOTMyMjE0MDQyMzQ4OTQ3MQ%3D%3D.2.c-ccb7-5&oh=00_AYC0qSpIEwjLX2G94Tiol9bIh2adGe5Ei1iK6GL_ofQcGg&oe=665364DC&_nc_sid=bc0c2c"
     alt="Que lindo fue poder verte y estar un ratito contigo! Fue muy random el cómo nos conocimos hace más o menos 1 año y medio, y hoy, luego de mucho tiempo, por fin pudimos juntarnos ❤️ Espero que para la próxima, podamos estar más tiempo juntos, hasta el próximo viaje 🫰🏻"
     width="150"
     height="150"
