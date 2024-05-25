@@ -34,6 +34,13 @@ export const handlerGetPackageVersion = async (url: string): Promise<string> => 
 	});
 };
 
+export const prettyDateFormat = (date: string): string =>
+	new Date(date).toLocaleDateString('es-CL', {
+		day: 'numeric',
+		month: 'long',
+		year: 'numeric',
+	});
+
 export const handlerGetAdpListComments = async (url: string) => {
 	const { data } = await axios<GetCommentFromADPListResponse[]>(url);
 
@@ -41,13 +48,9 @@ export const handlerGetAdpListComments = async (url: string) => {
 		.slice(0, COUNT.COMMENTS)
 		.map(
 			({ review, reviewed_by, date_reviewed }) =>
-				`<li><i>"${review}"</i> - ${reviewed_by.name} (<small>${new Date(
+				`<li><i>"${review}"</i> - ${reviewed_by.name} <small>(${prettyDateFormat(
 					date_reviewed,
-				).toLocaleDateString('es-CL', {
-					day: 'numeric',
-					month: 'long',
-					year: 'numeric',
-				})}</small>)</li>`,
+				)})</small></li>`,
 		)
 		.join('\n');
 };

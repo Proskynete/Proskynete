@@ -1,5 +1,4 @@
 import { promises as fs } from 'fs';
-import prettier from 'prettier';
 import { COUNT, PLACEHOLDERS, URLS } from './constants';
 import {
 	handlerGetPackageVersion,
@@ -14,8 +13,6 @@ import {
 
 (async () => {
 	try {
-		const prettierConfig = await prettier.resolveConfig('../.pretierrc');
-
 		const [template, articles, images] = await Promise.all([
 			fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
 			handlerGetLatestArticles(),
@@ -41,12 +38,7 @@ import {
 			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.SECTION_IMAGES, _images)
 			.replace(PLACEHOLDERS.ADP_LIST.COMMENTS, _comments);
 
-		const markdownFormatted = prettier.format(newMarkdown, {
-			...prettierConfig,
-			parser: 'mdx',
-		});
-
-		await fs.writeFile('./README.md', markdownFormatted);
+		await fs.writeFile('./README.md', newMarkdown);
 	} catch (error) {
 		console.error(error);
 	}
