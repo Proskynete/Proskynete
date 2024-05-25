@@ -8,17 +8,12 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
-var __importDefault = (this && this.__importDefault) || function (mod) {
-    return (mod && mod.__esModule) ? mod : { "default": mod };
-};
 Object.defineProperty(exports, "__esModule", { value: true });
 const fs_1 = require("fs");
-const prettier_1 = __importDefault(require("prettier"));
 const constants_1 = require("./constants");
 const handlers_1 = require("./handlers");
 (() => __awaiter(void 0, void 0, void 0, function* () {
     try {
-        const prettierConfig = yield prettier_1.default.resolveConfig('../.pretierrc');
         const [template, articles, images] = yield Promise.all([
             fs_1.promises.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
             (0, handlers_1.handlerGetLatestArticles)(),
@@ -41,8 +36,7 @@ const handlers_1 = require("./handlers");
             .replace(constants_1.PLACEHOLDERS.WEBSITE.RSS, _articles)
             .replace(constants_1.PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.SECTION_IMAGES, _images)
             .replace(constants_1.PLACEHOLDERS.ADP_LIST.COMMENTS, _comments);
-        const markdownFormatted = prettier_1.default.format(newMarkdown, Object.assign(Object.assign({}, prettierConfig), { parser: 'mdx' }));
-        yield fs_1.promises.writeFile('./README.md', markdownFormatted);
+        yield fs_1.promises.writeFile('./README.md', newMarkdown);
     }
     catch (error) {
         console.error(error);

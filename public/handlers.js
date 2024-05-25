@@ -31,7 +31,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.handleGetTechnologies = exports.handlerGetYearsOld = exports.handlerGetLatestInstagramImages = exports.handlerGetInstagramImages = exports.handlerSliceArticles = exports.handlerGetLatestArticles = exports.handlerGetAdpListComments = exports.handlerGetPackageVersion = void 0;
+exports.handleGetTechnologies = exports.handlerGetYearsOld = exports.handlerGetLatestInstagramImages = exports.handlerGetInstagramImages = exports.handlerSliceArticles = exports.handlerGetLatestArticles = exports.handlerGetAdpListComments = exports.prettyDateFormat = exports.handlerGetPackageVersion = void 0;
 const axios_1 = __importDefault(require("axios"));
 const cheerio_1 = __importDefault(require("cheerio"));
 const core = __importStar(require("@actions/core"));
@@ -49,15 +49,17 @@ const handlerGetPackageVersion = (url) => __awaiter(void 0, void 0, void 0, func
     });
 });
 exports.handlerGetPackageVersion = handlerGetPackageVersion;
+const prettyDateFormat = (date) => new Date(date).toLocaleDateString('es-CL', {
+    day: 'numeric',
+    month: 'long',
+    year: 'numeric',
+});
+exports.prettyDateFormat = prettyDateFormat;
 const handlerGetAdpListComments = (url) => __awaiter(void 0, void 0, void 0, function* () {
     const { data } = yield (0, axios_1.default)(url);
     return data
         .slice(0, constants_1.COUNT.COMMENTS)
-        .map(({ review, reviewed_by, date_reviewed }) => `<li><i>"${review}"</i> - ${reviewed_by.name} (<small>${new Date(date_reviewed).toLocaleDateString('es-CL', {
-        day: 'numeric',
-        month: 'long',
-        year: 'numeric',
-    })}</small>)</li>`)
+        .map(({ review, reviewed_by, date_reviewed }) => `<li><i>"${review}"</i> - ${reviewed_by.name} <small>(${(0, exports.prettyDateFormat)(date_reviewed)})</small></li>`)
         .join('\n');
 });
 exports.handlerGetAdpListComments = handlerGetAdpListComments;
