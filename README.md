@@ -99,13 +99,13 @@
   <li>Job search preparation - Laboratoria</li>
 </ul>
 
-<p><strong>Comentarios en ADPList</strong></p>
-
+<p><strong>Últimos 5 comentarios en ADPList</strong> (ver todos <a href="https://adplist.org/widgets/reviews?src=eduardo-alvarez" target='_blank'>acá</a>)</p>
 <ul>
   <li><i>"Una gran mentoría, explica todo muy bien, tiene los conceptos muy claro y explica demasiado bien"</i> - Carlos Eduardo Palomo Serna <small>(1 de junio de 2024)</small></li>
 <li><i>"Me gustaría dar las gracias a Eduardo por su orientación, su enfoque profesional y su apoyo."</i> - Artem Liamichev <small>(29 de mayo de 2024)</small></li>
 <li><i>"Muy profesional y con ganas de ayudar, se toma el tiempo de de preparar bien todo el material con las preguntas, tiene muchos conocimientos técnicos y habilidades. Muy simpático además. Saque muchas cosas positivas de esta reunión y me aclaró bastante la pelicula"</i> - Michelle Cifuentes <small>(23 de mayo de 2024)</small></li>
 </ul>
+
 
 
 <p><strong>Otros</strong></p>
@@ -128,41 +128,41 @@
 
 <p align="left">
   <strong>
-    Últimas 5 imágenes en:<a href="https://instagram.com/proskynete" target='_blank'>Mi Instagram</a>
+    Últimas 5 imágenes en: <a href="https://instagram.com/proskynete" target='_blank'>Mi Instagram</a>
   </strong>
 </p>
 
 <a href='https://instagram.com/p/C8BaY9MACZ5' target='_blank'>
 				<img
-					src='https://scontent-hel3-1.cdninstagram.com/v/t39.30808-6/441911176_18435955906058371_2184663665769581895_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-hel3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=nicaU3o5vywQ7kNvgE9nsxc&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzM4NzEwNDQ1MzcwMTM0NDA2Mg%3D%3D.2.c-ccb7-5&oh=00_AYDOazmkntslZM8fW_l6YWED3ed0twaEvqVlXfmQpYPHOQ&oe=666C6EB2&_nc_sid=bc0c2c'
+					src='https://instagram.fevn6-5.fna.fbcdn.net/v/t39.30808-6/441911176_18435955906058371_2184663665769581895_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fevn6-5.fna.fbcdn.net&_nc_cat=107&_nc_ohc=L9i3YzMVGSwQ7kNvgHwqPmv&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzM4NzEwNDQ1MzcwMTM0NDA2Mg%3D%3D.2.c-ccb7-5&oh=00_AYAcVbBLAM4UdMlAAtFdd1q4Kzn6CoCv4LbsiI_oFg8Wvw&oe=666ED972&_nc_sid=bc0c2c'
 					alt='Unas fotitos que me saqué la otra vez Mi viejita me dijo que me sacara una foto sonriendo y la infaltable fotito con ella ❤️'
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C5aNo2CMqrH' target='_blank'>
 				<img
-					src='https://scontent-hel3-1.cdninstagram.com/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=scontent-hel3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=jAnI9sGZPEMQ7kNvgHLahnS&edm=APU89FABAAAA&ccb=7-5&oh=00_AYD28ysL7-d2DxxBGgWQzBthCtpAAsGZU1OEunemYCbVlg&oe=6668A056&_nc_sid=bc0c2c'
+					src='https://instagram.fevn6-3.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=instagram.fevn6-3.fna.fbcdn.net&_nc_cat=108&_nc_ohc=jAnI9sGZPEMQ7kNvgEW3Jl5&edm=APU89FABAAAA&ccb=7-5&oh=00_AYAHZ1JsCGlAPa4CJk4R0Rs-Ni_8yY8vZGDFLMnoctbXSg&oe=666AD2D6&_nc_sid=bc0c2c'
 					alt=''
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C4jFrUBAngD' target='_blank'>
 				<img
-					src='https://scontent-hel3-1.cdninstagram.com/v/t39.30808-6/433096135_18420451327058371_8085307193828185018_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-hel3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=Ej3YgToFZY8Q7kNvgFaTkzx&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzMyNDUyNTkxMjQ4OTMyODQ2OQ%3D%3D.2.c-ccb7-5&oh=00_AYApPSMeKUZ1DdN_X2cVcEdVGpfIYQNLizfvOQWffGR1BA&oe=666CA291&_nc_sid=bc0c2c'
+					src='https://instagram.fevn6-5.fna.fbcdn.net/v/t39.30808-6/433096135_18420451327058371_8085307193828185018_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fevn6-5.fna.fbcdn.net&_nc_cat=107&_nc_ohc=Ej3YgToFZY8Q7kNvgHxGloU&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzMyNDUyNTkxMjQ4OTMyODQ2OQ%3D%3D.2.c-ccb7-5&oh=00_AYB35ZVbj6nNj8HSyWM-iXJJgpWPGiSp2xDWmZFGZ3--pw&oe=666ED511&_nc_sid=bc0c2c'
 					alt='La nueva organización de mi setup para este año 🫢❤️'
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C1-OZuggKeB' target='_blank'>
 				<img
-					src='https://scontent-hel3-1.cdninstagram.com/v/t39.30808-6/418830222_18405567298058371_8901975083607395399_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-hel3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=PBXx3zS9RtcQ7kNvgGvpMBw&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI3ODEyMDkxNDk2ODkxNDIwMA%3D%3D.2.c-ccb7-5&oh=00_AYBQzZKD7njoj-3sRdmjcvHqwgr90NdaNHAt4tzAUZpcnw&oe=666CA11B&_nc_sid=bc0c2c'
+					src='https://instagram.fevn6-5.fna.fbcdn.net/v/t39.30808-6/418830222_18405567298058371_8901975083607395399_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fevn6-5.fna.fbcdn.net&_nc_cat=107&_nc_ohc=mbf6bq0l8N0Q7kNvgGTj2QY&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI3ODEyMDkxNDk2ODkxNDIwMA%3D%3D.2.c-ccb7-5&oh=00_AYChWnPeGJz0okmLS7pYhkg-HKdGkNsAxJJzdkZuFUkppw&oe=666ED39B&_nc_sid=bc0c2c'
 					alt='Un día distinto en familiar, aprovechando de descansar con mi cholito ❤️❤️'
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C0vWEEDglpH' target='_blank'>
 				<img
-					src='https://scontent-hel3-1.cdninstagram.com/v/t39.30808-6/409867898_18399857245058371_1121824249454466674_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-hel3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=rnDMjo8lUBMQ7kNvgHdHdu8&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI1NTkxODA4Mzc5NzE4NzkwMw%3D%3D.2.c-ccb7-5&oh=00_AYDcYlxVPNRVoLzXW5Y1QARQSfnb97AmU0NpNdvqPBrX4w&oe=666C70E6&_nc_sid=bc0c2c'
+					src='https://instagram.fevn6-5.fna.fbcdn.net/v/t39.30808-6/409867898_18399857245058371_1121824249454466674_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fevn6-5.fna.fbcdn.net&_nc_cat=107&_nc_ohc=rnDMjo8lUBMQ7kNvgHEkC-0&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzI1NTkxODA4Mzc5NzE4NzkwMw%3D%3D.2.c-ccb7-5&oh=00_AYBDb0NY0OWNa2yFic6m9Cp1wXRsAlqRpz3k-M73Wcu_ng&oe=666EDBA6&_nc_sid=bc0c2c'
 					alt='Luego de mucho tiempo y de manera muy improvisada, por fin nos pudimos juntar.  Fue muy rico poder verte, reírnos y chismear un poco 🫢🤣 Que se repita pronto ya sea acá o en Colombia ❤️'
 					width='150'
 					height='150'
