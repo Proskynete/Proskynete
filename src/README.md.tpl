@@ -34,7 +34,7 @@
   <li>Job search preparation - Laboratoria</li>
 </ul>
 
-<p><strong>Últimos 5 comentarios en ADPList</strong> (ver todos <a href="https://adplist.org/widgets/reviews?src=eduardo-alvarez" target='_blank'>acá</a>)</p>
+<p><strong>Últimos %{{number_comments}}% comentarios en ADPList</strong> (ver todos <a href="https://adplist.org/widgets/reviews?src=eduardo-alvarez" target='_blank'>acá</a>)</p>
 <ul>
   %{{adp_list_comments}}%
 </ul>

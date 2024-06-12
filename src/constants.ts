@@ -27,6 +27,7 @@ export const PLACEHOLDERS: PlaceholdersInterface = {
 	},
 	ADP_LIST: {
 		COMMENTS: '%{{adp_list_comments}}%',
+		COUNT_COMMENTS: '%{{number_comments}}%',
 	},
 };
 
