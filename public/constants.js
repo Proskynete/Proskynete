@@ -22,6 +22,7 @@ exports.PLACEHOLDERS = {
     },
     ADP_LIST: {
         COMMENTS: '%{{adp_list_comments}}%',
+        COUNT_COMMENTS: '%{{number_comments}}%',
     },
 };
 exports.REGEXPS = {
