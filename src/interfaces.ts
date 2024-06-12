@@ -107,6 +107,7 @@ export interface PlaceholdersInterface {
 	};
 	ADP_LIST: {
 		COMMENTS: string;
+		COUNT_COMMENTS: string;
 	};
 }
 
