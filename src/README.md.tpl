@@ -34,11 +34,11 @@
   <li>Job search preparation - Laboratoria</li>
 </ul>
 
-<p><strong>Comentarios en ADPList</strong></p>
-
+<p><strong>Últimos 5 comentarios en ADPList</strong> (ver todos <a href="https://adplist.org/widgets/reviews?src=eduardo-alvarez" target='_blank'>acá</a>)</p>
 <ul>
   %{{adp_list_comments}}%
 </ul>
+
 
 
 <p><strong>Otros</strong></p>
@@ -61,7 +61,7 @@
 
 <p align="left">
   <strong>
-    Últimas %{{number_images}}% imágenes en:<a href="https://instagram.com/proskynete" target='_blank'>Mi Instagram</a>
+    Últimas %{{number_images}}% imágenes en: <a href="https://instagram.com/proskynete" target='_blank'>Mi Instagram</a>
   </strong>
 </p>
 
