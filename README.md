@@ -134,14 +134,14 @@
 
 <a href='https://instagram.com/p/C5aNo2CMqrH' target='_blank'>
 				<img
-					src='https://instagram.fotp1-1.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=instagram.fotp1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=uwpW-bKyXisQ7kNvgEseVad&edm=APU89FABAAAA&ccb=7-5&oh=00_AYD4O0bVvOfUUmyI_E219el3o3EfWl-IBYMAW0yKrLiQYw&oe=668D8A56&_nc_sid=bc0c2c'
+					src='https://instagram.fiev17-1.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=instagram.fiev17-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=oRoBow6PP6wQ7kNvgGadERv&edm=APU89FABAAAA&ccb=7-5&oh=00_AYA24zUN_HMhd2u74OKprxf7Uyd693QYWZrK5WV3CJRA9w&oe=66917ED6&_nc_sid=bc0c2c'
 					alt=''
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/Cy9hdsUIuxt' target='_blank'>
 				<img
-					src='https://instagram.fotp1-1.fna.fbcdn.net/v/t39.30808-6/396158910_17879972402967311_8682112862063658116_n.jpg?stp=c204.0.1031.1031a_dst-jpg_e15_s640x640&_nc_ht=instagram.fotp1-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=K-0qvXhnVPEQ7kNvgGOXv0Y&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIyMzg4MDA4NDI0OTMwODI2OQ%3D%3D.2.c-ccb7-5&oh=00_AYDpfqxvjSwbU_Z1wbXabHWiwPpSaeHnPNj42WPGz07xRQ&oe=668D8D04&_nc_sid=bc0c2c'
+					src='https://instagram.fiev17-2.fna.fbcdn.net/v/t39.30808-6/396158910_17879972402967311_8682112862063658116_n.jpg?stp=c204.0.1031.1031a_dst-jpg_e15_s640x640&_nc_ht=instagram.fiev17-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=d_cJ-rI1I9gQ7kNvgHQjRaz&gid=9f0f31b60f7f41cb96a02626fc212a81&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIyMzg4MDA4NDI0OTMwODI2OQ%3D%3D.2.c-ccb7-5&oh=00_AYDzWfSDcf6v5vWhMPT7jtuCRVxBdGzBNnjbMdjMb6aclw&oe=66918184&_nc_sid=bc0c2c'
 					alt='🎉 ¡Y así concluye TechSchool! 🚀   Queremos expresar nuestro más profundo agradecimiento a todos los asistentes que hicieron de este evento algo verdaderamente especial. La energía, las ganas de aprender y la comunidad en acción son lo que nos impulsa a seguir organizando eventos como este. ❤️👩‍💻👨‍💻  Ya estamos ansiosos por el próximo encuentro. ¡Hasta pronto y sigamos construyendo juntos esta increíble comunidad! 🤗🌟  Agradecimientos para: 👨‍🏫 👩‍🏫 Nuestros mentores Francisca Medina Concha Alfonsina Lizardo 👾 Eduardo Álvarez Castañeda Gonzalo Fleming Garrido  🏢 Al equipo de JSCHILE.ORG en terreno @hubprovidencia @diruzcode @_benjvvp @fabianko @panchocorderos 🚀  🏡 Equipo online:  @fforres @pillilii @dereemii   Síguenos en todas nuestras redes en el link de nuestra bio ⭐️  #TechSchool #Gracias #ComunidadJSChile #HastaPronto'
 					width='150'
 					height='150'
