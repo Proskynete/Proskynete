@@ -18,6 +18,16 @@
 					width='25'
 					height='25'
 				/> <img
+					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/vue.png?raw=true'
+					alt=Vue
+					width='25'
+					height='25'
+				/> <img
+					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/svelte.png?raw=true'
+					alt=Svelte
+					width='25'
+					height='25'
+				/> <img
 					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/redux.png?raw=true'
 					alt=Redux
 					width='25'
@@ -128,21 +138,35 @@
 
 <p align="left">
   <strong>
-    Últimas 5 imágenes en: <a href="https://instagram.com/proskynete" target='_blank'>Mi Instagram</a>
+    Últimas 5 imágenes en: <a href="https://instagram.com/eduardo_alvarez.dev" target='_blank'>Mi Instagram</a>
   </strong>
 </p>
 
-<a href='https://instagram.com/p/C5aNo2CMqrH' target='_blank'>
+<a href='https://instagram.com/p/C5ys60PpbWU' target='_blank'>
 				<img
-					src='https://instagram.ftll2-1.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=XBFjUzZ7-DUQ7kNvgGX3Mxp&edm=APU89FABAAAA&ccb=7-5&oh=00_AYDpxUu98JsNWwsZPK4HBzeZBqTVNjCwY4TKCYSNIvJEDw&oe=669421D6&_nc_sid=bc0c2c'
+					src='https://instagram.ftll2-1.fna.fbcdn.net/v/t51.29350-15/438754256_7249821605071420_8478687047672465221_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=6r6yozD_iNwQ7kNvgFEOc-l&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzM0NjkzNTAxODkzMDA3MDUxMg%3D%3D.2-ccb7-5&oh=00_AYB1I9Aw7VRzd-pZPJyk5DXcC7WJv7P2XcfYlCx_2XiZiQ&oe=6696719C&_nc_sid=bc0c2c'
+					alt='El sábado 6 de abril, y en conjunto con @javascriptchile con su iniciativa #techschool y @duocuc_valparaiso, tuve la oportunidad de compartir un taller sobre Astro. Aprendido algunas de sus principales características, mientras desarrollábamos una aplicación consumiendo la API de Pokemon.  Puedes ver la presentación ingresando a mi sitio web https://eduardoalvarez.dev/charlas-talleres'
+					width='150'
+					height='150'
+				/>
+    </a><a href='https://instagram.com/p/C5yrrizp3-T' target='_blank'>
+				<img
+					src='https://instagram.ftll2-1.fna.fbcdn.net/v/t51.29350-15/438622031_732408608963625_5968600723231326392_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=F2RRYursqSwQ7kNvgHbKAxw&edm=APU89FABAAAA&ccb=7-5&oh=00_AYAjmNA1A5KPbYmWjaFECy9Jxj7te4Barf8xV0gnMHeatw&oe=6696597E&_nc_sid=bc0c2c'
+					alt='El sábado 6 de abril, y en conjunto a @javascriptchile con su iniciativa #techschool y a @duocuc_valparaiso, tuve la oportunidad de compartir un taller sobre Astro, aprendido algunas de sus principales características, mientras desarrollábamos una aplicación consumiendo la API de Pokemon.  Puedes ver la presentación ingresando a mi sitio web, en la vista de charlas y talleres'
+					width='150'
+					height='150'
+				/>
+    </a><a href='https://instagram.com/p/C5aNo2CMqrH' target='_blank'>
+				<img
+					src='https://instagram.ftll2-1.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=XBFjUzZ7-DUQ7kNvgE6_Ha-&edm=APU89FABAAAA&ccb=7-5&oh=00_AYDEboa27RbT_t01IMPJQmlojXuAwy6USQuELSGpEcHRzQ&oe=66965456&_nc_sid=bc0c2c'
 					alt=''
 					width='150'
 					height='150'
 				/>
-    </a><a href='https://instagram.com/p/Cy9hdsUIuxt' target='_blank'>
+    </a><a href='https://instagram.com/p/C4jFsJAga61' target='_blank'>
 				<img
-					src='https://instagram.ftll2-1.fna.fbcdn.net/v/t39.30808-6/396158910_17879972402967311_8682112862063658116_n.jpg?stp=c204.0.1031.1031a_dst-jpg_e15_s640x640&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=lSwnbESx7GwQ7kNvgFa_i7T&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzIyMzg4MDA4NDI0OTMwODI2OQ%3D%3D.2.c-ccb7-5&oh=00_AYDdmp50Y51d1pbP9LmvKl85ibe1YernOOgtIcPXbvmi8w&oe=66942484&_nc_sid=bc0c2c'
-					alt='🎉 ¡Y así concluye TechSchool! 🚀   Queremos expresar nuestro más profundo agradecimiento a todos los asistentes que hicieron de este evento algo verdaderamente especial. La energía, las ganas de aprender y la comunidad en acción son lo que nos impulsa a seguir organizando eventos como este. ❤️👩‍💻👨‍💻  Ya estamos ansiosos por el próximo encuentro. ¡Hasta pronto y sigamos construyendo juntos esta increíble comunidad! 🤗🌟  Agradecimientos para: 👨‍🏫 👩‍🏫 Nuestros mentores Francisca Medina Concha Alfonsina Lizardo 👾 Eduardo Álvarez Castañeda Gonzalo Fleming Garrido  🏢 Al equipo de JSCHILE.ORG en terreno @hubprovidencia @diruzcode @_benjvvp @fabianko @panchocorderos 🚀  🏡 Equipo online:  @fforres @pillilii @dereemii   Síguenos en todas nuestras redes en el link de nuestra bio ⭐️  #TechSchool #Gracias #ComunidadJSChile #HastaPronto'
+					src='https://instagram.ftll2-1.fna.fbcdn.net/v/t39.30808-6/433096135_18420451327058371_8085307193828185018_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=DxvWLNZtNrYQ7kNvgEvtrMz&gid=bba83490d0e648b1a9eb45849eb58975&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzMyNDUyNTk2OTgwMDE3OTYyMw%3D%3D.2.c-ccb7-5&oh=00_AYC7oah2ZEjhofvejksKm6y0WdhYfmM_G2jRSwp-ovmRug&oe=66966211&_nc_sid=bc0c2c'
+					alt='La nueva organización de mi setup para este año 🫢❤️'
 					width='150'
 					height='150'
 				/>

@@ -129,6 +129,8 @@ const handleGetTechnologies = () => {
         { file_name: 'ts', technology: 'Typescript' },
         { file_name: 'js', technology: 'Javascript' },
         { file_name: 'react', technology: 'React' },
+        { file_name: 'vue', technology: 'Vue' },
+        { file_name: 'svelte', technology: 'Svelte' },
         { file_name: 'redux', technology: 'Redux' },
         { file_name: 'html5', technology: 'HTML5' },
         { file_name: 'css3', technology: 'CSS3' },

@@ -18,6 +18,7 @@ exports.PLACEHOLDERS = {
         INSTAGRAM: {
             NUMBER_IMAGES: '%{{number_images}}%',
             SECTION_IMAGES: '%{{instagram_images}}%',
+            PROFILE: '%{{instagram_profile}}%',
         },
     },
     ADP_LIST: {
@@ -41,8 +42,8 @@ exports.BASE_URL = {
     ADP_LIST: 'https://api2.adplist.org',
 };
 exports.INSTAGRAM = {
-    USER_ID: 42938370,
-    USER_NAME: 'Proskynete',
+    USER_ID: 41056689992,
+    USER_NAME: 'eduardo_alvarez.dev',
 };
 exports.PERSONAL = {
     YEAR_OF_BIRTH: '1993-12-24',

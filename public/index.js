@@ -32,6 +32,7 @@ const handlers_1 = require("./handlers");
             .replace(constants_1.PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)
             .replace(constants_1.PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
             .replace(constants_1.PLACEHOLDERS.WEBSITE.NUMBER_ARTICLES, constants_1.COUNT.ARTICLES.toString())
+            .replace(constants_1.PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.PROFILE, constants_1.INSTAGRAM.USER_NAME)
             .replace(constants_1.PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.NUMBER_IMAGES, constants_1.COUNT.IMAGES.toString())
             .replace(constants_1.PLACEHOLDERS.ADP_LIST.COUNT_COMMENTS, constants_1.COUNT.COMMENTS.toString())
             .replace(constants_1.PLACEHOLDERS.WEBSITE.RSS, _articles)
