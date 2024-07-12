@@ -1,5 +1,5 @@
 import { promises as fs } from 'fs';
-import { COUNT, PLACEHOLDERS, URLS } from './constants';
+import { COUNT, PLACEHOLDERS, URLS, INSTAGRAM } from './constants';
 import {
 	handlerGetPackageVersion,
 	handlerGetLatestArticles,
@@ -33,6 +33,7 @@ import {
 			.replace(PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)
 			.replace(PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
 			.replace(PLACEHOLDERS.WEBSITE.NUMBER_ARTICLES, COUNT.ARTICLES.toString())
+			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.PROFILE, INSTAGRAM.USER_NAME)
 			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.NUMBER_IMAGES, COUNT.IMAGES.toString())
 			.replace(PLACEHOLDERS.ADP_LIST.COUNT_COMMENTS, COUNT.COMMENTS.toString())
 			.replace(PLACEHOLDERS.WEBSITE.RSS, _articles)

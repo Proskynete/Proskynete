@@ -61,7 +61,7 @@
 
 <p align="left">
   <strong>
-    Últimas %{{number_images}}% imágenes en: <a href="https://instagram.com/proskynete" target='_blank'>Mi Instagram</a>
+    Últimas %{{number_images}}% imágenes en: <a href="https://instagram.com/%{{instagram_profile}}%" target='_blank'>Mi Instagram</a>
   </strong>
 </p>
 

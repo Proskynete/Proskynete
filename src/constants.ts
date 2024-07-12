@@ -23,6 +23,7 @@ export const PLACEHOLDERS: PlaceholdersInterface = {
 		INSTAGRAM: {
 			NUMBER_IMAGES: '%{{number_images}}%',
 			SECTION_IMAGES: '%{{instagram_images}}%',
+			PROFILE: '%{{instagram_profile}}%',
 		},
 	},
 	ADP_LIST: {
@@ -50,8 +51,8 @@ export const BASE_URL: BaseUrlInterface = {
 };
 
 export const INSTAGRAM = {
-	USER_ID: 42938370, // 41056689992
-	USER_NAME: 'Proskynete', // eduardo_alvarez.dev
+	USER_ID: 41056689992, // 42938370
+	USER_NAME: 'eduardo_alvarez.dev', // Proskynete
 };
 
 export const PERSONAL = {

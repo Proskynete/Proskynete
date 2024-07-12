@@ -103,6 +103,7 @@ export interface PlaceholdersInterface {
 		INSTAGRAM: {
 			NUMBER_IMAGES: string;
 			SECTION_IMAGES: string;
+			PROFILE: string;
 		};
 	};
 	ADP_LIST: {
