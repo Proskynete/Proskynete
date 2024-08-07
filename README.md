@@ -144,28 +144,28 @@
 
 <a href='https://instagram.com/p/C5ys60PpbWU' target='_blank'>
 				<img
-					src='https://instagram.fotp1-2.fna.fbcdn.net/v/t51.29350-15/438754256_7249821605071420_8478687047672465221_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fotp1-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=BXmpK9anp8EQ7kNvgHiGkxb&gid=575992f1d0e14a3cbaa41ee92762fa74&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzM0NjkzNTAxODkzMDA3MDUxMg%3D%3D.2-ccb7-5&oh=00_AYCfHHFVF9UuRgQ32fRe9y_Eo7BL9Mw9hlereyP6a0TDhQ&oe=66B2595C&_nc_sid=bc0c2c'
+					src='https://scontent-waw2-1.cdninstagram.com/v/t51.29350-15/438754256_7249821605071420_8478687047672465221_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=Lfv1VSyV7FwQ7kNvgEJ55bs&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzM0NjkzNTAxODkzMDA3MDUxMg%3D%3D.2-ccb7-5&oh=00_AYAvfV5eS7nyQ3jR_hq8mcabCeuwY3ZYL34Ca4P4xAGPZg&oe=66B8F0DC&_nc_sid=bc0c2c'
 					alt='El sábado 6 de abril, y en conjunto con @javascriptchile con su iniciativa #techschool y @duocuc_valparaiso, tuve la oportunidad de compartir un taller sobre Astro. Aprendido algunas de sus principales características, mientras desarrollábamos una aplicación consumiendo la API de Pokemon.  Puedes ver la presentación ingresando a mi sitio web https://eduardoalvarez.dev/charlas-talleres'
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C5yrrizp3-T' target='_blank'>
 				<img
-					src='https://instagram.fotp1-1.fna.fbcdn.net/v/t51.29350-15/438622031_732408608963625_5968600723231326392_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fotp1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=vr-woUsIkWIQ7kNvgE8S4ar&gid=575992f1d0e14a3cbaa41ee92762fa74&edm=APU89FABAAAA&ccb=7-5&oh=00_AYAPu0o7PN0sQFQVyWjJHb6LzRMZPabUXzRV1iWx7i7B1g&oe=66B2797E&_nc_sid=bc0c2c'
+					src='https://scontent-waw2-1.cdninstagram.com/v/t51.29350-15/438622031_732408608963625_5968600723231326392_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=109&_nc_ohc=zJ9s4r48e8wQ7kNvgGKyWQf&edm=APU89FABAAAA&ccb=7-5&oh=00_AYAGstNFqvZOMQ0Nhmz_gyo9KPkbRik1f2WF39oO5ol6lA&oe=66B910FE&_nc_sid=bc0c2c'
 					alt='El sábado 6 de abril, y en conjunto a @javascriptchile con su iniciativa #techschool y a @duocuc_valparaiso, tuve la oportunidad de compartir un taller sobre Astro, aprendido algunas de sus principales características, mientras desarrollábamos una aplicación consumiendo la API de Pokemon.  Puedes ver la presentación ingresando a mi sitio web, en la vista de charlas y talleres'
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C5aNo2CMqrH' target='_blank'>
 				<img
-					src='https://instagram.fotp1-1.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=instagram.fotp1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=kWFkw0fWI-sQ7kNvgFXNcFD&gid=575992f1d0e14a3cbaa41ee92762fa74&edm=APU89FABAAAA&ccb=7-5&oh=00_AYC88iCmFrLQ9ol3oXz3nYtucSJ58OKCBEWeAmkALupMQA&oe=66B27456&_nc_sid=bc0c2c'
+					src='https://scontent-waw2-1.cdninstagram.com/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=108&_nc_ohc=QXZCwHh0tIYQ7kNvgEvXndq&edm=APU89FABAAAA&ccb=7-5&oh=00_AYAHhSErCRfELGSi1hssVyedJnQjaL-VW0gNrwH7JsAcBg&oe=66B90BD6&_nc_sid=bc0c2c'
 					alt=''
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C4jFsJAga61' target='_blank'>
 				<img
-					src='https://instagram.fotp1-1.fna.fbcdn.net/v/t39.30808-6/433096135_18420451327058371_8085307193828185018_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fotp1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=BuF0p9DJdX8Q7kNvgG3TeLW&gid=575992f1d0e14a3cbaa41ee92762fa74&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzMyNDUyNTk2OTgwMDE3OTYyMw%3D%3D.2.c-ccb7-5&oh=00_AYA3o825y4M8Vy4iI7ekEIeXjwtsL-S0RiCh9gmVxBhfKw&oe=66B28211&_nc_sid=bc0c2c'
+					src='https://scontent-waw2-1.cdninstagram.com/v/t39.30808-6/433096135_18420451327058371_8085307193828185018_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent-waw2-1.cdninstagram.com&_nc_cat=107&_nc_ohc=LevW07HsL5MQ7kNvgGBZvKy&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzMyNDUyNTk2OTgwMDE3OTYyMw%3D%3D.2.c-ccb7-5&oh=00_AYCu7R8S-eoyiSb_KyEqnlBg-O-OM3DhenrD6d8LWla7jQ&oe=66B91991&_nc_sid=bc0c2c'
 					alt='La nueva organización de mi setup para este año 🫢❤️'
 					width='150'
 					height='150'
