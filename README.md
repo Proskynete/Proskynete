@@ -144,35 +144,35 @@
 
 <a href='https://instagram.com/p/C-ZBiWAgJ5s' target='_blank'>
 				<img
-					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/454284637_2211453355886743_1507808198217161850_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ckybT-DnP9MQ7kNvgH3rmgU&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzQyOTc3OTMzODU5NjMxMTI3MA%3D%3D.2.c-ccb7-5&oh=00_AYDl5ZpmOHsA7gm07Y2jrM54yKxh8bP3ypkoQKT5T8XD2A&oe=66DB5A9D&_nc_sid=bc0c2c'
+					src='https://instagram.fkgf1-2.fna.fbcdn.net/v/t51.29350-15/454284637_2211453355886743_1507808198217161850_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fkgf1-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ckybT-DnP9MQ7kNvgFC-V6b&_nc_gid=f82db1371bdf4b519efd9af07d731d99&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzQyOTc3OTMzODU5NjMxMTI3MA%3D%3D.2.c-ccb7-5&oh=00_AYBYXUdoes4zrpdjtG-IaAzli6KNpu7Sckn-tPtgZsURKQ&oe=66DDFD9D&_nc_sid=bc0c2c'
 					alt='Este año no ha sido para nada fácil, ha tocado estar en el suelo por un rato y no ha sido fácil el poder pararse, pero acá vamos de nuevo… y este nuevo surgir, debía ser acompañado con un cambio. Esperemos que se vengan bonitos desafíos ❤️'
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C5ys60PpbWU' target='_blank'>
 				<img
-					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/438754256_7249821605071420_8478687047672465221_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=rPsNX9twt_cQ7kNvgFETN6B&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzM0NjkzNTAxODkzMDA3MDUxMg%3D%3D.2-ccb7-5&oh=00_AYBfBjmgxTSoby5mYjZXgF-cCWlOEq_KuoP2x4gXi8C1qA&oe=66DB37DC&_nc_sid=bc0c2c'
+					src='https://instagram.fkgf1-2.fna.fbcdn.net/v/t51.29350-15/438754256_7249821605071420_8478687047672465221_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fkgf1-2.fna.fbcdn.net&_nc_cat=104&_nc_ohc=p219UAtaZQ4Q7kNvgHSPWLM&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzM0NjkzNTAxODkzMDA3MDUxMg%3D%3D.2-ccb7-5&oh=00_AYCkHH9kH9XvnUkyd0okscCrzwAAg8do3V9kJY9C3jA6xQ&oe=66DDDADC&_nc_sid=bc0c2c'
 					alt='El sábado 6 de abril, y en conjunto con @javascriptchile con su iniciativa #techschool y @duocuc_valparaiso, tuve la oportunidad de compartir un taller sobre Astro. Aprendido algunas de sus principales características, mientras desarrollábamos una aplicación consumiendo la API de Pokemon.  Puedes ver la presentación ingresando a mi sitio web https://eduardoalvarez.dev/charlas-talleres'
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C5yrrizp3-T' target='_blank'>
 				<img
-					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/438622031_732408608963625_5968600723231326392_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=VyFKDSTqaQ8Q7kNvgFe8Djk&edm=APU89FABAAAA&ccb=7-5&oh=00_AYAz9zluZw53WvajpGfuCcGHHImssLQCXGdVltxZWTFjwg&oe=66DB57FE&_nc_sid=bc0c2c'
+					src='https://instagram.fkgf1-2.fna.fbcdn.net/v/t51.29350-15/438622031_732408608963625_5968600723231326392_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fkgf1-2.fna.fbcdn.net&_nc_cat=109&_nc_ohc=nM40_JZlkrkQ7kNvgGKLdPl&_nc_gid=f82db1371bdf4b519efd9af07d731d99&edm=APU89FABAAAA&ccb=7-5&oh=00_AYBueLlng_0nLl-ytepbvksjj6SUYOlC_3isUEbX7EKqiw&oe=66DDFAFE&_nc_sid=bc0c2c'
 					alt='El sábado 6 de abril, y en conjunto a @javascriptchile con su iniciativa #techschool y a @duocuc_valparaiso, tuve la oportunidad de compartir un taller sobre Astro, aprendido algunas de sus principales características, mientras desarrollábamos una aplicación consumiendo la API de Pokemon.  Puedes ver la presentación ingresando a mi sitio web, en la vista de charlas y talleres'
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C5aNo2CMqrH' target='_blank'>
 				<img
-					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=nsLf4e_j5nkQ7kNvgGOB1D-&edm=APU89FABAAAA&ccb=7-5&oh=00_AYAYESxMhfWs3xwnmRi6m5uDqYdkd9lTQZPrrMVEMu0HDw&oe=66DB52D6&_nc_sid=bc0c2c'
+					src='https://instagram.fkgf1-2.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=instagram.fkgf1-2.fna.fbcdn.net&_nc_cat=108&_nc_ohc=nsLf4e_j5nkQ7kNvgGgaOYK&edm=APU89FABAAAA&ccb=7-5&oh=00_AYBiLWET6Y_7b0HuuWh-XyKTsTI6hPj9wgfT4zj_aLeHaA&oe=66DDF5D6&_nc_sid=bc0c2c'
 					alt=''
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C4jFsJAga61' target='_blank'>
 				<img
-					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t39.30808-6/433096135_18420451327058371_8085307193828185018_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=ircR34h6ZtkQ7kNvgHdQrqQ&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzMyNDUyNTk2OTgwMDE3OTYyMw%3D%3D.2.c-ccb7-5&oh=00_AYBy9q_RZzTvAEjLcogweZ1yWZBekTZtCQi6d4lhOwVWUg&oe=66DB6091&_nc_sid=bc0c2c'
+					src='https://instagram.fkgf1-2.fna.fbcdn.net/v/t39.30808-6/433096135_18420451327058371_8085307193828185018_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fkgf1-2.fna.fbcdn.net&_nc_cat=107&_nc_ohc=hWyRtOYmaKAQ7kNvgE6IpNF&_nc_gid=f82db1371bdf4b519efd9af07d731d99&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzMyNDUyNTk2OTgwMDE3OTYyMw%3D%3D.2.c-ccb7-5&oh=00_AYAiWIfQtsYOg-Qkak8nBVemSKhA2UMTu59_KXMnEXuQAw&oe=66DE0391&_nc_sid=bc0c2c'
 					alt='La nueva organización de mi setup para este año 🫢❤️'
 					width='150'
 					height='150'
