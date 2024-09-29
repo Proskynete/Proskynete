@@ -111,9 +111,9 @@
 
 <p><strong>Últimos 3 comentarios en ADPList</strong> (ver todos <a href="https://adplist.org/widgets/reviews?src=eduardo-alvarez" target='_blank'>acá</a>)</p>
 <ul>
-  <li><i>"Una gran mentoría, explica todo muy bien, tiene los conceptos muy claro y explica demasiado bien"</i> - Carlos Eduardo Palomo Serna <small>(31 de mayo de 2024)</small></li>
+  <li><i>"Una gran mentoría, explica todo muy bien, tiene los conceptos muy claro y explica demasiado bien"</i> - Carlos Eduardo Palomo Serna <small>(1 de junio de 2024)</small></li>
 <li><i>"Me gustaría dar las gracias a Eduardo por su orientación, su enfoque profesional y su apoyo."</i> - Artem Liamichev <small>(29 de mayo de 2024)</small></li>
-<li><i>"Muy profesional y con ganas de ayudar, se toma el tiempo de de preparar bien todo el material con las preguntas, tiene muchos conocimientos técnicos y habilidades. Muy simpático además. Saque muchas cosas positivas de esta reunión y me aclaró bastante la pelicula"</i> - Michelle Cifuentes <small>(22 de mayo de 2024)</small></li>
+<li><i>"Muy profesional y con ganas de ayudar, se toma el tiempo de de preparar bien todo el material con las preguntas, tiene muchos conocimientos técnicos y habilidades. Muy simpático además. Saque muchas cosas positivas de esta reunión y me aclaró bastante la pelicula"</i> - Michelle Cifuentes <small>(23 de mayo de 2024)</small></li>
 </ul>
 
 
@@ -144,35 +144,35 @@
 
 <a href='https://instagram.com/p/C-ZBiWAgJ5s' target='_blank'>
 				<img
-					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/454284637_2211453355886743_1507808198217161850_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=R1FZgWR3aRYQ7kNvgELoQqd&_nc_gid=292c9fa17a2941c3b16a9113a3127e9d&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzQyOTc3OTMzODU5NjMxMTI3MA%3D%3D.3.c-ccb7-5&oh=00_AYCgyZQX-E6X3Od72Ytcg56ONQF1flVdylDFwlAtIeNqQA&oe=66FF9BDD&_nc_sid=bc0c2c'
+					src='https://instagram.ffru4-1.fna.fbcdn.net/v/t51.29350-15/454284637_2211453355886743_1507808198217161850_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ffru4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=R1FZgWR3aRYQ7kNvgGLzc32&_nc_gid=adf4c690c9e3444aaed1aa94b5685946&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzQyOTc3OTMzODU5NjMxMTI3MA%3D%3D.3.c-ccb7-5&oh=00_AYDsmM77vvFrOwuovmtyUCvQgQarpg24WyIjZ8bHXHBnJw&oe=66FF9BDD&_nc_sid=bc0c2c'
 					alt='Este año no ha sido para nada fácil, ha tocado estar en el suelo por un rato y no ha sido fácil el poder pararse, pero acá vamos de nuevo… y este nuevo surgir, debía ser acompañado con un cambio. Esperemos que se vengan bonitos desafíos ❤️'
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C5ys60PpbWU' target='_blank'>
 				<img
-					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/438754256_7249821605071420_8478687047672465221_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=TBHTiRdt5AkQ7kNvgGUM9uq&_nc_gid=292c9fa17a2941c3b16a9113a3127e9d&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzM0NjkzNTAxODkzMDA3MDUxMg%3D%3D.3-ccb7-5&oh=00_AYCg1qoa9BRnHdI4qScGizxHmLRMOxh_Q9mD0dXp63Kjdg&oe=66FFB15C&_nc_sid=bc0c2c'
+					src='https://instagram.ffru4-1.fna.fbcdn.net/v/t51.29350-15/438754256_7249821605071420_8478687047672465221_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ffru4-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=TBHTiRdt5AkQ7kNvgFaRZRg&_nc_gid=adf4c690c9e3444aaed1aa94b5685946&edm=APU89FABAAAA&ccb=7-5&ig_cache_key=MzM0NjkzNTAxODkzMDA3MDUxMg%3D%3D.3-ccb7-5&oh=00_AYAHqh-88KAQR2OWSRwlWWluVXWyR67hRHjomi6shZlIiw&oe=66FFB15C&_nc_sid=bc0c2c'
 					alt='El sábado 6 de abril, y en conjunto con @javascriptchile con su iniciativa #techschool y @duocuc_valparaiso, tuve la oportunidad de compartir un taller sobre Astro. Aprendido algunas de sus principales características, mientras desarrollábamos una aplicación consumiendo la API de Pokemon.  Puedes ver la presentación ingresando a mi sitio web https://eduardoalvarez.dev/charlas-talleres'
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C5yrrizp3-T' target='_blank'>
 				<img
-					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/438622031_732408608963625_5968600723231326392_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=4miYKniJY_UQ7kNvgGkSnZS&_nc_gid=292c9fa17a2941c3b16a9113a3127e9d&edm=APU89FABAAAA&ccb=7-5&oh=00_AYBcChnUIRS8rtJXfZVlKBZFHd-U4IggzTFZA6u0IKC2kg&oe=66FF993E&_nc_sid=bc0c2c'
+					src='https://instagram.ffru4-1.fna.fbcdn.net/v/t51.29350-15/438622031_732408608963625_5968600723231326392_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640&_nc_ht=instagram.ffru4-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=4miYKniJY_UQ7kNvgG7s83s&edm=APU89FABAAAA&ccb=7-5&oh=00_AYD70tVuZklLOcKethmhX4aJBZDEMEVDhOObnMNL5heMag&oe=66FFD17E&_nc_sid=bc0c2c'
 					alt='El sábado 6 de abril, y en conjunto a @javascriptchile con su iniciativa #techschool y a @duocuc_valparaiso, tuve la oportunidad de compartir un taller sobre Astro, aprendido algunas de sus principales características, mientras desarrollábamos una aplicación consumiendo la API de Pokemon.  Puedes ver la presentación ingresando a mi sitio web, en la vista de charlas y talleres'
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C5aNo2CMqrH' target='_blank'>
 				<img
-					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=qzYEmiAdUTwQ7kNvgH03DNZ&_nc_gid=292c9fa17a2941c3b16a9113a3127e9d&edm=APU89FABAAAA&ccb=7-5&oh=00_AYBLsFIrMSpE8y8x98pU7BKx-7sy6-EvBkBdiBKImqrisw&oe=66FFCC56&_nc_sid=bc0c2c'
+					src='https://instagram.ffru4-1.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640&_nc_ht=instagram.ffru4-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=qzYEmiAdUTwQ7kNvgGyHabw&_nc_gid=adf4c690c9e3444aaed1aa94b5685946&edm=APU89FABAAAA&ccb=7-5&oh=00_AYA0-TvEtWl7NjqsbSh3pCuj0HJot2LUMG55u3qCUk4YvA&oe=66FFCC56&_nc_sid=bc0c2c'
 					alt=''
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C4jFsJAga61' target='_blank'>
 				<img
-					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t39.30808-6/433096135_18420451327058371_8085307193828185018_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=V8lynHFf-ZoQ7kNvgGB-Rn1&_nc_gid=292c9fa17a2941c3b16a9113a3127e9d&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzMyNDUyNTk2OTgwMDE3OTYyMw%3D%3D.3.c-ccb7-5&oh=00_AYC5H951FMmGwP6UIkMAa3BZUaOnnnT03BfQBQ3wHk3Wnw&oe=66FFA1D1&_nc_sid=bc0c2c'
+					src='https://instagram.ffru4-1.fna.fbcdn.net/v/t39.30808-6/433096135_18420451327058371_8085307193828185018_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08&_nc_ht=instagram.ffru4-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=V8lynHFf-ZoQ7kNvgFJZtgE&_nc_gid=adf4c690c9e3444aaed1aa94b5685946&edm=APU89FAAAAAA&ccb=7-5&ig_cache_key=MzMyNDUyNTk2OTgwMDE3OTYyMw%3D%3D.3.c-ccb7-5&oh=00_AYA5oLYAcE5HohTNr4acYBb76XAQW5lZPBDhyXK59ImTNw&oe=66FFA1D1&_nc_sid=bc0c2c'
 					alt='La nueva organización de mi setup para este año 🫢❤️'
 					width='150'
 					height='150'

@@ -46,7 +46,9 @@ const handlers_1 = require("./handlers");
         process.exit(0);
     }
     catch (error) {
+        console.error('An error occurred while generating the README.md file');
         console.error(error);
+        process.exit(0);
     }
 }))();
 //# sourceMappingURL=index.js.map
