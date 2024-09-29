@@ -1,16 +1,8 @@
 {
 	"name": "proskynete",
-	"version": "1.2.2",
+	"version": "1.2.3",
 	"description": "Proskynete README github profile",
 	"main": "public/index.js",
-	"scripts": {
-		"transpile": "tsc",
-		"generate-readme": "node public/index.js",
-		"start": "npm run transpile && npm run generate-readme",
-		"lint": "eslint . --ext .ts ./src",
-		"lint:fix": "eslint . --ext .ts ./src --fix",
-		"prepare": "husky install"
-	},
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/Proskynete/Proskynete.git"
@@ -25,25 +17,33 @@
 		"url": "https://github.com/Proskynete/Proskynete/issues"
 	},
 	"homepage": "https://github.com/Proskynete/Proskynete#readme",
+	"scripts": {
+		"transpile": "tsc",
+		"generate-readme": "node public/index.js",
+		"start": "npm run transpile && npm run generate-readme",
+		"lint": "eslint . --ext .ts ./src",
+		"lint:fix": "eslint . --ext .ts ./src --fix",
+		"prepare": "husky install"
+	},
 	"dependencies": {
-		"@actions/core": "^1.10.0",
+		"@actions/core": "^1.10.1",
 		"axios": "^1.7.7",
-		"cheerio": "1.0.0-rc.10",
-		"dotenv": "16.0.0",
-		"husky": "7.0.4",
-		"lodash": "4.17.21",
-		"prettier": "2.5.0",
-		"rss-parser": "3.13.0",
-		"typescript": "4.5.2"
+		"cheerio": "^1.0.0",
+		"dotenv": "^16.4.5",
+		"husky": "^9.1.6",
+		"lodash": "^4.17.21",
+		"prettier": "^3.3.3",
+		"rss-parser": "^3.13.0",
+		"typescript": "^5.6.2"
 	},
 	"devDependencies": {
-		"@types/cheerio": "0.22.30",
-		"@types/lodash": "4.14.177",
-		"@types/prettier": "2.4.2",
-		"@typescript-eslint/eslint-plugin": "5.4.0",
-		"@typescript-eslint/parser": "5.4.0",
-		"eslint-config-airbnb-typescript": "16.0.0",
-		"eslint-config-prettier": "8.3.0",
-		"eslint-plugin-prettier": "4.0.0"
+		"@types/cheerio": "^0.22.35",
+		"@types/lodash": "^4.17.9",
+		"@types/prettier": "^3.0.0",
+		"@typescript-eslint/eslint-plugin": "^8.7.0",
+		"@typescript-eslint/parser": "^8.7.0",
+		"eslint-config-airbnb-typescript": "^18.0.0",
+		"eslint-config-prettier": "^9.1.0",
+		"eslint-plugin-prettier": "^5.2.1"
 	}
 }

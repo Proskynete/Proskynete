@@ -8,14 +8,17 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
 Object.defineProperty(exports, "__esModule", { value: true });
-const fs_1 = require("fs");
+const promises_1 = __importDefault(require("fs/promises"));
 const constants_1 = require("./constants");
 const handlers_1 = require("./handlers");
 (() => __awaiter(void 0, void 0, void 0, function* () {
     try {
         const [template, articles, images] = yield Promise.all([
-            fs_1.promises.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
+            promises_1.default.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
             (0, handlers_1.handlerGetLatestArticles)(),
             (0, handlers_1.handlerGetInstagramImages)(),
         ]);
@@ -38,7 +41,9 @@ const handlers_1 = require("./handlers");
             .replace(constants_1.PLACEHOLDERS.WEBSITE.RSS, _articles)
             .replace(constants_1.PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.SECTION_IMAGES, _images)
             .replace(constants_1.PLACEHOLDERS.ADP_LIST.COMMENTS, _comments);
-        yield fs_1.promises.writeFile('./README.md', newMarkdown);
+        yield promises_1.default.writeFile('./README.md', newMarkdown);
+        console.log('README.md has been generated!');
+        process.exit(0);
     }
     catch (error) {
         console.error(error);

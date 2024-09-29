@@ -16,8 +16,8 @@ jobs:
       - name: 📚 Check out Git repository
         uses: actions/checkout@v4
 
-      - name: 🚀 Setup with pnpm
-        uses: pnpm/action-setup@v4
+      - name: 🚀 Setup with npm
+        uses: npm/action-setup@v4
         with:
           version: 8
 
@@ -25,13 +25,13 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '20'
-          cache: 'pnpm'
+          cache: 'npm'
 
       - name: 🛠 Install Node.js dependencies
-        run: pnpm install
+        run: npm install
 
       - name: 🔦 Code Linting
-        run: pnpm run lint
+        run: npm run lint
 
   build:
     name: Generate new README.md
@@ -42,8 +42,8 @@ jobs:
       - name: 📚 Check out Git repository
         uses: actions/checkout@v3
 
-      - name: 🚀 Setup with pnpm
-        uses: pnpm/action-setup@v4
+      - name: 🚀 Setup with npm
+        uses: npm/action-setup@v4
         with:
           version: 8
 
@@ -51,15 +51,15 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '20'
-          cache: 'pnpm'
+          cache: 'npm'
 
       - name: 🛠 Install Node.js dependencies
-        run: pnpm install
+        run: npm install
 
       - name: ⚙️ Transpile and generate a new readme file
         env:
           INSTAGRAM_API_KEY: ${{ secrets.INSTAGRAM_API_KEY }}
-        run: pnpm start
+        run: npm start
 
       - name: 📝 Commit and push changes
         run: |

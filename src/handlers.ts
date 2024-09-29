@@ -1,5 +1,5 @@
 import axios, { AxiosError } from 'axios';
-import cheerio from 'cheerio';
+import * as cheerio from 'cheerio';
 import * as core from '@actions/core';
 import Parser from 'rss-parser';
 import { URLS, COUNT, REGEXPS, PERSONAL, INSTAGRAM, BASE_URL } from './constants';
@@ -78,9 +78,9 @@ export const handlerSliceArticles = (articles: Article[]): string =>
  * @returns An array of InstagramImagesResponse objects.
  */
 export const handlerGetInstagramImages = async (): Promise<InstagramImagesResponse[] | void> => {
+	console.time('Instagram API');
 	try {
 		const { data } = await axios.get<InstagramApiResponse>(BASE_URL.INSTAGRAM_API, {
-			timeout: 20000,
 			params: {
 				id_user: INSTAGRAM.USER_ID,
 			},
@@ -112,6 +112,7 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 			process.exit(1);
 		}
 	}
+	console.timeEnd('Instagram API');
 };
 
 /**

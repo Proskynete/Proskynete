@@ -1,7 +1,11 @@
 "use strict";
 var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
     if (k2 === undefined) k2 = k;
-    Object.defineProperty(o, k2, { enumerable: true, get: function() { return m[k]; } });
+    var desc = Object.getOwnPropertyDescriptor(m, k);
+    if (!desc || ("get" in desc ? !m.__esModule : desc.writable || desc.configurable)) {
+      desc = { enumerable: true, get: function() { return m[k]; } };
+    }
+    Object.defineProperty(o, k2, desc);
 }) : (function(o, m, k, k2) {
     if (k2 === undefined) k2 = k;
     o[k2] = m[k];
@@ -33,7 +37,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.handleGetTechnologies = exports.handlerGetYearsOld = exports.handlerGetLatestInstagramImages = exports.handlerGetInstagramImages = exports.handlerSliceArticles = exports.handlerGetLatestArticles = exports.handlerGetAdpListComments = exports.prettyDateFormat = exports.handlerGetPackageVersion = void 0;
 const axios_1 = __importDefault(require("axios"));
-const cheerio_1 = __importDefault(require("cheerio"));
+const cheerio = __importStar(require("cheerio"));
 const core = __importStar(require("@actions/core"));
 const rss_parser_1 = __importDefault(require("rss-parser"));
 const constants_1 = require("./constants");
@@ -44,7 +48,7 @@ const { INSTAGRAM_API_KEY } = process.env;
 const handlerGetPackageVersion = (url) => __awaiter(void 0, void 0, void 0, function* () {
     const file = yield (0, axios_1.default)(url);
     return new Promise((resolve) => {
-        const $ = cheerio_1.default.load(file.data);
+        const $ = cheerio.load(file.data);
         resolve($(constants_1.REGEXPS.TAG_ELEMENT).eq(0).text());
     });
 });
@@ -72,9 +76,9 @@ const handlerSliceArticles = (articles) => articles
 exports.handlerSliceArticles = handlerSliceArticles;
 const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, function* () {
     var _a, _b;
+    console.time('Instagram API');
     try {
         const { data } = yield axios_1.default.get(constants_1.BASE_URL.INSTAGRAM_API, {
-            timeout: 20000,
             params: {
                 id_user: constants_1.INSTAGRAM.USER_ID,
             },
@@ -104,6 +108,7 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
             process.exit(1);
         }
     }
+    console.timeEnd('Instagram API');
 });
 exports.handlerGetInstagramImages = handlerGetInstagramImages;
 const handlerGetLatestInstagramImages = (images) => images

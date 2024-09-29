@@ -1,4 +1,4 @@
-import { promises as fs } from 'fs';
+import fs from 'fs/promises';
 import { COUNT, PLACEHOLDERS, URLS, INSTAGRAM } from './constants';
 import {
 	handlerGetPackageVersion,
@@ -41,7 +41,12 @@ import {
 			.replace(PLACEHOLDERS.ADP_LIST.COMMENTS, _comments);
 
 		await fs.writeFile('./README.md', newMarkdown);
+
+		console.log('README.md has been generated!');
+		process.exit(0);
 	} catch (error) {
+		console.error('An error occurred while generating the README.md file');
 		console.error(error);
+		process.exit(0);
 	}
 })();
