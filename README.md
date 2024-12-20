@@ -144,35 +144,35 @@
 
 <a href='https://instagram.com/p/DBhjeA2Axnt' target='_blank'>
 				<img
-					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/464573338_1976525002865602_1179937882880991005_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08_tt6&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=PwKkliNmsgIQ7kNvgFnswxN&_nc_gid=d86fc99d1ef6450f8c42a0d7fc7079f8&edm=APU89FABAAAA&ccb=7-5&oh=00_AYArPCxCJvzznaH7qblqVitAk2YZXF6QO0r3QFT_7c_UpA&oe=67685B63&_nc_sid=bc0c2c'
+					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/464573338_1976525002865602_1179937882880991005_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08_tt6&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=8ZLYW1mcR2IQ7kNvgEg3wrd&_nc_gid=2822d9e197ca4fc7a3c698f2f0dad6ed&edm=APU89FABAAAA&ccb=7-5&oh=00_AYCsu1_YjT8p9Q3g_Qbx0-tCe3FNiQAGZrUf7G4mj1PqxA&oe=676AFE63&_nc_sid=bc0c2c'
 					alt='Jueves que a qué costo 🫠'
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C-ZBiWAgJ5s' target='_blank'>
 				<img
-					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/454284637_2211453355886743_1507808198217161850_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08_tt6&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=1Xl1NKDoIqcQ7kNvgE8t5f9&_nc_gid=d86fc99d1ef6450f8c42a0d7fc7079f8&edm=APU89FABAAAA&ccb=7-5&oh=00_AYDc1gum0qzWLMTeR83ic9tOVysgGtjn_jepYafTSbZddQ&oe=67686B1D&_nc_sid=bc0c2c'
+					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/454284637_2211453355886743_1507808198217161850_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08_tt6&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=2WGG7QIGJcYQ7kNvgG3hS8L&_nc_gid=2822d9e197ca4fc7a3c698f2f0dad6ed&edm=APU89FABAAAA&ccb=7-5&oh=00_AYDXK8WdzbMhfjNHJeNTBN9NVxGYi4_Akd99s6_BraWkVA&oe=676B0E1D&_nc_sid=bc0c2c'
 					alt='Este año no ha sido para nada fácil, ha tocado estar en el suelo por un rato y no ha sido fácil el poder pararse, pero acá vamos de nuevo… y este nuevo surgir, debía ser acompañado con un cambio. Esperemos que se vengan bonitos desafíos ❤️'
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C5ys60PpbWU' target='_blank'>
 				<img
-					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/438754256_7249821605071420_8478687047672465221_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08_tt6&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=1h3TcktAkjAQ7kNvgFPJgLi&_nc_gid=d86fc99d1ef6450f8c42a0d7fc7079f8&edm=APU89FABAAAA&ccb=7-5&oh=00_AYBhsH3e_IehQTEC2c6irhXO6HaroUaQj2DRaxjkjwNMfQ&oe=6768485C&_nc_sid=bc0c2c'
+					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/438754256_7249821605071420_8478687047672465221_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08_tt6&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=eAiFbCdwc9MQ7kNvgF8I6a1&_nc_gid=2822d9e197ca4fc7a3c698f2f0dad6ed&edm=APU89FABAAAA&ccb=7-5&oh=00_AYCVGSNgNhrCgUAJ52UN_fcNo6dmtMyERL7NJCUN5t2wKw&oe=676AEB5C&_nc_sid=bc0c2c'
 					alt='El sábado 6 de abril, y en conjunto con @javascriptchile con su iniciativa #techschool y @duocuc_valparaiso, tuve la oportunidad de compartir un taller sobre Astro. Aprendido algunas de sus principales características, mientras desarrollábamos una aplicación consumiendo la API de Pokemon.  Puedes ver la presentación ingresando a mi sitio web https://eduardoalvarez.dev/charlas-talleres'
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C5yrrizp3-T' target='_blank'>
 				<img
-					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/438622031_732408608963625_5968600723231326392_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640_tt6&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=qPzI8cq6mccQ7kNvgEzNrtS&_nc_gid=d86fc99d1ef6450f8c42a0d7fc7079f8&edm=APU89FABAAAA&ccb=7-5&oh=00_AYDHwrbCj4_nILu-XrlQ4WW-h7h-kNvjPHkfbFqyqSQq-g&oe=6768687E&_nc_sid=bc0c2c'
+					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/438622031_732408608963625_5968600723231326392_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s640x640_tt6&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=qPzI8cq6mccQ7kNvgFP7lAr&_nc_gid=2822d9e197ca4fc7a3c698f2f0dad6ed&edm=APU89FABAAAA&ccb=7-5&oh=00_AYCeF28BQphF3j6hQa6jLUgH1lC4B2PltBm1jACfYSHV1Q&oe=676B0B7E&_nc_sid=bc0c2c'
 					alt='El sábado 6 de abril, y en conjunto a @javascriptchile con su iniciativa #techschool y a @duocuc_valparaiso, tuve la oportunidad de compartir un taller sobre Astro, aprendido algunas de sus principales características, mientras desarrollábamos una aplicación consumiendo la API de Pokemon.  Puedes ver la presentación ingresando a mi sitio web, en la vista de charlas y talleres'
 					width='150'
 					height='150'
 				/>
     </a><a href='https://instagram.com/p/C5aNo2CMqrH' target='_blank'>
 				<img
-					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=mnYcjpp4uxYQ7kNvgFHNF-w&_nc_gid=d86fc99d1ef6450f8c42a0d7fc7079f8&edm=APU89FABAAAA&ccb=7-5&oh=00_AYCSt4cyd2vfrVh5KzvgtYixcsbyVln9WnBqe57GMw0nyw&oe=67686356&_nc_sid=bc0c2c'
+					src='https://instagram.fvno7-1.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_ht=instagram.fvno7-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=TZTBhKk_nLkQ7kNvgH8s3iH&_nc_gid=2822d9e197ca4fc7a3c698f2f0dad6ed&edm=APU89FABAAAA&ccb=7-5&oh=00_AYB_6nJ-5zeThTUm5-8Tu0qHK34Ne_nqwaF_cXr23MylWw&oe=676B0656&_nc_sid=bc0c2c'
 					alt=''
 					width='150'
 					height='150'
