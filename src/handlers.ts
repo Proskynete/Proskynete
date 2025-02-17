@@ -93,7 +93,7 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 
 		return data.items.map((image: Item) => ({
 			code: image.code ?? '',
-			url: image.image_versions2.candidates[2].url ?? '',
+			url: image.image_versions2.candidates[9].url ?? '',
 			accessibility: image.accessibility_caption ?? '',
 			description: image.caption?.text ?? '',
 		}));
@@ -126,8 +126,8 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 				<img
 					src='${url}'
 					alt='${accessibility ?? description}'
-					width='150'
-					height='150'
+					width='180'
+					height='180'
 				/>
     </a>`,
 		)
