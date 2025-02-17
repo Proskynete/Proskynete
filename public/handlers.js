@@ -91,8 +91,9 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
             var _a, _b, _c, _d, _e;
             return ({
                 code: (_a = image.code) !== null && _a !== void 0 ? _a : '',
-                url: (_b = image.image_versions2.candidates[2].url) !== null && _b !== void 0 ? _b : '',
+                url: (_b = image.image_versions2.candidates[9].url) !== null && _b !== void 0 ? _b : '',
                 accessibility: (_c = image.accessibility_caption) !== null && _c !== void 0 ? _c : '',
+                type: image.product_type,
                 description: (_e = (_d = image.caption) === null || _d === void 0 ? void 0 : _d.text) !== null && _e !== void 0 ? _e : '',
             });
         });
@@ -110,12 +111,14 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
 exports.handlerGetInstagramImages = handlerGetInstagramImages;
 const handlerGetLatestInstagramImages = (images) => images
     .slice(0, constants_1.COUNT.IMAGES)
-    .map(({ code, url, accessibility, description, }) => `<a href='https://instagram.com/p/${code}' target='_blank'>
+    .map(({ code, url, accessibility, type, description }) => type === 'clips'
+    ? `[![${accessibility !== null && accessibility !== void 0 ? accessibility : description}](https://instagram.com/p/${code})](${url})`
+    : `<a href='https://instagram.com/p/${code}' target='_blank'>
 				<img
 					src='${url}'
 					alt='${accessibility !== null && accessibility !== void 0 ? accessibility : description}'
-					width='150'
-					height='150'
+					width='180'
+					height='180'
 				/>
     </a>`)
     .join('');
