@@ -38,7 +38,7 @@ exports.BASE_URL = {
     NPM: 'https://www.npmjs.com/package',
     WEBSITE: 'https://eduardoalvarez.dev',
     TECHNOLOGIES: 'https://github.com/Proskynete/Proskynete/blob/main/images/icons',
-    INSTAGRAM_API: 'https://instagram-scraper-2022.p.rapidapi.com/ig/posts/',
+    INSTAGRAM_API: 'https://instagram-scraper-2022.p.rapidapi.com/ig/posts_username/',
     ADP_LIST: 'https://api2.adplist.org',
 };
 exports.INSTAGRAM = {

@@ -75,30 +75,27 @@ const handlerSliceArticles = (articles) => articles
     .join('\n');
 exports.handlerSliceArticles = handlerSliceArticles;
 const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, function* () {
-    var _a, _b;
     console.time('Instagram API');
     try {
         const { data } = yield axios_1.default.get(constants_1.BASE_URL.INSTAGRAM_API, {
             params: {
-                id_user: constants_1.INSTAGRAM.USER_ID,
+                user: constants_1.INSTAGRAM.USER_NAME,
+                nocors: 'false',
             },
             headers: {
                 'X-RapidAPI-Host': 'instagram-scraper-2022.p.rapidapi.com',
                 'X-RapidAPI-Key': INSTAGRAM_API_KEY,
             },
         });
-        const images = (_b = (_a = data.data) === null || _a === void 0 ? void 0 : _a.user) === null || _b === void 0 ? void 0 : _b.edge_owner_to_timeline_media.edges;
-        return (images &&
-            images.map((image) => ({
-                code: image.node.shortcode,
-                url: image.node.thumbnail_src,
-                accessibility: image.node.accessibility_caption,
-                description: image.node.edge_media_to_caption.edges.length
-                    ? image.node.edge_media_to_caption.edges[0].node.text
-                        .replace(/(\r\n|\n|\r)/gm, ' ')
-                        .trim()
-                    : '',
-            })));
+        return data.items.map((image) => {
+            var _a, _b, _c, _d, _e;
+            return ({
+                code: (_a = image.code) !== null && _a !== void 0 ? _a : '',
+                url: (_b = image.image_versions2.candidates[2].url) !== null && _b !== void 0 ? _b : '',
+                accessibility: (_c = image.accessibility_caption) !== null && _c !== void 0 ? _c : '',
+                description: (_e = (_d = image.caption) === null || _d === void 0 ? void 0 : _d.text) !== null && _e !== void 0 ? _e : '',
+            });
+        });
     }
     catch (err) {
         if (axios_1.default.isAxiosError(err)) {
