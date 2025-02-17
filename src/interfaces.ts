@@ -36,42 +36,24 @@ export interface GetCommentFromADPListResponse {
 }
 
 export interface InstagramApiResponse {
-	data: {
-		user: {
-			edge_owner_to_timeline_media: {
-				edges: InstagramNodeInterface[];
-			};
-		};
-	};
+	items: Item[];
 }
 
-export interface ThumbnailInterface {
-	src: string;
-	config_width: number;
-	config_height: number;
-}
-
-export interface EdgesInterface {
-	node: {
+export interface Item {
+	code: string;
+	caption: {
 		text: string;
-	};
+	} | null;
+	accessibility_caption: string;
+	image_versions2: ImageVersions2;
 }
 
-export type Captions = EdgesInterface;
+export interface ImageVersions2 {
+	candidates: Candidate[];
+}
 
-export interface InstagramNodeInterface {
-	node: {
-		id: string;
-		shortcode: string;
-		post_url: string;
-		display_url: string;
-		thumbnail_src: string;
-		thumbnail_resources: ThumbnailInterface[];
-		accessibility_caption: string;
-		edge_media_to_caption: {
-			edges: Captions[];
-		};
-	};
+interface Candidate {
+	url: string;
 }
 
 export interface InstagramImagesResponse {

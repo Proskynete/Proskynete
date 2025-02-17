@@ -9,7 +9,7 @@ import {
 	ImagesInterface,
 	InstagramApiResponse,
 	InstagramImagesResponse,
-	InstagramNodeInterface,
+	Item,
 } from './interfaces';
 import dotenv from 'dotenv';
 
@@ -82,7 +82,8 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 	try {
 		const { data } = await axios.get<InstagramApiResponse>(BASE_URL.INSTAGRAM_API, {
 			params: {
-				id_user: INSTAGRAM.USER_ID,
+				user: INSTAGRAM.USER_NAME,
+				nocors: 'false',
 			},
 			headers: {
 				'X-RapidAPI-Host': 'instagram-scraper-2022.p.rapidapi.com',
@@ -90,21 +91,12 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 			},
 		});
 
-		const images: InstagramNodeInterface[] = data.data?.user?.edge_owner_to_timeline_media.edges;
-
-		return (
-			images &&
-			images.map((image) => ({
-				code: image.node.shortcode,
-				url: image.node.thumbnail_src,
-				accessibility: image.node.accessibility_caption,
-				description: image.node.edge_media_to_caption.edges.length
-					? image.node.edge_media_to_caption.edges[0].node.text
-							.replace(/(\r\n|\n|\r)/gm, ' ')
-							.trim()
-					: '',
-			}))
-		);
+		return data.items.map((image: Item) => ({
+			code: image.code ?? '',
+			url: image.image_versions2.candidates[2].url ?? '',
+			accessibility: image.accessibility_caption ?? '',
+			description: image.caption?.text ?? '',
+		}));
 	} catch (err) {
 		if (axios.isAxiosError(err)) {
 			const { response } = err as AxiosError;
