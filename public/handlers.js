@@ -111,9 +111,7 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
 exports.handlerGetInstagramImages = handlerGetInstagramImages;
 const handlerGetLatestInstagramImages = (images) => images
     .slice(0, constants_1.COUNT.IMAGES)
-    .map(({ code, url, accessibility, type, description }) => type === 'clips'
-    ? `[![${accessibility !== null && accessibility !== void 0 ? accessibility : description}](https://instagram.com/p/${code})](${url})`
-    : `<a href='https://instagram.com/p/${code}' target='_blank'>
+    .map(({ code, url, accessibility, description }) => `<a href='https://instagram.com/p/${code}' target='_blank'>
 				<img
 					src='${url}'
 					alt='${accessibility !== null && accessibility !== void 0 ? accessibility : description}'
