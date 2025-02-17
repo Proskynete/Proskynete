@@ -95,6 +95,7 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 			code: image.code ?? '',
 			url: image.image_versions2.candidates[9].url ?? '',
 			accessibility: image.accessibility_caption ?? '',
+			type: image.product_type,
 			description: image.caption?.text ?? '',
 		}));
 	} catch (err) {
@@ -116,13 +117,10 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[]): string =>
 	images
 		.slice(0, COUNT.IMAGES)
-		.map(
-			({
-				code,
-				url,
-				accessibility,
-				description,
-			}) => `<a href='https://instagram.com/p/${code}' target='_blank'>
+		.map(({ code, url, accessibility, type, description }) =>
+			type === 'clips'
+				? `[![${accessibility ?? description}](https://instagram.com/p/${code})](${url})`
+				: `<a href='https://instagram.com/p/${code}' target='_blank'>
 				<img
 					src='${url}'
 					alt='${accessibility ?? description}'

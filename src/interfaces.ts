@@ -14,6 +14,7 @@ type RELEVANT_KEYWORDS =
 	| 'Tactful'
 	| 'Approachable'
 	| 'Professional';
+type ProductType = 'clips' | 'carousel_container' | 'feed';
 
 interface RelevantKeywords {
 	id: number;
@@ -45,6 +46,7 @@ export interface Item {
 		text: string;
 	} | null;
 	accessibility_caption: string;
+	product_type: ProductType;
 	image_versions2: ImageVersions2;
 }
 
@@ -60,6 +62,7 @@ export interface InstagramImagesResponse {
 	code: string;
 	url: string;
 	accessibility: string;
+	type: ProductType;
 	description: string;
 }
 
