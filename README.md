@@ -144,35 +144,35 @@
 
 <a href='https://instagram.com/p/DBhjeA2Axnt' target='_blank'>
 				<img
-					src='https://instagram.ftll2-1.fna.fbcdn.net/v/t51.29350-15/464573338_1976525002865602_1179937882880991005_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2AEOOYpQD7Z3z0IOsrIFxHP5NPyBtr8TvjyKAj1PSVOhDuLJyvDMvGJwsWAwdy3PfqI&_nc_ohc=zTCkw9S0kSEQ7kNvgEtsgbw&_nc_gid=bb842189f2d744889998b29ec07fbd49&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzQ4NjIyMzU4MDY3OTgzODE4OQ%3D%3D.3-ccb7-5&oh=00_AYCyufN_8ti39vv4cNswRbt3N6GNgdr_ZrcEzS8MN_LBUw&oe=67BE0CE3&_nc_sid=b41fef'
-					alt='Photo by Eduardo Álvarez Castañeda in Las Condes, Chile.'
+					src='https://instagram.ftll2-1.fna.fbcdn.net/v/t51.29350-15/464573338_1976525002865602_1179937882880991005_n.jpg?stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=110&_nc_oc=Q6cZ2AEd_Mf1S3MyaMCH0-tmHo1PFngZO4YtZ4KEK1qX1D9okYKWai2kjSg-iL2BhvYdtw8&_nc_ohc=wdSafeJXnCEQ7kNvgHkMrXK&_nc_gid=c0a66b9365da4534aba5bf303b573949&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzQ4NjIyMzU4MDY3OTgzODE4OQ%3D%3D.3-ccb7-5&oh=00_AYA1wHkatgklLvlOCJ3CwjAaQThqxKSzmSl5bWrfFOdARA&oe=67C20163&_nc_sid=b41fef'
+					alt='Photo by Eduardo Álvarez Castañeda in Las Condes, Chile. Keterangan foto tidak tersedia..'
 					width='180'
 					height='180'
 				/>
     </a><a href='https://instagram.com/p/C-ZBiWAgJ5s' target='_blank'>
 				<img
-					src='https://instagram.ftll2-1.fna.fbcdn.net/v/t51.29350-15/454284637_2211453355886743_1507808198217161850_n.jpg?se=-1&stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuaGRyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2AEOOYpQD7Z3z0IOsrIFxHP5NPyBtr8TvjyKAj1PSVOhDuLJyvDMvGJwsWAwdy3PfqI&_nc_ohc=0C2ZlXmr0PIQ7kNvgFlzNJ0&_nc_gid=bb842189f2d744889998b29ec07fbd49&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzQyOTc3OTMzODU5NjMxMTI3MA%3D%3D.3-ccb7-5&oh=00_AYDHsLMqb9cK8RPisRNolSaNs2RbfMnYW3YvK08lKZL6RQ&oe=67BE1C9D&_nc_sid=b41fef'
-					alt='Photo by Eduardo Álvarez Castañeda on August 07, 2024.'
+					src='https://instagram.ftll2-1.fna.fbcdn.net/v/t51.29350-15/454284637_2211453355886743_1507808198217161850_n.jpg?se=-1&stp=c0.180.1440.1440a_dst-jpg_e35_s640x640_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDE4MDAuaGRyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2AEd_Mf1S3MyaMCH0-tmHo1PFngZO4YtZ4KEK1qX1D9okYKWai2kjSg-iL2BhvYdtw8&_nc_ohc=LrNtTwZwLiMQ7kNvgEBhvq8&_nc_gid=c0a66b9365da4534aba5bf303b573949&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzQyOTc3OTMzODU5NjMxMTI3MA%3D%3D.3-ccb7-5&oh=00_AYAsBnMM9HyrZW62fxjypdplhI3hitZy3KP8K6ho7bl0Ug&oe=67C2111D&_nc_sid=b41fef'
+					alt='Photo by Eduardo Álvarez Castañeda on August 07, 2024. Keterangan foto tidak tersedia..'
 					width='180'
 					height='180'
 				/>
     </a><a href='https://instagram.com/p/C5ys60PpbWU' target='_blank'>
 				<img
-					src='https://instagram.ftll2-1.fna.fbcdn.net/v/t51.29350-15/438754256_7249821605071420_8478687047672465221_n.jpg?stp=dst-jpg_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2AEOOYpQD7Z3z0IOsrIFxHP5NPyBtr8TvjyKAj1PSVOhDuLJyvDMvGJwsWAwdy3PfqI&_nc_ohc=0tPPiR7akhIQ7kNvgG7YfgO&_nc_gid=bb842189f2d744889998b29ec07fbd49&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzM0NjkzNTAxODkzMDA3MDUxMg%3D%3D.3-ccb7-5&oh=00_AYB-NZzq0xUUFxD6O3bBYX2G6eCf2wKF_Xzl3PQN6mzHkg&oe=67BDF9DC&_nc_sid=b41fef'
-					alt='Photo by Eduardo Álvarez Castañeda on April 15, 2024.'
+					src='https://instagram.ftll2-1.fna.fbcdn.net/v/t51.29350-15/438754256_7249821605071420_8478687047672465221_n.jpg?stp=dst-jpg_e35_s480x480_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMDgweDEwODAuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=104&_nc_oc=Q6cZ2AEd_Mf1S3MyaMCH0-tmHo1PFngZO4YtZ4KEK1qX1D9okYKWai2kjSg-iL2BhvYdtw8&_nc_ohc=xvnG8GIVLuEQ7kNvgGzzJIv&_nc_gid=c0a66b9365da4534aba5bf303b573949&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzM0NjkzNTAxODkzMDA3MDUxMg%3D%3D.3-ccb7-5&oh=00_AYDdR9ETfucNbaLTrx56wWiiAskqDL1NpX0U0rr__yOz3g&oe=67C1EE5C&_nc_sid=b41fef'
+					alt='Photo by Eduardo Álvarez Castañeda on April 15, 2024. Keterangan foto tidak tersedia..'
 					width='180'
 					height='180'
 				/>
     </a><a href='https://instagram.com/p/C5yrrizp3-T' target='_blank'>
 				<img
-					src='https://instagram.ftll2-1.fna.fbcdn.net/v/t51.29350-15/438622031_732408608963625_5968600723231326392_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4MTI4MC5zZHIuZjI5MzUwLmRlZmF1bHRfY292ZXJfZnJhbWUifQ&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2AEOOYpQD7Z3z0IOsrIFxHP5NPyBtr8TvjyKAj1PSVOhDuLJyvDMvGJwsWAwdy3PfqI&_nc_ohc=ro7MhvyptsEQ7kNvgEFWpwL&_nc_gid=bb842189f2d744889998b29ec07fbd49&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzM0NjkyOTU4MTQwMTAxNDE2Mw%3D%3D.3-ccb7-5&oh=00_AYBBkrx5mM3DOwjjCqn0jCq-opjVk0z958mgu3RfacHWcg&oe=67BE19FE&_nc_sid=b41fef'
+					src='https://instagram.ftll2-1.fna.fbcdn.net/v/t51.29350-15/438622031_732408608963625_5968600723231326392_n.jpg?stp=c0.280.720.720a_dst-jpg_e15_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4MTI4MC5zZHIuZjI5MzUwLmRlZmF1bHRfY292ZXJfZnJhbWUifQ&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2AEd_Mf1S3MyaMCH0-tmHo1PFngZO4YtZ4KEK1qX1D9okYKWai2kjSg-iL2BhvYdtw8&_nc_ohc=kL5_MYq5NMEQ7kNvgHLrILh&_nc_gid=c0a66b9365da4534aba5bf303b573949&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzM0NjkyOTU4MTQwMTAxNDE2Mw%3D%3D.3-ccb7-5&oh=00_AYAZs5IldVpMFDBswR-d4ozT-0or7JYeZMQ19-UJ5KXk-A&oe=67C20E7E&_nc_sid=b41fef'
 					alt=''
 					width='180'
 					height='180'
 				/>
     </a><a href='https://instagram.com/p/C5aNo2CMqrH' target='_blank'>
 				<img
-					src='https://instagram.ftll2-1.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4NzIwLnNkci5mMjkzNTAuZGVmYXVsdF9jb3Zlcl9mcmFtZSJ9&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2AEOOYpQD7Z3z0IOsrIFxHP5NPyBtr8TvjyKAj1PSVOhDuLJyvDMvGJwsWAwdy3PfqI&_nc_ohc=rkJUACzJoQUQ7kNvgGd7QBP&_nc_gid=bb842189f2d744889998b29ec07fbd49&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzM0MDA0MjA1NTA1MTI5MTMzNQ%3D%3D.3-ccb7-5&oh=00_AYDOl1deQoDAw7T12qO5Yjk2plpteIBKwHFbyLFbsyq4Mw&oe=67BE14D6&_nc_sid=b41fef'
+					src='https://instagram.ftll2-1.fna.fbcdn.net/v/t51.29350-15/436772821_268275739686920_5366680716401594054_n.jpg?stp=dst-jpg_e15_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi43MjB4NzIwLnNkci5mMjkzNTAuZGVmYXVsdF9jb3Zlcl9mcmFtZSJ9&_nc_ht=instagram.ftll2-1.fna.fbcdn.net&_nc_cat=108&_nc_oc=Q6cZ2AEd_Mf1S3MyaMCH0-tmHo1PFngZO4YtZ4KEK1qX1D9okYKWai2kjSg-iL2BhvYdtw8&_nc_ohc=VexMC1EmHZoQ7kNvgHJ0SMj&_nc_gid=c0a66b9365da4534aba5bf303b573949&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzM0MDA0MjA1NTA1MTI5MTMzNQ%3D%3D.3-ccb7-5&oh=00_AYA-MAfrz7llXx96_lytGMs1XFR_w_1rLskb0gkwRITREw&oe=67C20956&_nc_sid=b41fef'
 					alt=''
 					width='180'
 					height='180'
