@@ -102,6 +102,7 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 			}),
 		);
 	} catch (err) {
+		console.error('Error ->', err);
 		if (axios.isAxiosError(err)) {
 			const { response } = err as AxiosError;
 			if (response) core.setFailed(err.message);

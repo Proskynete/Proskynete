@@ -107,6 +107,7 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
         }));
     }
     catch (err) {
+        console.error('Error ->', err);
         if (axios_1.default.isAxiosError(err)) {
             const { response } = err;
             if (response)
@@ -119,7 +120,7 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
 exports.handlerGetInstagramImages = handlerGetInstagramImages;
 const handlerGetLatestInstagramImages = (images) => images
     .slice(0, constants_1.COUNT.IMAGES)
-    .map(({ url, code, type, description }) => `<a href='https://instagram.com/p/${code}' target='_blank'>
+    .map(({ url, code, description }) => `<a href='https://instagram.com/p/${code}' target='_blank'>
 				<img
 					src='${url}'
 					alt='${description}'
