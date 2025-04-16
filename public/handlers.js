@@ -55,6 +55,14 @@ const dotenv_1 = __importDefault(require("dotenv"));
 dotenv_1.default.config();
 const parser = new rss_parser_1.default();
 const { INSTAGRAM_API_KEY } = process.env;
+const clearLineBreak = (text) => text.replace(/<br\s*\/?>/gi, '');
+const clearText = (text) => {
+    const _text = text.replace(/<[^>]*>/g, '');
+    return _text
+        .replace(/&nbsp;/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim();
+};
 const handlerGetPackageVersion = (url) => __awaiter(void 0, void 0, void 0, function* () {
     const file = yield (0, axios_1.default)(url);
     return new Promise((resolve) => {
@@ -99,15 +107,18 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
                 'Content-Type': 'application/json',
             },
         });
-        return data.response.body.items.map(({ caption, code, image_versions2: { candidates } }) => ({
-            code,
-            url: candidates.length > 1 ? candidates[1].url : candidates[0].url,
-            type: (caption === null || caption === void 0 ? void 0 : caption.content_type) || 'image',
-            description: (caption === null || caption === void 0 ? void 0 : caption.text) || 'No description',
-        }));
+        return data.response.body.items.map(({ caption, code, image_versions2: { candidates }, product_type }) => {
+            var _a;
+            return ({
+                code,
+                url: candidates.length > 1 ? candidates[1].url : candidates[0].url,
+                type: product_type,
+                description: (_a = caption === null || caption === void 0 ? void 0 : caption.text) !== null && _a !== void 0 ? _a : '',
+            });
+        });
     }
     catch (err) {
-        console.error('Error ->', err);
+        console.error(err);
         if (axios_1.default.isAxiosError(err)) {
             const { response } = err;
             if (response)
@@ -123,9 +134,9 @@ const handlerGetLatestInstagramImages = (images) => images
     .map(({ url, code, description }) => `<a href='https://instagram.com/p/${code}' target='_blank'>
 				<img
 					src='${url}'
-					alt='${description}'
-					width='360'
-					height='450'
+					alt='${clearText(clearLineBreak(description))}'
+					width='180'
+					height='180'
 				/>
     </a>`)
     .join('');

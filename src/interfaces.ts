@@ -15,6 +15,8 @@ type RELEVANT_KEYWORDS =
 	| 'Approachable'
 	| 'Professional';
 
+type ContentType = 'feed' | 'carousel_container' | 'clips';
+
 interface RelevantKeywords {
 	id: number;
 	description: string | null;
@@ -52,6 +54,7 @@ export interface Item {
 	image_versions2: {
 		candidates: Candidates[];
 	};
+	product_type: ContentType;
 }
 
 export interface Candidates {

@@ -19,6 +19,16 @@ const parser = new Parser();
 
 const { INSTAGRAM_API_KEY } = process.env;
 
+const clearLineBreak = (text: string): string => text.replace(/<br\s*\/?>/gi, '');
+
+const clearText = (text: string): string => {
+	const _text = text.replace(/<[^>]*>/g, '');
+	return _text
+		.replace(/&nbsp;/g, ' ')
+		.replace(/\s+/g, ' ')
+		.trim();
+};
+
 /**
  * It takes a URL as an argument, fetches the HTML of the page, and returns the
  * version number of the software
@@ -94,14 +104,15 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 		});
 
 		return data.response.body.items.map(
-			({ caption, code, image_versions2: { candidates } }: Item) => ({
+			({ caption, code, image_versions2: { candidates }, product_type }: Item) => ({
 				code,
 				url: candidates.length > 1 ? candidates[1].url : candidates[0].url,
-				type: caption?.content_type || 'image',
-				description: caption?.text || 'No description',
+				type: product_type,
+				description: caption?.text ?? '',
 			}),
 		);
 	} catch (err) {
+		console.error(err);
 		if (axios.isAxiosError(err)) {
 			const { response } = err as AxiosError;
 			if (response) core.setFailed(err.message);
@@ -125,9 +136,9 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 				`<a href='https://instagram.com/p/${code}' target='_blank'>
 				<img
 					src='${url}'
-					alt='${description}'
-					width='360'
-					height='450'
+					alt='${clearText(clearLineBreak(description))}'
+					width='180'
+					height='180'
 				/>
     </a>`,
 		)
