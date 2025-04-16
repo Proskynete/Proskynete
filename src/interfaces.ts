@@ -14,7 +14,6 @@ type RELEVANT_KEYWORDS =
 	| 'Tactful'
 	| 'Approachable'
 	| 'Professional';
-type ProductType = 'clips' | 'carousel_container' | 'feed';
 
 interface RelevantKeywords {
 	id: number;
@@ -37,32 +36,36 @@ export interface GetCommentFromADPListResponse {
 }
 
 export interface InstagramApiResponse {
-	items: Item[];
+	response: {
+		body: {
+			items: Item[];
+		};
+	};
 }
 
 export interface Item {
 	code: string;
 	caption: {
+		content_type: string;
 		text: string;
 	} | null;
-	accessibility_caption: string;
-	product_type: ProductType;
-	image_versions2: ImageVersions2;
+	image_versions2: {
+		candidates: Candidates[];
+	};
 }
 
-export interface ImageVersions2 {
-	candidates: Candidate[];
-}
-
-interface Candidate {
+export interface Candidates {
+	estimated_scans_sizes: number[];
+	scans_profile: string;
+	height: number;
+	width: number;
 	url: string;
 }
 
 export interface InstagramImagesResponse {
-	code: string;
 	url: string;
-	accessibility: string;
-	type: ProductType;
+	code: string;
+	type: string;
 	description: string;
 }
 

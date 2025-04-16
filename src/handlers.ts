@@ -78,26 +78,29 @@ export const handlerSliceArticles = (articles: Article[]): string =>
  * @returns An array of InstagramImagesResponse objects.
  */
 export const handlerGetInstagramImages = async (): Promise<InstagramImagesResponse[] | void> => {
+	const body = {
+		id: INSTAGRAM.USER_ID,
+		count: COUNT.IMAGES,
+		max_id: null,
+	};
 	console.time('Instagram API');
 	try {
-		const { data } = await axios.get<InstagramApiResponse>(BASE_URL.INSTAGRAM_API, {
-			params: {
-				user: INSTAGRAM.USER_NAME,
-				nocors: 'false',
-			},
+		const { data } = await axios.post<InstagramApiResponse>(BASE_URL.INSTAGRAM_API, body, {
 			headers: {
-				'X-RapidAPI-Host': 'instagram-scraper-2022.p.rapidapi.com',
-				'X-RapidAPI-Key': INSTAGRAM_API_KEY as string,
+				'x-rapidapi-host': 'rocketapi-for-developers.p.rapidapi.com',
+				'x-rapidapi-key': INSTAGRAM_API_KEY,
+				'Content-Type': 'application/json',
 			},
 		});
 
-		return data.items.map((image: Item) => ({
-			code: image.code ?? '',
-			url: image.image_versions2.candidates[9].url ?? '',
-			accessibility: image.accessibility_caption ?? '',
-			type: image.product_type,
-			description: image.caption?.text ?? '',
-		}));
+		return data.response.body.items.map(
+			({ caption, code, image_versions2: { candidates } }: Item) => ({
+				code,
+				url: candidates.length > 1 ? candidates[1].url : candidates[0].url,
+				type: caption?.content_type || 'image',
+				description: caption?.text || 'No description',
+			}),
+		);
 	} catch (err) {
 		if (axios.isAxiosError(err)) {
 			const { response } = err as AxiosError;
@@ -118,13 +121,13 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 	images
 		.slice(0, COUNT.IMAGES)
 		.map(
-			({ code, url, accessibility, description }) =>
+			({ url, code, description }) =>
 				`<a href='https://instagram.com/p/${code}' target='_blank'>
 				<img
 					src='${url}'
-					alt='${accessibility ?? description}'
-					width='180'
-					height='180'
+					alt='${description}'
+					width='360'
+					height='450'
 				/>
     </a>`,
 		)

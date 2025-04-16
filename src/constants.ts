@@ -46,7 +46,7 @@ export const BASE_URL: BaseUrlInterface = {
 	NPM: 'https://www.npmjs.com/package',
 	WEBSITE: 'https://eduardoalvarez.dev',
 	TECHNOLOGIES: 'https://github.com/Proskynete/Proskynete/blob/main/images/icons',
-	INSTAGRAM_API: 'https://instagram-scraper-2022.p.rapidapi.com/ig/posts_username/',
+	INSTAGRAM_API: 'https://rocketapi-for-developers.p.rapidapi.com/instagram/user/get_media',
 	ADP_LIST: 'https://api2.adplist.org',
 };
 
