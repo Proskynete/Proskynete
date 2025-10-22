@@ -67,9 +67,9 @@ const handlerGetPackageVersion = (packageName) => __awaiter(void 0, void 0, void
     console.log(`Fetching version for ${packageName}...`);
     const { data } = yield axios_1.default.get(registryUrl, {
         headers: {
-            'Accept': 'application/json',
-            'Accept-Encoding': 'gzip,deflate,compress'
-        }
+            Accept: 'application/json',
+            'Accept-Encoding': 'gzip,deflate,compress',
+        },
     });
     return data.version;
 });
