@@ -61,8 +61,8 @@ export const PERSONAL = {
 };
 
 export const URLS: UrlsInterface = {
-	VERTICAL_TIMELINE: `${BASE_URL.NPM}/vertical-timeline-component-react`,
-	PRETTY_RATING: `${BASE_URL.NPM}/pretty-rating-react`,
+	VERTICAL_TIMELINE: 'vertical-timeline-component-react',
+	PRETTY_RATING: 'pretty-rating-react',
 	RSS: `${BASE_URL.WEBSITE}/rss.xml`,
 	ADP_LIST_COMMENTS: `${BASE_URL.ADP_LIST}/core/review/?user_id=${PERSONAL.ADP_USER_ID}`,
 };

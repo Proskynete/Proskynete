@@ -50,8 +50,8 @@ exports.PERSONAL = {
     ADP_USER_ID: 983411,
 };
 exports.URLS = {
-    VERTICAL_TIMELINE: `${exports.BASE_URL.NPM}/vertical-timeline-component-react`,
-    PRETTY_RATING: `${exports.BASE_URL.NPM}/pretty-rating-react`,
+    VERTICAL_TIMELINE: 'vertical-timeline-component-react',
+    PRETTY_RATING: 'pretty-rating-react',
     RSS: `${exports.BASE_URL.WEBSITE}/rss.xml`,
     ADP_LIST_COMMENTS: `${exports.BASE_URL.ADP_LIST}/core/review/?user_id=${exports.PERSONAL.ADP_USER_ID}`,
 };

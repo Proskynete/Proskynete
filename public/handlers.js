@@ -47,7 +47,6 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.handleGetTechnologies = exports.handlerGetYearsOld = exports.handlerGetLatestInstagramImages = exports.handlerGetInstagramImages = exports.handlerSliceArticles = exports.handlerGetLatestArticles = exports.handlerGetAdpListComments = exports.prettyDateFormat = exports.handlerGetPackageVersion = void 0;
 const axios_1 = __importDefault(require("axios"));
-const cheerio = __importStar(require("cheerio"));
 const core = __importStar(require("@actions/core"));
 const rss_parser_1 = __importDefault(require("rss-parser"));
 const constants_1 = require("./constants");
@@ -63,12 +62,16 @@ const clearText = (text) => {
         .replace(/\s+/g, ' ')
         .trim();
 };
-const handlerGetPackageVersion = (url) => __awaiter(void 0, void 0, void 0, function* () {
-    const file = yield (0, axios_1.default)(url);
-    return new Promise((resolve) => {
-        const $ = cheerio.load(file.data);
-        resolve($(constants_1.REGEXPS.TAG_ELEMENT).eq(0).text());
+const handlerGetPackageVersion = (packageName) => __awaiter(void 0, void 0, void 0, function* () {
+    const registryUrl = `https://registry.npmjs.org/${packageName}/latest`;
+    console.log(`Fetching version for ${packageName}...`);
+    const { data } = yield axios_1.default.get(registryUrl, {
+        headers: {
+            'Accept': 'application/json',
+            'Accept-Encoding': 'gzip,deflate,compress'
+        }
     });
+    return data.version;
 });
 exports.handlerGetPackageVersion = handlerGetPackageVersion;
 const prettyDateFormat = (date) => new Date(date).toLocaleDateString('es-CL', {
@@ -78,7 +81,9 @@ const prettyDateFormat = (date) => new Date(date).toLocaleDateString('es-CL', {
 });
 exports.prettyDateFormat = prettyDateFormat;
 const handlerGetAdpListComments = (url) => __awaiter(void 0, void 0, void 0, function* () {
-    const { data } = yield (0, axios_1.default)(url);
+    const { data } = yield axios_1.default.get(url, {
+        headers: { 'Accept-Encoding': 'gzip,deflate,compress' },
+    });
     return data
         .slice(0, constants_1.COUNT.COMMENTS)
         .map(({ review, reviewed_by, date_reviewed }) => `<li><i>"${review}"</i> - ${reviewed_by.name} <small>(${(0, exports.prettyDateFormat)(date_reviewed)})</small></li>`)
@@ -132,7 +137,7 @@ exports.handlerGetInstagramImages = handlerGetInstagramImages;
 const handlerGetLatestInstagramImages = (images) => images
     .slice(0, constants_1.COUNT.IMAGES)
     .map(({ url, code, description }) => `<a href='https://instagram.com/p/${code}' target='_blank'>
-				<img
+					<img
 					src='${url}'
 					alt='${clearText(clearLineBreak(description))}'
 					width='180'

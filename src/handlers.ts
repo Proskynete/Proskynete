@@ -1,8 +1,7 @@
 import axios, { AxiosError } from 'axios';
-import * as cheerio from 'cheerio';
 import * as core from '@actions/core';
 import Parser from 'rss-parser';
-import { URLS, COUNT, REGEXPS, PERSONAL, INSTAGRAM, BASE_URL } from './constants';
+import { URLS, COUNT, PERSONAL, INSTAGRAM, BASE_URL } from './constants';
 import {
 	Article,
 	GetCommentFromADPListResponse,
@@ -30,18 +29,24 @@ const clearText = (text: string): string => {
 };
 
 /**
- * It takes a URL as an argument, fetches the HTML of the page, and returns the
- * version number of the software
- * @param {string} url - The URL of the page to be scraped.
+ * It takes a package name as an argument, fetches the package metadata from npm registry,
+ * and returns the latest version number
+ * @param {string} packageName - The name of the npm package.
  * @returns The version of the package.
  */
-export const handlerGetPackageVersion = async (url: string): Promise<string> => {
-	const file = await axios(url);
+export const handlerGetPackageVersion = async (packageName: string): Promise<string> => {
+	const registryUrl = `https://registry.npmjs.org/${packageName}/latest`;
 
-	return new Promise((resolve) => {
-		const $ = cheerio.load(file.data);
-		resolve($(REGEXPS.TAG_ELEMENT).eq(0).text());
+	console.log(`Fetching version for ${packageName}...`);
+
+	const { data } = await axios.get(registryUrl, {
+		headers: {
+			Accept: 'application/json',
+			'Accept-Encoding': 'gzip,deflate,compress',
+		},
 	});
+
+	return data.version;
 };
 
 export const prettyDateFormat = (date: string): string =>
@@ -52,7 +57,9 @@ export const prettyDateFormat = (date: string): string =>
 	});
 
 export const handlerGetAdpListComments = async (url: string) => {
-	const { data } = await axios<GetCommentFromADPListResponse[]>(url);
+	const { data } = await axios.get<GetCommentFromADPListResponse[]>(url, {
+		headers: { 'Accept-Encoding': 'gzip,deflate,compress' },
+	});
 
 	return data
 		.slice(0, COUNT.COMMENTS)
@@ -134,7 +141,7 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 		.map(
 			({ url, code, description }) =>
 				`<a href='https://instagram.com/p/${code}' target='_blank'>
-				<img
+					<img
 					src='${url}'
 					alt='${clearText(clearLineBreak(description))}'
 					width='180'
