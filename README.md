@@ -89,7 +89,7 @@
 <p><strong>Sobre mi</strong></p>
 <ul>
   <li>📍 Chile.</li>
-  <li>👨🏼‍💻 Tengo 31 años.</li>
+  <li>👨🏼‍💻 Tengo 32 años.</li>
   <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳🇨🇴🇵🇪</li>
   <li>💻 Las Tecnologías que realmente me apasionan son: React, Node, TS, Flutter.</li>
   <li>🧐 Intereses: a11y y AI</li>
@@ -142,38 +142,38 @@
   </strong>
 </p>
 
-<a href='https://instagram.com/p/DBhjeA2Axnt' target='_blank'>
+<a href='https://instagram.com/p/DRm2mMnkWKS' target='_blank'>
 					<img
-					src='https://scontent-vie1-1.cdninstagram.com/v/t51.29350-15/464573338_1976525002865602_1179937882880991005_n.jpg?stp=dst-jpg_e35_p360x360_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQuaW1hZ2VfdXJsZ2VuLjE0NDB4MTgwMC5zZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QFxAbqaDXv4A1nfhv4ZOxV2p-d-ueB9taoL5gsdHa2r9s2xQuz02Ehdb-wAD7mj-T4&_nc_ohc=q1OlPr2S06YQ7kNvwG3Z79y&_nc_gid=fb_dW_EDG8EOdE01E35zgg&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzQ4NjIyMzU4MDY3OTgzODE4OQ%3D%3D.3-ccb7-5&oh=00_Afg1mpVm1t083lWuB6ujjIeR_XepOFvoRjAfsD7LUzo44A&oe=692F30E3&_nc_sid=b41fef'
+					src='https://scontent-vie1-1.cdninstagram.com/v/t51.71878-15/590402511_1232464892045462_1031984145017951380_n.jpg?stp=dst-jpg_e15_p360x360_tt6&_nc_cat=107&ig_cache_key=Mzc3NTk0NTQ1Njk5NzE5NjQzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2LnNkci5DMyJ9&_nc_ohc=i5Gu_EkWo8kQ7kNvwHnk-Zd&_nc_oc=AdltYARdmA_fi5-N7n37Zpmt5VYWTzvSGkq1Ob0B4tuDMTSzFa2UcFDv9b_Yy2hjO_4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_gid=J7tRn5L50jAb5ncp_SQtjQ&oh=00_Afh8REojV6RCbUC_p8_kGxlwvCW3XjMf5Ek9duvVoV-pYw&oe=69332EC2'
+					alt='Hoy es mi último día en la compañía… y wow, qué viaje 🚀 Hace un poco más de un año me dieron una misión ambiciosa: ayudar a elevar el nivel del frontend y construir, juntos, algo que trascendiera más allá del código. Y con el equipo Apolo11… lo hicimos. ✨ Creamos librerías ✨ Evangelizamos buenas prácticas ✨ Generamos cultura ✨ Dejamos un camino trazado ✨ Y fuimos punta de lanza en iniciativas que antes parecían lejanas Pero lo más grande no fue eso. Lo más grande fueron las personas: Las dailies llenas de ideas, las conversaciones de pasillo (más copucha que técnica 😅), los desafíos, los momentos de amistad, y ese espíritu One Piece de navegar juntos, confiando, aprendiendo y creciendo. Me voy sabiendo que lo que construimos no fue solo código. Fue impacto. Fue cultura. Fue dejar una huella. Gracias Apolo11 por hacer despegar esta nave 🚀🧡 Gracias a cada persona por confiar, por creer y por construir. Nos volveremos a cruzar en otra expedición 🌍✨'
+					width='180'
+					height='180'
+				/>
+    </a><a href='https://instagram.com/p/DBhjeA2Axnt' target='_blank'>
+					<img
+					src='https://scontent-vie1-1.cdninstagram.com/v/t51.29350-15/464573338_1976525002865602_1179937882880991005_n.jpg?stp=dst-jpg_e35_p360x360_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQuaW1hZ2VfdXJsZ2VuLjE0NDB4MTgwMC5zZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2QGCsHQPf-leoiUcqfsSGKbYqV6_41jrrxUwqoKxs6dFkTUEpygKCQxT1iyEdzYoBFk&_nc_ohc=OAZMxZcgBHQQ7kNvwE2CtAa&_nc_gid=J7tRn5L50jAb5ncp_SQtjQ&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzQ4NjIyMzU4MDY3OTgzODE4OQ%3D%3D.3-ccb7-5&oh=00_Afif3yF6wQQYJYM6DhcvD19A55qcILmtJN5vU9zFfIAjhg&oe=69332563&_nc_sid=b41fef'
 					alt='Jueves que a qué costo 🫠'
 					width='180'
 					height='180'
 				/>
     </a><a href='https://instagram.com/p/C-ZBiWAgJ5s' target='_blank'>
 					<img
-					src='https://scontent-vie1-1.cdninstagram.com/v/t51.29350-15/454284637_2211453355886743_1507808198217161850_n.jpg?se=-1&stp=dst-jpegr_e35_p360x360_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTgwMC5oZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QFxAbqaDXv4A1nfhv4ZOxV2p-d-ueB9taoL5gsdHa2r9s2xQuz02Ehdb-wAD7mj-T4&_nc_ohc=BI8GQ1M9lKQQ7kNvwGoKImv&_nc_gid=fb_dW_EDG8EOdE01E35zgg&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzQyOTc3OTMzODU5NjMxMTI3MA%3D%3D.3-ccb7-5&oh=00_AfhIedI4M9oHNPNVG9dsBPRqb1bpH7MHXDMDA9yUMBixkA&oe=692F409D&_nc_sid=b41fef'
+					src='https://scontent-vie1-1.cdninstagram.com/v/t51.29350-15/454284637_2211453355886743_1507808198217161850_n.jpg?se=-1&stp=dst-jpegr_e35_p360x360_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTgwMC5oZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QGCsHQPf-leoiUcqfsSGKbYqV6_41jrrxUwqoKxs6dFkTUEpygKCQxT1iyEdzYoBFk&_nc_ohc=EJQiRCAKINQQ7kNvwFaCNzI&_nc_gid=J7tRn5L50jAb5ncp_SQtjQ&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzQyOTc3OTMzODU5NjMxMTI3MA%3D%3D.3-ccb7-5&oh=00_AfiudvvfSqfyuFO--Se6kMxbarQj3vvWzEyu2LrEBrFa6A&oe=6933351D&_nc_sid=b41fef'
 					alt='Este año no ha sido para nada fácil, ha tocado estar en el suelo por un rato y no ha sido fácil el poder pararse, pero acá vamos de nuevo… y este nuevo surgir, debía ser acompañado con un cambio. Esperemos que se vengan bonitos desafíos ❤️'
 					width='180'
 					height='180'
 				/>
     </a><a href='https://instagram.com/p/C5ys60PpbWU' target='_blank'>
 					<img
-					src='https://scontent-vie1-1.cdninstagram.com/v/t51.29350-15/438754256_7249821605071420_8478687047672465221_n.jpg?stp=dst-jpg_e35_s360x360_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTA4MC5zZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QFxAbqaDXv4A1nfhv4ZOxV2p-d-ueB9taoL5gsdHa2r9s2xQuz02Ehdb-wAD7mj-T4&_nc_ohc=NvfNS3GW5FkQ7kNvwGwIyiP&_nc_gid=fb_dW_EDG8EOdE01E35zgg&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzM0NjkzNTAxODkzMDA3MDUxMg%3D%3D.3-ccb7-5&oh=00_Afjw-n_1JWWJQP6TNo8SDz5rD4orwzawJovXKdpx09uZUA&oe=692F1DDC&_nc_sid=b41fef'
+					src='https://scontent-vie1-1.cdninstagram.com/v/t51.29350-15/438754256_7249821605071420_8478687047672465221_n.jpg?stp=dst-jpg_e35_s360x360_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjEwODB4MTA4MC5zZHIuZjI5MzUwLmRlZmF1bHRfaW1hZ2UuYzIifQ&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QGCsHQPf-leoiUcqfsSGKbYqV6_41jrrxUwqoKxs6dFkTUEpygKCQxT1iyEdzYoBFk&_nc_ohc=97yj7ElHJLEQ7kNvwGuGJoW&_nc_gid=J7tRn5L50jAb5ncp_SQtjQ&edm=ABmJApABAAAA&ccb=7-5&ig_cache_key=MzM0NjkzNTAxODkzMDA3MDUxMg%3D%3D.3-ccb7-5&oh=00_AfgsauMPRXJPU1Lykyn3jhcgT3KFyoD9H4fJZD_uynNrtw&oe=6933125C&_nc_sid=b41fef'
 					alt='El sábado 6 de abril, y en conjunto con @javascriptchile con su iniciativa #techschool y @duocuc_valparaiso, tuve la oportunidad de compartir un taller sobre Astro. Aprendido algunas de sus principales características, mientras desarrollábamos una aplicación consumiendo la API de Pokemon. Puedes ver la presentación ingresando a mi sitio web https://eduardoalvarez.dev/charlas-talleres'
 					width='180'
 					height='180'
 				/>
     </a><a href='https://instagram.com/p/C5yrrizp3-T' target='_blank'>
 					<img
-					src='https://scontent-vie1-1.cdninstagram.com/v/t51.71878-15/503046061_1044259913947393_1654413541920851784_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=102&ig_cache_key=MzM0NjkyOTU4MTQwMTAxNDE2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjcyMHgxMjgwLnNkci5DMyJ9&_nc_ohc=_LcjJwIhO3AQ7kNvwHsU3JH&_nc_oc=AdnZKe10oApU-ENb1suyxNdgLDHwoLIhHBHhIdpuznKnEASvpo4pmRum4MX3ji-YtyA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_gid=fb_dW_EDG8EOdE01E35zgg&oh=00_Afg_wy5eva9tSUS8rKJWvtpa5TLmUdXcgoeDU8qHjoKIWw&oe=692F3A97'
+					src='https://scontent-vie1-1.cdninstagram.com/v/t51.71878-15/503046061_1044259913947393_1654413541920851784_n.jpg?stp=dst-jpg_e15_s640x640_tt6&_nc_cat=102&ig_cache_key=MzM0NjkyOTU4MTQwMTAxNDE2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjcyMHgxMjgwLnNkci5DMyJ9&_nc_ohc=P5VoOjozboAQ7kNvwF9ak6V&_nc_oc=AdkoJkN2YDojs6T5csotiH7xF9WyztIxUA5zxk_o1A-FufrGWEDaPz6VLtoHia8vH8E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_gid=J7tRn5L50jAb5ncp_SQtjQ&oh=00_AfgyRf68v_6TTsU5-1kAS1GyT7Bd9hQqV2G4rS26rk4NTQ&oe=69332F17'
 					alt='El sábado 6 de abril, y en conjunto a @javascriptchile con su iniciativa #techschool y a @duocuc_valparaiso, tuve la oportunidad de compartir un taller sobre Astro, aprendido algunas de sus principales características, mientras desarrollábamos una aplicación consumiendo la API de Pokemon. Puedes ver la presentación ingresando a mi sitio web, en la vista de charlas y talleres'
-					width='180'
-					height='180'
-				/>
-    </a><a href='https://instagram.com/p/C5aNo2CMqrH' target='_blank'>
-					<img
-					src='https://scontent-vie1-1.cdninstagram.com/v/t51.71878-15/501353761_1741837863093356_7229039071097739618_n.jpg?stp=dst-jpg_e15_s360x360_tt6&_nc_cat=109&ig_cache_key=MzM0MDA0MjA1NTA1MTI5MTMzNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjcyMHg3MjAuc2RyLkMzIn0%3D&_nc_ohc=ypdaG91STYQQ7kNvwHeA-hO&_nc_oc=AdncoQwhzUKV8x8cGO3AN-tz7b_xel7ZTPYdMX05n_YSLvudV71jXecTIoXud9PTJdU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_gid=fb_dW_EDG8EOdE01E35zgg&oh=00_AfhBB1076Pkq1IZYf239gHWRu-iCz-6SgkImCIkczJzsJg&oe=692F329B'
-					alt=''
 					width='180'
 					height='180'
 				/>
