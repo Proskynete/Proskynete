@@ -142,38 +142,38 @@
   </strong>
 </p>
 
-<a href='https://instagram.com/p/DVkOqshl67N' target='_blank'>
+<a href='https://instagram.com/p/DWKrfDjEYVa' target='_blank'>
 					<img
-					src='https://scontent-vie1-1.cdninstagram.com/v/t51.82787-15/649218721_18080707004369993_3106370554910014171_n.jpg?stp=dst-jpg_e35_p360x360_tt6&_nc_cat=107&ig_cache_key=Mzg0NzI2NDEyNDg4MDI3NzgxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=-VN58n4xSqsQ7kNvwE_cW0w&_nc_oc=AdqScz3XfmKJHEbg5-7fDK0FIq6sqsZa1tlngj04KY9JSbT3ySPOMnSYtthEoBEHITE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_gid=QSJ51OS0uQr9n6QrvD7OMg&_nc_ss=7a319&oh=00_Afw8Lhni0TKHyl-qREYg7GilwvitMFrn7fHtuWR4zWs-pA&oe=69C2F0C2'
+					src='https://scontent-vie1-1.cdninstagram.com/v/t51.82787-15/656165010_18082531556369993_1487250852344658270_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=111&ig_cache_key=Mzg1ODA4Njg2Mzg3ODMzNjMzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=mgi-tFEvGMAQ7kNvwFjydAr&_nc_oc=AdojCUg-3CkIFlcBXgluxQMOauUOuPUb5xFbzoEaMRjkz8rk42iZEtlyxb67AvHAISo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_gid=PXicfqtFCMC6upmxQo8-lg&_nc_ss=7a338&oh=00_AfwHC60E317hWN1-6OLQIeL6sObSFmpHx-Y7bscTXuriYA&oe=69C6B20C'
+					alt='🚀 ¿La IA se ha convertido en la nueva droga de los programadores? 🤔 En nuestro último carrusel, exploramos cómo esta tecnología está cambiando el panorama del desarrollo. Desde la fascinante transformación de la eficiencia y la inmediatez que ofrece, hasta los dilemas que enfrentamos entre delegar tareas y seguir aprendiendo. Además, discutimos cómo todo esto está moldeando nuestra identidad como profesionales en la era digital. ¡No te quedes atrás en esta conversación! Para profundizar, no te pierdas el artículo completo aquí: https://eduardoalvarez.dev/articles/es-la-ia-la-nueva-droga-de-los-programadores #InteligenciaArtificial #DesarrolloSoftware #Tecnología #Programación #Eficiencia #Innovación'
+					width='180'
+					height='180'
+				/>
+    </a><a href='https://instagram.com/p/DVkOqshl67N' target='_blank'>
+					<img
+					src='https://scontent-vie1-1.cdninstagram.com/v/t51.82787-15/649218721_18080707004369993_3106370554910014171_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=107&ig_cache_key=Mzg0NzI2NDEyNDg4MDI3NzgxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTM1MC5zZHIuQzMifQ%3D%3D&_nc_ohc=etRF7nc3i-YQ7kNvwFGg2kd&_nc_oc=AdoK7GapAjBlCITMKLmCPwMTkWbSNNXZYjZwPb4dVc69r-dlnOT-OcnXmGP2Iib9wiU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_gid=PXicfqtFCMC6upmxQo8-lg&_nc_ss=7a338&oh=00_AfzDNX2vkuHGFwtHFuGhne6IJnzJhgLgYDya_dcWcPtCRw&oe=69C6E542'
 					alt='¿Sientes que siempre debes estar aprendiendo para no quedarte atrás? 🤔 En este carrusel exploraremos la importancia de entender que no estás obligado a aprender todo el tiempo. Hablaremos sobre el cansancio intelectual, cómo reconocer los signos del burnout, y la relevancia de tomar pausas regulares. También te daremos consejos sobre cómo establecer límites saludables y por qué a veces es bueno no estar siempre aprendiendo. 👉 No subestimes el poder de un buen descanso y la claridad mental que conlleva. 👇 Desliza para ver más. Lee el artículo completo aquí: https://www.eduardoalvarez.dev/articles/no-estas-obligado-a-aprender-todo-el-tiempo #CansancioIntelectual #Burnout #SaludMental #DesarrolloPersonal #Tecnología #Productividad'
 					width='180'
 					height='180'
 				/>
     </a><a href='https://instagram.com/p/DRm2mMnkWKS' target='_blank'>
 					<img
-					src='https://scontent-vie1-1.cdninstagram.com/v/t51.71878-15/590402511_1232464892045462_1031984145017951380_n.jpg?stp=dst-jpg_e15_p360x360_tt6&_nc_cat=107&ig_cache_key=Mzc3NTk0NTQ1Njk5NzE5NjQzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2LnNkci5DMyJ9&_nc_ohc=lkKaT4-UieEQ7kNvwGK8W6J&_nc_oc=AdoyC-fA6SrXkcwqdWcT4mruWOunk8wPv3_JMgo7jrPvYIhdvnikii-ZR3n4BYYR7aU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_gid=QSJ51OS0uQr9n6QrvD7OMg&_nc_ss=7a319&oh=00_AfxR793yDOtktC346Y5nOYjegDGtmyA1TqEPOiBbdYS8CA&oe=69C2E242'
+					src='https://scontent-vie1-1.cdninstagram.com/v/t51.71878-15/590402511_1232464892045462_1031984145017951380_n.jpg?stp=dst-jpg_e15_p360x360_tt6&_nc_cat=107&ig_cache_key=Mzc3NTk0NTQ1Njk5NzE5NjQzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjY0MHgxMTM2LnNkci5DMyJ9&_nc_ohc=eHuyp4J1aggQ7kNvwFq4Huo&_nc_oc=Adr6jtoBk6R5fWPwY6Ku38npPXlnVIg9jAHi163t1sDMSUu7n41tO78nyj4d4BkJncM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_gid=PXicfqtFCMC6upmxQo8-lg&_nc_ss=7a338&oh=00_AfzTFOkVKhdTgPgDhYFIakYXRZ4HKdEHHDUaPVZPWVXQrg&oe=69C6D6C2'
 					alt='Hoy es mi último día en la compañía… y wow, qué viaje 🚀 Hace un poco más de un año me dieron una misión ambiciosa: ayudar a elevar el nivel del frontend y construir, juntos, algo que trascendiera más allá del código. Y con el equipo Apolo11… lo hicimos. ✨ Creamos librerías ✨ Evangelizamos buenas prácticas ✨ Generamos cultura ✨ Dejamos un camino trazado ✨ Y fuimos punta de lanza en iniciativas que antes parecían lejanas Pero lo más grande no fue eso. Lo más grande fueron las personas: Las dailies llenas de ideas, las conversaciones de pasillo (más copucha que técnica 😅), los desafíos, los momentos de amistad, y ese espíritu One Piece de navegar juntos, confiando, aprendiendo y creciendo. Me voy sabiendo que lo que construimos no fue solo código. Fue impacto. Fue cultura. Fue dejar una huella. Gracias Apolo11 por hacer despegar esta nave 🚀🧡 Gracias a cada persona por confiar, por creer y por construir. Nos volveremos a cruzar en otra expedición 🌍✨'
 					width='180'
 					height='180'
 				/>
     </a><a href='https://instagram.com/p/DBhjeA2Axnt' target='_blank'>
 					<img
-					src='https://scontent-vie1-1.cdninstagram.com/v/t51.75761-15/464300241_18462178108058371_5109796531005203704_n.jpg?stp=dst-jpg_e35_p360x360_tt6&_nc_cat=101&ig_cache_key=MzQ4NjIyMzU4MDY3OTgzODE4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=5Z2ot-GNQ9cQ7kNvwFmDm6z&_nc_oc=AdoAeXD7H09Z7a6X0IoA1cZh100mwXI8VFA9-2ENT4MCR-h0-DHH0eFyBF5ChQo3P3Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_gid=QSJ51OS0uQr9n6QrvD7OMg&_nc_ss=7a319&oh=00_Afyz6KC-4TpodD783L_nHVa51bHjgWJNQg9s7vk53pdaCw&oe=69C2D93C'
+					src='https://scontent-vie1-1.cdninstagram.com/v/t51.75761-15/464300241_18462178108058371_5109796531005203704_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=101&ig_cache_key=MzQ4NjIyMzU4MDY3OTgzODE4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5zZHIuQzMifQ%3D%3D&_nc_ohc=PB-C0GhXLG8Q7kNvwEfdH9e&_nc_oc=AdrHkYfFE38kr2jP-z6Vw4Pf-Suy6detcSYs6_j9ngyy9h7SL9jFWrUqg5r2HiEoWsA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_gid=PXicfqtFCMC6upmxQo8-lg&_nc_ss=7a338&oh=00_AfyBC3Fl-9mIjyhS3vvEDw1Kuc6AeMvNtm_YQde2-1wlcg&oe=69C6CDBC'
 					alt='Jueves que a qué costo 🫠'
 					width='180'
 					height='180'
 				/>
     </a><a href='https://instagram.com/p/C-ZBiWAgJ5s' target='_blank'>
 					<img
-					src='https://scontent-vie1-1.cdninstagram.com/v/t51.29350-15/454284637_2211453355886743_1507808198217161850_n.jpg?stp=dst-jpegr_e35_p360x360_tt6&_nc_cat=110&ig_cache_key=MzQyOTc3OTMzODU5NjMxMTI3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5oZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=TtksP4Qozi0Q7kNvwG9W67I&_nc_oc=Adrj_3pLQB7sgeNtgzOpd_5gjBdARoxvc4XFJ7ypU8wnhnxb4trQ17RIMHoseTXWrOQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_gid=QSJ51OS0uQr9n6QrvD7OMg&_nc_ss=7a319&oh=00_AfxRlahjJalipgWj_2PRZztryOymsEKa5sGVHX-3hAiSdw&oe=69C2E89D'
+					src='https://scontent-vie1-1.cdninstagram.com/v/t51.29350-15/454284637_2211453355886743_1507808198217161850_n.jpg?stp=dst-jpegr_e35_p360x360_tt6&_nc_cat=110&ig_cache_key=MzQyOTc3OTMzODU5NjMxMTI3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjE0NDB4MTgwMC5oZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=jX4WmJebqF8Q7kNvwFK-Z4q&_nc_oc=AdqMrLJdaL7y1A2BpLcpQnIORPaXNoCZ9cysdFik2PKB2GUGsfH3jo7azb1jj8v1jqs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_gid=PXicfqtFCMC6upmxQo8-lg&_nc_ss=7a338&oh=00_AfyWEdbTjqXHLjY4VobUTxFIgNO_qYI3ytLn6wFakZTz7w&oe=69C6DD1D'
 					alt='Este año no ha sido para nada fácil, ha tocado estar en el suelo por un rato y no ha sido fácil el poder pararse, pero acá vamos de nuevo… y este nuevo surgir, debía ser acompañado con un cambio. Esperemos que se vengan bonitos desafíos ❤️'
-					width='180'
-					height='180'
-				/>
-    </a><a href='https://instagram.com/p/C5ys60PpbWU' target='_blank'>
-					<img
-					src='https://scontent-vie1-1.cdninstagram.com/v/t51.29350-15/438754256_7249821605071420_8478687047672465221_n.jpg?stp=dst-jpg_e35_s360x360_tt6&_nc_cat=107&ig_cache_key=MzM0NjkzNTAxODkzMDA3MDUxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6InhwaWRzLjEwODB4MTA4MC5zZHIuZGVmYXVsdF9pbWFnZS5DMyJ9&_nc_ohc=W3Jqwmj_4c4Q7kNvwGU2drF&_nc_oc=AdoX8MrIGMxTaWDAIaemaZ8sdhZ2HE2Pc7u8DR2Da4ZluR9yPueC_Fdb2GgTJ_o4ewA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_gid=QSJ51OS0uQr9n6QrvD7OMg&_nc_ss=7a319&oh=00_AfynKzH65yvu1RzbOWiJNoD1sUJTWZt90weHFhKpqazHkw&oe=69C2C5DC'
-					alt='El sábado 6 de abril, y en conjunto con @javascriptchile con su iniciativa #techschool y @duocuc_valparaiso, tuve la oportunidad de compartir un taller sobre Astro. Aprendido algunas de sus principales características, mientras desarrollábamos una aplicación consumiendo la API de Pokemon. Puedes ver la presentación ingresando a mi sitio web https://eduardoalvarez.dev/charlas-talleres'
 					width='180'
 					height='180'
 				/>
