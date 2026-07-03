@@ -16,8 +16,8 @@
   <li>📍 Chile.</li>
   <li>👨🏼‍💻 Tengo %{{years_old}}% años.</li>
   <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳🇨🇴🇵🇪</li>
-  <li>💻 Las Tecnologías que realmente me apasionan son: React, Node, TS, Flutter.</li>
-  <li>🧐 Intereses: a11y y AI</li>
+  <li>💻 Las Tecnologías que realmente me apasionan son: React, Node, TS.</li>
+  <li>🧐 Intereses: AI y a11y</li>
 </ul>
 
 <p><strong>Hobbies</strong></p>
@@ -43,9 +43,7 @@
 
 <p><strong>Otros</strong></p>
 <ul>
-  <li>🧳 Nómada digital.</li>
   <li>🍺 Siempre es un buen momento para hacer un espacio en la semana y tomar una cerveza con los amigos.</li>
-  <li>📚 Estudiando Python e Inglés.</li>
   <li>⭐ Tengo algunos proyectos open source que pueden ser de utilidad para la comunidad:</li>
     <ul>
       <li>vertical-timeline-component-react <small>v%{{vt_version}}%</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repo</a>)</li>
