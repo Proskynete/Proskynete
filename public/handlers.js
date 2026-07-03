@@ -164,8 +164,6 @@ const handleGetTechnologies = () => {
         { file_name: 'css3', technology: 'CSS3' },
         { file_name: 'node', technology: 'Nodejs' },
         { file_name: 'mongodb', technology: 'MongoDB' },
-        { file_name: 'dart', technology: 'Dart' },
-        { file_name: 'flutter', technology: 'Flutter' },
         { file_name: 'aws', technology: 'Amazon Web Services' },
         { file_name: 'git', technology: 'Git' },
         { file_name: 'firebase', technology: 'Firebase' },
