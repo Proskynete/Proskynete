@@ -38,7 +38,7 @@ export const REGEXPS: RegexpsInterface = {
 
 export const COUNT: CountInterface = {
 	ARTICLES: 5,
-	IMAGES: 5,
+	IMAGES: 4,
 	COMMENTS: 3,
 };
 

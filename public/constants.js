@@ -31,7 +31,7 @@ exports.REGEXPS = {
 };
 exports.COUNT = {
     ARTICLES: 5,
-    IMAGES: 5,
+    IMAGES: 4,
     COMMENTS: 3,
 };
 exports.BASE_URL = {

@@ -32,6 +32,7 @@
 <ul>
   <li>Volunteer Staff - JSConf Chile</li>
   <li>Job search preparation - Laboratoria</li>
+  <li>Mentor - ADPList</li>
 </ul>
 
 <p><strong>Últimos %{{number_comments}}% comentarios en ADPList</strong> (ver todos <a href="https://adplist.org/widgets/reviews?src=eduardo-alvarez" target='_blank'>acá</a>)</p>
