@@ -1,5 +1,4 @@
 import axios, { AxiosError } from 'axios';
-import * as core from '@actions/core';
 import Parser from 'rss-parser';
 import { URLS, COUNT, PERSONAL, INSTAGRAM, BASE_URL } from './constants';
 import {
@@ -122,7 +121,7 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 		console.error(err);
 		if (axios.isAxiosError(err)) {
 			const { response } = err as AxiosError;
-			if (response) core.setFailed(err.message);
+			if (response) console.error(`::error::${err.message}`);
 			process.exit(1);
 		}
 	}
