@@ -28,9 +28,9 @@
 	"dependencies": {
 		"axios": "^1.12.2",
 		"dotenv": "^16.4.5",
+		"fast-xml-parser": "^5.9.3",
 		"husky": "^9.1.6",
 		"prettier": "^3.3.3",
-		"rss-parser": "^3.13.0",
 		"typescript": "^5.6.2"
 	},
 	"devDependencies": {

@@ -14,11 +14,10 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.handleGetTechnologies = exports.handlerGetYearsOld = exports.handlerGetLatestInstagramImages = exports.handlerGetInstagramImages = exports.handlerSliceArticles = exports.handlerGetLatestArticles = exports.handlerGetAdpListComments = exports.prettyDateFormat = exports.handlerGetPackageVersion = void 0;
 const axios_1 = __importDefault(require("axios"));
-const rss_parser_1 = __importDefault(require("rss-parser"));
+const fast_xml_parser_1 = require("fast-xml-parser");
 const constants_1 = require("./constants");
 const dotenv_1 = __importDefault(require("dotenv"));
 dotenv_1.default.config();
-const parser = new rss_parser_1.default();
 const { INSTAGRAM_API_KEY } = process.env;
 const clearLineBreak = (text) => text.replace(/<br\s*\/?>/gi, '');
 const clearText = (text) => {
@@ -56,7 +55,20 @@ const handlerGetAdpListComments = (url) => __awaiter(void 0, void 0, void 0, fun
         .join('\n');
 });
 exports.handlerGetAdpListComments = handlerGetAdpListComments;
-const handlerGetLatestArticles = () => __awaiter(void 0, void 0, void 0, function* () { return parser.parseURL(constants_1.URLS.RSS).then((data) => data.items); });
+const handlerGetLatestArticles = () => __awaiter(void 0, void 0, void 0, function* () {
+    var _a, _b, _c;
+    const { data } = yield axios_1.default.get(constants_1.URLS.RSS, {
+        responseType: 'text',
+        headers: { 'Accept-Encoding': 'gzip,deflate,compress' },
+    });
+    const feed = new fast_xml_parser_1.XMLParser().parse(data);
+    const items = (_c = (_b = (_a = feed === null || feed === void 0 ? void 0 : feed.rss) === null || _a === void 0 ? void 0 : _a.channel) === null || _b === void 0 ? void 0 : _b.item) !== null && _c !== void 0 ? _c : [];
+    return (Array.isArray(items) ? items : [items]).map(({ title, link, pubDate }) => ({
+        title,
+        link,
+        pubDate,
+    }));
+});
 exports.handlerGetLatestArticles = handlerGetLatestArticles;
 const handlerSliceArticles = (articles) => articles
     .slice(0, constants_1.COUNT.ARTICLES)

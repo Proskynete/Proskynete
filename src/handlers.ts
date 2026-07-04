@@ -1,5 +1,5 @@
 import axios, { AxiosError } from 'axios';
-import Parser from 'rss-parser';
+import { XMLParser } from 'fast-xml-parser';
 import { URLS, COUNT, PERSONAL, INSTAGRAM, BASE_URL } from './constants';
 import {
 	Article,
@@ -12,8 +12,6 @@ import {
 import dotenv from 'dotenv';
 
 dotenv.config();
-
-const parser = new Parser();
 
 const { INSTAGRAM_API_KEY } = process.env;
 
@@ -74,8 +72,21 @@ export const handlerGetAdpListComments = async (url: string) => {
 /**
  * It fetches the RSS feed from the URL, parses it, and returns the items
  */
-export const handlerGetLatestArticles = async (): Promise<any> =>
-	parser.parseURL(URLS.RSS).then((data) => data.items);
+export const handlerGetLatestArticles = async (): Promise<Article[]> => {
+	const { data } = await axios.get<string>(URLS.RSS, {
+		responseType: 'text',
+		headers: { 'Accept-Encoding': 'gzip,deflate,compress' },
+	});
+
+	const feed = new XMLParser().parse(data);
+	const items = feed?.rss?.channel?.item ?? [];
+
+	return (Array.isArray(items) ? items : [items]).map(({ title, link, pubDate }: Article) => ({
+		title,
+		link,
+		pubDate,
+	}));
+};
 
 /**
  * It takes an array of articles, slices it to the first 5 articles, and then maps
