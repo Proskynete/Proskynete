@@ -20,6 +20,11 @@
   <li>🧐 Intereses: AI y a11y</li>
 </ul>
 
+<p><strong>Proyectos destacados</strong> (ver <a href="https://github.com/Proskynete?tab=repositories" target="_blank">todos</a>)</p>
+<ul>
+  %{{repositories}}%
+</ul>
+
 <p><strong>Hobbies</strong></p>
 <ul>
   <li>🎼  Tocar instrumentos musicales (guitarra eléctrica, guitarra acústica, teclado y ukelele).</li>
@@ -45,14 +50,7 @@
 <p><strong>Otros</strong></p>
 <ul>
   <li>🍺 Siempre es un buen momento para hacer un espacio en la semana y tomar una cerveza con los amigos.</li>
-  <li>⭐ Tengo algunos proyectos open source que pueden ser de utilidad para la comunidad:</li>
-    <ul>
-      <li>vertical-timeline-component-react <small>v%{{vt_version}}%</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repo</a>)</li>
-      <li>pretty-rating-react <small>v%{{pr_version}}%</small> (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repo</a>)</li>
-      <li>node-api-skeleton (<a href="https://github.com/Proskynete/node-api-skeleton" target="_blank">repo</a>)</li>
-      <li>cypress-cucumber-boilerplate (<a href="https://github.com/Proskynete/cypress-cucumber-boilerplate" target="_blank">repo</a>)</li>
-    </ul>
-  </li>
+  <li>📦 Publicados en npm: vertical-timeline-component-react <small>v%{{vt_version}}%</small> y pretty-rating-react <small>v%{{pr_version}}%</small></li>
   <li>⚛️ Pude participar como profesor en el curso de React en Coderhouse</li>
 </ul>
 

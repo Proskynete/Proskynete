@@ -9,14 +9,18 @@ import {
 	handlerGetYearsOld,
 	handleGetTechnologies,
 	handlerGetAdpListComments,
+	handlerGetFeaturedRepositories,
+	handlerRenderFeaturedRepositories,
+	failures,
 } from './handlers';
 
 (async () => {
 	try {
-		const [template, articles, images] = await Promise.all([
+		const [template, articles, images, repositories] = await Promise.all([
 			fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
 			handlerGetLatestArticles(),
 			handlerGetInstagramImages(),
+			handlerGetFeaturedRepositories(),
 		]);
 
 		const _verticalTimeline = await handlerGetPackageVersion(URLS.VERTICAL_TIMELINE);
@@ -26,6 +30,7 @@ import {
 		const _images = images ? handlerGetLatestInstagramImages(images) : '';
 		const _yearsOld = handlerGetYearsOld();
 		const _technologies = handleGetTechnologies();
+		const _repositories = handlerRenderFeaturedRepositories(repositories);
 
 		const newMarkdown = template
 			.replace(PLACEHOLDERS.TECHNOLOGIES, _technologies)
@@ -36,6 +41,7 @@ import {
 			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.PROFILE, INSTAGRAM.USER_NAME)
 			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.NUMBER_IMAGES, COUNT.IMAGES.toString())
 			.replace(PLACEHOLDERS.ADP_LIST.COUNT_COMMENTS, COUNT.COMMENTS.toString())
+			.replace(PLACEHOLDERS.GITHUB.REPOSITORIES, _repositories)
 			.replace(PLACEHOLDERS.WEBSITE.RSS, _articles)
 			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.SECTION_IMAGES, _images)
 			.replace(PLACEHOLDERS.ADP_LIST.COMMENTS, _comments);
@@ -43,10 +49,19 @@ import {
 		await fs.writeFile('./README.md', newMarkdown);
 
 		console.log('README.md has been generated!');
+
+		// The README is written even when a source failed, so one dead endpoint
+		// never blocks the rest. The run still exits non-zero so CI reports it
+		// rather than going green with a section quietly empty.
+		if (failures.length) {
+			console.error(`::error::Generated with failing sources: ${failures.join(', ')}`);
+			process.exit(1);
+		}
+
 		process.exit(0);
 	} catch (error) {
 		console.error('An error occurred while generating the README.md file');
 		console.error(error);
-		process.exit(0);
+		process.exit(1);
 	}
 })();

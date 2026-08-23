@@ -85,6 +85,14 @@
   <li>🧐 Intereses: AI y a11y</li>
 </ul>
 
+<p><strong>Proyectos destacados</strong> (ver <a href="https://github.com/Proskynete?tab=repositories" target="_blank">todos</a>)</p>
+<ul>
+<li><a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank"><strong>vertical-timeline-component-react</strong></a> <small>TypeScript · ⭐ 57</small><br /><small>A Timeline Component for React.js</small></li>
+  <li><a href="https://github.com/Proskynete/pretty-rating-react" target="_blank"><strong>pretty-rating-react</strong></a> <small>TypeScript · ⭐ 5</small><br /><small>A small and simple component to create icons from a rating</small></li>
+  <li><a href="https://github.com/Proskynete/node-api-skeleton" target="_blank"><strong>node-api-skeleton</strong></a> <small>TypeScript · ⭐ 3</small><br /><small>This is a repository meant to serve as a starting point if you want to start a TypeScript express API project with some common features already set up and best practices.</small></li>
+  <li><a href="https://github.com/Proskynete/cypress-cucumber-boilerplate" target="_blank"><strong>cypress-cucumber-boilerplate</strong></a> <small>TypeScript · ⭐ 2</small><br /><small>A boilerplate designed to run e2e tests using TS, Gherkins and Linter, generating a report at the end of the execution</small></li>
+</ul>
+
 <p><strong>Hobbies</strong></p>
 <ul>
   <li>🎼  Tocar instrumentos musicales (guitarra eléctrica, guitarra acústica, teclado y ukelele).</li>
@@ -112,14 +120,7 @@
 <p><strong>Otros</strong></p>
 <ul>
   <li>🍺 Siempre es un buen momento para hacer un espacio en la semana y tomar una cerveza con los amigos.</li>
-  <li>⭐ Tengo algunos proyectos open source que pueden ser de utilidad para la comunidad:</li>
-    <ul>
-      <li>vertical-timeline-component-react <small>v4.4.3</small> (<a href="https://www.npmjs.com/package/vertical-timeline-component-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank">repo</a>)</li>
-      <li>pretty-rating-react <small>v2.2.0</small> (<a href="https://www.npmjs.com/package/pretty-rating-react" target="_blank">npm</a> - <a href="https://github.com/Proskynete/pretty-rating-react" target="_blank">repo</a>)</li>
-      <li>node-api-skeleton (<a href="https://github.com/Proskynete/node-api-skeleton" target="_blank">repo</a>)</li>
-      <li>cypress-cucumber-boilerplate (<a href="https://github.com/Proskynete/cypress-cucumber-boilerplate" target="_blank">repo</a>)</li>
-    </ul>
-  </li>
+  <li>📦 Publicados en npm: vertical-timeline-component-react <small>v1.4.9</small> y pretty-rating-react <small>v1.2.6</small></li>
   <li>⚛️ Pude participar como profesor en el curso de React en Coderhouse</li>
 </ul>
 
