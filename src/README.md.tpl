@@ -20,6 +20,16 @@
   <li>🧐 Intereses: AI y a11y</li>
 </ul>
 
+<p><strong>Lo que tengo en línea</strong></p>
+
+| Proyecto | Qué es | En vivo |
+| --- | --- | --- |
+| <a href="https://github.com/Proskynete/eduardoalvarez.dev">eduardoalvarez.dev</a> | Blog: artículos, charlas, podcasts y stack | <a href="https://www.eduardoalvarez.dev">www.eduardoalvarez.dev</a> |
+| <a href="https://github.com/Proskynete/cursos.eduardoalvarez.dev">cursos</a> | Plataforma de cursos con video, pruebas y diplomas | <a href="https://cursos.eduardoalvarez.dev">cursos.eduardoalvarez.dev</a> |
+| <a href="https://github.com/Proskynete/resume">resume</a> | Mi CV interactivo, listo para imprimir | <a href="https://resume.eduardoalvarez.dev">resume.eduardoalvarez.dev</a> |
+| <a href="https://github.com/Proskynete/links">links</a> | Landing con todos mis perfiles | <a href="https://links.eduardoalvarez.dev">links.eduardoalvarez.dev</a> |
+| <a href="https://github.com/Proskynete/color-contrast-checker">color-contrast-checker</a> | Verificador de contraste WCAG | <a href="https://c3.eduardoalvarez.dev">c3.eduardoalvarez.dev</a> |
+
 <p><strong>Proyectos destacados</strong> (ver <a href="https://github.com/Proskynete?tab=repositories" target="_blank">todos</a>)</p>
 <ul>
   %{{repositories}}%
