@@ -85,9 +85,19 @@
   <li>🧐 Intereses: AI y a11y</li>
 </ul>
 
+<p><strong>Lo que tengo en línea</strong></p>
+
+| Proyecto | Qué es | En vivo |
+| --- | --- | --- |
+| <a href="https://github.com/Proskynete/eduardoalvarez.dev">eduardoalvarez.dev</a> | Blog: artículos, charlas, podcasts y stack | <a href="https://www.eduardoalvarez.dev">www.eduardoalvarez.dev</a> |
+| <a href="https://github.com/Proskynete/cursos.eduardoalvarez.dev">cursos</a> | Plataforma de cursos con video, pruebas y diplomas | <a href="https://cursos.eduardoalvarez.dev">cursos.eduardoalvarez.dev</a> |
+| <a href="https://github.com/Proskynete/resume">resume</a> | Mi CV interactivo, listo para imprimir | <a href="https://resume.eduardoalvarez.dev">resume.eduardoalvarez.dev</a> |
+| <a href="https://github.com/Proskynete/links">links</a> | Landing con todos mis perfiles | <a href="https://links.eduardoalvarez.dev">links.eduardoalvarez.dev</a> |
+| <a href="https://github.com/Proskynete/color-contrast-checker">color-contrast-checker</a> | Verificador de contraste WCAG | <a href="https://c3.eduardoalvarez.dev">c3.eduardoalvarez.dev</a> |
+
 <p><strong>Proyectos destacados</strong> (ver <a href="https://github.com/Proskynete?tab=repositories" target="_blank">todos</a>)</p>
 <ul>
-<li><a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank"><strong>vertical-timeline-component-react</strong></a> <small>TypeScript · ⭐ 57</small><br /><small>A Timeline Component for React.js</small></li>
+    <li><a href="https://github.com/Proskynete/vertical-timeline-component-react" target="_blank"><strong>vertical-timeline-component-react</strong></a> <small>TypeScript · ⭐ 57</small><br /><small>A Timeline Component for React.js</small></li>
   <li><a href="https://github.com/Proskynete/pretty-rating-react" target="_blank"><strong>pretty-rating-react</strong></a> <small>TypeScript · ⭐ 5</small><br /><small>A small and simple component to create icons from a rating</small></li>
   <li><a href="https://github.com/Proskynete/node-api-skeleton" target="_blank"><strong>node-api-skeleton</strong></a> <small>TypeScript · ⭐ 3</small><br /><small>This is a repository meant to serve as a starting point if you want to start a TypeScript express API project with some common features already set up and best practices.</small></li>
   <li><a href="https://github.com/Proskynete/cypress-cucumber-boilerplate" target="_blank"><strong>cypress-cucumber-boilerplate</strong></a> <small>TypeScript · ⭐ 2</small><br /><small>A boilerplate designed to run e2e tests using TS, Gherkins and Linter, generating a report at the end of the execution</small></li>
@@ -110,9 +120,9 @@
 
 <p><strong>Últimos 3 comentarios en ADPList</strong> (ver todos <a href="https://adplist.org/widgets/reviews?src=eduardo-alvarez" target='_blank'>acá</a>)</p>
 <ul>
-  <li><i>"Una gran mentoría, explica todo muy bien, tiene los conceptos muy claro y explica demasiado bien"</i> - Carlos Eduardo Palomo Serna <small>(1 de junio de 2024)</small></li>
+  <li><i>"Una gran mentoría, explica todo muy bien, tiene los conceptos muy claro y explica demasiado bien"</i> - Carlos Eduardo Palomo Serna <small>(31 de mayo de 2024)</small></li>
 <li><i>"Me gustaría dar las gracias a Eduardo por su orientación, su enfoque profesional y su apoyo."</i> - Artem Liamichev <small>(29 de mayo de 2024)</small></li>
-<li><i>"Muy profesional y con ganas de ayudar, se toma el tiempo de de preparar bien todo el material con las preguntas, tiene muchos conocimientos técnicos y habilidades. Muy simpático además. Saque muchas cosas positivas de esta reunión y me aclaró bastante la pelicula"</i> - Michelle Cifuentes <small>(23 de mayo de 2024)</small></li>
+<li><i>"Muy profesional y con ganas de ayudar, se toma el tiempo de de preparar bien todo el material con las preguntas, tiene muchos conocimientos técnicos y habilidades. Muy simpático además. Saque muchas cosas positivas de esta reunión y me aclaró bastante la pelicula"</i> - Michelle Cifuentes <small>(22 de mayo de 2024)</small></li>
 </ul>
 
 
@@ -120,7 +130,7 @@
 <p><strong>Otros</strong></p>
 <ul>
   <li>🍺 Siempre es un buen momento para hacer un espacio en la semana y tomar una cerveza con los amigos.</li>
-  <li>📦 Publicados en npm: vertical-timeline-component-react <small>v1.4.9</small> y pretty-rating-react <small>v1.2.6</small></li>
+  <li>📦 Publicados en npm: vertical-timeline-component-react <small>v4.4.3</small> y pretty-rating-react <small>v2.2.0</small></li>
   <li>⚛️ Pude participar como profesor en el curso de React en Coderhouse</li>
 </ul>
 
@@ -132,35 +142,7 @@
   </strong>
 </p>
 
-<a href='https://instagram.com/p/DaOSZhol4Zk' target='_blank'>
-					<img
-					src='https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/733448530_18093401498369993_7027039750955521831_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=111&ig_cache_key=MzkzMTE2MDEwNDQ3Nzg1NTU0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-H738lo1_DcQ7kNvwGhhyhZ&_nc_oc=AdpGR8LjBfWs6UBBKyw5MbEfH4dUTV-7LQpXpYm1r98107c3Zgkx0g-uWv2jRQS_gko&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=0TbGJHLY71dvkN4jow0GRQ&_nc_ss=7a3ba&oh=00_AQFatlCN-SIBv_69mNSmrsvjsgOQB6C0_UT-r6edBLjPTA&oe=6A947FC9'
-					alt='¿Sabías que la IA no viene a reemplazarte, sino a optimizar tu experiencia? 🤔✨ En este carrusel, exploramos cómo la IA se convierte en una herramienta poderosa que transforma nuestra forma de trabajar y pensar. Desde la diversidad en su uso hasta la importancia de tener un framework interno sólido, cada punto es crucial para entender cómo esta tecnología amplifica los desafíos que enfrentamos. También abordamos cómo comprender tu negocio se vuelve más relevante que nunca en este nuevo panorama profesional. 🌟 👇 Desliza para ver más 👉 Para leer el artículo completo, visita: https://eduardoalvarez.dev/articles/la-ia-no-reemplaza-tu-experiencia-la-pone-a-prueba #InteligenciaArtificial #DesarrolloPersonal #InnovaciónTecnológica #TransformaciónDigital #NegociosInteligentes'
-					width='180'
-					height='180'
-				/>
-    </a><a href='https://instagram.com/p/DWKrfDjEYVa' target='_blank'>
-					<img
-					src='https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/656165010_18082531556369993_1487250852344658270_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=111&ig_cache_key=Mzg1ODA4Njg2Mzg3ODMzNjMzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OfI90BNf4NAQ7kNvwFPOt1x&_nc_oc=AdrfsWF37yPkVMEa_ipSR-AolQnNpeTMWLqDPRhH8oMb0YcyFe6lt639OOvMQmAVI6U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=0TbGJHLY71dvkN4jow0GRQ&_nc_ss=7a3ba&oh=00_AQER58ZNok0s1jW1VjEybBuLiny-Dh_Qm_wzzOaPmnVhMw&oe=6A94944C'
-					alt='🚀 ¿La IA se ha convertido en la nueva droga de los programadores? 🤔 En nuestro último carrusel, exploramos cómo esta tecnología está cambiando el panorama del desarrollo. Desde la fascinante transformación de la eficiencia y la inmediatez que ofrece, hasta los dilemas que enfrentamos entre delegar tareas y seguir aprendiendo. Además, discutimos cómo todo esto está moldeando nuestra identidad como profesionales en la era digital. ¡No te quedes atrás en esta conversación! Para profundizar, no te pierdas el artículo completo aquí: https://eduardoalvarez.dev/articles/es-la-ia-la-nueva-droga-de-los-programadores #InteligenciaArtificial #DesarrolloSoftware #Tecnología #Programación #Eficiencia #Innovación'
-					width='180'
-					height='180'
-				/>
-    </a><a href='https://instagram.com/p/DVkOqshl67N' target='_blank'>
-					<img
-					src='https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/649218721_18080707004369993_3106370554910014171_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=107&ig_cache_key=Mzg0NzI2NDEyNDg4MDI3NzgxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hr-XU878634Q7kNvwGO084Y&_nc_oc=AdqJR6jCU69R0CK0UI5dPKgPgoTja0CpWZz04VeYm4tdDvsejFjH5dYhF2NKOfBEqek&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=0TbGJHLY71dvkN4jow0GRQ&_nc_ss=7a3ba&oh=00_AQHbtM3V-_4xxNVlS7mNj23-TA9Au7qgaq-TM9r41hRyFA&oe=6A948F42'
-					alt='¿Sientes que siempre debes estar aprendiendo para no quedarte atrás? 🤔 En este carrusel exploraremos la importancia de entender que no estás obligado a aprender todo el tiempo. Hablaremos sobre el cansancio intelectual, cómo reconocer los signos del burnout, y la relevancia de tomar pausas regulares. También te daremos consejos sobre cómo establecer límites saludables y por qué a veces es bueno no estar siempre aprendiendo. 👉 No subestimes el poder de un buen descanso y la claridad mental que conlleva. 👇 Desliza para ver más. Lee el artículo completo aquí: https://www.eduardoalvarez.dev/articles/no-estas-obligado-a-aprender-todo-el-tiempo #CansancioIntelectual #Burnout #SaludMental #DesarrolloPersonal #Tecnología #Productividad'
-					width='180'
-					height='180'
-				/>
-    </a><a href='https://instagram.com/p/DRm2mMnkWKS' target='_blank'>
-					<img
-					src='https://scontent-bru2-1.cdninstagram.com/v/t51.71878-15/590402511_1232464892045462_1031984145017951380_n.jpg?stp=dst-jpg_e15_p360x360_tt6&_nc_cat=107&ig_cache_key=Mzc3NTk0NTQ1Njk5NzE5NjQzNDg1NzgyNjUwNjk4OTgxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjY0MC5zZHIudmlkZW9fbmZyYW1lX2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=TWM8SIK5HRgQ7kNvwHvnlGX&_nc_oc=Adp98sOSfQ54ATKGCMJMAvJf3L79bpvr88NdptEM1N4N60lvONtM8bThCPGqiFYWNeI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=0TbGJHLY71dvkN4jow0GRQ&_nc_ss=7a3ba&oh=00_AQGgfOvnrcsjH-0VwtSQ0AV2Fa3BinrTT759wWp4NlT5Yw&oe=6A9480C2'
-					alt='Hoy es mi último día en la compañía… y wow, qué viaje 🚀 Hace un poco más de un año me dieron una misión ambiciosa: ayudar a elevar el nivel del frontend y construir, juntos, algo que trascendiera más allá del código. Y con el equipo Apolo11… lo hicimos. ✨ Creamos librerías ✨ Evangelizamos buenas prácticas ✨ Generamos cultura ✨ Dejamos un camino trazado ✨ Y fuimos punta de lanza en iniciativas que antes parecían lejanas Pero lo más grande no fue eso. Lo más grande fueron las personas: Las dailies llenas de ideas, las conversaciones de pasillo (más copucha que técnica 😅), los desafíos, los momentos de amistad, y ese espíritu One Piece de navegar juntos, confiando, aprendiendo y creciendo. Me voy sabiendo que lo que construimos no fue solo código. Fue impacto. Fue cultura. Fue dejar una huella. Gracias Apolo11 por hacer despegar esta nave 🚀🧡 Gracias a cada persona por confiar, por creer y por construir. Nos volveremos a cruzar en otra expedición 🌍✨'
-					width='180'
-					height='180'
-				/>
-    </a>
+
 
 ---
 

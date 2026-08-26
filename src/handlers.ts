@@ -55,8 +55,13 @@ export const handlerGetPackageVersion = async (packageName: string): Promise<str
 	return data.version;
 };
 
+// Sin `timeZone` esto formatea en la zona de quien ejecute el generador: la
+// Action corre en UTC y una maquina local puede estar en cualquier otra, asi
+// que una misma resena se renderizaba con dias distintos. Se fija a Chile para
+// que el README sea el mismo sin importar donde se genere.
 export const prettyDateFormat = (date: string): string =>
 	new Date(date).toLocaleDateString('es-CL', {
+		timeZone: 'America/Santiago',
 		day: 'numeric',
 		month: 'long',
 		year: 'numeric',
