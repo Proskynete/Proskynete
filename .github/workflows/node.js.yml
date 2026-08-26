@@ -49,6 +49,9 @@ jobs:
       - name: ⚙️ Transpile and generate a new readme file
         env:
           INSTAGRAM_API_KEY: ${{ secrets.INSTAGRAM_API_KEY }}
+          # Raises the GitHub API rate limit from 60/hour per IP to 1000/hour.
+          # Provided automatically by Actions — no secret to configure.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npm start
 
       - name: 📝 Commit and push changes

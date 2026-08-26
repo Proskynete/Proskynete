@@ -30,6 +30,9 @@ export const PLACEHOLDERS: PlaceholdersInterface = {
 		COMMENTS: '%{{adp_list_comments}}%',
 		COUNT_COMMENTS: '%{{number_comments}}%',
 	},
+	GITHUB: {
+		REPOSITORIES: '%{{repositories}}%',
+	},
 };
 
 export const REGEXPS: RegexpsInterface = {
@@ -40,6 +43,7 @@ export const COUNT: CountInterface = {
 	ARTICLES: 5,
 	IMAGES: 4,
 	COMMENTS: 3,
+	REPOSITORIES: 4,
 };
 
 export const BASE_URL: BaseUrlInterface = {
@@ -48,6 +52,7 @@ export const BASE_URL: BaseUrlInterface = {
 	TECHNOLOGIES: 'https://github.com/Proskynete/Proskynete/blob/main/images/icons',
 	INSTAGRAM_API: 'https://rocketapi-for-developers.p.rapidapi.com/instagram/user/get_media',
 	ADP_LIST: 'https://api2.adplist.org',
+	GITHUB_API: 'https://api.github.com',
 };
 
 export const INSTAGRAM = {
@@ -58,7 +63,23 @@ export const INSTAGRAM = {
 export const PERSONAL = {
 	YEAR_OF_BIRTH: '1993-12-24',
 	ADP_USER_ID: 983411,
+	GITHUB_USER: 'Proskynete',
 };
+
+/**
+ * Repos que se muestran destacados, en este orden.
+ *
+ * Es una lista curada y no «los más estrellados» a propósito: el orden lo
+ * decides tú, y ordenar por estrellas dejaría subir cualquier fork o
+ * experimento. La descripción, el lenguaje y las estrellas sí salen en vivo de
+ * la API, así que el contenido no se queda viejo aunque la selección sea fija.
+ */
+export const FEATURED_REPOSITORIES: string[] = [
+	'vertical-timeline-component-react',
+	'pretty-rating-react',
+	'node-api-skeleton',
+	'cypress-cucumber-boilerplate',
+];
 
 export const URLS: UrlsInterface = {
 	VERTICAL_TIMELINE: 'vertical-timeline-component-react',
