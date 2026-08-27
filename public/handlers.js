@@ -41,6 +41,7 @@ const handlerGetPackageVersion = (packageName) => __awaiter(void 0, void 0, void
 });
 exports.handlerGetPackageVersion = handlerGetPackageVersion;
 const prettyDateFormat = (date) => new Date(date).toLocaleDateString('es-CL', {
+    timeZone: 'America/Santiago',
     day: 'numeric',
     month: 'long',
     year: 'numeric',
