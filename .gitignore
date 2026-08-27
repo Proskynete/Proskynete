@@ -1,3 +1,8 @@
 node_modules
 .DS_Store
 .env
+
+# Transpilado por `npm run transpile` en cada ejecucion, incluida la Action.
+# Versionarlo duplicaba cada diff: un cambio de una linea en src/ aparecia
+# tambien en public/ y en los .map.
+public
