@@ -12,13 +12,14 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.handleGetTechnologies = exports.handlerGetYearsOld = exports.handlerGetLatestInstagramImages = exports.handlerGetInstagramImages = exports.handlerSliceArticles = exports.handlerGetLatestArticles = exports.handlerGetAdpListComments = exports.prettyDateFormat = exports.handlerGetPackageVersion = void 0;
+exports.handleGetTechnologies = exports.handlerGetYearsOld = exports.handlerRenderFeaturedRepositories = exports.handlerGetFeaturedRepositories = exports.handlerGetLatestInstagramImages = exports.handlerGetInstagramImages = exports.handlerSliceArticles = exports.handlerGetLatestArticles = exports.handlerGetAdpListComments = exports.prettyDateFormat = exports.handlerGetPackageVersion = exports.failures = void 0;
 const axios_1 = __importDefault(require("axios"));
 const fast_xml_parser_1 = require("fast-xml-parser");
 const constants_1 = require("./constants");
 const dotenv_1 = __importDefault(require("dotenv"));
 dotenv_1.default.config();
-const { INSTAGRAM_API_KEY } = process.env;
+const { INSTAGRAM_API_KEY, GITHUB_TOKEN } = process.env;
+exports.failures = [];
 const clearLineBreak = (text) => text.replace(/<br\s*\/?>/gi, '');
 const clearText = (text) => {
     const _text = text.replace(/<[^>]*>/g, '');
@@ -101,13 +102,9 @@ const handlerGetInstagramImages = () => __awaiter(void 0, void 0, void 0, functi
         });
     }
     catch (err) {
-        console.error(err);
-        if (axios_1.default.isAxiosError(err)) {
-            const { response } = err;
-            if (response)
-                console.error(`::error::${err.message}`);
-            process.exit(1);
-        }
+        const message = axios_1.default.isAxiosError(err) ? err.message : String(err);
+        console.error(`::error::Instagram: ${message}`);
+        exports.failures.push('instagram');
     }
     console.timeEnd('Instagram API');
 });
@@ -124,6 +121,38 @@ const handlerGetLatestInstagramImages = (images) => images
     </a>`)
     .join('');
 exports.handlerGetLatestInstagramImages = handlerGetLatestInstagramImages;
+const handlerGetFeaturedRepositories = () => __awaiter(void 0, void 0, void 0, function* () {
+    const headers = { Accept: 'application/vnd.github+json' };
+    if (GITHUB_TOKEN)
+        headers.Authorization = `Bearer ${GITHUB_TOKEN}`;
+    const results = yield Promise.allSettled(constants_1.FEATURED_REPOSITORIES.slice(0, constants_1.COUNT.REPOSITORIES).map((name) => axios_1.default.get(`${constants_1.BASE_URL.GITHUB_API}/repos/${constants_1.PERSONAL.GITHUB_USER}/${name}`, { headers })));
+    return results
+        .filter((r) => r.status === 'fulfilled')
+        .map(({ value: { data } }) => {
+        var _a, _b;
+        return ({
+            name: data.name,
+            url: data.html_url,
+            description: (_a = data.description) !== null && _a !== void 0 ? _a : '',
+            language: (_b = data.language) !== null && _b !== void 0 ? _b : '',
+            stars: data.stargazers_count,
+        });
+    });
+});
+exports.handlerGetFeaturedRepositories = handlerGetFeaturedRepositories;
+const handlerRenderFeaturedRepositories = (repositories) => {
+    if (!repositories.length)
+        return '';
+    return repositories
+        .map(({ name, url, description, language, stars }) => {
+        const meta = [language, stars > 0 ? `⭐ ${stars}` : ''].filter(Boolean).join(' · ');
+        const suffix = meta ? ` <small>${meta}</small>` : '';
+        const summary = description ? `<br /><small>${description}</small>` : '';
+        return `  <li><a href="${url}" target="_blank"><strong>${name}</strong></a>${suffix}${summary}</li>`;
+    })
+        .join('\n');
+};
+exports.handlerRenderFeaturedRepositories = handlerRenderFeaturedRepositories;
 const handlerGetYearsOld = () => dateDifferenceInYears(new Date(constants_1.PERSONAL.YEAR_OF_BIRTH), new Date());
 exports.handlerGetYearsOld = handlerGetYearsOld;
 const dateDifferenceInMonths = (dateInitial, dateFinal) => Math.max((dateFinal.getFullYear() - dateInitial.getFullYear()) * 12 +

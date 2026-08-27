@@ -72,6 +72,25 @@ export interface InstagramImagesResponse {
 	description: string;
 }
 
+/** Subset of the GitHub repos endpoint that this README actually renders. */
+export interface GitHubRepositoryResponse {
+	name: string;
+	html_url: string;
+	description: string | null;
+	language: string | null;
+	stargazers_count: number;
+	archived: boolean;
+	fork: boolean;
+}
+
+export interface FeaturedRepository {
+	name: string;
+	url: string;
+	description: string;
+	language: string;
+	stars: number;
+}
+
 export interface ImagesInterface {
 	file_name: string;
 	technology: string;
@@ -101,6 +120,9 @@ export interface PlaceholdersInterface {
 		COMMENTS: string;
 		COUNT_COMMENTS: string;
 	};
+	GITHUB: {
+		REPOSITORIES: string;
+	};
 }
 
 export interface BaseUrlInterface {
@@ -109,6 +131,7 @@ export interface BaseUrlInterface {
 	TECHNOLOGIES: string;
 	INSTAGRAM_API: string;
 	ADP_LIST: string;
+	GITHUB_API: string;
 }
 
 export interface UrlsInterface {
@@ -126,4 +149,5 @@ export interface CountInterface {
 	ARTICLES: number;
 	IMAGES: number;
 	COMMENTS: number;
+	REPOSITORIES: number;
 }

@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.URLS = exports.PERSONAL = exports.INSTAGRAM = exports.BASE_URL = exports.COUNT = exports.REGEXPS = exports.PLACEHOLDERS = void 0;
+exports.URLS = exports.FEATURED_REPOSITORIES = exports.PERSONAL = exports.INSTAGRAM = exports.BASE_URL = exports.COUNT = exports.REGEXPS = exports.PLACEHOLDERS = void 0;
 exports.PLACEHOLDERS = {
     TECHNOLOGIES: '%{{technologies}}%',
     PERSONAL: {
@@ -25,6 +25,9 @@ exports.PLACEHOLDERS = {
         COMMENTS: '%{{adp_list_comments}}%',
         COUNT_COMMENTS: '%{{number_comments}}%',
     },
+    GITHUB: {
+        REPOSITORIES: '%{{repositories}}%',
+    },
 };
 exports.REGEXPS = {
     TAG_ELEMENT: 'p.f2874b88.fw6.mb3.mt2.truncate.black-80.f4',
@@ -33,6 +36,7 @@ exports.COUNT = {
     ARTICLES: 5,
     IMAGES: 4,
     COMMENTS: 3,
+    REPOSITORIES: 4,
 };
 exports.BASE_URL = {
     NPM: 'https://www.npmjs.com/package',
@@ -40,6 +44,7 @@ exports.BASE_URL = {
     TECHNOLOGIES: 'https://github.com/Proskynete/Proskynete/blob/main/images/icons',
     INSTAGRAM_API: 'https://rocketapi-for-developers.p.rapidapi.com/instagram/user/get_media',
     ADP_LIST: 'https://api2.adplist.org',
+    GITHUB_API: 'https://api.github.com',
 };
 exports.INSTAGRAM = {
     USER_ID: 41056689992,
@@ -48,7 +53,14 @@ exports.INSTAGRAM = {
 exports.PERSONAL = {
     YEAR_OF_BIRTH: '1993-12-24',
     ADP_USER_ID: 983411,
+    GITHUB_USER: 'Proskynete',
 };
+exports.FEATURED_REPOSITORIES = [
+    'vertical-timeline-component-react',
+    'pretty-rating-react',
+    'node-api-skeleton',
+    'cypress-cucumber-boilerplate',
+];
 exports.URLS = {
     VERTICAL_TIMELINE: 'vertical-timeline-component-react',
     PRETTY_RATING: 'pretty-rating-react',
