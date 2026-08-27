@@ -1,6 +1,9 @@
 {
 	"name": "proskynete",
 	"version": "1.2.3",
+	"engines": {
+		"node": "24.x"
+	},
 	"description": "Proskynete README github profile",
 	"main": "public/index.js",
 	"repository": {
@@ -19,6 +22,8 @@
 	"homepage": "https://github.com/Proskynete/Proskynete#readme",
 	"scripts": {
 		"transpile": "tsc",
+		"test": "vitest run",
+		"test:watch": "vitest",
 		"generate-readme": "node public/index.js",
 		"start": "npm run transpile && npm run generate-readme",
 		"lint": "eslint . --ext .ts ./src",
@@ -28,18 +33,19 @@
 	"dependencies": {
 		"axios": "^1.12.2",
 		"dotenv": "^16.4.5",
-		"fast-xml-parser": "^5.9.3",
-		"husky": "^9.1.6",
-		"prettier": "^3.3.3",
-		"typescript": "^5.6.2"
+		"fast-xml-parser": "^5.9.3"
 	},
 	"devDependencies": {
 		"@types/node": "^24.9.1",
-		"@types/prettier": "^2.7.3",
 		"@typescript-eslint/eslint-plugin": "^7.18.0",
 		"@typescript-eslint/parser": "^7.18.0",
+		"eslint": "^8.57.1",
 		"eslint-config-airbnb-typescript": "^18.0.0",
 		"eslint-config-prettier": "^10.1.8",
-		"eslint-plugin-prettier": "^5.5.4"
+		"eslint-plugin-prettier": "^5.5.4",
+		"husky": "^9.1.6",
+		"prettier": "^3.3.3",
+		"typescript": "^5.6.2",
+		"vitest": "^3.2.4"
 	}
 }
