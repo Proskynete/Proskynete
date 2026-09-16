@@ -142,31 +142,31 @@
   </strong>
 </p>
 
-<a href='https://instagram.com/p/DdPJ4cnkbGO' target='_blank'>
+<a href='https://instagram.com/p/DdT0q9okVuV' target='_blank'>
 					<img
-					src='https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/807684757_18101686730369993_6793032297794019310_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=108&ig_cache_key=Mzk4NTQ0NzY1NjY4NDEwNjEyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=P6g-RJz53VIQ7kNvwGUTIKr&_nc_oc=Adr5yOYp31EZiRm9hWo-JQtVk3Jpozm2iOpFqGZqzkqC1mXill4H4SNseV4c65q4YWw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=1UrP2V8u4O92Oavv-avKsA&_nc_ss=7a3ba&oh=00_AQKEA9Sfkri2tLRvEm7KMuwLkkmsWhzo_Txuw8-K9SSHrw&oe=6AADF29D'
+					src='https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/811137765_18101832785369993_6242080349142532796_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=104&ig_cache_key=Mzk4NjQzODA0OTYxNzc0NTc4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=xXWUQg0fe14Q7kNvwHBiB0_&_nc_oc=AdrTND574SdxbMA3qaKwPLwzjEv0gaNlAmp8L7UsYyuXdJD_8FjFVx-S02Z9GADoZJ0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=nWzonKUmB8Arcf7ef-P0sA&_nc_ss=7a3ba&oh=00_AQKT_jYZllqpe7_-DVHav4L0mMb3C2oMaHb5aUChrXmGCQ&oe=6AB056D4'
+					alt=''
+					width='180'
+					height='180'
+				/>
+    </a><a href='https://instagram.com/p/DdPJ4cnkbGO' target='_blank'>
+					<img
+					src='https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/807684757_18101686730369993_6793032297794019310_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=108&ig_cache_key=Mzk4NTQ0NzY1NjY4NDEwNjEyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=P6g-RJz53VIQ7kNvwHDVsqL&_nc_oc=Adq7am8tVIR8zRrpHyCvrLoQtq0wXpr-bQugh-qQQyhP-RqcgMwzmiLeA3lyc2nwnMY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=nWzonKUmB8Arcf7ef-P0sA&_nc_ss=7a3ba&oh=00_AQK09V53b6JZtBP8PBVyAAAbblFpXx3M82u31G_RxEFlYA&oe=6AB05D5D'
 					alt='Hoy celebramos a todos los guerreros del código que luchan diariamente en la batalla contra los bugs. Cada línea de código escrita es un paso hacia la innovación y, a veces, un salto al abismo de errores inesperados. 💻 Este día es para ti, que con paciencia y dedicación haces que las cosas funcionen en el mundo digital. No olvidemos que cada bug arreglado es una victoria que nos acerca más a la perfección. ¿Cuál ha sido tu mayor desafío en producción? ¡Comparte tu experiencia y sigamos aprendiendo juntos! 👩‍💻👨‍💻 #DíaDelProgramador #Programación #DesarrolloDeSoftware #CodeLife #TechCommunity #Bugs'
 					width='180'
 					height='180'
 				/>
     </a><a href='https://instagram.com/p/DaOSZhol4Zk' target='_blank'>
 					<img
-					src='https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/733448530_18093401498369993_7027039750955521831_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=111&ig_cache_key=MzkzMTE2MDEwNDQ3Nzg1NTU0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MUrkE8Cl6F8Q7kNvwEFrqTw&_nc_oc=Adr0ttwjys5PUy7AFbADGsU7h71mU5ymEeisCOO1vqG9oWnMDtcg9TpAlV2vtXE82CU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=1UrP2V8u4O92Oavv-avKsA&_nc_ss=7a3ba&oh=00_AQIEV3Q3TOfriQ3WrqMnjFfRZsv64q-nMEL32339gEYsjg&oe=6AADC489'
+					src='https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/733448530_18093401498369993_7027039750955521831_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=111&ig_cache_key=MzkzMTE2MDEwNDQ3Nzg1NTU0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9B2kYqfCOloQ7kNvwGf5d8w&_nc_oc=Adrr_2N9ghSF6yPBOGqWENB2-8xutcKWVu_j5OikyzKH-vER4AhnwbB9Gl-URRu7Jq4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=nWzonKUmB8Arcf7ef-P0sA&_nc_ss=7a3ba&oh=00_AQKljDAgI9x9Gs8gUZVrXQGLnxolvb8immF0qA9AGXfWLw&oe=6AB06789'
 					alt='¿Sabías que la IA no viene a reemplazarte, sino a optimizar tu experiencia? 🤔✨ En este carrusel, exploramos cómo la IA se convierte en una herramienta poderosa que transforma nuestra forma de trabajar y pensar. Desde la diversidad en su uso hasta la importancia de tener un framework interno sólido, cada punto es crucial para entender cómo esta tecnología amplifica los desafíos que enfrentamos. También abordamos cómo comprender tu negocio se vuelve más relevante que nunca en este nuevo panorama profesional. 🌟 👇 Desliza para ver más 👉 Para leer el artículo completo, visita: https://eduardoalvarez.dev/articles/la-ia-no-reemplaza-tu-experiencia-la-pone-a-prueba #InteligenciaArtificial #DesarrolloPersonal #InnovaciónTecnológica #TransformaciónDigital #NegociosInteligentes'
 					width='180'
 					height='180'
 				/>
     </a><a href='https://instagram.com/p/DWKrfDjEYVa' target='_blank'>
 					<img
-					src='https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/656165010_18082531556369993_1487250852344658270_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=111&ig_cache_key=Mzg1ODA4Njg2Mzg3ODMzNjMzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7rqTyiDE0KcQ7kNvwHBIcHJ&_nc_oc=AdrqyXMhCf6cLGiE9D-borPuuagjZhyuzan1yU-zMvVKtA3VguU90TA1-TW0KuRWw0Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=1UrP2V8u4O92Oavv-avKsA&_nc_ss=7a3ba&oh=00_AQKrpOTPw7mwep_lYWMWSF0QtZuMw2Nb2w3VyO1k5oq-XA&oe=6AADD90C'
+					src='https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/656165010_18082531556369993_1487250852344658270_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=111&ig_cache_key=Mzg1ODA4Njg2Mzg3ODMzNjMzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QFz2sFOO0ZgQ7kNvwECaxFg&_nc_oc=Adog7a1Y48T9H_H9jnymMcCV2OL_wvejCyWMWN4VVM7uG3Cjsmo2CZeob-2hcw7McpU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=nWzonKUmB8Arcf7ef-P0sA&_nc_ss=7a3ba&oh=00_AQIlbm0MR4HffdICLqz8g3gejG1x4_v5hML4cwgsQXf0NA&oe=6AB07C0C'
 					alt='🚀 ¿La IA se ha convertido en la nueva droga de los programadores? 🤔 En nuestro último carrusel, exploramos cómo esta tecnología está cambiando el panorama del desarrollo. Desde la fascinante transformación de la eficiencia y la inmediatez que ofrece, hasta los dilemas que enfrentamos entre delegar tareas y seguir aprendiendo. Además, discutimos cómo todo esto está moldeando nuestra identidad como profesionales en la era digital. ¡No te quedes atrás en esta conversación! Para profundizar, no te pierdas el artículo completo aquí: https://eduardoalvarez.dev/articles/es-la-ia-la-nueva-droga-de-los-programadores #InteligenciaArtificial #DesarrolloSoftware #Tecnología #Programación #Eficiencia #Innovación'
-					width='180'
-					height='180'
-				/>
-    </a><a href='https://instagram.com/p/DVkOqshl67N' target='_blank'>
-					<img
-					src='https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/649218721_18080707004369993_3106370554910014171_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=107&ig_cache_key=Mzg0NzI2NDEyNDg4MDI3NzgxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lS6ybgiPVRUQ7kNvwFA2Yu-&_nc_oc=AdppnHDsJisBcsJWjyWTJBt_Aayp4oNIFGq5LK80rOlrjxDRCPoUazPKBRPdDJtivKA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=1UrP2V8u4O92Oavv-avKsA&_nc_ss=7a3ba&oh=00_AQLrn8DB8RwpU9D7AGTuFSrcrt03LM5Pvsegh0jtCoXZHA&oe=6AADD402'
-					alt='¿Sientes que siempre debes estar aprendiendo para no quedarte atrás? 🤔 En este carrusel exploraremos la importancia de entender que no estás obligado a aprender todo el tiempo. Hablaremos sobre el cansancio intelectual, cómo reconocer los signos del burnout, y la relevancia de tomar pausas regulares. También te daremos consejos sobre cómo establecer límites saludables y por qué a veces es bueno no estar siempre aprendiendo. 👉 No subestimes el poder de un buen descanso y la claridad mental que conlleva. 👇 Desliza para ver más. Lee el artículo completo aquí: https://www.eduardoalvarez.dev/articles/no-estas-obligado-a-aprender-todo-el-tiempo #CansancioIntelectual #Burnout #SaludMental #DesarrolloPersonal #Tecnología #Productividad'
 					width='180'
 					height='180'
 				/>
