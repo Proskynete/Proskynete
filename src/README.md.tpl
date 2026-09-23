@@ -1,5 +1,5 @@
 <h1 align="center">Hola a todos!! 👋 Mi nombre es Eduardo Álvarez</h1>
-<p align="center">Y soy un desarrollador de software apasionado por las tecnologías web.</p>
+<p align="center"><strong>Technical Lead · Spec-Driven Development</strong><br />Enseño a construir software con IA sin dejar de entender lo que hacemos.</p>
 
 <p align="center">
   %{{technologies}}%
@@ -12,6 +12,7 @@
 <p><i>"Si no estás dispuesto a darlo todo, no tienes derecho a intentarlo."</i></p>
 
 <p><strong>Sobre mi</strong></p>
+<p>Soy Eduardo. Llevo más de diez años construyendo aplicaciones web y hoy lidero un equipo de desarrollo. Me interesa cómo usamos la IA sin dejar de entender lo que construimos, y por eso trabajo con Spec-Driven Development. Doy charlas, talleres y cursos, muchos de ellos gratis.</p>
 <ul>
   <li>📍 Chile.</li>
   <li>👨🏼‍💻 Tengo %{{years_old}}% años.</li>
