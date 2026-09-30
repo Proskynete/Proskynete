@@ -145,28 +145,28 @@
 
 <a href='https://instagram.com/p/DdpaJq3D4KQ' target='_blank'>
 					<img
-					src='https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/822772936_18102796445369993_680539254979747466_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=103&ig_cache_key=Mzk5MjgzNzU1ODM0NjE1NDY0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=T5iidWmmVMAQ7kNvwGRbHWa&_nc_oc=AdpEE0DUVxgGAyNPfX44VQdN3MKqn9goUyx4B3DOZXloif_7gLi-Cvj1MJVPugQOcRQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=y4bN8_F7sbaSAYV8kXDuGQ&_nc_ss=7a3ba&oh=00_AQOV9POwddW0hnQ0XhgbegS2qeMAn6yLs5WZUQ7h-U7POg&oe=6AC066CF'
+					src='https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/822772936_18102796445369993_680539254979747466_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=103&ig_cache_key=Mzk5MjgzNzU1ODM0NjE1NDY0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XDRYvcIqjqkQ7kNvwE7bG6M&_nc_oc=AdrE4q-3HhQ9FzqPplwWbo88nv_qI4wy9M5nVJGACerSRw70nmZ-ma1lZWMjz8ybRUPUhl8qo-laqUKEwTI88QMk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=8tP3hbkSCtZNOzTAsLnW6Q&_nc_ss=7a3ba&oh=00_AQMYxZ9LVztYSJ_4R76WsyLhBLb3jTSFWqpfhMuDPhstPg&oe=6AC309CF'
 					alt='Hola red! ¿Cómo están? El 23 de septiembre de 2008 apareció Android 1.0, y aunque en ese momento muchos estábamos mirando el teléfono como una cosa cerrada, con Google, Java y un SDK encima de la mesa, empezó a sentirse que desarrollar para móviles podía ser algo más cercano para quienes veníamos del mundo web. Creo y sin miedo a equivocarme, ahí varios empezamos a entender que una app no era solo una pantalla bonita, también era lifecycle, permisos, hardware y muchas decisiones pequeñas (muchas!) que después nos iban a acompañar años 📱 ¿Qué fue lo primero que hiciste o intentaste hacer en Android? #Android #DesarrolloMovil #SoftwareAbierto'
 					width='180'
 					height='180'
 				/>
     </a><a href='https://instagram.com/p/DdT0q9okVuV' target='_blank'>
 					<img
-					src='https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/811137765_18101832785369993_6242080349142532796_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=104&ig_cache_key=Mzk4NjQzODA0OTYxNzc0NTc4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=RhjVVa_QszgQ7kNvwGLlPbQ&_nc_oc=AdonVaIwLfpvDw9ozzGWCfTExlIHL-nwW5pQujjhrJzWz0A62i2innnwxDu89Z1X8Fs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=y4bN8_F7sbaSAYV8kXDuGQ&_nc_ss=7a3ba&oh=00_AQPIAKfvcCKWXE1rRsqo8CY08fx0-FRbjeFxVxG4haPxVw&oe=6AC06114'
+					src='https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/811137765_18101832785369993_6242080349142532796_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=104&ig_cache_key=Mzk4NjQzODA0OTYxNzc0NTc4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=RhjVVa_QszgQ7kNvwGhrJ2F&_nc_oc=Adr1uMTovHo3oX7uNE6lWHal4zamPDeHkvbE6Vnv6gWCQno7FL890EFDIT_pQ6gNP7fNGtW71Z5I6DhGo6vynfpf&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=8tP3hbkSCtZNOzTAsLnW6Q&_nc_ss=7a3ba&oh=00_AQPRCgXEUG7CpH3jlODaonkGINRTdlBofrXGhpfzrAYPkw&oe=6AC30414'
 					alt=''
 					width='180'
 					height='180'
 				/>
     </a><a href='https://instagram.com/p/DdPJ4cnkbGO' target='_blank'>
 					<img
-					src='https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/807684757_18101686730369993_6793032297794019310_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=108&ig_cache_key=Mzk4NTQ0NzY1NjY4NDEwNjEyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=CcQpdwd9AKoQ7kNvwFToGXW&_nc_oc=AdodAaEYYjzfgcxmKmg0S7Kzd8cCb2rH8NywbrpB4SOmGMvEjALGvfsxpdqusvosM2k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=y4bN8_F7sbaSAYV8kXDuGQ&_nc_ss=7a3ba&oh=00_AQOnzW8aHQ4Ry-pQTPoB7Z-d-n0O95dnleO3q9eC-BywNQ&oe=6AC0679D'
+					src='https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/807684757_18101686730369993_6793032297794019310_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=108&ig_cache_key=Mzk4NTQ0NzY1NjY4NDEwNjEyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ZDSPb5B0MeYQ7kNvwFg4Yva&_nc_oc=AdoQFWrT4UJvVO-VnYrk2kNGErsCXGIoPok7qwN4v7Rt7jYEaqO0jC0AuokfMbCiiaMKdV-p4yNzrhkXET5_Va0t&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=8tP3hbkSCtZNOzTAsLnW6Q&_nc_ss=7a3ba&oh=00_AQO-Yn_dYlmfDvCnqoLP6xJ7DD3HyAvRlNjOCFaqMcgRMg&oe=6AC30A9D'
 					alt='Hoy celebramos a todos los guerreros del código que luchan diariamente en la batalla contra los bugs. Cada línea de código escrita es un paso hacia la innovación y, a veces, un salto al abismo de errores inesperados. 💻 Este día es para ti, que con paciencia y dedicación haces que las cosas funcionen en el mundo digital. No olvidemos que cada bug arreglado es una victoria que nos acerca más a la perfección. ¿Cuál ha sido tu mayor desafío en producción? ¡Comparte tu experiencia y sigamos aprendiendo juntos! 👩‍💻👨‍💻 #DíaDelProgramador #Programación #DesarrolloDeSoftware #CodeLife #TechCommunity #Bugs'
 					width='180'
 					height='180'
 				/>
     </a><a href='https://instagram.com/p/DaOSZhol4Zk' target='_blank'>
 					<img
-					src='https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/733448530_18093401498369993_7027039750955521831_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=111&ig_cache_key=MzkzMTE2MDEwNDQ3Nzg1NTU0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dU4LHRDbWtwQ7kNvwGRggHM&_nc_oc=AdrMhbQ0fwX05seZvC4lW_XaNEOjcQBc9wjmuluyzerzkdmPFMl-DYOEiU3f1wqDfRo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=y4bN8_F7sbaSAYV8kXDuGQ&_nc_ss=7a3ba&oh=00_AQN8EAK6WjeBXx8g9mPvuUkP6aueR4wp3TgZ7q00-46tew&oe=6AC071C9'
+					src='https://scontent-bru2-1.cdninstagram.com/v/t51.82787-15/733448530_18093401498369993_7027039750955521831_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=111&ig_cache_key=MzkzMTE2MDEwNDQ3Nzg1NTU0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QdMr7ogqr00Q7kNvwE5CwBo&_nc_oc=AdoHp0_lNtF9t2E0rnF1IiM3x4K0HPurmWYhZtvZPNtr6AC7o1sHnBDot7pjEyrfq26U-o7b7U5CQcrRvO_56KaD&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_gid=8tP3hbkSCtZNOzTAsLnW6Q&_nc_ss=7a3ba&oh=00_AQPLCIQp9G1YASBcxxdY70XhjJWSmDP96DBVoA-WJseODA&oe=6AC2DC89'
 					alt='¿Sabías que la IA no viene a reemplazarte, sino a optimizar tu experiencia? 🤔✨ En este carrusel, exploramos cómo la IA se convierte en una herramienta poderosa que transforma nuestra forma de trabajar y pensar. Desde la diversidad en su uso hasta la importancia de tener un framework interno sólido, cada punto es crucial para entender cómo esta tecnología amplifica los desafíos que enfrentamos. También abordamos cómo comprender tu negocio se vuelve más relevante que nunca en este nuevo panorama profesional. 🌟 👇 Desliza para ver más 👉 Para leer el artículo completo, visita: https://eduardoalvarez.dev/articles/la-ia-no-reemplaza-tu-experiencia-la-pone-a-prueba #InteligenciaArtificial #DesarrolloPersonal #InnovaciónTecnológica #TransformaciónDigital #NegociosInteligentes'
 					width='180'
 					height='180'
@@ -181,8 +181,8 @@
   </strong>
 </p>
 
+- [Cuando ser bueno escribiendo código ya no alcanza](https://eduardoalvarez.dev/articles/cuando-ser-bueno-escribiendo-codigo-ya-no-alcanza)
+- [Cómo empezar con Spec-Driven Development: guía práctica para quienes vienen de cero](https://eduardoalvarez.dev/articles/como-empezar-con-spec-driven-development-guia-practica-para-quienes-vienen-de-cero)
+- [El agente puede escribir código, pero no puede entender por ti](https://eduardoalvarez.dev/articles/el-agente-puede-escribir-codigo-pero-no-puede-entender-por-ti)
 - [El camino hacia mi primera charla internacional](https://eduardoalvarez.dev/articles/el-camino-hacia-mi-primera-charla-internacional)
 - [La IA no reemplaza tu experiencia. La pone a prueba](https://eduardoalvarez.dev/articles/la-ia-no-reemplaza-tu-experiencia-la-pone-a-prueba)
-- [¿Es la IA la nueva droga de los programadores?](https://eduardoalvarez.dev/articles/es-la-ia-la-nueva-droga-de-los-programadores)
-- [No estás obligado a aprender todo el tiempo](https://eduardoalvarez.dev/articles/no-estas-obligado-a-aprender-todo-el-tiempo)
-- [El Javascript necesario para React - Parte 3](https://eduardoalvarez.dev/articles/el-javascript-necesario-para-react-parte-3)
