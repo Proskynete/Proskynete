@@ -143,31 +143,31 @@
   </strong>
 </p>
 
-<a href='https://instagram.com/p/Dd7hOgblIDd' target='_blank'>
+<a href='https://instagram.com/p/DeK2qCOR-mo' target='_blank'>
 					<img
-					src='https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/830669408_18103537853369993_1085022816834416690_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=107&cb=30a688f7-e814f767&ig_cache_key=Mzk5NzkzNDk4MTc2Mjc5Mjc5Ng%3D%3D.3-ccb7-5-cb30a688f7-e814f767&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hBmCdYZwiRAQ7kNvwFxay-y&_nc_oc=Adr_uKzhz3Dtxt5hwGT7pVe_rS2Wi9bnYm3re4efp1FSYrdsWVRnVIxI6NlxBFyfgAA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=5Zt0KqdZc4PaNV8ag-t4Xw&_nc_ss=7a3ba&oh=00_AQNSKDs5X3MfY2uOPZaQOEGiKRugdb6ZrU8WbxJ57PaB-Q&oe=6AC9AD59'
+					src='https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/839334398_18104170250369993_1341550918599162364_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=100&ig_cache_key=NDAwMjI1MTYwMTk4ODgwNzA4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTUwNy5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5XNJEaXK4nAQ7kNvwHuS0FS&_nc_oc=AdoTiBjbdaokzIO8zTX-PquOrMLH2rlrkUTu4To4HEelrsWJu5I-oeSwE6sQBwurQcQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=imQHvm5D6GHOTiIdGE9_sA&_nc_ss=7a3ba&oh=00_AQOxykLCZS356P5L2DNf91XbHbNS-vOdN3ciTKCkXZGNRA&oe=6ACC2961'
+					alt=''
+					width='180'
+					height='180'
+				/>
+    </a><a href='https://instagram.com/p/Dd7hOgblIDd' target='_blank'>
+					<img
+					src='https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/830669408_18103537853369993_1085022816834416690_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=107&ig_cache_key=Mzk5NzkzNDk4MTc2Mjc5Mjc5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gOZGKlTzG8AQ7kNvwHsIDak&_nc_oc=AdpgAG9-xp9bdU8NERahRM0QqCGWTJ4f0kZzPzh1unIjcBQO2g0HCaT56_56gvs2N0k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=imQHvm5D6GHOTiIdGE9_sA&_nc_ss=7a3ba&oh=00_AQPPGm_J_GKOzZo983xPGQYaDGk-jCogHQ_4QsycH3H6hA&oe=6ACC5059'
 					alt='Y creo que el cambio más incómodo es que escribir mejor código deja de ser suficiente. En el carrusel les cuento cómo me ha tocado mirar la seniority desde cosas bien concretas, como un pull request que puede ayudar a alguien a entender una decisión, o puede convertirse en una forma elegante de decir "yo sé más que tú" (y ahí, creo y sin miedo a equivocarme, aún no hemos aprendido nada). Spoiler: crecer también es soltar un poco, decidir cuando la conversación queda abierta y aceptar que calidad no siempre significa perfección 🫣 Desliza y guárdalo si te sirve para tu próximo co-review. https://eduardoalvarez.dev/articles/cuando-ser-bueno-escribiendo-codigo-ya-no-alcanza #DesarrolloWeb #Software #Programacion'
 					width='180'
 					height='180'
 				/>
     </a><a href='https://instagram.com/p/DdpaJq3D4KQ' target='_blank'>
 					<img
-					src='https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/822772936_18102796445369993_680539254979747466_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=103&cb=30a688f7-e814f767&ig_cache_key=Mzk5MjgzNzU1ODM0NjE1NDY0MA%3D%3D.3-ccb7-5-cb30a688f7-e814f767&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gwOvxWoazcMQ7kNvwEPU8ay&_nc_oc=AdokZWfATVC7n8bX5CAp-jOli4ap4fWKHFbyrWXh03EM8s_L4MXK7RGpDs67E64eh5E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=5Zt0KqdZc4PaNV8ag-t4Xw&_nc_ss=7a3ba&oh=00_AQOFGjSuytpz50GV9XYJZLrOI3FCbCprW4CIs6J7EYxZzA&oe=6AC9A14F'
+					src='https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/822772936_18102796445369993_680539254979747466_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=103&ig_cache_key=Mzk5MjgzNzU1ODM0NjE1NDY0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=yDgcjyZzHIYQ7kNvwGuy78Z&_nc_oc=Adp8oC5uQItRpw_rD_WyNci_FEFJ8FdXf9BzBQr1L0bijLxqWZrIEACs-kvJ16aSnYY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=imQHvm5D6GHOTiIdGE9_sA&_nc_ss=7a3ba&oh=00_AQOr1pVfVHaS_XaYbSwaRaVuu_qROjy5Y_EAKBHUoasGUg&oe=6ACC444F'
 					alt='Hola red! ¿Cómo están? El 23 de septiembre de 2008 apareció Android 1.0, y aunque en ese momento muchos estábamos mirando el teléfono como una cosa cerrada, con Google, Java y un SDK encima de la mesa, empezó a sentirse que desarrollar para móviles podía ser algo más cercano para quienes veníamos del mundo web. Creo y sin miedo a equivocarme, ahí varios empezamos a entender que una app no era solo una pantalla bonita, también era lifecycle, permisos, hardware y muchas decisiones pequeñas (muchas!) que después nos iban a acompañar años 📱 ¿Qué fue lo primero que hiciste o intentaste hacer en Android? #Android #DesarrolloMovil #SoftwareAbierto'
 					width='180'
 					height='180'
 				/>
     </a><a href='https://instagram.com/p/DdT0q9okVuV' target='_blank'>
 					<img
-					src='https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/811137765_18101832785369993_6242080349142532796_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=104&cb=30a688f7-e814f767&ig_cache_key=Mzk4NjQzODA0OTYxNzc0NTc4OA%3D%3D.3-ccb7-5-cb30a688f7-e814f767&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=D80diZvW83QQ7kNvwF9IjR4&_nc_oc=AdqkHbtzlTcsglue7NOdAaJPr6At4T-KcEGPT2Vk3zx4vAtSuMbv0JBqOPSsES9WbFk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=5Zt0KqdZc4PaNV8ag-t4Xw&_nc_ss=7a3ba&oh=00_AQP3xT8adtOOqcGYrL88gE8XKejn0rEAte8VnZeWAFJiHQ&oe=6AC99B94'
+					src='https://scontent-cph2-1.cdninstagram.com/v/t51.82787-15/811137765_18101832785369993_6242080349142532796_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=104&ig_cache_key=Mzk4NjQzODA0OTYxNzc0NTc4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=lnlNYowpjtEQ7kNvwF5AbJY&_nc_oc=AdpeECSsOfsj1KPj_5yqWzQARupMeHmIddzc_j4Ewtm0kWsgPrQhWNiHqsXJnc786JQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=imQHvm5D6GHOTiIdGE9_sA&_nc_ss=7a3ba&oh=00_AQPUaER87UpKk8GKUlFwMxHXpqJZw11cyFLo-dajfb4Smw&oe=6ACC3E94'
 					alt=''
-					width='180'
-					height='180'
-				/>
-    </a><a href='https://instagram.com/p/DdPJ4cnkbGO' target='_blank'>
-					<img
-					src='https://scontent-arn2-1.cdninstagram.com/v/t51.82787-15/807684757_18101686730369993_6793032297794019310_n.jpg?stp=dst-jpg_e35_p360x360_sh2.08_tt6&_nc_cat=108&cb=30a688f7-e814f767&ig_cache_key=Mzk4NTQ0NzY1NjY4NDEwNjEyNg%3D%3D.3-ccb7-5-cb30a688f7-e814f767&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=PP5Ci_zI69MQ7kNvwGiYarl&_nc_oc=AdrGIBoVIlkpVR03Om6L4Zeh3AcUNLyF75AV28V1ypFZC1w11h7698gksbzu1j9H2I0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-arn2-1.cdninstagram.com&_nc_gid=5Zt0KqdZc4PaNV8ag-t4Xw&_nc_ss=7a3ba&oh=00_AQOKhOHfqcdH-u1QQlp8k1dePUM-W2p_TeGX2LHH4yWF5A&oe=6AC9A21D'
-					alt='Hoy celebramos a todos los guerreros del código que luchan diariamente en la batalla contra los bugs. Cada línea de código escrita es un paso hacia la innovación y, a veces, un salto al abismo de errores inesperados. 💻 Este día es para ti, que con paciencia y dedicación haces que las cosas funcionen en el mundo digital. No olvidemos que cada bug arreglado es una victoria que nos acerca más a la perfección. ¿Cuál ha sido tu mayor desafío en producción? ¡Comparte tu experiencia y sigamos aprendiendo juntos! 👩‍💻👨‍💻 #DíaDelProgramador #Programación #DesarrolloDeSoftware #CodeLife #TechCommunity #Bugs'
 					width='180'
 					height='180'
 				/>
