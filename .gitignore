@@ -6,3 +6,6 @@ node_modules
 # Versionarlo duplicaba cada diff: un cambio de una linea en src/ aparecia
 # tambien en public/ y en los .map.
 public
+
+
+.zsh_history_project
