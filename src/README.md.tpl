@@ -8,6 +8,7 @@
 
 ```console
 $ ls ~/proyectos --destacados
+%{{repositories_shown}}%
 ```
 
 <ul>
@@ -57,6 +58,7 @@ $ ls ~/instagram | head -%{{number_images}}%
 
 ```console
 $ ls -t ~/blog | head -%{{number_articles}}%
+%{{articles_shown}}%
 ```
 
 %{{articles}}%

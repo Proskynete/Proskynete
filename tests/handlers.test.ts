@@ -2,6 +2,7 @@ import { describe, expect, it } from 'vitest';
 
 import {
 	handleGetTechnologies,
+	handlerCountLabel,
 	handlerGetInstagramFileNames,
 	handlerGetLatestInstagramImages,
 	handlerGetTiburoncin,
@@ -115,6 +116,12 @@ describe('handlerGetLatestInstagramImages', () => {
 
 	it('returns an empty string for no images', () => {
 		expect(handlerGetLatestInstagramImages([])).toBe('');
+	});
+
+	// GitHub underlines whitespace inside a link as a dash between the images.
+	it('leaves no whitespace inside or between the links', () => {
+		const output = handlerGetLatestInstagramImages([image(1), image(2)]);
+		expect(output).not.toMatch(/>\s|\s</);
 	});
 });
 
@@ -265,5 +272,16 @@ describe('handlerGetTiburoncin', () => {
 	it('only uses the brand colors', () => {
 		const colors = new Set(rects.map((rect) => rect.match(/fill="([^"]+)"/)![1]));
 		expect([...colors].sort()).toEqual(Object.values(TIBURONCIN.COLORS).sort());
+	});
+});
+
+describe('handlerCountLabel', () => {
+	it('uses the plural for zero and many', () => {
+		expect(handlerCountLabel(0, 'artículo', 'artículos')).toBe('0 artículos');
+		expect(handlerCountLabel(5, 'artículo', 'artículos')).toBe('5 artículos');
+	});
+
+	it('uses the singular for one', () => {
+		expect(handlerCountLabel(1, 'repositorio', 'repositorios')).toBe('1 repositorio');
 	});
 });

@@ -15,6 +15,7 @@ import {
 	handlerGetAdpListComments,
 	handlerGetFeaturedRepositories,
 	handlerRenderFeaturedRepositories,
+	handlerCountLabel,
 	failures,
 } from './handlers';
 
@@ -52,6 +53,14 @@ import {
 			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.NUMBER_IMAGES, COUNT.IMAGES.toString())
 			.replace(PLACEHOLDERS.ADP_LIST.COUNT_COMMENTS, COUNT.COMMENTS.toString())
 			.replace(PLACEHOLDERS.GITHUB.REPOSITORIES, _repositories)
+			.replace(
+				PLACEHOLDERS.GITHUB.REPOSITORIES_SHOWN,
+				handlerCountLabel(repositories.length, 'repositorio', 'repositorios'),
+			)
+			.replace(
+				PLACEHOLDERS.WEBSITE.ARTICLES_SHOWN,
+				handlerCountLabel(Math.min(articles.length, COUNT.ARTICLES), 'artículo', 'artículos'),
+			)
 			.replace(PLACEHOLDERS.WEBSITE.RSS, _articles)
 			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.SECTION_IMAGES, _images)
 			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.FILES, _imageFiles)

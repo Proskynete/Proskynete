@@ -107,6 +107,7 @@ export interface PlaceholdersInterface {
 	};
 	WEBSITE: {
 		NUMBER_ARTICLES: string;
+		ARTICLES_SHOWN: string;
 		RSS: string;
 	};
 	SOCIAL_MEDIA: {
@@ -123,6 +124,7 @@ export interface PlaceholdersInterface {
 	};
 	GITHUB: {
 		REPOSITORIES: string;
+		REPOSITORIES_SHOWN: string;
 	};
 	TERMINAL: {
 		TIBURONCIN: string;

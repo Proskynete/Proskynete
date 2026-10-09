@@ -17,6 +17,7 @@ export const PLACEHOLDERS: PlaceholdersInterface = {
 	},
 	WEBSITE: {
 		NUMBER_ARTICLES: '%{{number_articles}}%',
+		ARTICLES_SHOWN: '%{{articles_shown}}%',
 		RSS: '%{{articles}}%',
 	},
 	SOCIAL_MEDIA: {
@@ -33,6 +34,7 @@ export const PLACEHOLDERS: PlaceholdersInterface = {
 	},
 	GITHUB: {
 		REPOSITORIES: '%{{repositories}}%',
+		REPOSITORIES_SHOWN: '%{{repositories_shown}}%',
 	},
 	TERMINAL: {
 		TIBURONCIN: '%{{tiburoncin}}%',

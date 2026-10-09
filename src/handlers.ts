@@ -261,14 +261,11 @@ export const handlerGetLatestInstagramImages = (images: InstagramImagesResponse[
 		.slice(0, COUNT.IMAGES)
 		.map(
 			({ url, code, description }) =>
-				`<a href='https://instagram.com/p/${code}' target='_blank'>
-					<img
-					src='${url}'
-					alt='${clearText(clearLineBreak(description))}'
-					width='180'
-					height='180'
-				/>
-    </a>`,
+				// No whitespace inside the link: GitHub underlines it as a stray
+				// blue dash between the images.
+				`<a href='https://instagram.com/p/${code}' target='_blank'><img src='${url}' alt='${clearText(
+					clearLineBreak(description),
+				)}' width='180' height='180' /></a>`,
 		)
 		.join('');
 
@@ -332,6 +329,14 @@ export const handlerRenderFeaturedRepositories = (repositories: FeaturedReposito
 		})
 		.join('\n');
 };
+
+/**
+ * A count with its noun, as the output line of a one-line command in the README.
+ * It also keeps those code blocks two lines tall: with one line, GitHub's copy
+ * button is taller than the block and adds a scrollbar.
+ */
+export const handlerCountLabel = (count: number, singular: string, plural: string): string =>
+	`${count} ${count === 1 ? singular : plural}`;
 
 export const handlerGetYearsOld = (): number =>
 	dateDifferenceInYears(new Date(PERSONAL.YEAR_OF_BIRTH), new Date());

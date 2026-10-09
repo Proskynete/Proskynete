@@ -73,6 +73,7 @@
 
 ```console
 $ ls ~/proyectos --destacados
+4 repositorios
 ```
 
 <ul>
@@ -131,40 +132,13 @@ $ ls ~/instagram | head -4
 post_01.jpg  post_02.jpg  post_03.jpg  post_04.jpg
 ```
 
-<a href='https://instagram.com/p/DeK2qCOR-mo' target='_blank'>
-					<img
-					src='./images/instagram/post_01.jpg'
-					alt=''
-					width='180'
-					height='180'
-				/>
-    </a><a href='https://instagram.com/p/Dd7hOgblIDd' target='_blank'>
-					<img
-					src='./images/instagram/post_02.jpg'
-					alt='Y creo que el cambio más incómodo es que escribir mejor código deja de ser suficiente. En el carrusel les cuento cómo me ha tocado mirar la seniority desde cosas bien concretas, como un pull request que puede ayudar a alguien a entender una decisión, o puede convertirse en una forma elegante de decir "yo sé más que tú" (y ahí, creo y sin miedo a equivocarme, aún no hemos aprendido nada). Spoiler: crecer también es soltar un poco, decidir cuando la conversación queda abierta y aceptar que calidad no siempre significa perfección 🫣 Desliza y guárdalo si te sirve para tu próximo co-review. https://eduardoalvarez.dev/articles/cuando-ser-bueno-escribiendo-codigo-ya-no-alcanza #DesarrolloWeb #Software #Programacion'
-					width='180'
-					height='180'
-				/>
-    </a><a href='https://instagram.com/p/DdpaJq3D4KQ' target='_blank'>
-					<img
-					src='./images/instagram/post_03.jpg'
-					alt='Hola red! ¿Cómo están? El 23 de septiembre de 2008 apareció Android 1.0, y aunque en ese momento muchos estábamos mirando el teléfono como una cosa cerrada, con Google, Java y un SDK encima de la mesa, empezó a sentirse que desarrollar para móviles podía ser algo más cercano para quienes veníamos del mundo web. Creo y sin miedo a equivocarme, ahí varios empezamos a entender que una app no era solo una pantalla bonita, también era lifecycle, permisos, hardware y muchas decisiones pequeñas (muchas!) que después nos iban a acompañar años 📱 ¿Qué fue lo primero que hiciste o intentaste hacer en Android? #Android #DesarrolloMovil #SoftwareAbierto'
-					width='180'
-					height='180'
-				/>
-    </a><a href='https://instagram.com/p/DdT0q9okVuV' target='_blank'>
-					<img
-					src='./images/instagram/post_04.jpg'
-					alt=''
-					width='180'
-					height='180'
-				/>
-    </a>
+<a href='https://instagram.com/p/DeK2qCOR-mo' target='_blank'><img src='./images/instagram/post_01.jpg' alt='' width='180' height='180' /></a><a href='https://instagram.com/p/Dd7hOgblIDd' target='_blank'><img src='./images/instagram/post_02.jpg' alt='Y creo que el cambio más incómodo es que escribir mejor código deja de ser suficiente. En el carrusel les cuento cómo me ha tocado mirar la seniority desde cosas bien concretas, como un pull request que puede ayudar a alguien a entender una decisión, o puede convertirse en una forma elegante de decir "yo sé más que tú" (y ahí, creo y sin miedo a equivocarme, aún no hemos aprendido nada). Spoiler: crecer también es soltar un poco, decidir cuando la conversación queda abierta y aceptar que calidad no siempre significa perfección 🫣 Desliza y guárdalo si te sirve para tu próximo co-review. https://eduardoalvarez.dev/articles/cuando-ser-bueno-escribiendo-codigo-ya-no-alcanza #DesarrolloWeb #Software #Programacion' width='180' height='180' /></a><a href='https://instagram.com/p/DdpaJq3D4KQ' target='_blank'><img src='./images/instagram/post_03.jpg' alt='Hola red! ¿Cómo están? El 23 de septiembre de 2008 apareció Android 1.0, y aunque en ese momento muchos estábamos mirando el teléfono como una cosa cerrada, con Google, Java y un SDK encima de la mesa, empezó a sentirse que desarrollar para móviles podía ser algo más cercano para quienes veníamos del mundo web. Creo y sin miedo a equivocarme, ahí varios empezamos a entender que una app no era solo una pantalla bonita, también era lifecycle, permisos, hardware y muchas decisiones pequeñas (muchas!) que después nos iban a acompañar años 📱 ¿Qué fue lo primero que hiciste o intentaste hacer en Android? #Android #DesarrolloMovil #SoftwareAbierto' width='180' height='180' /></a><a href='https://instagram.com/p/DdT0q9okVuV' target='_blank'><img src='./images/instagram/post_04.jpg' alt='' width='180' height='180' /></a>
 
 <sub><a href="https://instagram.com/eduardo_alvarez.dev" target="_blank">ver más en Instagram</a></sub>
 
 ```console
 $ ls -t ~/blog | head -5
+5 artículos
 ```
 
 - [Cuando ser bueno escribiendo código ya no alcanza](https://eduardoalvarez.dev/articles/cuando-ser-bueno-escribiendo-codigo-ya-no-alcanza)
