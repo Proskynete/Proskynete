@@ -1,0 +1,17 @@
+version: 2
+
+# Version updates every 6 months. Security alerts are not affected: GitHub
+# raises them as soon as an advisory is published, whatever this schedule says.
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: semiannually
+    groups:
+      npm:
+        patterns: ['*']
+
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: semiannually
