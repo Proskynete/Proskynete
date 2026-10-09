@@ -7,9 +7,12 @@ updates:
     directory: /
     schedule:
       interval: semiannually
+    # Minor and patch updates arrive together in one PR. Each major update gets
+    # its own PR, so one that breaks the build does not hold back the rest.
     groups:
       npm:
         patterns: ['*']
+        update-types: ['minor', 'patch']
 
   - package-ecosystem: github-actions
     directory: /
