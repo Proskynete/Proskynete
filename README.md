@@ -1,73 +1,4 @@
 <p align="center">
-  <img
-					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/ts.png?raw=true'
-					alt=Typescript
-					width='25'
-					height='25'
-				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/js.png?raw=true'
-					alt=Javascript
-					width='25'
-					height='25'
-				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/react.png?raw=true'
-					alt=React
-					width='25'
-					height='25'
-				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/vue.png?raw=true'
-					alt=Vue
-					width='25'
-					height='25'
-				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/svelte.png?raw=true'
-					alt=Svelte
-					width='25'
-					height='25'
-				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/redux.png?raw=true'
-					alt=Redux
-					width='25'
-					height='25'
-				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/html5.png?raw=true'
-					alt=HTML5
-					width='25'
-					height='25'
-				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/css3.png?raw=true'
-					alt=CSS3
-					width='25'
-					height='25'
-				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/node.png?raw=true'
-					alt=Nodejs
-					width='25'
-					height='25'
-				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/mongodb.png?raw=true'
-					alt=MongoDB
-					width='25'
-					height='25'
-				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/aws.png?raw=true'
-					alt=Amazon Web Services
-					width='25'
-					height='25'
-				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/git.png?raw=true'
-					alt=Git
-					width='25'
-					height='25'
-				/> <img
-					src='https://github.com/Proskynete/Proskynete/blob/main/images/icons/firebase.png?raw=true'
-					alt=Firebase
-					width='25'
-					height='25'
-				/>
-</p>
-
-<p align="center">
   <img width="860" alt="Terminal con Tiburoncín, mi mascota de marca. Eduardo Esteban Álvarez Castañeda: Technical Lead y Spec-Driven Development, en Chile. Filosofía de vida: «Si no estás dispuesto a darlo todo, no tienes derecho a intentarlo». Sobre mí: llevo más de diez años construyendo aplicaciones web, hoy lidero un equipo de desarrollo y trabajo con Spec-Driven Development." src="./images/terminal.svg" />
 </p>
 
@@ -86,17 +17,10 @@ $ ls ~/proyectos --destacados
 <sub><a href="https://github.com/Proskynete?tab=repositories" target="_blank">ver todos los repositorios</a></sub>
 
 ```console
-$ cat hobbies.txt
-▸ Tocar instrumentos musicales (guitarra eléctrica, guitarra acústica, teclado y ukelele)
-▸ Ver anime
-▸ Jugar videojuegos
-```
-
-```console
 $ cat voluntariados.txt
-▸ Volunteer Staff           JSConf Chile
-▸ Job search preparation    Laboratoria
-▸ Mentor                    ADPList
+▸ Volunteer Staff en JSConf Chile
+▸ Job search preparation en Laboratoria
+▸ Mentor en ADPList
 ```
 
 ```console
@@ -117,15 +41,6 @@ $ tail -n 3 ~/adplist/reseñas.log
 ```
 
 <sub><a href="https://adplist.org/widgets/reviews?src=eduardo-alvarez" target="_blank">ver todas las reseñas en ADPList</a></sub>
-
-```console
-$ cat otros.txt
-▸ Siempre es un buen momento para hacer un espacio en la semana y tomar una cerveza
-  con los amigos.
-▸ Publicados en npm: vertical-timeline-component-react v4.4.3
-  y pretty-rating-react v2.2.0
-▸ Pude participar como profesor en el curso de React en Coderhouse
-```
 
 ```console
 $ ls ~/instagram | head -4

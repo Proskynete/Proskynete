@@ -7,13 +7,8 @@ import {
 } from './interfaces';
 
 export const PLACEHOLDERS: PlaceholdersInterface = {
-	TECHNOLOGIES: '%{{technologies}}%',
 	PERSONAL: {
 		YEARS_OLD: '%{{years_old}}%',
-	},
-	LIBRARIES: {
-		VERTICAL_TIMELINE: '%{{vt_version}}%',
-		PRETTY_RATING: '%{{pr_version}}%',
 	},
 	WEBSITE: {
 		NUMBER_ARTICLES: '%{{number_articles}}%',
@@ -55,7 +50,6 @@ export const COUNT: CountInterface = {
 export const BASE_URL: BaseUrlInterface = {
 	NPM: 'https://www.npmjs.com/package',
 	WEBSITE: 'https://eduardoalvarez.dev',
-	TECHNOLOGIES: 'https://github.com/Proskynete/Proskynete/blob/main/images/icons',
 	INSTAGRAM_API: 'https://rocketapi-for-developers.p.rapidapi.com/instagram/user/get_media',
 	ADP_LIST: 'https://api2.adplist.org',
 	GITHUB_API: 'https://api.github.com',
@@ -136,8 +130,6 @@ export const FEATURED_REPOSITORIES: string[] = [
 ];
 
 export const URLS: UrlsInterface = {
-	VERTICAL_TIMELINE: 'vertical-timeline-component-react',
-	PRETTY_RATING: 'pretty-rating-react',
 	RSS: `${BASE_URL.WEBSITE}/rss.xml`,
 	ADP_LIST_COMMENTS: `${BASE_URL.ADP_LIST}/core/review/?user_id=${PERSONAL.ADP_USER_ID}`,
 };

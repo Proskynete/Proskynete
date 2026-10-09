@@ -1,7 +1,6 @@
 import { describe, expect, it } from 'vitest';
 
 import {
-	handleGetTechnologies,
 	handlerCountLabel,
 	handlerGetInstagramFileNames,
 	handlerGetLatestInstagramImages,
@@ -164,15 +163,6 @@ describe('handlerGetYearsOld', () => {
 		expect(Number.isInteger(years)).toBe(true);
 		expect(years).toBeGreaterThan(18);
 		expect(years).toBeLessThan(120);
-	});
-});
-
-describe('handleGetTechnologies', () => {
-	it('renders one image per technology with alt text', () => {
-		const output = handleGetTechnologies();
-		expect(output).toContain('images/icons/ts.png');
-		expect(output.match(/<img/g)!.length).toBeGreaterThan(10);
-		expect(output).not.toContain('alt=""');
 	});
 });
 

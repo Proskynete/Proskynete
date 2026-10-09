@@ -91,19 +91,9 @@ export interface FeaturedRepository {
 	stars: number;
 }
 
-export interface ImagesInterface {
-	file_name: string;
-	technology: string;
-}
-
 export interface PlaceholdersInterface {
-	TECHNOLOGIES: string;
 	PERSONAL: {
 		YEARS_OLD: string;
-	};
-	LIBRARIES: {
-		VERTICAL_TIMELINE: string;
-		PRETTY_RATING: string;
 	};
 	WEBSITE: {
 		NUMBER_ARTICLES: string;
@@ -134,15 +124,12 @@ export interface PlaceholdersInterface {
 export interface BaseUrlInterface {
 	NPM: string;
 	WEBSITE: string;
-	TECHNOLOGIES: string;
 	INSTAGRAM_API: string;
 	ADP_LIST: string;
 	GITHUB_API: string;
 }
 
 export interface UrlsInterface {
-	VERTICAL_TIMELINE: string;
-	PRETTY_RATING: string;
 	RSS: string;
 	ADP_LIST_COMMENTS: string;
 }

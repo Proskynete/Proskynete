@@ -1,7 +1,6 @@
 import fs from 'fs/promises';
 import { COUNT, PLACEHOLDERS, URLS, INSTAGRAM, FILES } from './constants';
 import {
-	handlerGetPackageVersion,
 	handlerGetLatestArticles,
 	handlerSliceArticles,
 	handlerGetInstagramImages,
@@ -11,7 +10,6 @@ import {
 	handlerGetLatestInstagramImages,
 	handlerGetTiburoncin,
 	handlerGetYearsOld,
-	handleGetTechnologies,
 	handlerGetAdpListComments,
 	handlerGetFeaturedRepositories,
 	handlerRenderFeaturedRepositories,
@@ -29,8 +27,6 @@ import {
 			handlerGetFeaturedRepositories(),
 		]);
 
-		const _verticalTimeline = await handlerGetPackageVersion(URLS.VERTICAL_TIMELINE);
-		const _prettyRating = await handlerGetPackageVersion(URLS.PRETTY_RATING);
 		const _comments = await handlerGetAdpListComments(URLS.ADP_LIST_COMMENTS);
 		const _articles = articles ? handlerSliceArticles(articles) : '';
 		// If the API failed, the images saved by the previous run are shown instead.
@@ -40,14 +36,10 @@ import {
 		const _images = handlerGetLatestInstagramImages(_savedImages);
 		const _imageFiles = handlerGetInstagramFileNames(_savedImages);
 		const _yearsOld = handlerGetYearsOld();
-		const _technologies = handleGetTechnologies();
 		const _repositories = handlerRenderFeaturedRepositories(repositories);
 
 		const newMarkdown = template
-			.replace(PLACEHOLDERS.TECHNOLOGIES, _technologies)
 			.replace(PLACEHOLDERS.PERSONAL.YEARS_OLD, _yearsOld.toString())
-			.replace(PLACEHOLDERS.LIBRARIES.VERTICAL_TIMELINE, _verticalTimeline)
-			.replace(PLACEHOLDERS.LIBRARIES.PRETTY_RATING, _prettyRating)
 			.replace(PLACEHOLDERS.WEBSITE.NUMBER_ARTICLES, COUNT.ARTICLES.toString())
 			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.PROFILE, INSTAGRAM.USER_NAME)
 			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.NUMBER_IMAGES, COUNT.IMAGES.toString())

@@ -17,7 +17,6 @@ import {
 	FeaturedRepository,
 	GetCommentFromADPListResponse,
 	GitHubRepositoryResponse,
-	ImagesInterface,
 	InstagramApiResponse,
 	InstagramImagesResponse,
 	Item,
@@ -65,27 +64,6 @@ export const wrapText = (text: string, width: number): string[] => {
 
 	if (line) lines.push(line);
 	return lines;
-};
-
-/**
- * It takes a package name as an argument, fetches the package metadata from npm registry,
- * and returns the latest version number
- * @param {string} packageName - The name of the npm package.
- * @returns The version of the package.
- */
-export const handlerGetPackageVersion = async (packageName: string): Promise<string> => {
-	const registryUrl = `https://registry.npmjs.org/${packageName}/latest`;
-
-	console.log(`Fetching version for ${packageName}...`);
-
-	const { data } = await axios.get(registryUrl, {
-		headers: {
-			Accept: 'application/json',
-			'Accept-Encoding': 'gzip,deflate,compress',
-		},
-	});
-
-	return data.version;
 };
 
 // Sin `timeZone` esto formatea en la zona de quien ejecute el generador: la
@@ -351,41 +329,6 @@ const dateDifferenceInMonths = (dateInitial: Date, dateFinal: Date) =>
 
 const dateDifferenceInYears = (dateInitial: Date, dateFinal: Date) =>
 	Math.trunc(dateDifferenceInMonths(dateInitial, dateFinal) / 12);
-
-/**
- * It takes an array of objects, maps over each object, and returns a string of
- * HTML
- * @returns A string of images
- */
-export const handleGetTechnologies = () => {
-	const _array: ImagesInterface[] = [
-		{ file_name: 'ts', technology: 'Typescript' },
-		{ file_name: 'js', technology: 'Javascript' },
-		{ file_name: 'react', technology: 'React' },
-		{ file_name: 'vue', technology: 'Vue' },
-		{ file_name: 'svelte', technology: 'Svelte' },
-		{ file_name: 'redux', technology: 'Redux' },
-		{ file_name: 'html5', technology: 'HTML5' },
-		{ file_name: 'css3', technology: 'CSS3' },
-		{ file_name: 'node', technology: 'Nodejs' },
-		{ file_name: 'mongodb', technology: 'MongoDB' },
-		{ file_name: 'aws', technology: 'Amazon Web Services' },
-		{ file_name: 'git', technology: 'Git' },
-		{ file_name: 'firebase', technology: 'Firebase' },
-	];
-
-	return _array
-		.map(
-			({ file_name, technology }) =>
-				`<img
-					src='${BASE_URL.TECHNOLOGIES}/${file_name}.png?raw=true'
-					alt=${technology}
-					width='25'
-					height='25'
-				/>`,
-		)
-		.join(' ');
-};
 
 /**
  * Draws Tiburoncín as SVG rectangles for the terminal card, from the pixel grid
