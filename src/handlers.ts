@@ -1,6 +1,17 @@
+import fs from 'fs/promises';
+import path from 'path';
 import axios, { AxiosError, AxiosResponse } from 'axios';
 import { XMLParser } from 'fast-xml-parser';
-import { URLS, COUNT, PERSONAL, INSTAGRAM, BASE_URL, FEATURED_REPOSITORIES } from './constants';
+import {
+	URLS,
+	COUNT,
+	PERSONAL,
+	INSTAGRAM,
+	BASE_URL,
+	FEATURED_REPOSITORIES,
+	TIBURONCIN,
+	CODE_BLOCK_WIDTH,
+} from './constants';
 import {
 	Article,
 	FeaturedRepository,
@@ -32,6 +43,28 @@ const clearText = (text: string): string => {
 		.replace(/&nbsp;/g, ' ')
 		.replace(/\s+/g, ' ')
 		.trim();
+};
+
+/**
+ * Splits a text into lines of at most `width` characters, breaking between words.
+ * GitHub does not wrap code blocks, so long text would scroll sideways instead.
+ * A single word longer than `width` keeps its own line rather than being cut.
+ */
+export const wrapText = (text: string, width: number): string[] => {
+	const lines: string[] = [];
+	let line = '';
+
+	for (const word of text.split(/\s+/).filter(Boolean)) {
+		if (line && line.length + 1 + word.length > width) {
+			lines.push(line);
+			line = word;
+		} else {
+			line = line ? `${line} ${word}` : word;
+		}
+	}
+
+	if (line) lines.push(line);
+	return lines;
 };
 
 /**
@@ -72,16 +105,25 @@ export const handlerGetAdpListComments = async (url: string) => {
 		headers: { 'Accept-Encoding': 'gzip,deflate,compress' },
 	});
 
-	return data
-		.slice(0, COUNT.COMMENTS)
-		.map(
-			({ review, reviewed_by, date_reviewed }) =>
-				`<li><i>"${review}"</i> - ${reviewed_by.name} <small>(${prettyDateFormat(
-					date_reviewed,
-				)})</small></li>`,
-		)
-		.join('\n');
+	return handlerRenderAdpListComments(data);
 };
+
+/**
+ * Renders the reviews as plain text for a code block, like lines of a log: the
+ * review wrapped to the block width and quoted with `>`, then who wrote it and when.
+ */
+export const handlerRenderAdpListComments = (comments: GetCommentFromADPListResponse[]): string =>
+	comments
+		.slice(0, COUNT.COMMENTS)
+		.map(({ review, reviewed_by, date_reviewed }) =>
+			[
+				...wrapText(`"${review}"`, CODE_BLOCK_WIDTH - 2).map(
+					(line, i) => `${i ? ' ' : '>'} ${line}`,
+				),
+				`  — ${reviewed_by.name} · ${prettyDateFormat(date_reviewed)}`,
+			].join('\n'),
+		)
+		.join('\n\n');
 
 /**
  * It fetches the RSS feed from the URL, parses it, and returns the items
@@ -157,7 +199,59 @@ export const handlerGetInstagramImages = async (): Promise<InstagramImagesRespon
 };
 
 /**
- * It takes an array of Instagram images, slices it to the first 10 images, and
+ * Downloads the latest Instagram images into INSTAGRAM.FOLDER and returns them
+ * pointing at those local copies, because the CDN URLs the API hands out expire
+ * after a few days. It also writes INSTAGRAM.MANIFEST, so the next run can still
+ * show these images if the API fails.
+ *
+ * If a download fails, the images saved by the previous run are returned instead.
+ */
+export const handlerSaveInstagramImages = async (
+	images: InstagramImagesResponse[],
+): Promise<InstagramImagesResponse[]> => {
+	try {
+		await fs.mkdir(INSTAGRAM.FOLDER, { recursive: true });
+
+		const saved = await Promise.all(
+			images.slice(0, COUNT.IMAGES).map(async (image, i) => {
+				const { data } = await axios.get<ArrayBuffer>(image.url, { responseType: 'arraybuffer' });
+				const file = `${INSTAGRAM.FOLDER}/${instagramFileName(i)}`;
+				await fs.writeFile(file, Buffer.from(data));
+				return { ...image, url: `./${file}` };
+			}),
+		);
+
+		await fs.writeFile(INSTAGRAM.MANIFEST, `${JSON.stringify(saved, null, '\t')}\n`);
+		return saved;
+	} catch (err) {
+		const message = axios.isAxiosError(err) ? (err as AxiosError).message : String(err);
+		console.error(`::error::Instagram download: ${message}`);
+		failures.push('instagram-download');
+		return handlerGetSavedInstagramImages();
+	}
+};
+
+/** The images saved by the last successful run, or none if there never was one. */
+export const handlerGetSavedInstagramImages = async (): Promise<InstagramImagesResponse[]> => {
+	try {
+		return JSON.parse(await fs.readFile(INSTAGRAM.MANIFEST, 'utf-8'));
+	} catch {
+		return [];
+	}
+};
+
+const instagramFileName = (index: number): string =>
+	`post_${String(index + 1).padStart(2, '0')}.jpg`;
+
+/** The file names of the images, separated like the output of `ls`. */
+export const handlerGetInstagramFileNames = (images: InstagramImagesResponse[]): string =>
+	images
+		.slice(0, COUNT.IMAGES)
+		.map(({ url }) => path.basename(url))
+		.join('  ');
+
+/**
+ * It takes an array of Instagram images, slices it to COUNT.IMAGES, and
  * returns a string of HTML image tags
  * @param {InstagramImagesResponse[]} images - InstagramImagesResponse[] - this is
  * the response from the Instagram API.
@@ -286,4 +380,32 @@ export const handleGetTechnologies = () => {
 				/>`,
 		)
 		.join(' ');
+};
+
+/**
+ * Draws Tiburoncín as SVG rectangles for the terminal card, from the pixel grid
+ * in TIBURONCIN. Consecutive pixels of the same color in a row are merged into
+ * one rectangle, which keeps the SVG several times smaller.
+ */
+export const handlerGetTiburoncin = (): string => {
+	const { PIXELS, COLORS, PIXEL_SIZE: size } = TIBURONCIN;
+	const rects: string[] = [];
+
+	PIXELS.forEach((row, y) => {
+		let x = 0;
+		while (x < row.length) {
+			const pixel = row[x];
+			let end = x + 1;
+			while (row[end] === pixel) end++;
+
+			if (COLORS[pixel]) {
+				rects.push(
+					`<rect x="${x * size}" y="${y * size}" width="${(end - x) * size}" height="${size}" fill="${COLORS[pixel]}"/>`,
+				);
+			}
+			x = end;
+		}
+	});
+
+	return rects.join('\n\t\t');
 };

@@ -1,11 +1,15 @@
 import fs from 'fs/promises';
-import { COUNT, PLACEHOLDERS, URLS, INSTAGRAM } from './constants';
+import { COUNT, PLACEHOLDERS, URLS, INSTAGRAM, FILES } from './constants';
 import {
 	handlerGetPackageVersion,
 	handlerGetLatestArticles,
 	handlerSliceArticles,
 	handlerGetInstagramImages,
+	handlerSaveInstagramImages,
+	handlerGetSavedInstagramImages,
+	handlerGetInstagramFileNames,
 	handlerGetLatestInstagramImages,
+	handlerGetTiburoncin,
 	handlerGetYearsOld,
 	handleGetTechnologies,
 	handlerGetAdpListComments,
@@ -16,8 +20,9 @@ import {
 
 (async () => {
 	try {
-		const [template, articles, images, repositories] = await Promise.all([
-			fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
+		const [template, terminalTemplate, articles, images, repositories] = await Promise.all([
+			fs.readFile(FILES.README_TEMPLATE, { encoding: 'utf-8' }),
+			fs.readFile(FILES.TERMINAL_TEMPLATE, { encoding: 'utf-8' }),
 			handlerGetLatestArticles(),
 			handlerGetInstagramImages(),
 			handlerGetFeaturedRepositories(),
@@ -27,7 +32,12 @@ import {
 		const _prettyRating = await handlerGetPackageVersion(URLS.PRETTY_RATING);
 		const _comments = await handlerGetAdpListComments(URLS.ADP_LIST_COMMENTS);
 		const _articles = articles ? handlerSliceArticles(articles) : '';
-		const _images = images ? handlerGetLatestInstagramImages(images) : '';
+		// If the API failed, the images saved by the previous run are shown instead.
+		const _savedImages = images
+			? await handlerSaveInstagramImages(images)
+			: await handlerGetSavedInstagramImages();
+		const _images = handlerGetLatestInstagramImages(_savedImages);
+		const _imageFiles = handlerGetInstagramFileNames(_savedImages);
 		const _yearsOld = handlerGetYearsOld();
 		const _technologies = handleGetTechnologies();
 		const _repositories = handlerRenderFeaturedRepositories(repositories);
@@ -44,9 +54,15 @@ import {
 			.replace(PLACEHOLDERS.GITHUB.REPOSITORIES, _repositories)
 			.replace(PLACEHOLDERS.WEBSITE.RSS, _articles)
 			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.SECTION_IMAGES, _images)
+			.replace(PLACEHOLDERS.SOCIAL_MEDIA.INSTAGRAM.FILES, _imageFiles)
 			.replace(PLACEHOLDERS.ADP_LIST.COMMENTS, _comments);
 
-		await fs.writeFile('./README.md', newMarkdown);
+		const newTerminal = terminalTemplate
+			.replace(PLACEHOLDERS.PERSONAL.YEARS_OLD, _yearsOld.toString())
+			.replace(PLACEHOLDERS.TERMINAL.TIBURONCIN, handlerGetTiburoncin());
+
+		await fs.writeFile(FILES.README, newMarkdown);
+		await fs.writeFile(FILES.TERMINAL, newTerminal);
 
 		console.log('README.md has been generated!');
 

@@ -24,6 +24,7 @@ export const PLACEHOLDERS: PlaceholdersInterface = {
 			NUMBER_IMAGES: '%{{number_images}}%',
 			SECTION_IMAGES: '%{{instagram_images}}%',
 			PROFILE: '%{{instagram_profile}}%',
+			FILES: '%{{instagram_files}}%',
 		},
 	},
 	ADP_LIST: {
@@ -32,6 +33,9 @@ export const PLACEHOLDERS: PlaceholdersInterface = {
 	},
 	GITHUB: {
 		REPOSITORIES: '%{{repositories}}%',
+	},
+	TERMINAL: {
+		TIBURONCIN: '%{{tiburoncin}}%',
 	},
 };
 
@@ -58,7 +62,55 @@ export const BASE_URL: BaseUrlInterface = {
 export const INSTAGRAM = {
 	USER_ID: 41056689992, // 42938370
 	USER_NAME: 'eduardo_alvarez.dev', // Proskynete
+	// Las URL del CDN de Instagram vencen a los pocos dias, asi que las fotos se
+	// descargan aca y el README apunta a estas copias. `posts.json` guarda a que
+	// publicacion corresponde cada una, para reutilizarlas si la API falla.
+	FOLDER: 'images/instagram',
+	MANIFEST: 'images/instagram/posts.json',
 };
+
+export const FILES = {
+	README_TEMPLATE: './src/README.md.tpl',
+	README: './README.md',
+	TERMINAL_TEMPLATE: './src/terminal.svg.tpl',
+	TERMINAL: './images/terminal.svg',
+};
+
+/**
+ * Tiburoncin como grilla de 22 x 22 pixeles, la misma del proyecto terminal
+ * (handoff de marca). `.` vacio · `k` contorno · `b` cuerpo · `w` espuma · `r` lengua.
+ */
+export const TIBURONCIN = {
+	PIXEL_SIZE: 7,
+	COLORS: { k: '#1a3a57', b: '#3E7CB1', w: '#EDF4F3', r: '#f4736b' } as Record<string, string>,
+	PIXELS: [
+		'....kk................',
+		'...kbbkk..............',
+		'...kbbbbk.............',
+		'...kbbbbbk............',
+		'...kbbbbbkkkkkk.......',
+		'...kbbkkbbbbbbbkk.....',
+		'...kkkbbbbbbwbbbbkk...',
+		'...kkbbbbbbbbbbbbbk...',
+		'..kkbwbbbbbbbbbbwbbk..',
+		'..kbbbbbbwbbbbbbbbbbk.',
+		'.kbbbbbbbbbbbbbbbbwbk.',
+		'.kbbbbbbbbbwbbbbbkwkbk',
+		'kbbbbbwbbbbbbbbbbkkkbk',
+		'kbbbbkbkbbbwwwwwwwbbbk',
+		'kbbbbbbbbwwwkkkkwwwwbk',
+		'kbbbbbwwwwkkkkkkwwwww.',
+		'kkbbwwwwwwrrrrkwwwwwk.',
+		'.kbbwwwwwwwrrrwwwwwk..',
+		'.kkbwwwwwwwwwwwwwwkk..',
+		'..kkwwwwwwwwwwwwwk....',
+		'....kkwwwwwwwwkkk.....',
+		'.......kkkkkk.........',
+	],
+};
+
+/** Ancho maximo de linea dentro de los bloques de codigo del README. */
+export const CODE_BLOCK_WIDTH = 80;
 
 export const PERSONAL = {
 	YEAR_OF_BIRTH: '1993-12-24',

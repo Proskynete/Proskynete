@@ -114,6 +114,7 @@ export interface PlaceholdersInterface {
 			NUMBER_IMAGES: string;
 			SECTION_IMAGES: string;
 			PROFILE: string;
+			FILES: string;
 		};
 	};
 	ADP_LIST: {
@@ -122,6 +123,9 @@ export interface PlaceholdersInterface {
 	};
 	GITHUB: {
 		REPOSITORIES: string;
+	};
+	TERMINAL: {
+		TIBURONCIN: string;
 	};
 }
 

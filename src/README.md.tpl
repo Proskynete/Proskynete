@@ -1,86 +1,64 @@
-<h1 align="center">Hola a todos!! 👋 Mi nombre es Eduardo Álvarez</h1>
-<p align="center"><strong>Technical Lead · Spec-Driven Development</strong><br />Enseño a construir software con IA sin dejar de entender lo que hacemos.</p>
-
 <p align="center">
   %{{technologies}}%
 </p>
 
----
-<img align="right" width="300" height="300" alt="Tiburoncín, mi mascota de marca, programando con un café" src="https://github.com/Proskynete/Proskynete/blob/main/images/tiburoncin.gif?raw=true" />
+<p align="center">
+  <img width="860" alt="Terminal con Tiburoncín, mi mascota de marca. Eduardo Esteban Álvarez Castañeda: Technical Lead y Spec-Driven Development, en Chile. Filosofía de vida: «Si no estás dispuesto a darlo todo, no tienes derecho a intentarlo». Sobre mí: llevo más de diez años construyendo aplicaciones web, hoy lidero un equipo de desarrollo y trabajo con Spec-Driven Development." src="./images/terminal.svg" />
+</p>
 
-<p><strong>Mi filosofía de vida</strong></p>
-<p><i>"Si no estás dispuesto a darlo todo, no tienes derecho a intentarlo."</i></p>
+```console
+$ ls ~/proyectos --destacados
+```
 
-<p><strong>Sobre mi</strong></p>
-<p>Soy Eduardo. Llevo más de diez años construyendo aplicaciones web y hoy lidero un equipo de desarrollo. Me interesa cómo usamos la IA sin dejar de entender lo que construimos, y por eso trabajo con Spec-Driven Development. Doy charlas, talleres y cursos, muchos de ellos gratis.</p>
-<ul>
-  <li>📍 Chile.</li>
-  <li>👨🏼‍💻 Tengo %{{years_old}}% años.</li>
-  <li>🇨🇱 ✈️ 🇦🇷🇪🇸🇮🇹🗿🇲🇽🇭🇳🇨🇴🇵🇪</li>
-  <li>💻 Las Tecnologías que realmente me apasionan son: React, Node, TS.</li>
-  <li>🧐 Intereses: AI y a11y</li>
-</ul>
-
-<p><strong>Lo que tengo en línea</strong></p>
-
-| Proyecto | Qué es | En vivo |
-| --- | --- | --- |
-| <a href="https://github.com/Proskynete/eduardoalvarez.dev">eduardoalvarez.dev</a> | Blog: artículos, charlas, podcasts y stack | <a href="https://www.eduardoalvarez.dev">www.eduardoalvarez.dev</a> |
-| <a href="https://github.com/Proskynete/cursos.eduardoalvarez.dev">cursos</a> | Plataforma de cursos con video, pruebas y diplomas | <a href="https://cursos.eduardoalvarez.dev">cursos.eduardoalvarez.dev</a> |
-| <a href="https://github.com/Proskynete/resume">resume</a> | Mi CV interactivo, listo para imprimir | <a href="https://resume.eduardoalvarez.dev">resume.eduardoalvarez.dev</a> |
-| <a href="https://github.com/Proskynete/links">links</a> | Landing con todos mis perfiles | <a href="https://links.eduardoalvarez.dev">links.eduardoalvarez.dev</a> |
-| <a href="https://github.com/Proskynete/color-contrast-checker">color-contrast-checker</a> | Verificador de contraste WCAG | <a href="https://c3.eduardoalvarez.dev">c3.eduardoalvarez.dev</a> |
-
-<p><strong>Proyectos destacados</strong> (ver <a href="https://github.com/Proskynete?tab=repositories" target="_blank">todos</a>)</p>
 <ul>
   %{{repositories}}%
 </ul>
 
-<p><strong>Hobbies</strong></p>
-<ul>
-  <li>🎼  Tocar instrumentos musicales (guitarra eléctrica, guitarra acústica, teclado y ukelele).</li>
-  <li>🤓  Ver anime</li>
-  <li>👾  Jugar videojuegos</li>
-</ul>
+<sub><a href="https://github.com/Proskynete?tab=repositories" target="_blank">ver todos los repositorios</a></sub>
 
+```console
+$ cat hobbies.txt
+▸ Tocar instrumentos musicales (guitarra eléctrica, guitarra acústica, teclado y ukelele)
+▸ Ver anime
+▸ Jugar videojuegos
+```
 
-<p><strong>Voluntariados</strong></p>
-<ul>
-  <li>Volunteer Staff - JSConf Chile</li>
-  <li>Job search preparation - Laboratoria</li>
-  <li>Mentor - ADPList</li>
-</ul>
+```console
+$ cat voluntariados.txt
+▸ Volunteer Staff           JSConf Chile
+▸ Job search preparation    Laboratoria
+▸ Mentor                    ADPList
+```
 
-<p><strong>Últimos %{{number_comments}}% comentarios en ADPList</strong> (ver todos <a href="https://adplist.org/widgets/reviews?src=eduardo-alvarez" target='_blank'>acá</a>)</p>
-<ul>
-  %{{adp_list_comments}}%
-</ul>
+```console
+$ tail -n %{{number_comments}}% ~/adplist/reseñas.log
+%{{adp_list_comments}}%
+```
 
+<sub><a href="https://adplist.org/widgets/reviews?src=eduardo-alvarez" target="_blank">ver todas las reseñas en ADPList</a></sub>
 
+```console
+$ cat otros.txt
+▸ Siempre es un buen momento para hacer un espacio en la semana y tomar una cerveza
+  con los amigos.
+▸ Publicados en npm: vertical-timeline-component-react v%{{vt_version}}%
+  y pretty-rating-react v%{{pr_version}}%
+▸ Pude participar como profesor en el curso de React en Coderhouse
+```
 
-<p><strong>Otros</strong></p>
-<ul>
-  <li>🍺 Siempre es un buen momento para hacer un espacio en la semana y tomar una cerveza con los amigos.</li>
-  <li>📦 Publicados en npm: vertical-timeline-component-react <small>v%{{vt_version}}%</small> y pretty-rating-react <small>v%{{pr_version}}%</small></li>
-  <li>⚛️ Pude participar como profesor en el curso de React en Coderhouse</li>
-</ul>
-
----
-
-<p align="left">
-  <strong>
-    Últimas %{{number_images}}% imágenes en: <a href="https://instagram.com/%{{instagram_profile}}%" target='_blank'>Mi Instagram</a>
-  </strong>
-</p>
+```console
+$ ls ~/instagram | head -%{{number_images}}%
+%{{instagram_files}}%
+```
 
 %{{instagram_images}}%
 
----
+<sub><a href="https://instagram.com/%{{instagram_profile}}%" target="_blank">ver más en Instagram</a></sub>
 
-<p align="left">
-  <strong>
-    Últimos %{{number_articles}}% artículos publicados en:<a href="https://eduardoalvarez.dev" target='_blank'>eduardoalvarez.dev</a>
-  </strong>
-</p>
+```console
+$ ls -t ~/blog | head -%{{number_articles}}%
+```
 
 %{{articles}}%
+
+<sub><a href="https://eduardoalvarez.dev" target="_blank">ver todos los artículos en eduardoalvarez.dev</a></sub>

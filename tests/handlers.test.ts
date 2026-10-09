@@ -2,13 +2,18 @@ import { describe, expect, it } from 'vitest';
 
 import {
 	handleGetTechnologies,
+	handlerGetInstagramFileNames,
 	handlerGetLatestInstagramImages,
+	handlerGetTiburoncin,
 	handlerGetYearsOld,
+	handlerRenderAdpListComments,
 	handlerRenderFeaturedRepositories,
 	handlerSliceArticles,
 	prettyDateFormat,
+	wrapText,
 } from '../src/handlers';
-import { COUNT } from '../src/constants';
+import { CODE_BLOCK_WIDTH, COUNT, TIBURONCIN } from '../src/constants';
+import { GetCommentFromADPListResponse } from '../src/interfaces';
 
 const article = (n: number) => ({
 	title: `Article ${n}`,
@@ -161,5 +166,104 @@ describe('handleGetTechnologies', () => {
 		expect(output).toContain('images/icons/ts.png');
 		expect(output.match(/<img/g)!.length).toBeGreaterThan(10);
 		expect(output).not.toContain('alt=""');
+	});
+});
+
+describe('wrapText', () => {
+	it('breaks between words without exceeding the width', () => {
+		const lines = wrapText('uno dos tres cuatro cinco seis', 10);
+		expect(lines).toEqual(['uno dos', 'tres', 'cuatro', 'cinco seis']);
+		lines.forEach((line) => expect(line.length).toBeLessThanOrEqual(10));
+	});
+
+	it('collapses line breaks and repeated spaces', () => {
+		expect(wrapText('uno\n\n  dos', 80)).toEqual(['uno dos']);
+	});
+
+	it('keeps a word longer than the width on its own line', () => {
+		expect(wrapText('a supercalifragilistico b', 5)).toEqual(['a', 'supercalifragilistico', 'b']);
+	});
+
+	it('returns no lines for empty text', () => {
+		expect(wrapText('   ', 10)).toEqual([]);
+	});
+});
+
+describe('handlerRenderAdpListComments', () => {
+	const comment = (n: number, review = `Review ${n}`): GetCommentFromADPListResponse => ({
+		id: n,
+		review,
+		date_reviewed: '2024-05-29T16:00:00.000Z',
+		overall_experience: 'Exceeds expectations',
+		relevant_keywords: [],
+		reviewed_by: { name: `Mentee ${n}`, slug: '', identity_type: '', employer: '' },
+	});
+
+	it('quotes the review and signs it with name and date', () => {
+		expect(handlerRenderAdpListComments([comment(1)])).toBe(
+			'> "Review 1"\n  — Mentee 1 · 29 de mayo de 2024',
+		);
+	});
+
+	it('keeps at most COUNT.COMMENTS reviews, separated by a blank line', () => {
+		const output = handlerRenderAdpListComments(
+			Array.from({ length: COUNT.COMMENTS + 2 }, (_, i) => comment(i)),
+		);
+		expect(output.split('\n\n')).toHaveLength(COUNT.COMMENTS);
+	});
+
+	// Code blocks do not wrap on GitHub: a long review would scroll sideways.
+	it('wraps long reviews to the code block width', () => {
+		const output = handlerRenderAdpListComments([comment(1, 'palabra '.repeat(40))]);
+		const lines = output.split('\n');
+		expect(lines.length).toBeGreaterThan(3);
+		lines.forEach((line) => expect(line.length).toBeLessThanOrEqual(CODE_BLOCK_WIDTH));
+		expect(lines[1].startsWith('  ')).toBe(true);
+	});
+
+	it('returns an empty string for no reviews', () => {
+		expect(handlerRenderAdpListComments([])).toBe('');
+	});
+});
+
+describe('handlerGetInstagramFileNames', () => {
+	it('lists the file names of the saved images like ls', () => {
+		const images = [1, 2].map((n) => ({
+			...image(n),
+			url: `./images/instagram/post_0${n}.jpg`,
+		}));
+		expect(handlerGetInstagramFileNames(images)).toBe('post_01.jpg  post_02.jpg');
+	});
+
+	it('returns an empty string for no images', () => {
+		expect(handlerGetInstagramFileNames([])).toBe('');
+	});
+});
+
+describe('handlerGetTiburoncin', () => {
+	const output = handlerGetTiburoncin();
+	const rects = output.match(/<rect [^>]+\/>/g) ?? [];
+	const size = TIBURONCIN.PIXEL_SIZE;
+
+	it('covers every painted pixel of the grid exactly once', () => {
+		const painted = TIBURONCIN.PIXELS.join('').replace(/\./g, '').length;
+		const covered = rects.reduce(
+			(total, rect) => total + Number(rect.match(/width="(\d+)"/)![1]) / size,
+			0,
+		);
+		expect(covered).toBe(painted);
+	});
+
+	it('merges consecutive pixels of the same color into one rectangle', () => {
+		// The last row is `.......kkkkkk.........`: one run of six outline pixels.
+		const lastRow = (TIBURONCIN.PIXELS.length - 1) * size;
+		expect(output).toContain(
+			`<rect x="${7 * size}" y="${lastRow}" width="${6 * size}" height="${size}" fill="${TIBURONCIN.COLORS.k}"/>`,
+		);
+	});
+
+	it('only uses the brand colors', () => {
+		const colors = new Set(rects.map((rect) => rect.match(/fill="([^"]+)"/)![1]));
+		expect([...colors].sort()).toEqual(Object.values(TIBURONCIN.COLORS).sort());
 	});
 });
